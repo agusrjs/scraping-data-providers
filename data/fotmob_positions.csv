@@ -1,0 +1,2116 @@
+player_name,player_id,pos_id,position,pos_short,occurrences,main
+Hernán Galindez,146801,11,Keeper,GK,27,True
+Sebastian Meza,1209083,11,Keeper,GK,4,True
+Fernando Tobio,115671,33,Center Back,CB,26,True
+Guillermo Burdisso,166510,34,Center Back,CB,6,True
+Juan Komar,529624,32,Right Back,RB,2,False
+Juan Komar,529624,33,Center Back,CB,13,True
+Guillermo Benitez,571609,38,Left Back,LB,17,True
+Guillermo Benitez,571609,71,Right Midfielder,RM,1,False
+Lucas Carrizo,846916,36,Center Back,CB,34,True
+Lucas Carrizo,846916,38,Left Back,LB,1,False
+Lucas Carrizo,846916,66,Defensive Midfielder,DM,1,False
+Lucas Carrizo,846916,76,Central Midfielder,CM,3,False
+Fabio Pereyra,889736,34,Center Back,CB,26,True
+Fabio Pereyra,889736,38,Left Back,LB,1,False
+Hernan De La Fuente,900404,32,Right Back,RB,20,True
+Cesar Ibanez,1092826,38,Left Back,LB,24,True
+Cesar Ibanez,1092826,79,Left Midfielder,LM,1,False
+Lucas Souto,1216361,32,Right Back,RB,28,True
+Rodrigo Echeverria,517555,36,Center Back,CB,1,False
+Rodrigo Echeverria,517555,64,Defensive Midfielder,DM,19,False
+Rodrigo Echeverria,517555,72,Right Midfielder,RM,1,False
+Rodrigo Echeverria,517555,73,Central Midfielder,CM,21,True
+Rodrigo Echeverria,517555,83,Right Winger,RW,1,False
+Rodrigo Echeverria,517555,84,Attacking Midfielder,AM,3,False
+Federico Fattori,616508,65,Defensive Midfielder,DM,4,False
+Federico Fattori,616508,73,Central Midfielder,CM,9,True
+Hector Fertoli,725782,63,Defensive Midfielder,DM,1,False
+Hector Fertoli,725782,72,Right Midfielder,RM,3,False
+Hector Fertoli,725782,77,Central Midfielder,CM,4,False
+Hector Fertoli,725782,78,Left Midfielder,LM,9,False
+Hector Fertoli,725782,85,Attacking Midfielder,AM,10,True
+Hector Fertoli,725782,87,Left Winger,LW,5,False
+Hector Fertoli,725782,106,Striker,ST,1,False
+Pablo Siles,921866,73,Central Midfielder,CM,13,True
+Matias Gomez,933706,72,Right Midfielder,RM,1,True
+Williams Alarcon,941949,64,Defensive Midfielder,DM,11,False
+Williams Alarcon,941949,73,Central Midfielder,CM,18,True
+Williams Alarcon,941949,83,Right Winger,RW,2,False
+Williams Alarcon,941949,85,Attacking Midfielder,AM,4,False
+Alan Sonora,1074074,64,Defensive Midfielder,DM,2,False
+Alan Sonora,1074074,72,Right Midfielder,RM,7,True
+Alan Sonora,1074074,77,Central Midfielder,CM,1,False
+Alan Sonora,1074074,78,Left Midfielder,LM,1,False
+Alan Sonora,1074074,84,Attacking Midfielder,AM,2,False
+Alejo Toledo,1272906,64,Defensive Midfielder,DM,9,True
+Alejo Toledo,1272906,73,Central Midfielder,CM,6,False
+Alejo Toledo,1272906,83,Right Winger,RW,1,False
+Franco Watson,1383667,72,Right Midfielder,RM,1,False
+Franco Watson,1383667,78,Left Midfielder,LM,1,True
+Franco Watson,1383667,87,Left Winger,LW,1,False
+Franco Alfonso,1408581,67,Defensive Midfielder,DM,1,False
+Franco Alfonso,1408581,72,Right Midfielder,RM,4,True
+Franco Alfonso,1408581,73,Central Midfielder,CM,1,False
+Franco Alfonso,1408581,78,Left Midfielder,LM,2,False
+Leandro Garate,507948,103,Right Winger,RW,1,False
+Leandro Garate,507948,105,Striker,ST,14,True
+Ramon Abila,589900,104,Striker,ST,16,True
+Eric Ramirez,624411,83,Right Winger,RW,3,False
+Eric Ramirez,624411,85,Attacking Midfielder,AM,5,False
+Eric Ramirez,624411,87,Left Winger,LW,1,False
+Eric Ramirez,624411,104,Striker,ST,12,True
+Walter Mazzanti,812450,78,Left Midfielder,LM,2,False
+Walter Mazzanti,812450,82,Right Winger,RW,23,True
+Walter Mazzanti,812450,87,Left Winger,LW,1,False
+Walter Mazzanti,812450,104,Striker,ST,11,False
+Marcelo Perez,1042570,72,Right Midfielder,RM,1,False
+Marcelo Perez,1042570,104,Striker,ST,5,True
+Rodrigo Cabral,1095186,58,Left Wing-Back,LWB,1,False
+Rodrigo Cabral,1095186,87,Left Winger,LW,16,True
+Francisco Ramirez,1130230,72,Right Midfielder,RM,1,False
+Francisco Ramirez,1130230,83,Right Winger,RW,2,False
+Francisco Ramirez,1130230,104,Striker,ST,10,True
+Tomas Durso,874631,11,Keeper,GK,25,True
+Juan Gonzalez,1313882,11,Keeper,GK,10,True
+Gino Peruzzi,230476,32,Right Back,RB,8,True
+Gino Peruzzi,230476,71,Right Midfielder,RM,1,False
+Nestor Breitenbruch,561038,32,Right Back,RB,3,False
+Nestor Breitenbruch,561038,33,Center Back,CB,13,True
+Nestor Breitenbruch,561038,51,Right Wing-Back,RWB,1,False
+Matias Orihuela,577674,38,Left Back,LB,19,True
+Matias Orihuela,577674,59,Left Wing-Back,LWB,2,False
+Matias Orihuela,577674,78,Left Midfielder,LM,4,False
+Matias de los Santos,582008,33,Center Back,CB,20,True
+Juan Infante,941538,38,Left Back,LB,26,True
+Gianluca Ferrari,955274,36,Center Back,CB,3,True
+Gonzalo Paz,1090320,36,Center Back,CB,4,True
+Francisco Flores,1109036,32,Right Back,RB,3,False
+Francisco Flores,1109036,33,Center Back,CB,17,True
+Nicolas Romero,1230353,34,Center Back,CB,35,True
+Moises Brandan,1315385,32,Right Back,RB,6,True
+Nicolas Castro,620528,64,Defensive Midfielder,DM,1,False
+Nicolas Castro,620528,73,Central Midfielder,CM,19,True
+Nicolas Castro,620528,78,Left Midfielder,LM,2,False
+Nicolas Castro,620528,83,Right Winger,RW,1,False
+Nicolas Castro,620528,84,Attacking Midfielder,AM,1,False
+Guillermo Acosta,620541,65,Defensive Midfielder,DM,3,False
+Guillermo Acosta,620541,73,Central Midfielder,CM,29,True
+Renzo Tesuri,793800,32,Right Back,RB,1,False
+Renzo Tesuri,793800,51,Right Wing-Back,RWB,2,False
+Renzo Tesuri,793800,63,Defensive Midfielder,DM,1,False
+Renzo Tesuri,793800,71,Right Midfielder,RM,27,True
+Justo Giani,1003370,72,Right Midfielder,RM,1,False
+Justo Giani,1003370,78,Left Midfielder,LM,7,True
+Justo Giani,1003370,83,Right Winger,RW,1,False
+Justo Giani,1003370,85,Attacking Midfielder,AM,3,False
+Justo Giani,1003370,104,Striker,ST,4,False
+Lucas Ambrogio,1075409,72,Right Midfielder,RM,1,True
+Rodrigo Melo,1085976,66,Defensive Midfielder,DM,1,True
+Adrian Sanchez,1118246,64,Defensive Midfielder,DM,2,False
+Adrian Sanchez,1118246,72,Right Midfielder,RM,2,False
+Adrian Sanchez,1118246,73,Central Midfielder,CM,27,True
+Adrian Sanchez,1118246,78,Left Midfielder,LM,1,False
+Camilo Albornoz,1128966,73,Central Midfielder,CM,1,True
+Tomas Castro,1206665,72,Right Midfielder,RM,2,True
+Sergio Ortiz,1385885,65,Defensive Midfielder,DM,1,False
+Sergio Ortiz,1385885,73,Central Midfielder,CM,1,True
+Luis Miguel Rodriguez,182301,85,Attacking Midfielder,AM,9,False
+Luis Miguel Rodriguez,182301,103,Right Winger,RW,1,False
+Luis Miguel Rodriguez,182301,104,Striker,ST,13,True
+Luis Miguel Rodriguez,182301,107,Left Winger,LW,3,False
+Marcelo Estigarribia,809766,104,Striker,ST,24,True
+Mateo Agustin Coronel,884282,78,Left Midfielder,LM,1,False
+Mateo Agustin Coronel,884282,104,Striker,ST,21,True
+Mateo Bajamich,1085213,77,Central Midfielder,CM,6,False
+Mateo Bajamich,1085213,85,Attacking Midfielder,AM,2,False
+Mateo Bajamich,1085213,104,Striker,ST,15,True
+Mateo Bajamich,1085213,107,Left Winger,LW,2,False
+Franco Nicola,1374130,58,Left Wing-Back,LWB,1,False
+Franco Nicola,1374130,78,Left Midfielder,LM,2,False
+Franco Nicola,1374130,103,Right Winger,RW,1,False
+Franco Nicola,1374130,107,Left Winger,LW,7,True
+Franco Nicola,1374130,115,Striker,ST,1,False
+Dante Campisi,561036,11,Keeper,GK,14,True
+Thiago Cardozo,643566,11,Keeper,GK,14,True
+Miguel Angel Torren,113622,25,Center Back,CB,22,True
+Claudio Corvalan,209518,27,Center Back,CB,35,True
+Claudio Corvalan,209518,38,Left Back,LB,1,False
+Bruno Pitton,673769,59,Left Wing-Back,LWB,22,True
+Franco Pardo,845263,33,Center Back,CB,25,True
+Franco Pardo,845263,74,Central Midfielder,CM,1,False
+Francisco Gerometta,1128483,51,Right Wing-Back,RWB,1,True
+Nicolas Paz,1342537,23,Center Back,CB,33,True
+Juan Pablo Luduena,1388618,36,Center Back,CB,1,True
+Lautaro Vargas,1520065,51,Right Wing-Back,RWB,9,True
+Valentin Fascendini,1606009,37,Center Back,CB,1,True
+Mauro Pitton,647245,51,Right Wing-Back,RWB,1,False
+Mauro Pitton,647245,59,Left Wing-Back,LWB,1,False
+Mauro Pitton,647245,64,Defensive Midfielder,DM,1,False
+Mauro Pitton,647245,73,Central Midfielder,CM,36,True
+Tiago Banega,1128964,51,Right Wing-Back,RWB,1,False
+Tiago Banega,1128964,73,Central Midfielder,CM,4,True
+Enzo Roldan,1186694,73,Central Midfielder,CM,8,True
+Patricio Tanda,1208443,73,Central Midfielder,CM,2,True
+Simon Rivero,1280335,73,Central Midfielder,CM,9,True
+Mateo Del Blanco,1336846,59,Left Wing-Back,LWB,3,False
+Mateo Del Blanco,1336846,73,Central Midfielder,CM,5,True
+Joaquin Mosqueira,1451319,73,Central Midfielder,CM,34,True
+Nicolas Orsini,485378,104,Striker,ST,17,True
+Adrian Balboa,514296,103,Right Winger,RW,1,False
+Adrian Balboa,514296,104,Striker,ST,26,True
+Lucas Emanuel Gamba,617244,78,Left Midfielder,LM,3,False
+Lucas Emanuel Gamba,617244,85,Attacking Midfielder,AM,1,False
+Lucas Emanuel Gamba,617244,102,Right Winger,RW,1,False
+Lucas Emanuel Gamba,617244,104,Striker,ST,15,True
+Lucas Emanuel Gamba,617244,107,Left Winger,LW,1,False
+Javier Morales,1408244,104,Striker,ST,19,True
+Jeronimo Domina,1436222,72,Right Midfielder,RM,1,False
+Jeronimo Domina,1436222,104,Striker,ST,10,True
+Gabriel Arias,210706,11,Keeper,GK,46,True
+Facundo Cambeses,723492,11,Keeper,GK,17,True
+Leonardo German Sigali,113611,34,Center Back,CB,17,True
+German Conti,438183,33,Center Back,CB,9,True
+Agustin Basso,447095,36,Center Back,CB,23,True
+Gabriel Rojas,805540,38,Left Back,LB,19,True
+Gabriel Rojas,805540,58,Left Wing-Back,LWB,15,False
+Gabriel Rojas,805540,72,Right Midfielder,RM,1,False
+Gabriel Rojas,805540,74,Central Midfielder,CM,1,False
+Gabriel Rojas,805540,78,Left Midfielder,LM,6,False
+Santiago Sosa,958860,34,Center Back,CB,22,True
+Santiago Sosa,958860,64,Defensive Midfielder,DM,4,False
+Santiago Sosa,958860,73,Central Midfielder,CM,7,False
+Juan Elordi,978210,38,Left Back,LB,15,True
+Juan Elordi,978210,78,Left Midfielder,LM,1,False
+Facundo Mura,1029392,32,Right Back,RB,9,True
+Facundo Mura,1029392,38,Left Back,LB,1,False
+Facundo Mura,1029392,52,Right Wing-Back,RWB,4,False
+Facundo Mura,1029392,58,Left Wing-Back,LWB,2,False
+Facundo Mura,1029392,72,Right Midfielder,RM,2,False
+Facundo Mura,1029392,78,Left Midfielder,LM,2,False
+Nazareno Colombo,1074976,32,Right Back,RB,1,False
+Nazareno Colombo,1074976,33,Center Back,CB,19,True
+Gaston Martirena,1133119,32,Right Back,RB,9,True
+Gaston Martirena,1133119,33,Center Back,CB,1,False
+Gaston Martirena,1133119,51,Right Wing-Back,RWB,7,False
+Gaston Martirena,1133119,72,Right Midfielder,RM,7,False
+Gaston Martirena,1133119,103,Right Winger,RW,1,False
+Marco Di Cesare,1209398,33,Center Back,CB,30,True
+Santiago Quiros,1433995,36,Center Back,CB,8,True
+Tobias Rubio,1509081,32,Right Back,RB,2,False
+Tobias Rubio,1509081,33,Center Back,CB,8,True
+Bruno Zuculini,193937,65,Defensive Midfielder,DM,3,False
+Bruno Zuculini,193937,74,Central Midfielder,CM,16,True
+Juan Quintero,207617,78,Left Midfielder,LM,1,False
+Juan Quintero,207617,83,Right Winger,RW,8,False
+Juan Quintero,207617,85,Attacking Midfielder,AM,15,True
+Juan Quintero,207617,104,Striker,ST,2,False
+Agustin Almendra,935060,64,Defensive Midfielder,DM,2,False
+Agustin Almendra,935060,73,Central Midfielder,CM,25,True
+Agustin Almendra,935060,83,Right Winger,RW,2,False
+Martin Barrios,940001,66,Defensive Midfielder,DM,8,False
+Martin Barrios,940001,73,Central Midfielder,CM,20,True
+Martin Barrios,940001,83,Right Winger,RW,1,False
+Martin Barrios,940001,84,Attacking Midfielder,AM,1,False
+Juan Nardoni,1087773,52,Right Wing-Back,RWB,1,False
+Juan Nardoni,1087773,58,Left Wing-Back,LWB,1,False
+Juan Nardoni,1087773,64,Defensive Midfielder,DM,5,False
+Juan Nardoni,1087773,73,Central Midfielder,CM,17,True
+Baltasar Rodriguez,1362433,73,Central Midfielder,CM,12,True
+Baltasar Rodriguez,1362433,83,Right Winger,RW,2,False
+Baltasar Rodriguez,1362433,85,Attacking Midfielder,AM,2,False
+Baltasar Rodriguez,1362433,87,Left Winger,LW,3,False
+Roger Martinez,479026,105,Striker,ST,19,True
+Roger Martinez,479026,107,Left Winger,LW,1,False
+Maximiliano Salas,730647,78,Left Midfielder,LM,1,False
+Maximiliano Salas,730647,87,Left Winger,LW,7,False
+Maximiliano Salas,730647,94,Attacking Midfielder,AM,1,False
+Maximiliano Salas,730647,103,Right Winger,RW,6,False
+Maximiliano Salas,730647,104,Striker,ST,20,True
+Nicolas Reniero,793872,105,Striker,ST,6,True
+Nicolas Reniero,793872,107,Left Winger,LW,1,False
+Adrian Martinez,882933,85,Attacking Midfielder,AM,1,False
+Adrian Martinez,882933,104,Striker,ST,36,True
+Adrian Martinez,882933,107,Left Winger,LW,4,False
+Agustin Urzi,989371,72,Right Midfielder,RM,1,False
+Agustin Urzi,989371,95,Attacking Midfielder,AM,1,False
+Agustin Urzi,989371,103,Right Winger,RW,2,True
+Agustin Urzi,989371,115,Striker,ST,1,False
+Johan Carbonero,1053727,87,Left Winger,LW,7,True
+Johan Carbonero,1053727,103,Right Winger,RW,2,False
+Santiago Solari,1357993,52,Right Wing-Back,RWB,5,False
+Santiago Solari,1357993,76,Central Midfielder,CM,1,False
+Santiago Solari,1357993,82,Right Winger,RW,18,True
+Santiago Solari,1357993,87,Left Winger,LW,3,False
+Santiago Solari,1357993,96,Attacking Midfielder,AM,1,False
+Santiago Solari,1357993,116,Striker,ST,1,False
+Matias Bergara,1437152,72,Right Midfielder,RM,1,False
+Matias Bergara,1437152,76,Central Midfielder,CM,1,False
+Matias Bergara,1437152,83,Right Winger,RW,1,False
+Matias Bergara,1437152,106,Striker,ST,1,False
+Matias Bergara,1437152,107,Left Winger,LW,2,True
+Tomas Marchiori,886331,11,Keeper,GK,43,True
+Randall Rodriguez,1248710,11,Keeper,GK,2,True
+Lautaro Garzon,1529277,11,Keeper,GK,4,True
+Leonardo Jara,175357,32,Right Back,RB,9,True
+Leonardo Jara,175357,33,Center Back,CB,3,False
+Leonardo Jara,175357,51,Right Wing-Back,RWB,2,False
+Elias Gomez,509189,32,Right Back,RB,1,False
+Elias Gomez,509189,36,Center Back,CB,2,False
+Elias Gomez,509189,38,Left Back,LB,35,True
+Elias Gomez,509189,59,Left Wing-Back,LWB,3,False
+Emanuel Mammana,523417,34,Center Back,CB,21,True
+Tomás Ezequiel Guidara,845260,32,Right Back,RB,7,True
+Tomás Ezequiel Guidara,845260,38,Left Back,LB,1,False
+Augustin Lagos,1083898,32,Right Back,RB,13,True
+Augustin Lagos,1083898,34,Center Back,CB,1,False
+Augustin Lagos,1083898,71,Right Midfielder,RM,2,False
+Damian Fernandez,1087551,34,Center Back,CB,14,True
+Roberto Garcia,1200718,32,Right Back,RB,24,True
+Roberto Garcia,1200718,33,Center Back,CB,1,False
+Roberto Garcia,1200718,38,Left Back,LB,1,False
+Roberto Garcia,1200718,51,Right Wing-Back,RWB,2,False
+Roberto Garcia,1200718,59,Left Wing-Back,LWB,1,False
+Tomas Cavanagh,1202675,38,Left Back,LB,2,True
+Patricio Pernicone,1221406,36,Center Back,CB,4,True
+Aaron Quiroz,1244341,36,Center Back,CB,29,True
+Valentin Gomez,1338016,34,Center Back,CB,36,True
+Yeison Gordillo,206973,66,Defensive Midfielder,DM,1,False
+Yeison Gordillo,206973,74,Central Midfielder,CM,4,True
+Claudio Aquino,492796,73,Central Midfielder,CM,7,False
+Claudio Aquino,492796,78,Left Midfielder,LM,4,False
+Claudio Aquino,492796,84,Attacking Midfielder,AM,26,True
+Claudio Aquino,492796,88,Left Winger,LW,3,False
+Claudio Aquino,492796,104,Striker,ST,2,False
+Jalil Elias,647992,64,Defensive Midfielder,DM,1,False
+Jalil Elias,647992,72,Right Midfielder,RM,1,False
+Jalil Elias,647992,74,Central Midfielder,CM,21,True
+Agustin Bouzat,723682,64,Defensive Midfielder,DM,21,True
+Agustin Bouzat,723682,73,Central Midfielder,CM,2,False
+Agustin Bouzat,723682,88,Left Winger,LW,1,False
+Santiago Cáseres,797927,64,Defensive Midfielder,DM,2,False
+Santiago Cáseres,797927,74,Central Midfielder,CM,7,True
+Jose Florentin,1129078,66,Defensive Midfielder,DM,2,False
+Jose Florentin,1129078,72,Right Midfielder,RM,1,False
+Jose Florentin,1129078,73,Central Midfielder,CM,7,True
+Jose Florentin,1129078,84,Attacking Midfielder,AM,1,False
+Christian Ordonez,1393542,64,Defensive Midfielder,DM,22,True
+Christian Ordonez,1393542,72,Right Midfielder,RM,1,False
+Christian Ordonez,1393542,73,Central Midfielder,CM,3,False
+Leonel Roldan,1662971,64,Defensive Midfielder,DM,1,True
+Francisco Pizzini,288759,72,Right Midfielder,RM,3,False
+Francisco Pizzini,288759,76,Central Midfielder,CM,2,False
+Francisco Pizzini,288759,82,Right Winger,RW,28,True
+Francisco Pizzini,288759,86,Attacking Midfielder,AM,1,False
+Francisco Pizzini,288759,87,Left Winger,LW,1,False
+Francisco Pizzini,288759,104,Striker,ST,2,False
+Ricardo Centurion,323385,106,Striker,ST,1,True
+Braian Romero,615987,104,Striker,ST,35,True
+Braian Romero,615987,107,Left Winger,LW,1,False
+Michael Santos,675102,85,Attacking Midfielder,AM,1,False
+Michael Santos,675102,104,Striker,ST,13,True
+Rodrigo Pineiro,935962,77,Central Midfielder,CM,1,False
+Rodrigo Pineiro,935962,83,Right Winger,RW,4,False
+Rodrigo Pineiro,935962,86,Attacking Midfielder,AM,1,False
+Rodrigo Pineiro,935962,87,Left Winger,LW,9,True
+Rodrigo Pineiro,935962,104,Striker,ST,2,False
+Matias Pellegrini,954660,83,Right Winger,RW,3,True
+Alejo Sarco,1617224,105,Striker,ST,1,True
+Joaquin Papaleo,618661,11,Keeper,GK,4,True
+Marcos Peano,787458,11,Keeper,GK,11,True
+Manuel Roffo,847982,11,Keeper,GK,39,True
+Lucas Rodriguez,209304,38,Left Back,LB,17,True
+Lucas Rodriguez,209304,59,Left Wing-Back,LWB,1,False
+Lucas Rodriguez,209304,78,Left Midfielder,LM,1,False
+Juan Franco,416311,32,Right Back,RB,28,True
+Juan Franco,416311,51,Right Wing-Back,RWB,1,False
+Victor Cabrera,523418,33,Center Back,CB,9,True
+Fernando Alarcon,647928,33,Center Back,CB,36,True
+Jonathan Bay,760273,38,Left Back,LB,19,True
+Jonathan Bay,760273,59,Left Wing-Back,LWB,1,False
+Miguel Brizuela,1075045,35,Center Back,CB,12,True
+Giuliano Cerato,1098253,32,Right Back,RB,8,True
+Giuliano Cerato,1098253,51,Right Wing-Back,RWB,1,False
+Giuliano Cerato,1098253,72,Right Midfielder,RM,1,False
+Gonzalo Requena,1453094,34,Center Back,CB,12,True
+Roberto Agustin Bochi,571621,64,Defensive Midfielder,DM,3,False
+Roberto Agustin Bochi,571621,72,Right Midfielder,RM,1,False
+Roberto Agustin Bochi,571621,74,Central Midfielder,CM,12,True
+Matias Romero,660079,63,Defensive Midfielder,DM,2,False
+Matias Romero,660079,72,Right Midfielder,RM,4,True
+Matias Romero,660079,73,Central Midfielder,CM,1,False
+Nicolas Barrientos,811111,78,Left Midfielder,LM,1,True
+Jonas Acevedo,882460,67,Defensive Midfielder,DM,1,False
+Jonas Acevedo,882460,72,Right Midfielder,RM,13,True
+Jonas Acevedo,882460,76,Central Midfielder,CM,1,False
+Jonas Acevedo,882460,78,Left Midfielder,LM,9,False
+Jonas Acevedo,882460,87,Left Winger,LW,1,False
+Jonas Acevedo,882460,104,Striker,ST,1,False
+Brahian Cuello,889715,72,Right Midfielder,RM,1,False
+Brahian Cuello,889715,78,Left Midfielder,LM,7,True
+Brahian Cuello,889715,85,Attacking Midfielder,AM,3,False
+Brahian Cuello,889715,87,Left Winger,LW,1,False
+Brahian Cuello,889715,104,Striker,ST,1,False
+Gaston Lodico,917619,66,Defensive Midfielder,DM,4,False
+Gaston Lodico,917619,73,Central Midfielder,CM,33,True
+Gaston Lodico,917619,85,Attacking Midfielder,AM,1,False
+Gaston Lodico,917619,104,Striker,ST,1,False
+Stefano Moreyra,1201767,64,Defensive Midfielder,DM,4,False
+Stefano Moreyra,1201767,74,Central Midfielder,CM,4,True
+Franco Diaz,1265160,64,Defensive Midfielder,DM,9,False
+Franco Diaz,1265160,73,Central Midfielder,CM,13,True
+Franco Diaz,1265160,85,Attacking Midfielder,AM,3,False
+Rodrigo Perez,1436129,38,Left Back,LB,1,False
+Rodrigo Perez,1436129,72,Right Midfielder,RM,1,False
+Rodrigo Perez,1436129,73,Central Midfielder,CM,6,True
+Damian Puebla,1437366,72,Right Midfielder,RM,5,False
+Damian Puebla,1437366,77,Central Midfielder,CM,1,False
+Damian Puebla,1437366,78,Left Midfielder,LM,12,True
+Damian Puebla,1437366,85,Attacking Midfielder,AM,3,False
+Damian Puebla,1437366,87,Left Winger,LW,2,False
+Damian Puebla,1437366,104,Striker,ST,3,False
+Nicolas Dubersarsky,1585863,74,Central Midfielder,CM,10,True
+Silvio Romero,213106,103,Right Winger,RW,1,False
+Silvio Romero,213106,104,Striker,ST,4,True
+Santiago Rodriguez,690398,104,Striker,ST,13,True
+Facundo Suarez,971269,104,Striker,ST,17,True
+Ignacio Russo,1200023,104,Striker,ST,20,True
+Ignacio Russo,1200023,107,Left Winger,LW,1,False
+Gregorio Rodriguez,1366607,84,Attacking Midfielder,AM,1,False
+Gregorio Rodriguez,1366607,87,Left Winger,LW,1,False
+Gregorio Rodriguez,1366607,104,Striker,ST,5,True
+Guido Herrera,322966,11,Keeper,GK,47,True
+Joaquin Blázquez,1054156,11,Keeper,GK,1,True
+Lautaro Morales,1074828,11,Keeper,GK,2,True
+Matias Catalan,427912,32,Right Back,RB,2,False
+Matias Catalan,427912,33,Center Back,CB,34,True
+Lucas Suarez,528063,34,Center Back,CB,25,True
+Lucas Suarez,528063,38,Left Back,LB,1,False
+Blas Riveros,729090,38,Left Back,LB,13,True
+Blas Riveros,729090,78,Left Midfielder,LM,1,False
+Gaston Americo Benavidez,929338,32,Right Back,RB,42,True
+Gaston Americo Benavidez,929338,36,Center Back,CB,1,False
+Gaston Americo Benavidez,929338,72,Right Midfielder,RM,1,False
+Juan Rodriguez,940819,34,Center Back,CB,18,True
+Alex Vigo,1017707,32,Right Back,RB,5,True
+Miguel Navarro,1048053,38,Left Back,LB,36,True
+Miguel Navarro,1048053,78,Left Midfielder,LM,2,False
+Juan Portillo,1201814,34,Center Back,CB,6,False
+Juan Portillo,1201814,38,Left Back,LB,12,True
+Juan Portillo,1201814,64,Defensive Midfielder,DM,6,False
+Juan Portillo,1201814,73,Central Midfielder,CM,4,False
+Kevin Mantilla,1357423,32,Right Back,RB,1,False
+Kevin Mantilla,1357423,33,Center Back,CB,17,True
+Ruben Botta,168390,72,Right Midfielder,RM,2,False
+Ruben Botta,168390,73,Central Midfielder,CM,7,False
+Ruben Botta,168390,83,Right Winger,RW,10,False
+Ruben Botta,168390,84,Attacking Midfielder,AM,19,True
+Franco Moyano,881159,64,Defensive Midfielder,DM,4,False
+Franco Moyano,881159,74,Central Midfielder,CM,19,True
+Franco Moyano,881159,79,Left Midfielder,LM,1,False
+Diego Ortegoza,1086839,64,Defensive Midfielder,DM,15,True
+Diego Ortegoza,1086839,73,Central Midfielder,CM,11,False
+Matias Galarza,1241957,64,Defensive Midfielder,DM,3,False
+Matias Galarza,1241957,72,Right Midfielder,RM,1,False
+Matias Galarza,1241957,73,Central Midfielder,CM,6,True
+Matias Galarza,1241957,83,Right Winger,RW,1,False
+Matias Galarza,1241957,87,Left Winger,LW,2,False
+Matias Galarza,1277340,64,Defensive Midfielder,DM,9,False
+Matias Galarza,1277340,74,Central Midfielder,CM,19,True
+Matias Galarza,1277340,85,Attacking Midfielder,AM,1,False
+Juan Camilo Portilla,1281230,34,Center Back,CB,1,False
+Juan Camilo Portilla,1281230,64,Defensive Midfielder,DM,17,True
+Juan Camilo Portilla,1281230,73,Central Midfielder,CM,17,False
+Juan Camilo Portilla,1281230,78,Left Midfielder,LM,1,False
+Juan Camilo Portilla,1281230,103,Right Winger,RW,1,False
+Marcos Portillo,1321686,64,Defensive Midfielder,DM,7,False
+Marcos Portillo,1321686,73,Central Midfielder,CM,15,True
+Gustavo Bou,119010,85,Attacking Midfielder,AM,1,False
+Gustavo Bou,119010,103,Right Winger,RW,1,False
+Gustavo Bou,119010,105,Striker,ST,5,True
+Gustavo Bou,119010,107,Left Winger,LW,1,False
+Sebastian Palacios,432949,83,Right Winger,RW,28,True
+Sebastian Palacios,432949,107,Left Winger,LW,2,False
+Cristian Alberto Tarragona,723668,95,Attacking Midfielder,AM,1,False
+Cristian Alberto Tarragona,723668,104,Striker,ST,26,True
+Ramiro Ruiz,939335,83,Right Winger,RW,3,False
+Ramiro Ruiz,939335,104,Striker,ST,2,False
+Ramiro Ruiz,939335,107,Left Winger,LW,5,True
+Federico Girotti,994916,94,Attacking Midfielder,AM,1,False
+Federico Girotti,994916,103,Right Winger,RW,5,False
+Federico Girotti,994916,104,Striker,ST,29,True
+Federico Girotti,994916,107,Left Winger,LW,2,False
+Valentin Depietri,1088084,78,Left Midfielder,LM,1,False
+Valentin Depietri,1088084,83,Right Winger,RW,3,False
+Valentin Depietri,1088084,85,Attacking Midfielder,AM,5,True
+Valentin Depietri,1088084,87,Left Winger,LW,4,False
+Valentin Depietri,1088084,104,Striker,ST,4,False
+Matias Esquivel,1117950,72,Right Midfielder,RM,2,False
+Matias Esquivel,1117950,77,Central Midfielder,CM,1,False
+Matias Esquivel,1117950,83,Right Winger,RW,7,True
+Matias Esquivel,1117950,85,Attacking Midfielder,AM,1,False
+Matias Esquivel,1117950,87,Left Winger,LW,3,False
+Matias Esquivel,1117950,105,Striker,ST,2,False
+Bruno Barticciotto,1128929,83,Right Winger,RW,1,False
+Bruno Barticciotto,1128929,85,Attacking Midfielder,AM,3,False
+Bruno Barticciotto,1128929,87,Left Winger,LW,5,True
+Bruno Barticciotto,1128929,106,Striker,ST,4,False
+Jose Romero,1233748,103,Right Winger,RW,1,False
+Jose Romero,1233748,105,Striker,ST,1,True
+Alejandro Martinez,1248060,72,Right Midfielder,RM,1,False
+Alejandro Martinez,1248060,78,Left Midfielder,LM,4,False
+Alejandro Martinez,1248060,83,Right Winger,RW,14,True
+Alejandro Martinez,1248060,87,Left Winger,LW,5,False
+Alejandro Martinez,1248060,96,Attacking Midfielder,AM,1,False
+Diego Barrera,1435861,83,Right Winger,RW,1,True
+Gustavo Albarracin,1635822,83,Right Winger,RW,1,True
+Gustavo Albarracin,1635822,84,Attacking Midfielder,AM,1,False
+Ignacio Arce,306529,11,Keeper,GK,40,True
+Juan Ignacio Dobboletta,566667,11,Keeper,GK,1,True
+Rodrigo Saracho,681451,11,Keeper,GK,11,True
+Gustavo Benitez,571613,36,Center Back,CB,1,True
+Cristian Paz,615905,33,Center Back,CB,8,True
+Nicolas Sansotre,752875,32,Right Back,RB,5,False
+Nicolas Sansotre,752875,33,Center Back,CB,13,True
+Nicolas Sansotre,752875,38,Left Back,LB,4,False
+Yaison Murillo Mena,801026,32,Right Back,RB,2,False
+Yaison Murillo Mena,801026,33,Center Back,CB,4,True
+Maximiliano Rodriguez,847288,32,Right Back,RB,1,False
+Maximiliano Rodriguez,847288,37,Center Back,CB,1,False
+Maximiliano Rodriguez,847288,38,Left Back,LB,1,False
+Maximiliano Rodriguez,847288,51,Right Wing-Back,RWB,2,True
+Maximiliano Rodriguez,847288,72,Right Midfielder,RM,3,False
+Maximiliano Rodriguez,847288,78,Left Midfielder,LM,1,False
+Rodrigo Sayavedra,890218,34,Center Back,CB,2,False
+Rodrigo Sayavedra,890218,38,Left Back,LB,7,True
+Rodrigo Sayavedra,890218,59,Left Wing-Back,LWB,4,False
+Rodrigo Sayavedra,890218,78,Left Midfielder,LM,1,False
+Rodrigo Sayavedra,890218,86,Attacking Midfielder,AM,1,False
+Yonatan Goitia,902983,32,Right Back,RB,5,False
+Yonatan Goitia,902983,38,Left Back,LB,1,False
+Yonatan Goitia,902983,51,Right Wing-Back,RWB,13,True
+Yonatan Goitia,902983,59,Left Wing-Back,LWB,3,False
+Yonatan Goitia,902983,72,Right Midfielder,RM,2,False
+Yonatan Goitia,902983,73,Central Midfielder,CM,6,False
+Tomas Villoldo,930535,38,Left Back,LB,1,True
+Nicolas Caro Torres,988820,33,Center Back,CB,25,True
+Nicolas Caro Torres,988820,59,Left Wing-Back,LWB,1,False
+Alan Barrionuevo,1041082,33,Center Back,CB,34,True
+Alan Barrionuevo,1041082,59,Left Wing-Back,LWB,1,False
+Pedro Ramirez,1200663,35,Center Back,CB,1,False
+Pedro Ramirez,1200663,38,Left Back,LB,2,False
+Pedro Ramirez,1200663,51,Right Wing-Back,RWB,7,False
+Pedro Ramirez,1200663,59,Left Wing-Back,LWB,12,True
+Pedro Ramirez,1200663,65,Defensive Midfielder,DM,1,False
+Pedro Ramirez,1200663,72,Right Midfielder,RM,4,False
+Pedro Ramirez,1200663,73,Central Midfielder,CM,2,False
+Pedro Ramirez,1200663,78,Left Midfielder,LM,4,False
+Delfor Minervino,1213988,32,Right Back,RB,6,True
+Jeremias James,1338444,36,Center Back,CB,1,True
+Milton Aaron Celiz,394125,63,Defensive Midfielder,DM,1,False
+Milton Aaron Celiz,394125,72,Right Midfielder,RM,1,False
+Milton Aaron Celiz,394125,73,Central Midfielder,CM,29,True
+Milton Aaron Celiz,394125,78,Left Midfielder,LM,3,False
+Milton Aaron Celiz,394125,103,Right Winger,RW,1,False
+Milton Aaron Celiz,394125,104,Striker,ST,1,False
+Walter Acuna,467971,67,Defensive Midfielder,DM,1,False
+Walter Acuna,467971,72,Right Midfielder,RM,2,False
+Walter Acuna,467971,73,Central Midfielder,CM,10,True
+Walter Acuna,467971,104,Striker,ST,3,False
+Guillermo Pereira,561041,74,Central Midfielder,CM,6,True
+Guillermo Pereira,561041,78,Left Midfielder,LM,5,False
+Guillermo Pereira,561041,106,Striker,ST,1,False
+Leonardo Landriel,604130,72,Right Midfielder,RM,2,True
+Leonardo Landriel,604130,74,Central Midfielder,CM,1,False
+Leonardo Landriel,604130,78,Left Midfielder,LM,1,False
+Gonzalo Bravo,787293,73,Central Midfielder,CM,5,True
+Gonzalo Bravo,787293,78,Left Midfielder,LM,2,False
+Gonzalo Bravo,787293,106,Striker,ST,1,False
+Brian Sanchez,848187,75,Central Midfielder,CM,2,False
+Brian Sanchez,848187,78,Left Midfielder,LM,5,True
+Brian Sanchez,848187,83,Right Winger,RW,1,False
+Brian Sanchez,848187,105,Striker,ST,3,False
+Brian Sanchez,848187,107,Left Winger,LW,2,False
+Jonathan Goya,857214,59,Left Wing-Back,LWB,1,False
+Jonathan Goya,857214,72,Right Midfielder,RM,1,False
+Jonathan Goya,857214,74,Central Midfielder,CM,11,True
+Jonathan Goya,857214,78,Left Midfielder,LM,1,False
+Walter Rodriguez,860889,66,Defensive Midfielder,DM,1,False
+Walter Rodriguez,860889,78,Left Midfielder,LM,1,True
+Gabriel Canete,1283771,74,Central Midfielder,CM,1,True
+Joaquin Borja,1528830,74,Central Midfielder,CM,2,True
+Pablo Monje,1605853,73,Central Midfielder,CM,10,True
+Gustavo Fernandez,310447,104,Striker,ST,17,True
+Maximiliano Brito Hernandez,318530,104,Striker,ST,1,True
+Jonathan Herrera,623898,103,Right Winger,RW,1,False
+Jonathan Herrera,623898,104,Striker,ST,32,True
+Nicolas Benegas,742643,75,Central Midfielder,CM,1,False
+Nicolas Benegas,742643,104,Striker,ST,18,True
+Antony Alonso,1021588,104,Striker,ST,5,True
+Mario Sanabria,1435010,83,Right Winger,RW,5,True
+Mario Sanabria,1435010,104,Striker,ST,2,False
+Sergio Romero,109060,11,Keeper,GK,49,True
+Javier Garcia,150029,11,Keeper,GK,5,True
+Leandro Brey,1353756,11,Keeper,GK,5,True
+Gary Medel,49970,34,Center Back,CB,31,True
+Gary Medel,49970,65,Defensive Midfielder,DM,2,False
+Gary Medel,49970,73,Central Midfielder,CM,3,False
+Marcos Rojo,161035,34,Center Back,CB,25,True
+Luis Advincula,190522,32,Right Back,RB,32,True
+Luis Advincula,190522,51,Right Wing-Back,RWB,2,False
+Luis Advincula,190522,71,Right Midfielder,RM,4,False
+Luis Advincula,190522,79,Left Midfielder,LM,1,False
+Luis Advincula,190522,83,Right Winger,RW,2,False
+Cristian Lema,209568,34,Center Back,CB,38,True
+Frank Fabra,279016,38,Left Back,LB,10,True
+Frank Fabra,279016,59,Left Wing-Back,LWB,1,False
+Frank Fabra,279016,86,Attacking Midfielder,AM,1,False
+Frank Fabra,279016,87,Left Winger,LW,1,False
+Jorge Figal,561037,32,Right Back,RB,3,False
+Jorge Figal,561037,33,Center Back,CB,26,True
+Marcelo Saracchi,643577,32,Right Back,RB,3,False
+Marcelo Saracchi,643577,38,Left Back,LB,17,True
+Marcelo Saracchi,643577,79,Left Midfielder,LM,1,False
+Lucas Blondel,823206,32,Right Back,RB,11,True
+Lucas Blondel,823206,63,Defensive Midfielder,DM,1,False
+Lucas Blondel,823206,74,Central Midfielder,CM,1,False
+Lucas Blondel,823206,82,Right Winger,RW,1,False
+Lautaro Blanco,1200014,38,Left Back,LB,31,True
+Lautaro Blanco,1200014,51,Right Wing-Back,RWB,1,False
+Lautaro Blanco,1200014,58,Left Wing-Back,LWB,3,False
+Nicolas Valentini,1249665,36,Center Back,CB,14,True
+Lautaro Di Lollo,1385954,32,Right Back,RB,3,False
+Lautaro Di Lollo,1385954,34,Center Back,CB,7,True
+Aaron Anselmino,1494947,33,Center Back,CB,6,True
+Juan Edgardo Ramirez,265728,67,Defensive Midfielder,DM,1,False
+Juan Edgardo Ramirez,265728,77,Central Midfielder,CM,2,True
+Juan Edgardo Ramirez,265728,86,Attacking Midfielder,AM,1,False
+Guillermo Fernandez,309693,63,Defensive Midfielder,DM,13,False
+Guillermo Fernandez,309693,73,Central Midfielder,CM,25,True
+Tomas Belmonte,847984,63,Defensive Midfielder,DM,11,True
+Tomas Belmonte,847984,71,Right Midfielder,RM,3,False
+Tomas Belmonte,847984,74,Central Midfielder,CM,5,False
+Tomas Belmonte,847984,79,Left Midfielder,LM,3,False
+Agustin Martegani,1075450,63,Defensive Midfielder,DM,4,True
+Agustin Martegani,1075450,72,Right Midfielder,RM,2,False
+Agustin Martegani,1075450,76,Central Midfielder,CM,3,False
+Agustin Martegani,1075450,94,Attacking Midfielder,AM,1,False
+Cristian Medina,1199960,63,Defensive Midfielder,DM,6,False
+Cristian Medina,1199960,72,Right Midfielder,RM,11,False
+Cristian Medina,1199960,73,Central Midfielder,CM,11,True
+Cristian Medina,1199960,78,Left Midfielder,LM,1,False
+Cristian Medina,1199960,83,Right Winger,RW,3,False
+Cristian Medina,1199960,85,Attacking Midfielder,AM,6,False
+Kevin Zenon,1201039,59,Left Wing-Back,LWB,11,False
+Kevin Zenon,1201039,67,Defensive Midfielder,DM,2,False
+Kevin Zenon,1201039,72,Right Midfielder,RM,1,False
+Kevin Zenon,1201039,78,Left Midfielder,LM,19,True
+Kevin Zenon,1201039,83,Right Winger,RW,2,False
+Kevin Zenon,1201039,85,Attacking Midfielder,AM,2,False
+Kevin Zenon,1201039,87,Left Winger,LW,4,False
+Ignacio Miramon,1206830,66,Defensive Midfielder,DM,1,True
+Ignacio Miramon,1206830,76,Central Midfielder,CM,1,False
+Vicente Taborda,1280328,85,Attacking Midfielder,AM,2,True
+Vicente Taborda,1280328,87,Left Winger,LW,1,False
+Mauricio Benitez,1402347,65,Defensive Midfielder,DM,2,False
+Mauricio Benitez,1402347,74,Central Midfielder,CM,4,True
+Jabes Saralegui,1413189,63,Defensive Midfielder,DM,3,False
+Jabes Saralegui,1413189,72,Right Midfielder,RM,7,True
+Jabes Saralegui,1413189,73,Central Midfielder,CM,2,False
+Jabes Saralegui,1413189,83,Right Winger,RW,2,False
+Édinson Cavani,49677,104,Striker,ST,34,True
+Lucas Janson,360797,77,Central Midfielder,CM,1,False
+Lucas Janson,360797,87,Left Winger,LW,7,True
+Lucas Janson,360797,104,Striker,ST,7,False
+Milton Gimenez,670344,104,Striker,ST,34,True
+Norberto Briasco,788656,103,Right Winger,RW,2,False
+Norberto Briasco,788656,104,Striker,ST,4,True
+Miguel Merentiel,826418,104,Striker,ST,44,True
+Exequiel Zeballos,1110044,78,Left Midfielder,LM,1,False
+Exequiel Zeballos,1110044,83,Right Winger,RW,4,True
+Exequiel Zeballos,1110044,85,Attacking Midfielder,AM,2,False
+Exequiel Zeballos,1110044,104,Striker,ST,1,False
+Brian Aguirre,1200746,72,Right Midfielder,RM,2,False
+Brian Aguirre,1200746,78,Left Midfielder,LM,1,False
+Brian Aguirre,1200746,82,Right Winger,RW,3,False
+Brian Aguirre,1200746,85,Attacking Midfielder,AM,1,False
+Brian Aguirre,1200746,87,Left Winger,LW,15,True
+Brian Aguirre,1200746,105,Striker,ST,3,False
+Franco Armani,206758,11,Keeper,GK,48,True
+Jeremias Ledesma,486981,11,Keeper,GK,34,True
+Milton Casco,174813,32,Right Back,RB,4,False
+Milton Casco,174813,38,Left Back,LB,17,True
+Germán Pezzella,186991,34,Center Back,CB,42,True
+Ramiro Funes Mori,213878,36,Center Back,CB,9,True
+Leandro Gonzalez Pirez,256609,34,Center Back,CB,36,True
+Paulo Diaz,447556,32,Right Back,RB,1,False
+Paulo Diaz,447556,34,Center Back,CB,50,True
+Marcos Acuna,561187,37,Center Back,CB,2,False
+Marcos Acuna,561187,38,Left Back,LB,11,True
+Marcos Acuna,561187,58,Left Wing-Back,LWB,5,False
+Marcos Acuna,561187,78,Left Midfielder,LM,3,False
+Agustin Sant'Anna,704019,32,Right Back,RB,16,True
+Fabricio Bustos,798148,32,Right Back,RB,46,True
+Fabricio Bustos,798148,36,Center Back,CB,1,False
+Fabricio Bustos,798148,38,Left Back,LB,1,False
+Enzo Hernan Diaz,808159,38,Left Back,LB,35,True
+Federico Gattoni,956291,33,Center Back,CB,8,True
+Santiago Simon,1208803,32,Right Back,RB,13,True
+Santiago Simon,1208803,63,Defensive Midfielder,DM,5,False
+Santiago Simon,1208803,73,Central Midfielder,CM,1,False
+Santiago Simon,1208803,83,Right Winger,RW,2,False
+Sebastian Boselli,1414777,32,Right Back,RB,7,True
+Sebastian Boselli,1414777,34,Center Back,CB,5,False
+Daniel Zabala,1607565,36,Center Back,CB,1,True
+Ulises Gimenez,1609439,32,Right Back,RB,1,True
+Manuel Lanzini,210276,67,Defensive Midfielder,DM,1,False
+Manuel Lanzini,210276,78,Left Midfielder,LM,1,False
+Manuel Lanzini,210276,83,Right Winger,RW,2,False
+Manuel Lanzini,210276,85,Attacking Midfielder,AM,6,True
+Manuel Lanzini,210276,87,Left Winger,LW,5,False
+Ignacio Fernandez,229816,63,Defensive Midfielder,DM,11,False
+Ignacio Fernandez,229816,83,Right Winger,RW,14,True
+Ignacio Fernandez,229816,85,Attacking Midfielder,AM,8,False
+Matias Kranevitter,412762,64,Defensive Midfielder,DM,8,True
+Matias Kranevitter,412762,75,Central Midfielder,CM,1,False
+Maximiliano Meza,469616,51,Right Wing-Back,RWB,1,False
+Maximiliano Meza,469616,71,Right Midfielder,RM,9,False
+Maximiliano Meza,469616,73,Central Midfielder,CM,3,False
+Maximiliano Meza,469616,78,Left Midfielder,LM,10,True
+Maximiliano Meza,469616,83,Right Winger,RW,9,False
+Maximiliano Meza,469616,85,Attacking Midfielder,AM,2,False
+Maximiliano Meza,469616,87,Left Winger,LW,5,False
+Maximiliano Meza,469616,104,Striker,ST,1,False
+Rodrigo Aliendro,618716,63,Defensive Midfielder,DM,29,True
+Rodrigo Aliendro,618716,74,Central Midfielder,CM,2,False
+Nicolas Fonseca,950599,64,Defensive Midfielder,DM,22,True
+Nicolas Fonseca,950599,72,Right Midfielder,RM,1,False
+Nicolas Fonseca,950599,75,Central Midfielder,CM,3,False
+Rodrigo Villagra,1028443,64,Defensive Midfielder,DM,25,True
+Rodrigo Villagra,1028443,74,Central Midfielder,CM,3,False
+Franco Carboni,1199360,58,Left Wing-Back,LWB,2,False
+Franco Carboni,1199360,78,Left Midfielder,LM,18,True
+Claudio Echeverri,1486264,77,Central Midfielder,CM,1,False
+Claudio Echeverri,1486264,85,Attacking Midfielder,AM,21,True
+Claudio Echeverri,1486264,87,Left Winger,LW,2,False
+Franco Mastantuono,1607566,76,Central Midfielder,CM,1,False
+Franco Mastantuono,1607566,83,Right Winger,RW,3,False
+Franco Mastantuono,1607566,84,Attacking Midfielder,AM,5,True
+Miguel Borja,281995,104,Striker,ST,34,True
+Gonzalo Martinez,585907,83,Right Winger,RW,1,True
+Adam Bareiro,845370,104,Striker,ST,40,True
+Facundo Colidio,949735,85,Attacking Midfielder,AM,3,False
+Facundo Colidio,949735,87,Left Winger,LW,9,False
+Facundo Colidio,949735,104,Striker,ST,13,True
+Pablo Solari,1201406,83,Right Winger,RW,12,True
+Pablo Solari,1201406,85,Attacking Midfielder,AM,1,False
+Pablo Solari,1201406,87,Left Winger,LW,1,False
+Pablo Solari,1201406,104,Striker,ST,11,False
+Agustin Ruberto,1580546,115,Striker,ST,5,True
+Ian Subiabre,1582679,87,Left Winger,LW,5,True
+Alan Aguerre,246172,11,Keeper,GK,19,True
+Nahuel Losada,529372,11,Keeper,GK,40,True
+Ezequiel Munoz,164029,34,Center Back,CB,21,True
+Carlos Roberto Izquierdoz,210726,33,Center Back,CB,26,True
+Brian Abel Luciatti,270320,32,Right Back,RB,1,False
+Brian Abel Luciatti,270320,33,Center Back,CB,40,True
+Nery Dominguez,467969,33,Center Back,CB,13,True
+Nery Dominguez,467969,64,Defensive Midfielder,DM,4,False
+Nery Dominguez,467969,75,Central Midfielder,CM,6,False
+Nicolas Thaller,918614,36,Center Back,CB,4,True
+Nicolas Thaller,918614,38,Left Back,LB,1,False
+Nicolas Morgantini,961717,32,Right Back,RB,15,True
+Nicolas Morgantini,961717,38,Left Back,LB,2,False
+Nicolas Morgantini,961717,51,Right Wing-Back,RWB,1,False
+Nicolas Morgantini,961717,58,Left Wing-Back,LWB,1,False
+Juan Caceres,1133495,32,Right Back,RB,20,True
+Juan Caceres,1133495,51,Right Wing-Back,RWB,2,False
+Braian Aguirre,1200667,32,Right Back,RB,12,True
+Braian Aguirre,1200667,38,Left Back,LB,13,False
+Braian Aguirre,1200667,51,Right Wing-Back,RWB,1,False
+Braian Aguirre,1200667,72,Right Midfielder,RM,6,False
+Braian Aguirre,1200667,73,Central Midfielder,CM,1,False
+Braian Aguirre,1200667,83,Right Winger,RW,1,False
+Julio Soler,1358655,38,Left Back,LB,25,True
+Julio Soler,1358655,59,Left Wing-Back,LWB,3,False
+Julio Soler,1358655,78,Left Midfielder,LM,1,False
+Octavio Ontivero,1648262,38,Left Back,LB,5,True
+Lautaro Acosta,46295,73,Central Midfielder,CM,4,True
+Lautaro Acosta,46295,83,Right Winger,RW,1,False
+Lautaro Acosta,46295,87,Left Winger,LW,3,False
+Eduardo Salvio,150093,72,Right Midfielder,RM,7,False
+Eduardo Salvio,150093,73,Central Midfielder,CM,10,False
+Eduardo Salvio,150093,79,Left Midfielder,LM,2,False
+Eduardo Salvio,150093,83,Right Winger,RW,16,True
+Eduardo Salvio,150093,87,Left Winger,LW,1,False
+Eduardo Salvio,150093,94,Attacking Midfielder,AM,1,False
+Raul Loaiza,466222,63,Defensive Midfielder,DM,12,False
+Raul Loaiza,466222,73,Central Midfielder,CM,21,True
+Ramiro Carrera,469007,66,Defensive Midfielder,DM,3,False
+Ramiro Carrera,469007,72,Right Midfielder,RM,4,False
+Ramiro Carrera,469007,73,Central Midfielder,CM,10,True
+Ramiro Carrera,469007,78,Left Midfielder,LM,5,False
+Ramiro Carrera,469007,85,Attacking Midfielder,AM,1,False
+Ramiro Carrera,469007,87,Left Winger,LW,1,False
+Favio Alvarez,529104,63,Defensive Midfielder,DM,4,False
+Favio Alvarez,529104,72,Right Midfielder,RM,1,False
+Favio Alvarez,529104,73,Central Midfielder,CM,5,True
+Favio Alvarez,529104,83,Right Winger,RW,1,False
+Favio Alvarez,529104,85,Attacking Midfielder,AM,4,False
+Luciano Boggio,1047589,66,Defensive Midfielder,DM,1,False
+Luciano Boggio,1047589,72,Right Midfielder,RM,2,False
+Luciano Boggio,1047589,73,Central Midfielder,CM,9,True
+Luciano Boggio,1047589,78,Left Midfielder,LM,1,False
+Luciano Boggio,1047589,83,Right Winger,RW,2,False
+Luciano Boggio,1047589,85,Attacking Midfielder,AM,3,False
+Gonzalo Perez,1195812,33,Center Back,CB,5,True
+Gonzalo Perez,1195812,66,Defensive Midfielder,DM,5,False
+Gonzalo Perez,1195812,74,Central Midfielder,CM,2,False
+Gonzalo Perez,1195812,87,Left Winger,LW,1,False
+Felipe Pena Biafore,1256244,64,Defensive Midfielder,DM,7,False
+Felipe Pena Biafore,1256244,72,Right Midfielder,RM,2,False
+Felipe Pena Biafore,1256244,74,Central Midfielder,CM,20,True
+Felipe Pena Biafore,1256244,85,Attacking Midfielder,AM,1,False
+Agustin Rodriguez,1257379,72,Right Midfielder,RM,1,True
+Agustin Rodriguez,1257379,103,Right Winger,RW,1,False
+Maximiliano González,1293954,65,Defensive Midfielder,DM,2,True
+Maximiliano González,1293954,76,Central Midfielder,CM,1,False
+Maximiliano González,1293954,85,Attacking Midfielder,AM,1,False
+Mariano Gerez,1667729,64,Defensive Midfielder,DM,5,True
+Leandro Diaz,198056,83,Right Winger,RW,1,False
+Leandro Diaz,198056,104,Striker,ST,15,True
+Leandro Diaz,198056,107,Left Winger,LW,1,False
+Marcelino Moreno,561737,67,Defensive Midfielder,DM,1,False
+Marcelino Moreno,561737,73,Central Midfielder,CM,4,False
+Marcelino Moreno,561737,78,Left Midfielder,LM,7,False
+Marcelino Moreno,561737,83,Right Winger,RW,12,True
+Marcelino Moreno,561737,85,Attacking Midfielder,AM,7,False
+Marcelino Moreno,561737,104,Striker,ST,9,False
+Marcelino Moreno,561737,107,Left Winger,LW,4,False
+Walter Bou,566260,85,Attacking Midfielder,AM,1,False
+Walter Bou,566260,103,Right Winger,RW,1,False
+Walter Bou,566260,104,Striker,ST,25,True
+Jonathan Torres,662089,104,Striker,ST,12,True
+Dylan Aquino,1499651,78,Left Midfielder,LM,1,False
+Dylan Aquino,1499651,87,Left Winger,LW,3,True
+Bruno Cabrera,1622776,83,Right Winger,RW,1,True
+Roberto Ramirez,534730,11,Keeper,GK,10,True
+Franco Petroli,847978,11,Keeper,GK,36,True
+Pier Barrios,208670,34,Center Back,CB,42,True
+Federico Rasmussen,848620,36,Center Back,CB,40,True
+Elias Pereyra,957219,38,Left Back,LB,7,True
+Lucas Arce,1045037,32,Right Back,RB,40,True
+Braian Salvareschi,1132906,34,Center Back,CB,4,True
+Martin Luciano,1246289,38,Left Back,LB,8,True
+Facundo Martin Butti,1251326,33,Center Back,CB,8,True
+Facundo Ardiles,1362875,32,Right Back,RB,21,True
+Facundo Ardiles,1362875,35,Center Back,CB,3,False
+Facundo Ardiles,1362875,51,Right Wing-Back,RWB,1,False
+Mateo Mendoza,1436206,32,Right Back,RB,1,True
+Manuel Guillen,1532179,32,Right Back,RB,5,False
+Manuel Guillen,1532179,38,Left Back,LB,5,True
+Nicolas Fernandez,889729,63,Defensive Midfielder,DM,24,True
+Nicolas Fernandez,889729,73,Central Midfielder,CM,7,False
+Nicolas Fernandez,889729,83,Right Winger,RW,1,False
+Nicolas Fernandez,889729,84,Attacking Midfielder,AM,7,False
+Tomas Pozzo,1209106,85,Attacking Midfielder,AM,1,True
+Vicente Poggi,1211623,64,Defensive Midfielder,DM,3,False
+Vicente Poggi,1211623,73,Central Midfielder,CM,12,True
+Vicente Poggi,1211623,78,Left Midfielder,LM,2,False
+Vicente Poggi,1211623,84,Attacking Midfielder,AM,2,False
+Vicente Poggi,1211623,87,Left Winger,LW,1,False
+Gonzalo Abrego,1230664,66,Defensive Midfielder,DM,2,False
+Gonzalo Abrego,1230664,73,Central Midfielder,CM,8,True
+Gonzalo Abrego,1230664,78,Left Midfielder,LM,1,False
+Bruno Sosa,1277904,64,Defensive Midfielder,DM,23,True
+Bruno Sosa,1277904,72,Right Midfielder,RM,1,False
+Bruno Sosa,1277904,74,Central Midfielder,CM,10,False
+Gaston Moreyra,1295515,67,Defensive Midfielder,DM,1,False
+Gaston Moreyra,1295515,77,Central Midfielder,CM,1,False
+Gaston Moreyra,1295515,78,Left Midfielder,LM,8,True
+Gaston Moreyra,1295515,83,Right Winger,RW,1,False
+Gaston Moreyra,1295515,87,Left Winger,LW,4,False
+Gaston Moreyra,1295515,104,Striker,ST,1,False
+Mariano Santiago,1435011,73,Central Midfielder,CM,4,False
+Mariano Santiago,1435011,78,Left Midfielder,LM,5,True
+Mariano Santiago,1435011,83,Right Winger,RW,1,False
+Mariano Santiago,1435011,87,Left Winger,LW,3,False
+Juan Cejas,830063,83,Right Winger,RW,9,False
+Juan Cejas,830063,85,Attacking Midfielder,AM,1,False
+Juan Cejas,830063,87,Left Winger,LW,9,True
+Juan Cejas,830063,106,Striker,ST,3,False
+Martin Pino,1085220,103,Right Winger,RW,1,False
+Martin Pino,1085220,104,Striker,ST,9,True
+Salomon Rodriguez,1180919,105,Striker,ST,21,True
+Cristian Torres,1209065,106,Striker,ST,1,True
+Silvio Ulariaga,1216428,104,Striker,ST,6,True
+Silvio Ulariaga,1216428,107,Left Winger,LW,1,False
+Luciano Cingolani,1217961,83,Right Winger,RW,1,True
+Facundo Altamira,1288591,72,Right Midfielder,RM,2,False
+Facundo Altamira,1288591,82,Right Winger,RW,11,True
+Facundo Altamira,1288591,87,Left Winger,LW,1,False
+Daniel Barrea,1401243,83,Right Winger,RW,3,False
+Daniel Barrea,1401243,87,Left Winger,LW,6,True
+Daniel Barrea,1401243,104,Striker,ST,6,False
+Ignacio Chicco,833271,11,Keeper,GK,20,True
+Juan Espinola,875078,11,Keeper,GK,2,True
+Rafael Delgado,467965,35,Center Back,CB,4,False
+Rafael Delgado,467965,38,Left Back,LB,8,True
+Rafael Delgado,467965,59,Left Wing-Back,LWB,1,False
+Alejandro Rébola,724457,33,Center Back,CB,30,True
+Gabriel Compagnucci,754685,32,Right Back,RB,10,False
+Gabriel Compagnucci,754685,33,Center Back,CB,15,True
+Gabriel Compagnucci,754685,72,Right Midfielder,RM,1,False
+Anibal Leguizamon,892840,36,Center Back,CB,1,True
+Juan Barinaga,1213652,32,Right Back,RB,29,True
+Juan Barinaga,1213652,51,Right Wing-Back,RWB,7,False
+Juan Barinaga,1213652,71,Right Midfielder,RM,6,False
+Gonzalo Maffini,1223816,32,Right Back,RB,1,False
+Gonzalo Maffini,1223816,34,Center Back,CB,18,True
+Nicolas Meriano,1299928,34,Center Back,CB,15,True
+Nicolas Meriano,1299928,38,Left Back,LB,4,False
+Agustin Baldi,1336581,37,Center Back,CB,9,True
+Agustin Baldi,1336581,38,Left Back,LB,3,False
+Francisco Facello,1520183,32,Right Back,RB,3,True
+Francisco Facello,1520183,51,Right Wing-Back,RWB,2,False
+Mariano Troilo,1520184,33,Center Back,CB,18,True
+Matias Moreno,1605748,33,Center Back,CB,27,True
+Juan Velazquez,1644112,58,Left Wing-Back,LWB,6,True
+Juan Velazquez,1644112,78,Left Midfielder,LM,5,False
+Ariel Mauricio Rojas,146796,74,Central Midfielder,CM,3,True
+Lucas Menossi,246408,63,Defensive Midfielder,DM,11,False
+Lucas Menossi,246408,73,Central Midfielder,CM,14,True
+Facundo Tomas Quignon,246409,64,Defensive Midfielder,DM,4,False
+Facundo Tomas Quignon,246409,74,Central Midfielder,CM,10,True
+Esteban Rolon,683535,64,Defensive Midfielder,DM,8,False
+Esteban Rolon,683535,73,Central Midfielder,CM,21,True
+Esteban Rolon,683535,84,Attacking Midfielder,AM,5,False
+Francisco Gonzalez Metilli,748843,72,Right Midfielder,RM,4,False
+Francisco Gonzalez Metilli,748843,73,Central Midfielder,CM,6,False
+Francisco Gonzalez Metilli,748843,78,Left Midfielder,LM,4,False
+Francisco Gonzalez Metilli,748843,83,Right Winger,RW,3,False
+Francisco Gonzalez Metilli,748843,85,Attacking Midfielder,AM,8,True
+Francisco Gonzalez Metilli,748843,87,Left Winger,LW,2,False
+Francisco Gonzalez Metilli,748843,104,Striker,ST,4,False
+Matias Marin,828718,72,Right Midfielder,RM,1,False
+Matias Marin,828718,76,Central Midfielder,CM,2,False
+Matias Marin,828718,78,Left Midfielder,LM,1,False
+Matias Marin,828718,84,Attacking Midfielder,AM,13,True
+Matias Marin,828718,103,Right Winger,RW,2,False
+Santiago Longo,1132245,64,Defensive Midfielder,DM,19,True
+Santiago Longo,1132245,73,Central Midfielder,CM,18,False
+Ulises Sanchez,1219978,66,Defensive Midfielder,DM,1,False
+Ulises Sanchez,1219978,72,Right Midfielder,RM,9,False
+Ulises Sanchez,1219978,73,Central Midfielder,CM,1,False
+Ulises Sanchez,1219978,82,Right Winger,RW,11,True
+Ulises Sanchez,1219978,85,Attacking Midfielder,AM,3,False
+Ulises Sanchez,1219978,87,Left Winger,LW,1,False
+Ignacio Tapia,1435962,76,Central Midfielder,CM,1,True
+Geronimo Heredia,1523536,74,Central Midfielder,CM,5,True
+Geronimo Heredia,1523536,84,Attacking Midfielder,AM,1,False
+Jeremias Lucco,1523550,74,Central Midfielder,CM,1,False
+Jeremias Lucco,1523550,78,Left Midfielder,LM,1,False
+Jeremias Lucco,1523550,104,Striker,ST,1,True
+Maximo Oses,1645705,78,Left Midfielder,LM,1,True
+Lucas Bustos,1652017,95,Attacking Midfielder,AM,1,True
+Matias Suarez,46552,104,Striker,ST,4,True
+Matias Suarez,46552,107,Left Winger,LW,1,False
+Franco Jara,129326,85,Attacking Midfielder,AM,1,False
+Franco Jara,129326,103,Right Winger,RW,1,False
+Franco Jara,129326,104,Striker,ST,12,True
+Pablo Chavarria,208672,104,Striker,ST,9,True
+Lucas Passerini,564614,104,Striker,ST,27,True
+Nicolas Fernandez,566676,104,Striker,ST,33,True
+Bryan Reyna,1104977,72,Right Midfielder,RM,1,False
+Bryan Reyna,1104977,78,Left Midfielder,LM,4,False
+Bryan Reyna,1104977,87,Left Winger,LW,9,True
+Bryan Reyna,1104977,96,Attacking Midfielder,AM,3,False
+Bryan Reyna,1104977,104,Striker,ST,6,False
+Facundo Lencioni,1520154,58,Left Wing-Back,LWB,3,False
+Facundo Lencioni,1520154,78,Left Midfielder,LM,4,False
+Facundo Lencioni,1520154,87,Left Winger,LW,9,True
+Matias Mansilla,1273509,11,Keeper,GK,49,True
+Federico Fernández,155050,34,Center Back,CB,25,True
+Luciano Lollo,270771,34,Center Back,CB,20,True
+Santiago Arzamendia,860661,38,Left Back,LB,6,True
+Facundo Rodriguez,1035138,35,Center Back,CB,15,True
+Bautista Kociubinski,1201582,34,Center Back,CB,1,True
+Bautista Kociubinski,1201582,74,Central Midfielder,CM,1,False
+Eric Meza,1201768,32,Right Back,RB,13,True
+Eric Meza,1201768,38,Left Back,LB,4,False
+Eric Meza,1201768,59,Left Wing-Back,LWB,1,False
+Eric Meza,1201768,63,Defensive Midfielder,DM,1,False
+Eric Meza,1201768,71,Right Midfielder,RM,2,False
+Gaston Benedetti,1214100,32,Right Back,RB,1,False
+Gaston Benedetti,1214100,38,Left Back,LB,35,True
+Gaston Benedetti,1214100,59,Left Wing-Back,LWB,1,False
+Gaston Benedetti,1214100,79,Left Midfielder,LM,2,False
+Santiago Flores,1359226,32,Right Back,RB,1,False
+Santiago Flores,1359226,33,Center Back,CB,9,True
+Nicolas Andres Fernandez,1359229,36,Center Back,CB,5,True
+Nicolas Andres Fernandez,1359229,38,Left Back,LB,2,False
+Roman Gomez,1617809,32,Right Back,RB,1,False
+Roman Gomez,1617809,38,Left Back,LB,1,True
+Valente Pierani,1666057,34,Center Back,CB,1,True
+Jose Sosa,18518,66,Defensive Midfielder,DM,8,False
+Jose Sosa,18518,72,Right Midfielder,RM,1,False
+Jose Sosa,18518,73,Central Midfielder,CM,9,True
+Jose Sosa,18518,78,Left Midfielder,LM,7,False
+Jose Sosa,18518,84,Attacking Midfielder,AM,9,False
+Jose Sosa,18518,87,Left Winger,LW,2,False
+Enzo Pérez,40148,64,Defensive Midfielder,DM,24,True
+Enzo Pérez,40148,74,Central Midfielder,CM,15,False
+Enzo Pérez,40148,86,Attacking Midfielder,AM,2,False
+Pablo Piatti,46384,77,Central Midfielder,CM,2,False
+Pablo Piatti,46384,84,Attacking Midfielder,AM,3,True
+Pablo Piatti,46384,87,Left Winger,LW,2,False
+Santiago Ascacibar,724854,63,Defensive Midfielder,DM,23,True
+Santiago Ascacibar,724854,73,Central Midfielder,CM,18,False
+Santiago Ascacibar,724854,82,Right Winger,RW,1,False
+Santiago Ascacibar,724854,86,Attacking Midfielder,AM,1,False
+Javier Altamirano,842894,63,Defensive Midfielder,DM,1,False
+Javier Altamirano,842894,72,Right Midfielder,RM,3,False
+Javier Altamirano,842894,77,Central Midfielder,CM,1,False
+Javier Altamirano,842894,78,Left Midfielder,LM,1,False
+Javier Altamirano,842894,83,Right Winger,RW,2,False
+Javier Altamirano,842894,85,Attacking Midfielder,AM,4,True
+Gabriel Neves,859754,63,Defensive Midfielder,DM,5,False
+Gabriel Neves,859754,71,Right Midfielder,RM,3,False
+Gabriel Neves,859754,73,Central Midfielder,CM,7,True
+Alexis Manyoma,1332390,67,Defensive Midfielder,DM,1,False
+Alexis Manyoma,1332390,79,Left Midfielder,LM,1,False
+Alexis Manyoma,1332390,82,Right Winger,RW,1,False
+Alexis Manyoma,1332390,85,Attacking Midfielder,AM,3,True
+Alexis Manyoma,1332390,87,Left Winger,LW,3,False
+Alexis Manyoma,1332390,106,Striker,ST,1,False
+Axel Atum,1464263,63,Defensive Midfielder,DM,1,True
+Axel Atum,1464263,83,Right Winger,RW,1,False
+Benedetti Nehuen,1579896,78,Left Midfielder,LM,1,True
+Guido Carrillo,267894,104,Striker,ST,22,True
+Edwin Cetre,924959,38,Left Back,LB,1,False
+Edwin Cetre,924959,67,Defensive Midfielder,DM,1,False
+Edwin Cetre,924959,72,Right Midfielder,RM,8,False
+Edwin Cetre,924959,75,Central Midfielder,CM,1,False
+Edwin Cetre,924959,78,Left Midfielder,LM,7,False
+Edwin Cetre,924959,82,Right Winger,RW,6,False
+Edwin Cetre,924959,84,Attacking Midfielder,AM,1,False
+Edwin Cetre,924959,87,Left Winger,LW,12,True
+Edwin Cetre,924959,104,Striker,ST,4,False
+Mauro Mendez,1054259,85,Attacking Midfielder,AM,2,False
+Mauro Mendez,1054259,104,Striker,ST,17,True
+Luciano Gimenez,1226851,85,Attacking Midfielder,AM,1,False
+Luciano Gimenez,1226851,104,Striker,ST,12,True
+Tiago Palacios,1231195,71,Right Midfielder,RM,3,False
+Tiago Palacios,1231195,75,Central Midfielder,CM,4,False
+Tiago Palacios,1231195,82,Right Winger,RW,15,True
+Tiago Palacios,1231195,84,Attacking Midfielder,AM,2,False
+Tiago Palacios,1231195,87,Left Winger,LW,5,False
+Tiago Palacios,1231195,104,Striker,ST,5,False
+Jorge Emanuel Broun,113696,11,Keeper,GK,49,True
+Axel Werner,356438,11,Keeper,GK,4,True
+Carlos Quintana,113615,36,Center Back,CB,41,True
+Damian Alberto Martinez,306504,32,Right Back,RB,29,True
+Damian Alberto Martinez,306504,33,Center Back,CB,1,False
+Facundo Mallo,727099,34,Center Back,CB,42,True
+Miguel Barbieri,742681,34,Center Back,CB,22,True
+Miguel Barbieri,742681,38,Left Back,LB,1,False
+Miguel Barbieri,742681,51,Right Wing-Back,RWB,2,False
+Emanuel Coronel,874620,32,Right Back,RB,31,True
+Emanuel Coronel,874620,51,Right Wing-Back,RWB,2,False
+Alan Rodriguez,887142,38,Left Back,LB,20,True
+Alan Rodriguez,887142,58,Left Wing-Back,LWB,3,False
+Alan Rodriguez,887142,72,Right Midfielder,RM,1,False
+Alan Rodriguez,887142,77,Central Midfielder,CM,1,False
+Alan Rodriguez,887142,78,Left Midfielder,LM,1,False
+Alan Rodriguez,887142,87,Left Winger,LW,1,False
+Agustin Sandez,1218334,36,Center Back,CB,2,False
+Agustin Sandez,1218334,38,Left Back,LB,28,True
+Agustin Antonio Bravo,1290809,36,Center Back,CB,11,True
+Elias Ocampo,1606614,32,Right Back,RB,2,True
+Elias Ocampo,1606614,52,Right Wing-Back,RWB,1,False
+Elias Ocampo,1606614,72,Right Midfielder,RM,2,False
+Elias Ocampo,1606614,83,Right Winger,RW,1,False
+Juan Gimenez,1624887,33,Center Back,CB,10,True
+Jonathan Gomez,150701,51,Right Wing-Back,RWB,1,False
+Jonathan Gomez,150701,64,Defensive Midfielder,DM,7,False
+Jonathan Gomez,150701,72,Right Midfielder,RM,2,False
+Jonathan Gomez,150701,73,Central Midfielder,CM,10,True
+Jonathan Gomez,150701,83,Right Winger,RW,3,False
+Jonathan Gomez,150701,85,Attacking Midfielder,AM,3,False
+Victor Malcorra,362229,72,Right Midfielder,RM,2,False
+Victor Malcorra,362229,77,Central Midfielder,CM,1,False
+Victor Malcorra,362229,78,Left Midfielder,LM,2,False
+Victor Malcorra,362229,83,Right Winger,RW,5,False
+Victor Malcorra,362229,85,Attacking Midfielder,AM,25,True
+Victor Malcorra,362229,87,Left Winger,LW,1,False
+Victor Malcorra,362229,106,Striker,ST,1,False
+Mauricio Martinez,615788,63,Defensive Midfielder,DM,15,True
+Mauricio Martinez,615788,74,Central Midfielder,CM,8,False
+Franco Ibarra,1075405,64,Defensive Midfielder,DM,6,False
+Franco Ibarra,1075405,72,Right Midfielder,RM,1,False
+Franco Ibarra,1075405,73,Central Midfielder,CM,11,True
+Kevin Ortiz,1336567,64,Defensive Midfielder,DM,24,True
+Kevin Ortiz,1336567,73,Central Midfielder,CM,9,False
+Tomas O'Connor,1372669,64,Defensive Midfielder,DM,13,True
+Tomas O'Connor,1372669,72,Right Midfielder,RM,1,False
+Tomas O'Connor,1372669,73,Central Midfielder,CM,8,False
+Tomas O'Connor,1372669,78,Left Midfielder,LM,1,False
+Tomas O'Connor,1372669,83,Right Winger,RW,7,False
+Marco Ruben,18628,85,Attacking Midfielder,AM,1,False
+Marco Ruben,18628,104,Striker,ST,14,True
+Abel Hernández,105548,104,Striker,ST,5,True
+Augusto Solari,407796,71,Right Midfielder,RM,2,False
+Augusto Solari,407796,103,Right Winger,RW,3,False
+Augusto Solari,407796,106,Striker,ST,3,False
+Augusto Solari,407796,107,Left Winger,LW,7,True
+Maximiliano Lovera,747221,72,Right Midfielder,RM,3,False
+Maximiliano Lovera,747221,78,Left Midfielder,LM,1,False
+Maximiliano Lovera,747221,83,Right Winger,RW,14,True
+Maximiliano Lovera,747221,85,Attacking Midfielder,AM,5,False
+Maximiliano Lovera,747221,104,Striker,ST,1,False
+Enzo Copetti,787284,104,Striker,ST,22,True
+Jaminton Campaz,837870,78,Left Midfielder,LM,7,False
+Jaminton Campaz,837870,83,Right Winger,RW,1,False
+Jaminton Campaz,837870,87,Left Winger,LW,27,True
+Jaminton Campaz,837870,95,Attacking Midfielder,AM,1,False
+Jaminton Campaz,837870,104,Striker,ST,5,False
+Francesco Lo Celso,1108679,78,Left Midfielder,LM,1,False
+Francesco Lo Celso,1108679,85,Attacking Midfielder,AM,1,False
+Francesco Lo Celso,1108679,87,Left Winger,LW,3,True
+Luca Martinez Dupuy,1200027,106,Striker,ST,15,True
+Laurtaro Giaccone,1220657,66,Defensive Midfielder,DM,1,False
+Laurtaro Giaccone,1220657,72,Right Midfielder,RM,2,False
+Laurtaro Giaccone,1220657,77,Central Midfielder,CM,1,False
+Laurtaro Giaccone,1220657,78,Left Midfielder,LM,2,False
+Laurtaro Giaccone,1220657,83,Right Winger,RW,4,True
+Laurtaro Giaccone,1220657,87,Left Winger,LW,3,False
+Tobias Cervera,1378924,83,Right Winger,RW,1,False
+Tobias Cervera,1378924,104,Striker,ST,17,True
+Agustin Modica,1552554,105,Striker,ST,10,True
+Andrés Desábato,279889,11,Keeper,GK,10,True
+Juan Cozzani,926330,11,Keeper,GK,39,True
+Nicolas Sumavil,1439173,11,Keeper,GK,6,True
+Gaston Suso,529109,35,Center Back,CB,39,True
+Raul Lozano,856411,32,Right Back,RB,11,True
+Raul Lozano,856411,38,Left Back,LB,2,False
+Raul Lozano,856411,51,Right Wing-Back,RWB,2,False
+Raul Lozano,856411,59,Left Wing-Back,LWB,1,False
+Raul Lozano,856411,72,Right Midfielder,RM,1,False
+Ignacio Vazquez,1033115,33,Center Back,CB,42,True
+Oscar Salomon,1082758,35,Center Back,CB,11,True
+Juan Saborido,1135677,32,Right Back,RB,9,True
+Juan Saborido,1135677,51,Right Wing-Back,RWB,6,False
+Juan Saborido,1135677,71,Right Midfielder,RM,1,False
+Bautista Barros Schelotto,1221037,32,Right Back,RB,7,True
+Bautista Barros Schelotto,1221037,51,Right Wing-Back,RWB,1,False
+Sasha Marcich,1232257,37,Center Back,CB,1,False
+Sasha Marcich,1232257,38,Left Back,LB,15,True
+Sasha Marcich,1232257,58,Left Wing-Back,LWB,8,False
+Sasha Marcich,1232257,78,Left Midfielder,LM,3,False
+Sasha Marcich,1232257,107,Left Winger,LW,3,False
+Juan Pablo Pignani,1337229,34,Center Back,CB,1,True
+Agustin Quiroga,1457716,38,Left Back,LB,3,True
+Gabriel Hachen,299645,72,Right Midfielder,RM,1,False
+Gabriel Hachen,299645,73,Central Midfielder,CM,7,True
+Gabriel Hachen,299645,78,Left Midfielder,LM,1,False
+Gabriel Hachen,299645,104,Striker,ST,2,False
+Gabriel Hachen,299645,107,Left Winger,LW,1,False
+Braian Rivero,683901,67,Defensive Midfielder,DM,1,False
+Braian Rivero,683901,72,Right Midfielder,RM,1,False
+Braian Rivero,683901,73,Central Midfielder,CM,13,True
+Braian Rivero,683901,84,Attacking Midfielder,AM,5,False
+Ivan Gomez,770895,65,Defensive Midfielder,DM,5,False
+Ivan Gomez,770895,72,Right Midfielder,RM,1,False
+Ivan Gomez,770895,73,Central Midfielder,CM,16,True
+Ivan Gomez,770895,79,Left Midfielder,LM,1,False
+Ivan Gomez,770895,84,Attacking Midfielder,AM,6,False
+Ivan Gomez,770895,87,Left Winger,LW,1,False
+Fernando Juarez,794311,63,Defensive Midfielder,DM,1,False
+Fernando Juarez,794311,72,Right Midfielder,RM,3,False
+Fernando Juarez,794311,73,Central Midfielder,CM,11,True
+Fernando Juarez,794311,78,Left Midfielder,LM,1,False
+Fernando Juarez,794311,83,Right Winger,RW,1,False
+Fernando Juarez,794311,84,Attacking Midfielder,AM,5,False
+Guido Mainero,841947,71,Right Midfielder,RM,11,True
+Guido Mainero,841947,73,Central Midfielder,CM,1,False
+Guido Mainero,841947,78,Left Midfielder,LM,2,False
+Guido Mainero,841947,82,Right Winger,RW,7,False
+Guido Mainero,841947,86,Attacking Midfielder,AM,1,False
+Guido Mainero,841947,104,Striker,ST,1,False
+Agustin Ocampo,1020248,72,Right Midfielder,RM,1,False
+Agustin Ocampo,1020248,73,Central Midfielder,CM,3,False
+Agustin Ocampo,1020248,78,Left Midfielder,LM,11,True
+Agustin Ocampo,1020248,82,Right Winger,RW,3,False
+Agustin Ocampo,1020248,85,Attacking Midfielder,AM,3,False
+Agustin Ocampo,1020248,87,Left Winger,LW,7,False
+Carlos Villalba,1020944,74,Central Midfielder,CM,11,True
+Carlos Villalba,1020944,85,Attacking Midfielder,AM,1,False
+Agustin Obando,1037265,78,Left Midfielder,LM,1,True
+Leonel Picco,1097836,34,Center Back,CB,11,False
+Leonel Picco,1097836,64,Defensive Midfielder,DM,7,False
+Leonel Picco,1097836,72,Right Midfielder,RM,1,False
+Leonel Picco,1097836,73,Central Midfielder,CM,12,True
+Franco Baldassarra,1228220,66,Defensive Midfielder,DM,2,False
+Franco Baldassarra,1228220,75,Central Midfielder,CM,10,True
+Franco Zapiola,1276036,73,Central Midfielder,CM,1,False
+Franco Zapiola,1276036,78,Left Midfielder,LM,3,False
+Franco Zapiola,1276036,86,Attacking Midfielder,AM,3,True
+Franco Zapiola,1276036,87,Left Winger,LW,3,False
+Franco Zapiola,1276036,104,Striker,ST,1,False
+Facundo Russo,1276545,72,Right Midfielder,RM,6,True
+Facundo Russo,1276545,82,Right Winger,RW,2,False
+Facundo Russo,1276545,106,Striker,ST,1,False
+Lisandro Sebastian Montenegro,1435942,72,Right Midfielder,RM,1,True
+Lisandro Sebastian Montenegro,1435942,76,Central Midfielder,CM,1,False
+Lisandro Sebastian Montenegro,1435942,94,Attacking Midfielder,AM,1,False
+Franco Minerva,1647815,59,Left Wing-Back,LWB,1,False
+Franco Minerva,1647815,77,Central Midfielder,CM,1,False
+Franco Minerva,1647815,78,Left Midfielder,LM,1,False
+Franco Minerva,1647815,88,Left Winger,LW,1,True
+Ciro Rius,164681,51,Right Wing-Back,RWB,1,False
+Ciro Rius,164681,71,Right Midfielder,RM,2,False
+Ciro Rius,164681,83,Right Winger,RW,6,True
+Ciro Rius,164681,105,Striker,ST,1,False
+Ronaldo Martinez,659738,88,Left Winger,LW,2,False
+Ronaldo Martinez,659738,94,Attacking Midfielder,AM,1,False
+Ronaldo Martinez,659738,104,Striker,ST,25,True
+Augusto Lotti,693593,72,Right Midfielder,RM,1,False
+Augusto Lotti,693593,87,Left Winger,LW,3,False
+Augusto Lotti,693593,104,Striker,ST,9,True
+Mateo Pellegrino,1224237,95,Attacking Midfielder,AM,1,False
+Mateo Pellegrino,1224237,104,Striker,ST,23,True
+Gonzalo Valdivia,1339362,38,Left Back,LB,1,False
+Gonzalo Valdivia,1339362,107,Left Winger,LW,1,True
+Gonzalo Marinelli,158787,11,Keeper,GK,18,True
+Ezequiel Centurion,971901,11,Keeper,GK,9,True
+Agustin Lastra,1281396,11,Keeper,GK,2,True
+Bruno Bianchi,114341,33,Center Back,CB,32,True
+Emmanuel Mas,131619,38,Left Back,LB,13,True
+Emmanuel Mas,131619,59,Left Wing-Back,LWB,3,False
+Emmanuel Mas,131619,79,Left Midfielder,LM,1,False
+Luciano Andres Abecasis,246553,32,Right Back,RB,8,True
+Luciano Andres Abecasis,246553,51,Right Wing-Back,RWB,5,False
+Luciano Andres Abecasis,246553,72,Right Midfielder,RM,4,False
+Luciano Andres Abecasis,246553,73,Central Midfielder,CM,1,False
+Luciano Andres Abecasis,246553,82,Right Winger,RW,2,False
+Mauro Angel Maidana,291802,25,Center Back,CB,19,True
+Mauro Angel Maidana,291802,38,Left Back,LB,1,False
+Luciano Gomez,725483,32,Right Back,RB,1,False
+Luciano Gomez,725483,51,Right Wing-Back,RWB,3,True
+Ivan Villalba,805771,33,Center Back,CB,9,True
+Matias Ruiz Diaz,861062,32,Right Back,RB,5,True
+Matias Ruiz Diaz,861062,33,Center Back,CB,2,False
+Matias Ruiz Diaz,861062,51,Right Wing-Back,RWB,5,False
+Matias Ruiz Diaz,861062,59,Left Wing-Back,LWB,1,False
+Matias Ruiz Diaz,861062,72,Right Midfielder,RM,2,False
+Nahuel Gallardo,891716,38,Left Back,LB,1,True
+Nahuel Gallardo,891716,59,Left Wing-Back,LWB,1,False
+Tobias Ostchega,1242173,38,Left Back,LB,8,False
+Tobias Ostchega,1242173,59,Left Wing-Back,LWB,11,True
+Tobias Ostchega,1242173,77,Central Midfielder,CM,1,False
+Tobias Ostchega,1242173,107,Left Winger,LW,1,False
+Rufino Lucero,1276384,32,Right Back,RB,3,True
+Tiago Palacios,1344726,27,Center Back,CB,15,True
+Francisco Petrasso,1435030,23,Center Back,CB,20,True
+Francisco Petrasso,1435030,32,Right Back,RB,7,False
+Mateo Ortale,1467548,32,Right Back,RB,1,True
+Joaquin Arzura,295085,64,Defensive Midfielder,DM,1,False
+Joaquin Arzura,295085,72,Right Midfielder,RM,1,False
+Joaquin Arzura,295085,74,Central Midfielder,CM,5,True
+Diego Ruben Tonetto,358355,59,Left Wing-Back,LWB,1,False
+Diego Ruben Tonetto,358355,65,Defensive Midfielder,DM,1,False
+Diego Ruben Tonetto,358355,76,Central Midfielder,CM,3,True
+Diego Ruben Tonetto,358355,78,Left Midfielder,LM,2,False
+Federico Milo,490281,38,Left Back,LB,3,False
+Federico Milo,490281,59,Left Wing-Back,LWB,2,False
+Federico Milo,490281,77,Central Midfielder,CM,1,False
+Federico Milo,490281,78,Left Midfielder,LM,5,True
+Federico Milo,490281,106,Striker,ST,1,False
+Federico Milo,490281,107,Left Winger,LW,1,False
+Ezequiel Ham,529351,63,Defensive Midfielder,DM,2,False
+Ezequiel Ham,529351,73,Central Midfielder,CM,31,True
+Ezequiel Ham,529351,84,Attacking Midfielder,AM,2,False
+Fredy Vera,1042113,71,Right Midfielder,RM,2,True
+Luis Sequeira,1110613,76,Central Midfielder,CM,2,True
+Franco Romero,1203838,65,Defensive Midfielder,DM,1,False
+Franco Romero,1203838,73,Central Midfielder,CM,19,True
+Franco Romero,1203838,104,Striker,ST,1,False
+Agustin Mulet,1213457,65,Defensive Midfielder,DM,1,False
+Agustin Mulet,1213457,74,Central Midfielder,CM,2,True
+Agustin Mulet,1213457,84,Attacking Midfielder,AM,1,False
+Antonio Napolitano,1231926,51,Right Wing-Back,RWB,2,False
+Antonio Napolitano,1231926,73,Central Midfielder,CM,5,True
+Antonio Napolitano,1231926,84,Attacking Midfielder,AM,2,False
+Lautaro Rios,1241613,73,Central Midfielder,CM,12,True
+Lautaro Rios,1241613,85,Attacking Midfielder,AM,1,False
+Gonzalo Rios,1314171,72,Right Midfielder,RM,1,False
+Gonzalo Rios,1314171,73,Central Midfielder,CM,4,False
+Gonzalo Rios,1314171,78,Left Midfielder,LM,6,True
+Gonzalo Rios,1314171,82,Right Winger,RW,2,False
+Gonzalo Rios,1314171,86,Attacking Midfielder,AM,3,False
+Gonzalo Rios,1314171,87,Left Winger,LW,4,False
+Francisco Maidana,1394022,72,Right Midfielder,RM,1,False
+Francisco Maidana,1394022,73,Central Midfielder,CM,7,True
+Julian Ascacibar,1499718,75,Central Midfielder,CM,1,True
+Juan Cavallaro,311684,86,Attacking Midfielder,AM,1,False
+Juan Cavallaro,311684,104,Striker,ST,5,True
+Juan Cavallaro,311684,107,Left Winger,LW,1,False
+Mauricio Asenjo,564611,103,Right Winger,RW,1,False
+Mauricio Asenjo,564611,104,Striker,ST,12,True
+Mauricio Asenjo,564611,107,Left Winger,LW,1,False
+Victorio Gabriel Ramis,571578,103,Right Winger,RW,3,False
+Victorio Gabriel Ramis,571578,104,Striker,ST,8,True
+Victorio Gabriel Ramis,571578,108,Left Winger,LW,1,False
+Federico Castro,618947,74,Central Midfielder,CM,1,False
+Federico Castro,618947,104,Striker,ST,5,True
+Federico Castro,618947,107,Left Winger,LW,1,False
+Fernando Romero,787218,104,Striker,ST,13,True
+Sebastián Villa,859319,78,Left Midfielder,LM,1,False
+Sebastián Villa,859319,87,Left Winger,LW,1,False
+Sebastián Villa,859319,104,Striker,ST,16,True
+Gonzalo Alvez,1319750,103,Right Winger,RW,2,True
+Fabrizio Sartori,1462417,103,Right Winger,RW,1,True
+Rodrigo Rey,443465,11,Keeper,GK,41,True
+Damian Perez,147564,37,Center Back,CB,1,False
+Damian Perez,147564,38,Left Back,LB,23,True
+Damian Perez,147564,58,Left Wing-Back,LWB,5,False
+Damian Perez,147564,78,Left Midfielder,LM,2,False
+Julio Alberto Buffarini,310515,32,Right Back,RB,2,True
+Julio Alberto Buffarini,310515,52,Right Wing-Back,RWB,1,False
+Felipe Aguilar,425777,33,Center Back,CB,11,True
+Joaquin Laso,622269,33,Center Back,CB,40,True
+Adrian Sporle,743009,37,Center Back,CB,1,False
+Adrian Sporle,743009,38,Left Back,LB,13,True
+Adrian Sporle,743009,59,Left Wing-Back,LWB,4,False
+Federico Vera,824090,32,Right Back,RB,4,False
+Federico Vera,824090,51,Right Wing-Back,RWB,25,True
+Federico Vera,824090,71,Right Midfielder,RM,1,False
+Kevin Lomonaco,1206583,34,Center Back,CB,9,True
+Marco Pellegrino,1237690,36,Center Back,CB,4,True
+Marco Pellegrino,1237690,38,Left Back,LB,1,False
+Juan Fedorco,1299451,32,Right Back,RB,1,False
+Juan Fedorco,1299451,33,Center Back,CB,23,True
+Felipe Loyola,1343374,32,Right Back,RB,21,True
+Felipe Loyola,1343374,33,Center Back,CB,2,False
+Felipe Loyola,1343374,38,Left Back,LB,1,False
+Felipe Loyola,1343374,51,Right Wing-Back,RWB,1,False
+Felipe Loyola,1343374,65,Defensive Midfielder,DM,2,False
+Felipe Loyola,1343374,73,Central Midfielder,CM,3,False
+Felipe Loyola,1343374,78,Left Midfielder,LM,1,False
+Santiago Gabriel Montiel,1435714,52,Right Wing-Back,RWB,1,False
+Santiago Gabriel Montiel,1435714,58,Left Wing-Back,LWB,6,True
+Santiago Gabriel Montiel,1435714,72,Right Midfielder,RM,1,False
+Santiago Gabriel Montiel,1435714,73,Central Midfielder,CM,3,False
+Santiago Gabriel Montiel,1435714,79,Left Midfielder,LM,1,False
+Santiago Salle,1439529,32,Right Back,RB,6,True
+Iván Marcone,157868,64,Defensive Midfielder,DM,9,False
+Iván Marcone,157868,73,Central Midfielder,CM,25,True
+Federico Mancuello,161344,64,Defensive Midfielder,DM,9,False
+Federico Mancuello,161344,73,Central Midfielder,CM,15,True
+Federico Mancuello,161344,83,Right Winger,RW,1,False
+Federico Mancuello,161344,85,Attacking Midfielder,AM,1,False
+Jhonny Quinonez,764456,73,Central Midfielder,CM,4,True
+Jhonny Quinonez,764456,78,Left Midfielder,LM,1,False
+Lucas Gonzalez,1088057,63,Defensive Midfielder,DM,1,False
+Lucas Gonzalez,1088057,72,Right Midfielder,RM,3,False
+Lucas Gonzalez,1088057,73,Central Midfielder,CM,12,True
+Lucas Gonzalez,1088057,84,Attacking Midfielder,AM,5,False
+Lucas Gonzalez,1088057,103,Right Winger,RW,1,False
+Alex Luna,1314218,76,Central Midfielder,CM,5,True
+Alex Luna,1314218,78,Left Midfielder,LM,3,False
+Alex Luna,1314218,83,Right Winger,RW,4,False
+Alex Luna,1314218,85,Attacking Midfielder,AM,5,False
+Alex Luna,1314218,87,Left Winger,LW,4,False
+Alex Luna,1314218,104,Striker,ST,1,False
+Santiago Toloza,1354120,73,Central Midfielder,CM,2,True
+Santiago Toloza,1354120,78,Left Midfielder,LM,1,False
+Santiago Toloza,1354120,83,Right Winger,RW,1,False
+Santiago Toloza,1354120,85,Attacking Midfielder,AM,1,False
+Santiago Toloza,1354120,104,Striker,ST,1,False
+David Martinez,1457715,64,Defensive Midfielder,DM,6,False
+David Martinez,1457715,73,Central Midfielder,CM,10,True
+David Martinez,1457715,78,Left Midfielder,LM,1,False
+David Martinez,1457715,83,Right Winger,RW,1,False
+Javier Ruiz,1513420,72,Right Midfielder,RM,1,True
+Lautaro Millan,1647589,85,Attacking Midfielder,AM,3,True
+Gabriel Avalos,425711,104,Striker,ST,34,True
+Gabriel Avalos,425711,107,Left Winger,LW,1,False
+Alexis Pedro Canelo,616400,78,Left Midfielder,LM,1,False
+Alexis Pedro Canelo,616400,83,Right Winger,RW,5,False
+Alexis Pedro Canelo,616400,85,Attacking Midfielder,AM,1,False
+Alexis Pedro Canelo,616400,87,Left Winger,LW,2,False
+Alexis Pedro Canelo,616400,104,Striker,ST,12,True
+Matias Gimenez Rojas,1025559,85,Attacking Midfielder,AM,2,False
+Matias Gimenez Rojas,1025559,103,Right Winger,RW,1,False
+Matias Gimenez Rojas,1025559,104,Striker,ST,14,True
+Maestro Puch Ignacio,1221231,104,Striker,ST,8,True
+Rodrigo Marquez,1277344,88,Left Winger,LW,1,True
+Santiago Massa,1362516,87,Left Winger,LW,1,True
+Javier Vallejo,1388237,72,Right Midfielder,RM,1,False
+Javier Vallejo,1388237,83,Right Winger,RW,5,True
+Javier Vallejo,1388237,104,Striker,ST,1,False
+Santiago Lopez,1485158,82,Right Winger,RW,6,True
+Santiago Lopez,1485158,87,Left Winger,LW,4,False
+Santiago Lopez,1485158,114,Striker,ST,2,False
+Diego Tarzia,1607054,87,Left Winger,LW,5,True
+Marcos Ledesma,591557,11,Keeper,GK,4,True
+Nelson Insfran,955209,11,Keeper,GK,24,True
+Nicolas Carlos Colazo,175364,38,Left Back,LB,14,True
+Nicolas Carlos Colazo,175364,78,Left Midfielder,LM,7,False
+Nicolas Carlos Colazo,175364,87,Left Winger,LW,2,False
+Yonathan Cabral,521211,33,Center Back,CB,32,True
+Yonathan Cabral,521211,41,Right Back,RB,1,False
+Gustavo Canto,623787,36,Center Back,CB,15,True
+Gustavo Canto,623787,38,Left Back,LB,7,False
+Brian Blasi,693432,32,Right Back,RB,6,False
+Brian Blasi,693432,33,Center Back,CB,6,True
+Leonardo Morales,795485,34,Center Back,CB,36,True
+Juan Pintado,799678,32,Right Back,RB,30,True
+Juan Pintado,799678,33,Center Back,CB,1,False
+Juan Pintado,799678,51,Right Wing-Back,RWB,2,False
+Juan Pintado,799678,72,Right Midfielder,RM,3,False
+Rodrigo Gallo,1221038,38,Left Back,LB,7,True
+Valentin Rodriguez,1248705,34,Center Back,CB,1,False
+Valentin Rodriguez,1248705,38,Left Back,LB,6,True
+Valentin Rodriguez,1248705,59,Left Wing-Back,LWB,1,False
+Valentin Rodriguez,1248705,87,Left Winger,LW,4,False
+Juan Cortazzo,1608138,33,Center Back,CB,3,True
+Pablo De Blasis,130118,64,Defensive Midfielder,DM,6,False
+Pablo De Blasis,130118,74,Central Midfielder,CM,18,True
+Pablo De Blasis,130118,78,Left Midfielder,LM,2,False
+Pablo De Blasis,130118,85,Attacking Midfielder,AM,5,False
+Lucas Nahuel Castro,166509,63,Defensive Midfielder,DM,3,False
+Lucas Nahuel Castro,166509,72,Right Midfielder,RM,1,False
+Lucas Nahuel Castro,166509,73,Central Midfielder,CM,10,True
+Lucas Nahuel Castro,166509,85,Attacking Midfielder,AM,3,False
+Agustin Bolivar,875743,64,Defensive Midfielder,DM,3,False
+Agustin Bolivar,875743,74,Central Midfielder,CM,5,True
+Martin Fernandez,1053835,36,Center Back,CB,1,False
+Martin Fernandez,1053835,65,Defensive Midfielder,DM,2,False
+Martin Fernandez,1053835,73,Central Midfielder,CM,24,True
+Matias Miranda,1097860,72,Right Midfielder,RM,1,True
+Nicolas Garayalde,1212145,64,Defensive Midfielder,DM,4,False
+Nicolas Garayalde,1212145,73,Central Midfielder,CM,5,True
+Leandro Mamut,1231927,86,Attacking Midfielder,AM,1,True
+David Zalazar,1336106,72,Right Midfielder,RM,1,False
+David Zalazar,1336106,73,Central Midfielder,CM,2,False
+David Zalazar,1336106,78,Left Midfielder,LM,2,True
+David Zalazar,1336106,83,Right Winger,RW,3,False
+David Zalazar,1336106,87,Left Winger,LW,1,False
+Matias Ramirez,1432878,72,Right Midfielder,RM,2,True
+Nicolas Sanchez,1460280,66,Defensive Midfielder,DM,1,True
+Cristian Colman,118767,104,Striker,ST,5,True
+Franco Troyansky,726261,104,Striker,ST,5,True
+Franco Troyansky,726261,107,Left Winger,LW,1,False
+Lautaro Chavez,921347,82,Right Winger,RW,1,False
+Lautaro Chavez,921347,107,Left Winger,LW,1,True
+Manuel Panaro,1206551,87,Left Winger,LW,1,True
+Ivo Mammini,1215721,104,Striker,ST,7,True
+Juan Esquivel,1248446,78,Left Midfielder,LM,1,False
+Juan Esquivel,1248446,87,Left Winger,LW,3,True
+Juan Esquivel,1248446,105,Striker,ST,1,False
+Benjamin Dominguez,1316088,72,Right Midfielder,RM,3,False
+Benjamin Dominguez,1316088,78,Left Midfielder,LM,8,False
+Benjamin Dominguez,1316088,83,Right Winger,RW,1,False
+Benjamin Dominguez,1316088,85,Attacking Midfielder,AM,1,False
+Benjamin Dominguez,1316088,87,Left Winger,LW,18,True
+Benjamin Dominguez,1316088,106,Striker,ST,2,False
+Rodrigo Castillo,1336919,104,Striker,ST,14,True
+Matias Abaldo,1398532,72,Right Midfielder,RM,9,False
+Matias Abaldo,1398532,83,Right Winger,RW,13,True
+Matias Abaldo,1398532,104,Striker,ST,1,False
+Diego Rodriguez,186986,11,Keeper,GK,51,True
+Miguel Acosta,1200317,11,Keeper,GK,1,True
+Gonzalo Siri Payer,1608394,11,Keeper,GK,1,True
+Fernando Meza,158897,32,Right Back,RB,8,False
+Fernando Meza,158897,33,Center Back,CB,13,True
+Erik Fernando Godoy,316878,33,Center Back,CB,17,True
+Jonathan Galvan,615932,33,Center Back,CB,30,True
+Sebastian Prieto,841913,38,Left Back,LB,21,True
+Sebastian Prieto,841913,77,Central Midfielder,CM,1,False
+Luciano Sanchez,862337,33,Center Back,CB,1,True
+Francisco Alvarez,920404,32,Right Back,RB,1,False
+Francisco Alvarez,920404,33,Center Back,CB,31,True
+Roman Vega,1240172,36,Center Back,CB,3,False
+Roman Vega,1240172,38,Left Back,LB,22,True
+Roman Vega,1240172,58,Left Wing-Back,LWB,2,False
+Kevin Coronel,1575797,32,Right Back,RB,4,True
+Kevin Coronel,1575797,51,Right Wing-Back,RWB,2,False
+Kevin Coronel,1575797,71,Right Midfielder,RM,1,False
+Thiago Santamaria,1607567,32,Right Back,RB,19,True
+Thiago Santamaria,1607567,51,Right Wing-Back,RWB,1,False
+Tobias Palacio,1607568,34,Center Back,CB,26,True
+Nicolas Oroz,543304,66,Defensive Midfielder,DM,3,False
+Nicolas Oroz,543304,72,Right Midfielder,RM,1,False
+Nicolas Oroz,543304,73,Central Midfielder,CM,18,True
+Nicolas Oroz,543304,78,Left Midfielder,LM,3,False
+Nicolas Oroz,543304,87,Left Winger,LW,2,False
+Nicolas Oroz,543304,94,Attacking Midfielder,AM,1,False
+Nicolas Oroz,543304,103,Right Winger,RW,3,False
+Francis Mac Allister,751057,65,Defensive Midfielder,DM,1,True
+Alan Rodriguez,1035611,32,Right Back,RB,1,False
+Alan Rodriguez,1035611,52,Right Wing-Back,RWB,1,False
+Alan Rodriguez,1035611,63,Defensive Midfielder,DM,4,False
+Alan Rodriguez,1035611,72,Right Midfielder,RM,1,False
+Alan Rodriguez,1035611,73,Central Midfielder,CM,15,True
+Alan Rodriguez,1035611,78,Left Midfielder,LM,1,False
+Alan Rodriguez,1035611,87,Left Winger,LW,1,False
+Emiliano Viveros,1304246,58,Left Wing-Back,LWB,1,False
+Emiliano Viveros,1304246,67,Defensive Midfielder,DM,1,False
+Emiliano Viveros,1304246,72,Right Midfielder,RM,1,False
+Emiliano Viveros,1304246,76,Central Midfielder,CM,3,False
+Emiliano Viveros,1304246,78,Left Midfielder,LM,5,True
+Emiliano Viveros,1304246,83,Right Winger,RW,1,False
+Emiliano Viveros,1304246,86,Attacking Midfielder,AM,4,False
+Emiliano Viveros,1304246,106,Striker,ST,1,False
+Alan Lescano,1342579,63,Defensive Midfielder,DM,3,False
+Alan Lescano,1342579,72,Right Midfielder,RM,3,False
+Alan Lescano,1342579,73,Central Midfielder,CM,20,True
+Alan Lescano,1342579,82,Right Winger,RW,2,False
+Alan Lescano,1342579,85,Attacking Midfielder,AM,4,False
+Juan Cardozo,1437199,73,Central Midfielder,CM,5,True
+Matias Perello,1607569,96,Attacking Midfielder,AM,1,True
+Matias Perello,1607569,116,Striker,ST,1,False
+Lucas Gomez,1609797,66,Defensive Midfielder,DM,1,False
+Lucas Gomez,1609797,74,Central Midfielder,CM,1,True
+Ariel Gamarra,1613475,65,Defensive Midfielder,DM,3,False
+Ariel Gamarra,1613475,74,Central Midfielder,CM,12,True
+Maximiliano Romero,613299,96,Attacking Midfielder,AM,1,False
+Maximiliano Romero,613299,103,Right Winger,RW,2,False
+Maximiliano Romero,613299,104,Striker,ST,17,True
+Maximiliano Romero,613299,107,Left Winger,LW,9,False
+Damian Batallini,724453,78,Left Midfielder,LM,1,False
+Damian Batallini,724453,84,Attacking Midfielder,AM,4,False
+Damian Batallini,724453,87,Left Winger,LW,8,True
+Tomas Molina,728323,104,Striker,ST,16,True
+Leonardo Heredia,809620,73,Central Midfielder,CM,2,False
+Leonardo Heredia,809620,78,Left Midfielder,LM,3,False
+Leonardo Heredia,809620,83,Right Winger,RW,3,False
+Leonardo Heredia,809620,96,Attacking Midfielder,AM,1,False
+Leonardo Heredia,809620,104,Striker,ST,7,False
+Leonardo Heredia,809620,107,Left Winger,LW,5,True
+Gaston Veron,918846,85,Attacking Midfielder,AM,6,False
+Gaston Veron,918846,88,Left Winger,LW,2,False
+Gaston Veron,918846,103,Right Winger,RW,5,False
+Gaston Veron,918846,105,Striker,ST,8,True
+Luciano Gondou,1232258,95,Attacking Midfielder,AM,1,False
+Luciano Gondou,1232258,103,Right Winger,RW,4,False
+Luciano Gondou,1232258,104,Striker,ST,28,True
+Luciano Gondou,1232258,107,Left Winger,LW,1,False
+Jose Herrera,1372718,52,Right Wing-Back,RWB,1,False
+Jose Herrera,1372718,83,Right Winger,RW,6,True
+Jose Herrera,1372718,104,Striker,ST,2,False
+Nereo Champagne,18721,11,Keeper,GK,16,True
+Fernando Monetti,146756,11,Keeper,GK,14,True
+Lucas Acosta,492209,11,Keeper,GK,30,True
+Jeronimo Pourtau,834883,11,Keeper,GK,13,True
+Thyago Ayala,1513003,11,Keeper,GK,1,True
+Facundo Roncaglia,113318,32,Right Back,RB,2,False
+Facundo Roncaglia,113318,35,Center Back,CB,3,True
+Juan Manuel Insaurralde,147620,34,Center Back,CB,37,True
+Gaston Sauro,169806,33,Center Back,CB,7,True
+Luis Yamil Garnier,571459,32,Right Back,RB,1,True
+Yair Arismendi,845709,38,Left Back,LB,8,True
+Yair Arismendi,845709,59,Left Wing-Back,LWB,3,False
+Yair Arismendi,845709,76,Central Midfielder,CM,1,False
+Yair Arismendi,845709,78,Left Midfielder,LM,5,False
+Yair Arismendi,845709,104,Striker,ST,1,False
+Elias Sebastian Lopez,1074868,32,Right Back,RB,9,True
+Elias Sebastian Lopez,1074868,33,Center Back,CB,1,False
+Elias Sebastian Lopez,1074868,51,Right Wing-Back,RWB,7,False
+Franco Paredes,1137661,32,Right Back,RB,3,False
+Franco Paredes,1137661,33,Center Back,CB,24,True
+Franco Paredes,1137661,64,Defensive Midfielder,DM,1,False
+Franco Paredes,1137661,71,Right Midfielder,RM,1,False
+Juan Guasone,1203234,33,Center Back,CB,9,True
+Alfredo Amarilla,1305063,59,Left Wing-Back,LWB,1,True
+Alfredo Amarilla,1305063,75,Central Midfielder,CM,1,False
+Gabriel Diaz,1352729,38,Left Back,LB,18,True
+Gabriel Diaz,1352729,59,Left Wing-Back,LWB,7,False
+Gabriel Diaz,1352729,79,Left Midfielder,LM,1,False
+Jeremias Vallejos,1609764,32,Right Back,RB,2,True
+Jeremias Vallejos,1609764,51,Right Wing-Back,RWB,1,False
+Pablo Javier Perez,18483,73,Central Midfielder,CM,1,True
+Nicolás Gaitán,164031,78,Left Midfielder,LM,1,True
+Nicolás Gaitán,164031,85,Attacking Midfielder,AM,1,False
+Fernando Gabriel Godoy,164035,65,Defensive Midfielder,DM,1,False
+Fernando Gabriel Godoy,164035,74,Central Midfielder,CM,14,True
+Emiliano Mendez,202628,64,Defensive Midfielder,DM,6,False
+Emiliano Mendez,202628,74,Central Midfielder,CM,8,True
+Juan Andrada,787257,64,Defensive Midfielder,DM,9,True
+Juan Andrada,787257,73,Central Midfielder,CM,3,False
+Sergio Quiroga,824068,73,Central Midfielder,CM,4,False
+Sergio Quiroga,824068,78,Left Midfielder,LM,6,True
+Sergio Quiroga,824068,84,Attacking Midfielder,AM,5,False
+Sergio Quiroga,824068,87,Left Winger,LW,2,False
+Sergio Quiroga,824068,103,Right Winger,RW,1,False
+Sergio Quiroga,824068,106,Striker,ST,1,False
+Valentin Burgoa,936100,72,Right Midfielder,RM,1,False
+Valentin Burgoa,936100,78,Left Midfielder,LM,1,False
+Valentin Burgoa,936100,84,Attacking Midfielder,AM,6,True
+Diego Calcaterra,1215717,34,Center Back,CB,6,True
+Diego Calcaterra,1215717,65,Defensive Midfielder,DM,4,False
+Diego Calcaterra,1215717,74,Central Midfielder,CM,6,False
+Diego Calcaterra,1215717,78,Left Midfielder,LM,1,False
+Diego Calcaterra,1215717,82,Right Winger,RW,1,False
+Joaquin Gho,1232259,72,Right Midfielder,RM,3,False
+Joaquin Gho,1232259,73,Central Midfielder,CM,3,False
+Joaquin Gho,1232259,78,Left Midfielder,LM,3,False
+Joaquin Gho,1232259,82,Right Winger,RW,4,True
+Joaquin Gho,1232259,95,Attacking Midfielder,AM,2,False
+Joaquin Gho,1232259,104,Striker,ST,5,False
+Manuel Garcia,1238746,37,Center Back,CB,1,False
+Manuel Garcia,1238746,66,Defensive Midfielder,DM,2,False
+Manuel Garcia,1238746,74,Central Midfielder,CM,9,True
+Manuel Garcia,1238746,83,Right Winger,RW,1,False
+Manuel Garcia,1238746,86,Attacking Midfielder,AM,3,False
+Federico Paradela,1252646,77,Central Midfielder,CM,1,True
+Manuel Monaco,1372337,72,Right Midfielder,RM,6,True
+Manuel Monaco,1372337,73,Central Midfielder,CM,1,False
+Manuel Monaco,1372337,82,Right Winger,RW,1,False
+Lisandro Lopez,30536,92,Right Winger,RW,1,False
+Lisandro Lopez,30536,104,Striker,ST,10,True
+Gabriel Hauche,41018,72,Right Midfielder,RM,4,False
+Gabriel Hauche,41018,75,Central Midfielder,CM,3,False
+Gabriel Hauche,41018,78,Left Midfielder,LM,1,False
+Gabriel Hauche,41018,83,Right Winger,RW,5,True
+Gabriel Hauche,41018,85,Attacking Midfielder,AM,3,False
+Gabriel Hauche,41018,104,Striker,ST,5,False
+Gabriel Hauche,41018,107,Left Winger,LW,2,False
+Agustin Fontana,592919,104,Striker,ST,12,True
+Bryan Cabezas,617424,83,Right Winger,RW,1,True
+Gabriel Gudino,751219,72,Right Midfielder,RM,4,False
+Gabriel Gudino,751219,78,Left Midfielder,LM,1,False
+Gabriel Gudino,751219,82,Right Winger,RW,2,False
+Gabriel Gudino,751219,87,Left Winger,LW,5,True
+Ivan Morales,785840,104,Striker,ST,9,True
+Ivan Morales,785840,107,Left Winger,LW,1,False
+David Gallardo,818392,87,Left Winger,LW,1,True
+Ezequiel Naya,1276035,98,Left Winger,LW,1,False
+Ezequiel Naya,1276035,104,Striker,ST,12,True
+Matias Rosales,1649651,51,Right Wing-Back,RWB,1,False
+Matias Rosales,1649651,82,Right Winger,RW,2,True
+Alan Sosa,855471,11,Keeper,GK,34,True
+Felipe Zenobio,1198479,11,Keeper,GK,21,True
+Juan Sánchez Mino,239981,38,Left Back,LB,7,True
+Juan Sánchez Mino,239981,59,Left Wing-Back,LWB,2,False
+Juan Sánchez Mino,239981,77,Central Midfielder,CM,3,False
+Juan Sánchez Mino,239981,78,Left Midfielder,LM,1,False
+Juan Sánchez Mino,239981,86,Attacking Midfielder,AM,1,False
+Nehuén Paz,490660,35,Center Back,CB,6,True
+Pablo Adorno,921260,36,Center Back,CB,3,True
+Pablo Adorno,921260,38,Left Back,LB,1,False
+Nahuel Banegas,1098367,36,Center Back,CB,1,False
+Nahuel Banegas,1098367,38,Left Back,LB,25,True
+Nahuel Banegas,1098367,59,Left Wing-Back,LWB,8,False
+Nahuel Banegas,1098367,78,Left Midfielder,LM,1,False
+Gian Nardelli,1201766,32,Right Back,RB,1,False
+Gian Nardelli,1201766,34,Center Back,CB,18,True
+Gian Nardelli,1201766,51,Right Wing-Back,RWB,1,False
+Gian Nardelli,1201766,86,Attacking Midfielder,AM,1,False
+Pablo Minissale,1231125,33,Center Back,CB,9,True
+Martin Ortega,1266877,32,Right Back,RB,21,True
+Martin Ortega,1266877,51,Right Wing-Back,RWB,2,False
+Nahuel Genez,1280337,38,Left Back,LB,7,True
+Tomas Fernandez,1509613,34,Center Back,CB,3,True
+Tomas Fernandez,1509613,76,Central Midfielder,CM,1,False
+Angelo Marchese,1644103,38,Left Back,LB,4,True
+Leonel Ariel Miranda,426408,74,Central Midfielder,CM,4,True
+Leonel Ariel Miranda,426408,85,Attacking Midfielder,AM,1,False
+Ijiel Protti,647929,78,Left Midfielder,LM,1,True
+Gonzalo Maroni,751138,73,Central Midfielder,CM,11,True
+Gonzalo Maroni,751138,78,Left Midfielder,LM,2,False
+Gonzalo Maroni,751138,85,Attacking Midfielder,AM,10,False
+Gonzalo Maroni,751138,104,Striker,ST,2,False
+Agustin Cardozo,795163,36,Center Back,CB,1,False
+Agustin Cardozo,795163,64,Defensive Midfielder,DM,15,False
+Agustin Cardozo,795163,73,Central Midfielder,CM,16,True
+Martin Garay,939965,32,Right Back,RB,10,True
+Martin Garay,939965,51,Right Wing-Back,RWB,1,False
+Martin Garay,939965,64,Defensive Midfielder,DM,8,False
+Martin Garay,939965,72,Right Midfielder,RM,1,False
+Martin Garay,939965,73,Central Midfielder,CM,5,False
+Martin Garay,939965,82,Right Winger,RW,3,False
+Tomas Galvan,1256242,63,Defensive Midfielder,DM,6,False
+Tomas Galvan,1256242,72,Right Midfielder,RM,2,False
+Tomas Galvan,1256242,73,Central Midfielder,CM,7,True
+Tomas Galvan,1256242,78,Left Midfielder,LM,2,False
+Tomas Galvan,1256242,83,Right Winger,RW,5,False
+Tomas Galvan,1256242,84,Attacking Midfielder,AM,1,False
+Tomas Galvan,1256242,87,Left Winger,LW,5,False
+Lorenzo Scipioni,1358378,66,Defensive Midfielder,DM,1,True
+Santiago Gonzalez,1630645,66,Defensive Midfielder,DM,2,True
+Facundo Ferreyra,160166,104,Striker,ST,5,True
+Leandro Contin,581174,104,Striker,ST,10,True
+Eric Ramirez,837890,104,Striker,ST,16,True
+Blas Armoa,839634,72,Right Midfielder,RM,2,False
+Blas Armoa,839634,78,Left Midfielder,LM,1,False
+Blas Armoa,839634,83,Right Winger,RW,4,False
+Blas Armoa,839634,85,Attacking Midfielder,AM,2,False
+Blas Armoa,839634,87,Left Winger,LW,6,False
+Blas Armoa,839634,104,Striker,ST,7,True
+Dario Sarmiento,1095198,107,Left Winger,LW,1,True
+Florian Monzon,1200720,72,Right Midfielder,RM,1,False
+Florian Monzon,1200720,82,Right Winger,RW,1,False
+Florian Monzon,1200720,105,Striker,ST,19,True
+Sebastian Medina,1270044,59,Left Wing-Back,LWB,1,False
+Sebastian Medina,1270044,85,Attacking Midfielder,AM,1,False
+Sebastian Medina,1270044,88,Left Winger,LW,1,False
+Sebastian Medina,1270044,115,Striker,ST,1,True
+Ezequiel Forclaz,1336583,38,Left Back,LB,1,False
+Ezequiel Forclaz,1336583,72,Right Midfielder,RM,1,False
+Ezequiel Forclaz,1336583,82,Right Winger,RW,6,True
+Ezequiel Forclaz,1336583,85,Attacking Midfielder,AM,1,False
+Ezequiel Forclaz,1336583,87,Left Winger,LW,2,False
+Ezequiel Forclaz,1336583,104,Striker,ST,3,False
+Matias Espindola,1343371,106,Striker,ST,1,True
+Bernardo Benitez,1368373,107,Left Winger,LW,1,True
+Lucas Hoyos,113620,11,Keeper,GK,23,True
+Ramiro Macagno,684778,11,Keeper,GK,35,True
+Leonel Vangioni,94631,35,Center Back,CB,6,True
+Leonel Vangioni,94631,38,Left Back,LB,1,False
+Gustavo Velazquez,497352,32,Right Back,RB,5,False
+Gustavo Velazquez,497352,33,Center Back,CB,38,True
+Saul Salcedo,724317,35,Center Back,CB,8,True
+Angelo Martino,805592,38,Left Back,LB,33,True
+Angelo Martino,805592,58,Left Wing-Back,LWB,1,False
+Angelo Martino,805592,88,Left Winger,LW,1,False
+Armando Mendez,1093699,32,Right Back,RB,29,True
+Armando Mendez,1093699,33,Center Back,CB,1,False
+Armando Mendez,1093699,52,Right Wing-Back,RWB,1,False
+Armando Mendez,1093699,72,Right Midfielder,RM,2,False
+Armando Mendez,1093699,83,Right Winger,RW,1,False
+Augusto Schott,1200762,32,Right Back,RB,7,True
+Tomas Jacob,1308412,34,Center Back,CB,4,True
+Ian Glavinovich,1376793,34,Center Back,CB,25,True
+Éver Banega,108568,64,Defensive Midfielder,DM,3,False
+Éver Banega,108568,73,Central Midfielder,CM,14,False
+Éver Banega,108568,85,Attacking Midfielder,AM,17,True
+Julian Fernandez,453412,64,Defensive Midfielder,DM,10,True
+Julian Fernandez,453412,74,Central Midfielder,CM,2,False
+Gabriel Carabajal,529100,38,Left Back,LB,1,False
+Gabriel Carabajal,529100,77,Central Midfielder,CM,1,False
+Gabriel Carabajal,529100,79,Left Midfielder,LM,2,True
+Gabriel Carabajal,529100,106,Striker,ST,1,False
+Ignacio Mendez,847986,64,Defensive Midfielder,DM,5,False
+Ignacio Mendez,847986,72,Right Midfielder,RM,1,False
+Ignacio Mendez,847986,73,Central Midfielder,CM,12,True
+Ignacio Mendez,847986,82,Right Winger,RW,1,False
+Rodrigo Fernandez,861785,64,Defensive Midfielder,DM,13,False
+Rodrigo Fernandez,861785,72,Right Midfielder,RM,2,False
+Rodrigo Fernandez,861785,73,Central Midfielder,CM,15,True
+Jeronimo Cacciabue,918492,63,Defensive Midfielder,DM,3,True
+Jeronimo Cacciabue,918492,72,Right Midfielder,RM,1,False
+Jeronimo Cacciabue,918492,73,Central Midfielder,CM,2,False
+Matko Miljevic,981079,76,Central Midfielder,CM,3,True
+Matko Miljevic,981079,85,Attacking Midfielder,AM,1,False
+Brian Calderara,1201407,38,Left Back,LB,4,True
+Brian Calderara,1201407,59,Left Wing-Back,LWB,1,False
+Brian Calderara,1201407,72,Right Midfielder,RM,1,False
+Brian Calderara,1201407,78,Left Midfielder,LM,4,False
+Brian Calderara,1201407,87,Left Winger,LW,1,False
+David Sotelo,1405419,66,Defensive Midfielder,DM,1,True
+Tomas Perez,1508514,75,Central Midfielder,CM,1,True
+Esteban Fernandez,1562792,85,Attacking Midfielder,AM,2,True
+Fabricio Tirado,1633129,67,Defensive Midfielder,DM,1,False
+Fabricio Tirado,1633129,78,Left Midfielder,LM,1,True
+Juan Manuel Garcia,626154,104,Striker,ST,27,True
+Ignacio Ramirez,727095,104,Striker,ST,35,True
+Ignacio Ramirez,727095,107,Left Winger,LW,3,False
+Fernando Cardozo,860962,51,Right Wing-Back,RWB,1,False
+Fernando Cardozo,860962,83,Right Winger,RW,5,True
+Fernando Cardozo,860962,104,Striker,ST,1,False
+Guillermo May,979800,83,Right Winger,RW,4,True
+Guillermo May,979800,85,Attacking Midfielder,AM,1,False
+Guillermo May,979800,104,Striker,ST,4,False
+Guillermo May,979800,107,Left Winger,LW,1,False
+Francisco Gonzalez,1042571,82,Right Winger,RW,11,True
+Francisco Gonzalez,1042571,87,Left Winger,LW,8,False
+Francisco Gonzalez,1042571,104,Striker,ST,4,False
+Lucas Besozzi,1200664,76,Central Midfielder,CM,1,False
+Lucas Besozzi,1200664,87,Left Winger,LW,8,True
+Lucas Besozzi,1200664,96,Attacking Midfielder,AM,1,False
+Ignacio Schor,1214017,79,Left Midfielder,LM,1,True
+Ignacio Schor,1214017,83,Right Winger,RW,1,False
+Ignacio Schor,1214017,87,Left Winger,LW,1,False
+Misael Jaime,1246290,83,Right Winger,RW,2,True
+Jeremias Tica,1307096,85,Attacking Midfielder,AM,1,False
+Jeremias Tica,1307096,103,Right Winger,RW,1,True
+Giovani Chiaverano,1562427,103,Right Winger,RW,1,True
+Gaston Gomez,616344,11,Keeper,GK,16,True
+Facundo Altamirano,636982,11,Keeper,GK,27,True
+Mateo Clemente,1339670,11,Keeper,GK,1,True
+Carlos Sánchez,56972,34,Center Back,CB,11,True
+Carlos Sánchez,56972,65,Defensive Midfielder,DM,2,False
+Carlos Sánchez,56972,74,Central Midfielder,CM,4,False
+Gaston Campi,489072,26,Center Back,CB,35,True
+Gaston Campi,489072,59,Left Wing-Back,LWB,1,False
+Nicolas Tripichio,616153,32,Right Back,RB,22,True
+Nicolas Tripichio,616153,33,Center Back,CB,4,False
+Nicolas Tripichio,616153,51,Right Wing-Back,RWB,1,False
+Nicolas Tripichio,616153,64,Defensive Midfielder,DM,11,False
+Nicolas Tripichio,616153,73,Central Midfielder,CM,3,False
+Nicolas Tripichio,616153,115,Striker,ST,1,False
+Malcom Braida,938003,37,Center Back,CB,1,False
+Malcom Braida,938003,38,Left Back,LB,15,True
+Malcom Braida,938003,58,Left Wing-Back,LWB,15,False
+Malcom Braida,938003,77,Central Midfielder,CM,1,False
+Malcom Braida,938003,78,Left Midfielder,LM,11,False
+Jhohan Romana,1133142,25,Center Back,CB,32,True
+Gaston Hernandez,1144961,37,Center Back,CB,22,True
+Gonzalo Lujan Melli,1257342,24,Center Back,CB,15,True
+Gonzalo Lujan Melli,1257342,32,Right Back,RB,8,False
+Gonzalo Lujan Melli,1257342,71,Right Midfielder,RM,2,False
+Nahuel Arias,1513336,32,Right Back,RB,7,True
+Elias Baez,1513339,38,Left Back,LB,6,True
+Elias Baez,1513339,79,Left Midfielder,LM,1,False
+Daniel Herrera,1631575,36,Center Back,CB,2,True
+Daniel Herrera,1631575,51,Right Wing-Back,RWB,1,False
+Eric Remedi,642763,64,Defensive Midfielder,DM,20,True
+Eric Remedi,642763,73,Central Midfielder,CM,8,False
+Cristian Nahuel Barrios,838234,67,Defensive Midfielder,DM,1,False
+Cristian Nahuel Barrios,838234,76,Central Midfielder,CM,4,False
+Cristian Nahuel Barrios,838234,78,Left Midfielder,LM,6,False
+Cristian Nahuel Barrios,838234,83,Right Winger,RW,1,False
+Cristian Nahuel Barrios,838234,85,Attacking Midfielder,AM,12,False
+Cristian Nahuel Barrios,838234,87,Left Winger,LW,12,True
+Cristian Nahuel Barrios,838234,115,Striker,ST,1,False
+Cristian Ferreira,892175,74,Central Midfielder,CM,7,False
+Cristian Ferreira,892175,83,Right Winger,RW,1,False
+Cristian Ferreira,892175,85,Attacking Midfielder,AM,13,True
+Cristian Ferreira,892175,104,Striker,ST,1,False
+Cristian Ferreira,892175,107,Left Winger,LW,1,False
+Manuel Insaurralde,972814,74,Central Midfielder,CM,4,True
+Augustin Hausch,1128740,72,Right Midfielder,RM,1,True
+Elian Irala,1378855,64,Defensive Midfielder,DM,14,False
+Elian Irala,1378855,73,Central Midfielder,CM,17,True
+Sebastian Blanco,68303,85,Attacking Midfielder,AM,1,False
+Sebastian Blanco,68303,87,Left Winger,LW,2,True
+Ezequiel Cerutti,469593,73,Central Midfielder,CM,1,False
+Ezequiel Cerutti,469593,83,Right Winger,RW,3,True
+Francisco Fydriszewski,576037,105,Striker,ST,4,True
+Andres Vombergar,681608,104,Striker,ST,16,True
+Andres Vombergar,681608,107,Left Winger,LW,1,False
+Nahuel Lautaro Bustos,835409,83,Right Winger,RW,1,False
+Nahuel Lautaro Bustos,835409,85,Attacking Midfielder,AM,3,False
+Nahuel Lautaro Bustos,835409,87,Left Winger,LW,2,False
+Nahuel Lautaro Bustos,835409,104,Striker,ST,10,True
+Facundo Bruera,971264,106,Striker,ST,1,True
+Alexis Cuello,989370,78,Left Midfielder,LM,1,False
+Alexis Cuello,989370,85,Attacking Midfielder,AM,2,False
+Alexis Cuello,989370,87,Left Winger,LW,9,False
+Alexis Cuello,989370,103,Right Winger,RW,4,False
+Alexis Cuello,989370,104,Striker,ST,9,True
+Matias Reali,1271801,67,Defensive Midfielder,DM,1,False
+Matias Reali,1271801,78,Left Midfielder,LM,1,False
+Matias Reali,1271801,83,Right Winger,RW,7,False
+Matias Reali,1271801,85,Attacking Midfielder,AM,2,False
+Matias Reali,1271801,87,Left Winger,LW,10,True
+Matias Reali,1271801,104,Striker,ST,10,False
+Ivan Leguizamon,1315121,72,Right Midfielder,RM,3,False
+Ivan Leguizamon,1315121,73,Central Midfielder,CM,1,False
+Ivan Leguizamon,1315121,83,Right Winger,RW,16,True
+Ivan Leguizamon,1315121,85,Attacking Midfielder,AM,6,False
+Ivan Leguizamon,1315121,87,Left Winger,LW,2,False
+Ivan Leguizamon,1315121,104,Striker,ST,3,False
+Marcelo Barovero,113577,11,Keeper,GK,16,True
+Jose Devecchi,561146,11,Keeper,GK,28,True
+Facundo Sanguinetti,1200037,11,Keeper,GK,10,True
+Emanuel Insua,317775,38,Left Back,LB,36,True
+Emanuel Insua,317775,59,Left Wing-Back,LWB,1,False
+Ezequiel Bonifacio,566259,32,Right Back,RB,15,True
+Ezequiel Bonifacio,566259,38,Left Back,LB,1,False
+Alexis Maldonado,743052,34,Center Back,CB,1,True
+Alejandro Maciel,907957,32,Right Back,RB,1,False
+Alejandro Maciel,907957,33,Center Back,CB,37,True
+Luciano Leonel Recalde,917569,36,Center Back,CB,5,True
+Nicolas Hernandez,1054270,36,Center Back,CB,9,True
+Nicolas Hernandez,1054270,38,Left Back,LB,2,False
+Mateo Perez,1242715,34,Center Back,CB,4,True
+Gabriel Aranda,1280325,35,Center Back,CB,4,True
+Guillermo Enrique,1312034,32,Right Back,RB,17,True
+Mathias De Ritis,1478196,38,Left Back,LB,2,True
+Lautaro Cardozo,1607056,32,Right Back,RB,3,True
+Juan Iribarren,1610960,32,Right Back,RB,1,True
+Damian Diaz,74931,85,Attacking Midfielder,AM,4,True
+Damian Diaz,74931,106,Striker,ST,1,False
+Jesus Soraire,833682,64,Defensive Midfielder,DM,6,False
+Jesus Soraire,833682,73,Central Midfielder,CM,7,True
+Jesus Soraire,833682,84,Attacking Midfielder,AM,6,False
+Braian Galvan,876275,72,Right Midfielder,RM,3,True
+Braian Galvan,876275,76,Central Midfielder,CM,1,False
+Braian Galvan,876275,78,Left Midfielder,LM,1,False
+Braian Galvan,876275,83,Right Winger,RW,2,False
+Braian Galvan,876275,87,Left Winger,LW,2,False
+Cristian Nunez,918511,64,Defensive Midfielder,DM,6,True
+Cristian Nunez,918511,72,Right Midfielder,RM,1,False
+Cristian Nunez,918511,73,Central Midfielder,CM,4,False
+Cristian Nunez,918511,84,Attacking Midfielder,AM,1,False
+Alejandro Cabrera,930564,66,Defensive Midfielder,DM,1,True
+Yvo Calleros,1130865,34,Center Back,CB,1,False
+Yvo Calleros,1130865,64,Defensive Midfielder,DM,8,True
+Yvo Calleros,1130865,74,Central Midfielder,CM,8,False
+Martin Ezequiel Canete,1131702,64,Defensive Midfielder,DM,3,False
+Martin Ezequiel Canete,1131702,75,Central Midfielder,CM,3,False
+Martin Ezequiel Canete,1131702,82,Right Winger,RW,3,False
+Martin Ezequiel Canete,1131702,84,Attacking Midfielder,AM,9,True
+Matias Gonzalez,1200040,75,Central Midfielder,CM,3,False
+Matias Gonzalez,1200040,85,Attacking Midfielder,AM,6,True
+Ignacio Rodriguez,1244348,72,Right Midfielder,RM,1,False
+Ignacio Rodriguez,1244348,74,Central Midfielder,CM,3,False
+Ignacio Rodriguez,1244348,78,Left Midfielder,LM,11,False
+Ignacio Rodriguez,1244348,82,Right Winger,RW,2,False
+Ignacio Rodriguez,1244348,84,Attacking Midfielder,AM,13,True
+Ignacio Rodriguez,1244348,87,Left Winger,LW,11,False
+Lautaro Villegas,1246078,85,Attacking Midfielder,AM,1,True
+Yonathan Rodriguez,1306107,64,Defensive Midfielder,DM,12,True
+Yonathan Rodriguez,1306107,74,Central Midfielder,CM,8,False
+Yonathan Rodriguez,1306107,86,Attacking Midfielder,AM,1,False
+Dylan Gamarra,1416382,75,Central Midfielder,CM,1,True
+Tomas Adoryan,1447884,64,Defensive Midfielder,DM,5,False
+Tomas Adoryan,1447884,72,Right Midfielder,RM,1,False
+Tomas Adoryan,1447884,73,Central Midfielder,CM,10,True
+Tomas Adoryan,1447884,86,Attacking Midfielder,AM,1,False
+Bruno Sepulveda,741669,104,Striker,ST,22,True
+Juan Alvarez,848153,51,Right Wing-Back,RWB,1,False
+Juan Alvarez,848153,72,Right Midfielder,RM,8,False
+Juan Alvarez,848153,78,Left Midfielder,LM,1,False
+Juan Alvarez,848153,82,Right Winger,RW,14,True
+Juan Alvarez,848153,86,Attacking Midfielder,AM,1,False
+Juan Alvarez,848153,87,Left Winger,LW,2,False
+Juan Bisanz,1339423,82,Right Winger,RW,1,False
+Juan Bisanz,1339423,85,Attacking Midfielder,AM,1,False
+Juan Bisanz,1339423,87,Left Winger,LW,9,True
+Juan Bisanz,1339423,104,Striker,ST,3,False
+Marcos Echeverria,1357786,106,Striker,ST,1,True
+Mauricio Roldan,1457902,104,Striker,ST,4,True
+Geronimo Rivera,1489242,82,Right Winger,RW,5,True
+Geronimo Rivera,1489242,86,Attacking Midfielder,AM,1,False
+Geronimo Rivera,1489242,87,Left Winger,LW,3,False
+Sebastian Emanuel Moyano,279891,11,Keeper,GK,36,True
+Marcelo Mino,847988,11,Keeper,GK,10,True
+Nicolas Demartini,925286,34,Center Back,CB,14,True
+Gonzalo Goni,939404,33,Center Back,CB,35,True
+Facundo Mater,1095779,32,Right Back,RB,22,True
+Facundo Mater,1095779,51,Right Wing-Back,RWB,4,False
+Facundo Mater,1095779,64,Defensive Midfielder,DM,1,False
+Facundo Mater,1095779,72,Right Midfielder,RM,4,False
+Facundo Mater,1095779,106,Striker,ST,1,False
+Nicolas Capraro,1111071,33,Center Back,CB,37,True
+Rodrigo Insua,1134305,38,Left Back,LB,28,True
+Rodrigo Insua,1134305,59,Left Wing-Back,LWB,6,False
+Rodrigo Insua,1134305,77,Central Midfielder,CM,2,False
+Rodrigo Insua,1134305,78,Left Midfielder,LM,1,False
+Pedro Velurtas,1312331,32,Right Back,RB,6,True
+Agustin Irazoque,1328559,36,Center Back,CB,6,True
+Agustin Irazoque,1328559,38,Left Back,LB,1,False
+Lucas Faggioli,1357991,32,Right Back,RB,1,True
+Lucas Faggioli,1357991,34,Center Back,CB,1,False
+Franco Nicolas Tolosa,1436205,38,Left Back,LB,2,False
+Franco Nicolas Tolosa,1436205,59,Left Wing-Back,LWB,5,True
+Dardo Federico Miloc,182159,32,Right Back,RB,1,False
+Dardo Federico Miloc,182159,35,Center Back,CB,7,False
+Dardo Federico Miloc,182159,64,Defensive Midfielder,DM,2,False
+Dardo Federico Miloc,182159,74,Central Midfielder,CM,8,True
+Ivan Tapia,944446,66,Defensive Midfielder,DM,2,False
+Ivan Tapia,944446,73,Central Midfielder,CM,13,True
+Ivan Tapia,944446,85,Attacking Midfielder,AM,2,False
+Alan Cantero,1098460,83,Right Winger,RW,2,False
+Alan Cantero,1098460,85,Attacking Midfielder,AM,13,True
+Alan Cantero,1098460,104,Striker,ST,3,False
+Siro Rosane,1200765,64,Defensive Midfielder,DM,20,True
+Siro Rosane,1200765,73,Central Midfielder,CM,7,False
+Rodrigo Herrera,1213003,64,Defensive Midfielder,DM,23,True
+Rodrigo Herrera,1213003,73,Central Midfielder,CM,8,False
+Santiago Coronel,1248005,63,Defensive Midfielder,DM,3,False
+Santiago Coronel,1248005,76,Central Midfielder,CM,1,False
+Santiago Coronel,1248005,78,Left Midfielder,LM,2,False
+Santiago Coronel,1248005,85,Attacking Midfielder,AM,4,True
+Santiago Coronel,1248005,87,Left Winger,LW,1,False
+Santiago Coronel,1248005,103,Right Winger,RW,1,False
+Maximiliano Puig,1336136,72,Right Midfielder,RM,1,True
+Alex Juarez,1371860,63,Defensive Midfielder,DM,3,True
+Alex Juarez,1371860,83,Right Winger,RW,1,False
+Jhonatan Candia,745206,104,Striker,ST,13,True
+Alexis Dominguez,793285,104,Striker,ST,25,True
+Alexis Dominguez,793285,107,Left Winger,LW,1,False
+Marcos Iacobellis,1097396,72,Right Midfielder,RM,1,False
+Marcos Iacobellis,1097396,77,Central Midfielder,CM,1,False
+Marcos Iacobellis,1097396,83,Right Winger,RW,4,True
+Marcos Iacobellis,1097396,85,Attacking Midfielder,AM,3,False
+Marcos Iacobellis,1097396,87,Left Winger,LW,1,False
+Marcos Iacobellis,1097396,115,Striker,ST,1,False
+Daniel Juarez,1109029,83,Right Winger,RW,1,False
+Daniel Juarez,1109029,87,Left Winger,LW,2,True
+Daniel Juarez,1109029,106,Striker,ST,1,False
+Lucas Brochero,1201884,51,Right Wing-Back,RWB,2,False
+Lucas Brochero,1201884,72,Right Midfielder,RM,7,False
+Lucas Brochero,1201884,76,Central Midfielder,CM,2,False
+Lucas Brochero,1201884,82,Right Winger,RW,14,True
+Lucas Brochero,1201884,87,Left Winger,LW,1,False
+Lucas Brochero,1201884,105,Striker,ST,1,False
+Manuel Duarte,1253932,73,Central Midfielder,CM,2,False
+Manuel Duarte,1253932,85,Attacking Midfielder,AM,2,False
+Manuel Duarte,1253932,87,Left Winger,LW,4,True
+Facundo Kruger,1341070,103,Right Winger,RW,1,False
+Facundo Kruger,1341070,104,Striker,ST,13,True
+Maximiliano Zalazar,1402346,78,Left Midfielder,LM,3,False
+Maximiliano Zalazar,1402346,83,Right Winger,RW,1,False
+Maximiliano Zalazar,1402346,85,Attacking Midfielder,AM,1,False
+Maximiliano Zalazar,1402346,87,Left Winger,LW,16,True
+Maximiliano Zalazar,1402346,105,Striker,ST,1,False
+Federico Aguirre,1442364,107,Left Winger,LW,1,True
+Federico Aguirre,1442364,115,Striker,ST,1,False
+Enrique Bologna,18702,11,Keeper,GK,18,True
+Cristopher Fiermarin,1195101,11,Keeper,GK,36,True
+Ramiro Garcia,1272439,11,Keeper,GK,1,True
+Emanuel Aguilera,209273,34,Center Back,CB,19,True
+Esteban Burgos,576036,32,Right Back,RB,1,False
+Esteban Burgos,576036,33,Center Back,CB,15,True
+Alexis Soto,693430,37,Center Back,CB,1,False
+Alexis Soto,693430,38,Left Back,LB,22,True
+Alexis Soto,693430,64,Defensive Midfielder,DM,11,False
+Alexis Soto,693430,77,Central Midfielder,CM,3,False
+Alexis Soto,693430,79,Left Midfielder,LM,1,False
+Dario Caceres,922919,38,Left Back,LB,21,True
+Dario Caceres,922919,59,Left Wing-Back,LWB,1,False
+Dario Caceres,922919,66,Defensive Midfielder,DM,1,False
+Dario Caceres,922919,78,Left Midfielder,LM,2,False
+Santiago Ramos,1073724,34,Center Back,CB,40,True
+Lucas Ferreira,1195910,32,Right Back,RB,1,False
+Lucas Ferreira,1195910,33,Center Back,CB,37,True
+Ezequiel Cannavo,1216082,32,Right Back,RB,12,True
+Ezequiel Cannavo,1216082,51,Right Wing-Back,RWB,1,False
+Ezequiel Cannavo,1216082,72,Right Midfielder,RM,2,False
+Ayrton Portillo,1226758,32,Right Back,RB,23,True
+Ayrton Portillo,1226758,36,Center Back,CB,1,False
+Ayrton Portillo,1226758,51,Right Wing-Back,RWB,2,False
+Ayrton Portillo,1226758,72,Right Midfielder,RM,9,False
+Ignacio Galvan,1230316,38,Left Back,LB,1,False
+Ignacio Galvan,1230316,58,Left Wing-Back,LWB,3,True
+Ignacio Galvan,1230316,78,Left Midfielder,LM,2,False
+Esteban Lucero,1410456,36,Center Back,CB,3,True
+Tiago Ferreira,1505749,34,Center Back,CB,14,True
+Tiago Ferreira,1505749,38,Left Back,LB,6,False
+Tiago Ferreira,1505749,59,Left Wing-Back,LWB,1,False
+David Barbona,609985,73,Central Midfielder,CM,1,False
+David Barbona,609985,83,Right Winger,RW,4,False
+David Barbona,609985,85,Attacking Midfielder,AM,5,True
+David Barbona,609985,87,Left Winger,LW,1,False
+Rodrigo Bogarin,618807,66,Defensive Midfielder,DM,1,False
+Rodrigo Bogarin,618807,71,Right Midfielder,RM,1,False
+Rodrigo Bogarin,618807,77,Central Midfielder,CM,1,False
+Rodrigo Bogarin,618807,84,Attacking Midfielder,AM,22,True
+Rodrigo Bogarin,618807,103,Right Winger,RW,1,False
+Rodrigo Bogarin,618807,107,Left Winger,LW,1,False
+Kevin Gutierrez,905265,64,Defensive Midfielder,DM,5,False
+Kevin Gutierrez,905265,73,Central Midfielder,CM,8,True
+Julian Alejo Lopez,968125,34,Center Back,CB,1,False
+Julian Alejo Lopez,968125,38,Left Back,LB,1,False
+Julian Alejo Lopez,968125,63,Defensive Midfielder,DM,28,True
+Julian Alejo Lopez,968125,74,Central Midfielder,CM,9,False
+Julian Alejo Lopez,968125,84,Attacking Midfielder,AM,3,False
+Aaron Molinas,1186693,77,Central Midfielder,CM,1,False
+Aaron Molinas,1186693,78,Left Midfielder,LM,3,False
+Aaron Molinas,1186693,85,Attacking Midfielder,AM,6,True
+Aaron Molinas,1186693,87,Left Winger,LW,4,False
+Aaron Molinas,1186693,103,Right Winger,RW,2,False
+Matias Sosa,1233747,83,Right Winger,RW,1,False
+Matias Sosa,1233747,85,Attacking Midfielder,AM,1,True
+Cesar Perez,1338317,63,Defensive Midfielder,DM,9,True
+Cesar Perez,1338317,71,Right Midfielder,RM,3,False
+Cesar Perez,1338317,73,Central Midfielder,CM,9,False
+Cesar Perez,1338317,84,Attacking Midfielder,AM,7,False
+Kevin Lopez,1364153,63,Defensive Midfielder,DM,10,True
+Kevin Lopez,1364153,72,Right Midfielder,RM,1,False
+Kevin Lopez,1364153,73,Central Midfielder,CM,5,False
+Benjamin Schamine,1607551,64,Defensive Midfielder,DM,6,True
+Gabriel Alanis,586720,38,Left Back,LB,1,False
+Gabriel Alanis,586720,78,Left Midfielder,LM,1,False
+Gabriel Alanis,586720,83,Right Winger,RW,5,True
+Gabriel Alanis,586720,85,Attacking Midfielder,AM,3,False
+Gabriel Alanis,586720,87,Left Winger,LW,4,False
+Gaston Togni,832164,77,Central Midfielder,CM,1,False
+Gaston Togni,832164,85,Attacking Midfielder,AM,3,False
+Gaston Togni,832164,87,Left Winger,LW,22,True
+Luciano Herrera,892643,38,Left Back,LB,1,False
+Luciano Herrera,892643,58,Left Wing-Back,LWB,2,False
+Luciano Herrera,892643,67,Defensive Midfielder,DM,2,False
+Luciano Herrera,892643,72,Right Midfielder,RM,1,False
+Luciano Herrera,892643,77,Central Midfielder,CM,1,False
+Luciano Herrera,892643,78,Left Midfielder,LM,8,False
+Luciano Herrera,892643,83,Right Winger,RW,12,False
+Luciano Herrera,892643,85,Attacking Midfielder,AM,4,False
+Luciano Herrera,892643,87,Left Winger,LW,12,False
+Luciano Herrera,892643,104,Striker,ST,22,True
+Juan Miritello,1107747,104,Striker,ST,30,True
+Facundo Echevarria,1216074,88,Left Winger,LW,1,False
+Facundo Echevarria,1216074,106,Striker,ST,3,True
+Nicolás Palavecino,1280806,67,Defensive Midfielder,DM,1,False
+Nicolás Palavecino,1280806,73,Central Midfielder,CM,1,False
+Nicolás Palavecino,1280806,83,Right Winger,RW,5,True
+Nicolás Palavecino,1280806,107,Left Winger,LW,1,False
+Abiel Osorio,1343195,106,Striker,ST,4,True
+Luis Ingolotti,844389,11,Keeper,GK,28,True
+Ivan Pillud,164033,32,Right Back,RB,2,False
+Ivan Pillud,164033,33,Center Back,CB,2,True
+Lautaro Montoya,731400,59,Left Wing-Back,LWB,2,True
+Fernando Torrent,856814,32,Right Back,RB,8,True
+Fernando Torrent,856814,51,Right Wing-Back,RWB,3,False
+Fernando Torrent,856814,71,Right Midfielder,RM,1,False
+Federico Andueza,1031998,35,Center Back,CB,4,True
+Sebastian Valdez,1086733,33,Center Back,CB,32,True
+Brian Leizza,1139212,33,Center Back,CB,10,True
+Brian Leizza,1139212,38,Left Back,LB,1,False
+Leonardo Marchi,1199876,38,Left Back,LB,1,True
+Santiago Laquidain,1245749,36,Center Back,CB,4,False
+Santiago Laquidain,1245749,38,Left Back,LB,3,False
+Santiago Laquidain,1245749,59,Left Wing-Back,LWB,5,True
+Santiago Laquidain,1245749,79,Left Midfielder,LM,1,False
+Juan Andres Meli,1296305,38,Left Back,LB,4,False
+Juan Andres Meli,1296305,59,Left Wing-Back,LWB,7,True
+Juan Andres Meli,1296305,77,Central Midfielder,CM,1,False
+Juan Andres Meli,1296305,79,Left Midfielder,LM,1,False
+Jose Gomez,1312178,32,Right Back,RB,3,False
+Jose Gomez,1312178,34,Center Back,CB,1,False
+Jose Gomez,1312178,51,Right Wing-Back,RWB,12,True
+Yuri Casermeiro,1565749,32,Right Back,RB,1,True
+Galvan Vittar,1637732,34,Center Back,CB,1,True
+Lautaro Rivero,1649321,33,Center Back,CB,2,False
+Lautaro Rivero,1649321,38,Left Back,LB,4,True
+Gonzalo Trindade,1651865,38,Left Back,LB,3,True
+Enzo Kalinski,209541,66,Defensive Midfielder,DM,1,False
+Enzo Kalinski,209541,73,Central Midfielder,CM,8,True
+Cristian Vega,801725,64,Defensive Midfielder,DM,4,False
+Cristian Vega,801725,73,Central Midfielder,CM,4,True
+Luis Sanchez,1037137,77,Central Midfielder,CM,3,True
+Alexis Segovia,1352754,76,Central Midfielder,CM,5,True
+Alexis Segovia,1352754,78,Left Midfielder,LM,3,False
+Alexis Segovia,1352754,103,Right Winger,RW,2,False
+Alexis Segovia,1352754,104,Striker,ST,1,False
+Rodrigo Atencio,1362517,66,Defensive Midfielder,DM,1,False
+Rodrigo Atencio,1362517,72,Right Midfielder,RM,3,False
+Rodrigo Atencio,1362517,73,Central Midfielder,CM,14,True
+Rodrigo Atencio,1362517,78,Left Midfielder,LM,3,False
+Rodrigo Atencio,1362517,83,Right Winger,RW,2,False
+Ramon Cansinos,1380539,72,Right Midfielder,RM,1,True
+Elias Cabrera,1400295,73,Central Midfielder,CM,3,True
+Elias Cabrera,1400295,85,Attacking Midfielder,AM,2,False
+Elias Cabrera,1400295,104,Striker,ST,1,False
+Kevin Vazquez,1435121,63,Defensive Midfielder,DM,4,False
+Kevin Vazquez,1435121,72,Right Midfielder,RM,1,False
+Kevin Vazquez,1435121,74,Central Midfielder,CM,19,True
+Matias Godoy,1042007,58,Left Wing-Back,LWB,1,False
+Matias Godoy,1042007,78,Left Midfielder,LM,1,False
+Matias Godoy,1042007,83,Right Winger,RW,2,False
+Matias Godoy,1042007,87,Left Winger,LW,3,False
+Matias Godoy,1042007,94,Attacking Midfielder,AM,1,False
+Matias Godoy,1042007,104,Striker,ST,5,True
+Nicolas Quagliata,1212175,87,Left Winger,LW,1,True
+Lucas Varaldo,1216071,105,Striker,ST,6,True
+Lucas Varaldo,1216071,107,Left Winger,LW,1,False
+Camilo Viganoni,1271831,106,Striker,ST,1,True
+Agustin Morales,1272910,71,Right Midfielder,RM,1,False
+Agustin Morales,1272910,104,Striker,ST,2,True
+Luis Miguel Angulo,1292829,83,Right Winger,RW,1,False
+Luis Miguel Angulo,1292829,107,Left Winger,LW,1,True

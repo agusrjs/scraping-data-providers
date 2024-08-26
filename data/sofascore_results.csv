@@ -1,0 +1,325 @@
+event_id,team,team_id,score_for,score_against,win,draw,loose,local
+11937267,Ind. Rivadavia,36842,0,2,False,False,True,Home
+11937267,Platense,36837,2,0,True,False,False,Away
+11937276,Dep. Riestra,189723,2,1,True,False,False,Home
+11937276,Sarmiento,42338,1,2,False,False,True,Away
+11937274,Argentinos Jrs.,3216,0,0,False,True,False,Home
+11937274,Huracán,7629,0,0,False,True,False,Away
+11937265,Instituto,4937,4,1,True,False,False,Home
+11937265,Def y Justicia,36839,1,4,False,False,True,Away
+11937275,Tigre,7628,5,1,True,False,False,Home
+11937275,Unión de Santa Fé,3204,1,5,False,False,True,Away
+11937277,Lanús,3218,1,1,False,True,False,Home
+11937277,Godoy Cruz,6074,1,1,False,True,False,Away
+11937268,San Lorenzo,3201,2,0,True,False,False,Home
+11937268,Talleres,3210,0,2,False,False,True,Away
+11937271,Racing,3215,0,0,False,True,False,Home
+11937271,Independiente,3209,0,0,False,True,False,Away
+11937272,River,3211,0,0,False,True,False,Home
+11937272,Newell's,3212,0,0,False,True,False,Away
+11937261,Platense,36837,0,0,False,True,False,Home
+11937261,Barracas,65668,0,0,False,True,False,Away
+11937256,Newell's,3212,0,1,False,False,True,Home
+11937256,Racing,3215,1,0,True,False,False,Away
+11937250,Lanús,3218,1,1,False,True,False,Home
+11937250,Central Córdoba,65676,1,1,False,True,False,Away
+11937257,Independiente,3209,1,0,True,False,False,Home
+11937257,Rosario Central,3217,0,1,False,False,True,Away
+11937255,Gimnasia,3205,1,1,False,True,False,Home
+11937255,River,3211,1,1,False,True,False,Away
+11937260,Talleres,3210,2,1,True,False,False,Home
+11937260,Ind. Rivadavia,36842,1,2,False,False,True,Away
+11937262,Vélez Sarsfield,3208,1,0,True,False,False,Home
+11937262,Instituto,4937,0,1,False,False,True,Away
+11937259,Boca Juniors,3202,3,2,True,False,False,Home
+11937259,San Lorenzo,3201,2,3,False,False,True,Away
+11937258,Atlético Tucumán,36833,2,0,True,False,False,Home
+11937258,Estudiantes,3206,0,2,False,False,True,Away
+11937252,Sarmiento,42338,0,0,False,True,False,Home
+11937252,Tigre,7628,0,0,False,True,False,Away
+11937254,Huracán,7629,1,0,True,False,False,Home
+11937254,Belgrano,3203,0,1,False,False,True,Away
+11937253,Unión de Santa Fé,3204,3,0,True,False,False,Home
+11937253,Argentinos Jrs.,3216,0,3,False,False,True,Away
+11937251,Godoy Cruz,6074,4,1,True,False,False,Home
+11937251,Dep. Riestra,189723,1,4,False,False,True,Away
+11937263,Def y Justicia,36839,1,0,True,False,False,Home
+11937263,Banfield,3219,0,1,False,False,True,Away
+11937247,Argentinos Jrs.,3216,0,0,False,True,False,Home
+11937247,Sarmiento,42338,0,0,False,True,False,Away
+11937249,Dep. Riestra,189723,3,1,True,False,False,Home
+11937249,Lanús,3218,1,3,False,False,True,Away
+11937239,Barracas,65668,1,1,False,True,False,Home
+11937239,Talleres,3210,1,1,False,True,False,Away
+11937246,Belgrano,3203,1,1,False,True,False,Home
+11937246,Unión de Santa Fé,3204,1,1,False,True,False,Away
+11937244,Racing,3215,0,1,False,False,True,Home
+11937244,Gimnasia,3205,1,0,True,False,False,Away
+11937241,San Lorenzo,3201,0,1,False,False,True,Home
+11937241,Atlético Tucumán,36833,1,0,True,False,False,Away
+11937243,Rosario Central,3217,1,0,True,False,False,Home
+11937243,Newell's,3212,0,1,False,False,True,Away
+11937240,Ind. Rivadavia,36842,1,1,False,True,False,Home
+11937240,Boca Juniors,3202,1,1,False,True,False,Away
+11937245,River,3211,1,1,False,True,False,Home
+11937245,Huracán,7629,1,1,False,True,False,Away
+11937236,Central Córdoba,65676,2,0,True,False,False,Home
+11937236,Def y Justicia,36839,0,2,False,False,True,Away
+11937238,Instituto,4937,2,0,True,False,False,Home
+11937238,Platense,36837,0,2,False,False,True,Away
+11937237,Banfield,3219,2,2,False,True,False,Home
+11937237,Vélez Sarsfield,3208,2,2,False,True,False,Away
+11937242,Estudiantes,3206,0,2,False,False,True,Home
+11937242,Independiente,3209,2,0,True,False,False,Away
+11937248,Tigre,7628,0,2,False,False,True,Home
+11937248,Godoy Cruz,6074,2,0,True,False,False,Away
+11937229,Newell's,3212,1,4,False,False,True,Home
+11937229,Estudiantes,3206,4,1,True,False,False,Away
+11937224,Godoy Cruz,6074,1,0,True,False,False,Home
+11937224,Argentinos Jrs.,3216,0,1,False,False,True,Away
+11937235,Vélez Sarsfield,3208,3,0,True,False,False,Home
+11937235,Def y Justicia,36839,0,3,False,False,True,Away
+11937233,Talleres,3210,1,1,False,True,False,Home
+11937233,Instituto,4937,1,1,False,True,False,Away
+11937230,Independiente,3209,0,0,False,True,False,Home
+11937230,San Lorenzo,3201,0,0,False,True,False,Away
+11937227,Huracán,7629,0,0,False,True,False,Home
+11937227,Racing,3215,0,0,False,True,False,Away
+11937226,Unión de Santa Fé,3204,0,0,False,True,False,Home
+11937226,River,3211,0,0,False,True,False,Away
+11937225,Sarmiento,42338,0,0,False,True,False,Home
+11937225,Belgrano,3203,0,0,False,True,False,Away
+11937232,Boca Juniors,3202,1,1,False,True,False,Home
+11937232,Barracas,65668,1,1,False,True,False,Away
+11937231,Atlético Tucumán,36833,2,1,True,False,False,Home
+11937231,Ind. Rivadavia,36842,1,2,False,False,True,Away
+11937223,Lanús,3218,3,2,True,False,False,Home
+11937223,Tigre,7628,2,3,False,False,True,Away
+11937222,Dep. Riestra,189723,1,0,True,False,False,Home
+11937222,Central Córdoba,65676,0,1,False,False,True,Away
+11937228,Gimnasia,3205,0,1,False,False,True,Home
+11937228,Rosario Central,3217,1,0,True,False,False,Away
+11937234,Platense,36837,0,1,False,False,True,Home
+11937234,Banfield,3219,1,0,True,False,False,Away
+11937213,Ind. Rivadavia,36842,1,0,True,False,False,Home
+11937213,Independiente,3209,0,1,False,False,True,Away
+11937214,San Lorenzo,3201,1,1,False,True,False,Home
+11937214,Newell's,3212,1,1,False,True,False,Away
+11937216,Rosario Central,3217,0,1,False,False,True,Home
+11937216,Huracán,7629,1,0,True,False,False,Away
+11937210,Banfield,3219,1,1,False,True,False,Home
+11937210,Talleres,3210,1,1,False,True,False,Away
+11937215,Estudiantes,3206,4,1,True,False,False,Home
+11937215,Gimnasia,3205,1,4,False,False,True,Away
+11937217,Racing,3215,2,1,True,False,False,Home
+11937217,Unión de Santa Fé,3204,1,2,False,False,True,Away
+11937218,River,3211,1,0,True,False,False,Home
+11937218,Sarmiento,42338,0,1,False,False,True,Away
+11937211,Instituto,4937,0,0,False,True,False,Home
+11937211,Boca Juniors,3202,0,0,False,True,False,Away
+11937212,Barracas,65668,0,2,False,False,True,Home
+11937212,Atlético Tucumán,36833,2,0,True,False,False,Away
+11937209,Def y Justicia,36839,1,3,False,False,True,Home
+11937209,Platense,36837,3,1,True,False,False,Away
+11937208,Central Córdoba,65676,0,2,False,False,True,Home
+11937208,Vélez Sarsfield,3208,2,0,True,False,False,Away
+11937221,Tigre,7628,2,1,True,False,False,Home
+11937221,Dep. Riestra,189723,1,2,False,False,True,Away
+11937220,Argentinos Jrs.,3216,2,0,True,False,False,Home
+11937220,Lanús,3218,0,2,False,False,True,Away
+11937219,Belgrano,3203,1,0,True,False,False,Home
+11937219,Godoy Cruz,6074,0,1,False,False,True,Away
+11937195,Dep. Riestra,189723,2,0,True,False,False,Home
+11937195,Argentinos Jrs.,3216,0,2,False,False,True,Away
+11937201,Gimnasia,3205,0,1,False,False,True,Home
+11937201,San Lorenzo,3201,1,0,True,False,False,Away
+11937202,Newell's,3212,0,0,False,True,False,Home
+11937202,Ind. Rivadavia,36842,0,0,False,True,False,Away
+11937203,Independiente,3209,0,0,False,True,False,Home
+11937203,Barracas,65668,0,0,False,True,False,Away
+11937206,Talleres,3210,1,1,False,True,False,Home
+11937206,Def y Justicia,36839,1,1,False,True,False,Away
+11937198,Sarmiento,42338,1,0,True,False,False,Home
+11937198,Racing,3215,0,1,False,False,True,Away
+11937197,Godoy Cruz,6074,2,1,True,False,False,Home
+11937197,River,3211,1,2,False,False,True,Away
+11937200,Huracán,7629,0,0,False,True,False,Home
+11937200,Estudiantes,3206,0,0,False,True,False,Away
+11937196,Lanús,3218,3,2,True,False,False,Home
+11937196,Belgrano,3203,2,3,False,False,True,Away
+11937207,Platense,36837,0,2,False,False,True,Home
+11937207,Vélez Sarsfield,3208,2,0,True,False,False,Away
+11937204,Atlético Tucumán,36833,1,0,True,False,False,Home
+11937204,Instituto,4937,0,1,False,False,True,Away
+11937194,Tigre,7628,1,1,False,True,False,Home
+11937194,Central Córdoba,65676,1,1,False,True,False,Away
+11937199,Unión de Santa Fé,3204,1,0,True,False,False,Home
+11937199,Rosario Central,3217,0,1,False,False,True,Away
+11937205,Boca Juniors,3202,3,0,True,False,False,Home
+11937205,Banfield,3219,0,3,False,False,True,Away
+11937193,Argentinos Jrs.,3216,0,2,False,False,True,Home
+11937193,Tigre,7628,2,0,True,False,False,Away
+11937186,Ind. Rivadavia,36842,1,0,True,False,False,Home
+11937186,Gimnasia,3205,0,1,False,False,True,Away
+11937184,Instituto,4937,3,1,True,False,False,Home
+11937184,Independiente,3209,1,3,False,False,True,Away
+11937185,Barracas,65668,0,1,False,False,True,Home
+11937185,Newell's,3212,1,0,True,False,False,Away
+11937192,Belgrano,3203,2,1,True,False,False,Home
+11937192,Dep. Riestra,189723,1,2,False,False,True,Away
+11937189,Rosario Central,3217,4,2,True,False,False,Home
+11937189,Sarmiento,42338,2,4,False,False,True,Away
+11937187,San Lorenzo,3201,1,1,False,True,False,Home
+11937187,Huracán,7629,1,1,False,True,False,Away
+11937190,Racing,3215,3,0,True,False,False,Home
+11937190,Godoy Cruz,6074,0,3,False,False,True,Away
+11937183,Banfield,3219,1,1,False,True,False,Home
+11937183,Atlético Tucumán,36833,1,1,False,True,False,Away
+11937191,River,3211,2,2,False,True,False,Home
+11937191,Lanús,3218,2,2,False,True,False,Away
+11937180,Central Córdoba,65676,0,2,False,False,True,Home
+11937180,Platense,36837,2,0,True,False,False,Away
+11937188,Estudiantes,3206,0,0,False,True,False,Home
+11937188,Unión de Santa Fé,3204,0,0,False,True,False,Away
+11937182,Def y Justicia,36839,2,2,False,True,False,Home
+11937182,Boca Juniors,3202,2,2,False,True,False,Away
+11937181,Vélez Sarsfield,3208,3,0,True,False,False,Home
+11937181,Talleres,3210,0,3,False,False,True,Away
+11937170,Godoy Cruz,6074,1,1,False,True,False,Home
+11937170,Rosario Central,3217,1,1,False,True,False,Away
+11937166,Argentinos Jrs.,3216,2,1,True,False,False,Home
+11937166,Central Córdoba,65676,1,2,False,False,True,Away
+11937174,Gimnasia,3205,2,1,True,False,False,Home
+11937174,Barracas,65668,1,2,False,False,True,Away
+11937176,Independiente,3209,2,1,True,False,False,Home
+11937176,Banfield,3219,1,2,False,False,True,Away
+11937168,Dep. Riestra,189723,2,0,True,False,False,Home
+11937168,River,3211,0,2,False,False,True,Away
+11937171,Sarmiento,42338,2,0,True,False,False,Home
+11937171,Estudiantes,3206,0,2,False,False,True,Away
+11937167,Tigre,7628,1,1,False,True,False,Home
+11937167,Belgrano,3203,1,1,False,True,False,Away
+11937169,Lanús,3218,2,0,True,False,False,Home
+11937169,Racing,3215,0,2,False,False,True,Away
+11937175,Newell's,3212,0,2,False,False,True,Home
+11937175,Instituto,4937,2,0,True,False,False,Away
+11937178,Boca Juniors,3202,1,0,True,False,False,Home
+11937178,Vélez Sarsfield,3208,0,1,False,False,True,Away
+11937179,Talleres,3210,2,1,True,False,False,Home
+11937179,Platense,36837,1,2,False,False,True,Away
+11937172,Unión de Santa Fé,3204,2,1,True,False,False,Home
+11937172,San Lorenzo,3201,1,2,False,False,True,Away
+11937173,Huracán,7629,1,0,True,False,False,Home
+11937173,Ind. Rivadavia,36842,0,1,False,False,True,Away
+11937177,Atlético Tucumán,36833,1,1,False,True,False,Home
+11937177,Def y Justicia,36839,1,1,False,True,False,Away
+11937163,Racing,3215,1,0,True,False,False,Home
+11937163,Dep. Riestra,189723,0,1,False,False,True,Away
+11937165,Belgrano,3203,1,0,True,False,False,Home
+11937165,Argentinos Jrs.,3216,0,1,False,False,True,Away
+11937154,Vélez Sarsfield,3208,1,1,False,True,False,Home
+11937154,Atlético Tucumán,36833,1,1,False,True,False,Away
+11937153,Platense,36837,1,0,True,False,False,Home
+11937153,Boca Juniors,3202,0,1,False,False,True,Away
+11937152,Central Córdoba,65676,2,4,False,False,True,Home
+11937152,Talleres,3210,4,2,True,False,False,Away
+11937162,Rosario Central,3217,1,1,False,True,False,Home
+11937162,Lanús,3218,1,1,False,True,False,Away
+11937157,Instituto,4937,2,1,True,False,False,Home
+11937157,Gimnasia,3205,1,2,False,False,True,Away
+11937164,River,3211,3,1,True,False,False,Home
+11937164,Tigre,7628,1,3,False,False,True,Away
+11937160,San Lorenzo,3201,0,1,False,False,True,Home
+11937160,Sarmiento,42338,1,0,True,False,False,Away
+11937155,Def y Justicia,36839,0,0,False,True,False,Home
+11937155,Independiente,3209,0,0,False,True,False,Away
+11937161,Estudiantes,3206,1,1,False,True,False,Home
+11937161,Godoy Cruz,6074,1,1,False,True,False,Away
+11937158,Barracas,65668,0,2,False,False,True,Home
+11937158,Huracán,7629,2,0,True,False,False,Away
+11937156,Banfield,3219,2,0,True,False,False,Home
+11937156,Newell's,3212,0,2,False,False,True,Away
+11937159,Ind. Rivadavia,36842,0,1,False,False,True,Home
+11937159,Unión de Santa Fé,3204,1,0,True,False,False,Away
+11937141,Dep. Riestra,189723,0,2,False,False,True,Home
+11937141,Rosario Central,3217,2,0,True,False,False,Away
+11937140,Tigre,7628,0,4,False,False,True,Home
+11937140,Racing,3215,4,0,True,False,False,Away
+11937138,Belgrano,3203,2,1,True,False,False,Home
+11937138,Central Córdoba,65676,1,2,False,False,True,Away
+11937142,Lanús,3218,2,1,True,False,False,Home
+11937142,Estudiantes,3206,1,2,False,False,True,Away
+11937139,Argentinos Jrs.,3216,1,0,True,False,False,Home
+11937139,River,3211,0,1,False,False,True,Away
+11937148,Newell's,3212,1,0,True,False,False,Home
+11937148,Def y Justicia,36839,0,1,False,False,True,Away
+11937151,Boca Juniors,3202,0,0,False,True,False,Home
+11937151,Talleres,3210,0,0,False,True,False,Away
+11937146,Huracán,7629,1,0,True,False,False,Home
+11937146,Instituto,4937,0,1,False,False,True,Away
+11937144,Sarmiento,42338,0,1,False,False,True,Home
+11937144,Ind. Rivadavia,36842,1,0,True,False,False,Away
+11937147,Gimnasia,3205,3,0,True,False,False,Home
+11937147,Banfield,3219,0,3,False,False,True,Away
+11937149,Independiente,3209,1,1,False,True,False,Home
+11937149,Vélez Sarsfield,3208,1,1,False,True,False,Away
+11937145,Unión de Santa Fé,3204,2,0,True,False,False,Home
+11937145,Barracas,65668,0,2,False,False,True,Away
+11937150,Atlético Tucumán,36833,1,1,False,True,False,Home
+11937150,Platense,36837,1,1,False,True,False,Away
+11937132,Ind. Rivadavia,36842,0,0,False,True,False,Home
+11937132,Godoy Cruz,6074,0,0,False,True,False,Away
+12317909,River,3211,3,0,True,False,False,Home
+12317909,Belgrano,3203,0,3,False,False,True,Away
+11937128,Def y Justicia,36839,1,1,False,True,False,Home
+11937128,Gimnasia,3205,1,1,False,True,False,Away
+11937130,Instituto,4937,1,1,False,True,False,Home
+11937130,Unión de Santa Fé,3204,1,1,False,True,False,Away
+11937131,Barracas,65668,1,1,False,True,False,Home
+11937131,Sarmiento,42338,1,1,False,True,False,Away
+11937126,Platense,36837,0,0,False,True,False,Home
+11937126,Independiente,3209,0,0,False,True,False,Away
+11937129,Banfield,3219,1,1,False,True,False,Home
+11937129,Huracán,7629,1,1,False,True,False,Away
+11937125,Talleres,3210,2,0,True,False,False,Home
+11937125,Atlético Tucumán,36833,0,2,False,False,True,Away
+11937124,Central Córdoba,65676,2,4,False,False,True,Home
+11937124,Boca Juniors,3202,4,2,True,False,False,Away
+11937134,Estudiantes,3206,2,0,True,False,False,Home
+11937134,Dep. Riestra,189723,0,2,False,False,True,Away
+11937133,San Lorenzo,3201,1,1,False,True,False,Home
+11937133,Lanús,3218,1,1,False,True,False,Away
+11937136,Racing,3215,3,0,True,False,False,Home
+11937136,Argentinos Jrs.,3216,0,3,False,False,True,Away
+11937135,Rosario Central,3217,1,1,False,True,False,Home
+11937135,Tigre,7628,1,1,False,True,False,Away
+11937127,Vélez Sarsfield,3208,1,0,True,False,False,Home
+11937127,Newell's,3212,0,1,False,False,True,Away
+11937117,Sarmiento,42338,1,2,False,False,True,Home
+11937117,Instituto,4937,2,1,True,False,False,Away
+11937112,Argentinos Jrs.,3216,3,2,True,False,False,Home
+11937112,Rosario Central,3217,2,3,False,False,True,Away
+11937121,Newell's,3212,2,0,True,False,False,Home
+11937121,Platense,36837,0,2,False,False,True,Away
+11937119,Huracán,7629,3,1,True,False,False,Home
+11937119,Def y Justicia,36839,1,3,False,False,True,Away
+11937116,Godoy Cruz,6074,0,1,False,False,True,Home
+11937116,Barracas,65668,1,0,True,False,False,Away
+11937122,Independiente,3209,1,3,False,False,True,Home
+11937122,Talleres,3210,3,1,True,False,False,Away
+11937110,River,3211,3,0,True,False,False,Home
+11937110,Central Córdoba,65676,0,3,False,False,True,Away
+11937114,Dep. Riestra,189723,1,0,True,False,False,Home
+11937114,San Lorenzo,3201,0,1,False,False,True,Away
+11937113,Tigre,7628,0,1,False,False,True,Home
+11937113,Estudiantes,3206,1,0,True,False,False,Away
+11937111,Belgrano,3203,4,4,False,True,False,Home
+11937111,Racing,3215,4,4,False,True,False,Away
+11937115,Lanús,3218,0,2,False,False,True,Home
+11937115,Ind. Rivadavia,36842,2,0,True,False,False,Away
+11937123,Atlético Tucumán,36833,1,0,True,False,False,Home
+11937123,Boca Juniors,3202,0,1,False,False,True,Away
+11937120,Gimnasia,3205,3,1,True,False,False,Home
+11937120,Vélez Sarsfield,3208,1,3,False,False,True,Away
+11937118,Unión de Santa Fé,3204,1,0,True,False,False,Home
+11937118,Banfield,3219,0,1,False,False,True,Away
