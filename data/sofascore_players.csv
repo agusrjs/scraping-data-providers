@@ -1,4 +1,36 @@
 name,id,profile,team,league,country,season,link
+Braian Romero,789435,https://api.sofascore.app/api/v1/player/789435/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/braian-romero/789435
+Michael Santos,339115,https://api.sofascore.app/api/v1/player/339115/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/michael-santos/339115
+Matias Pellegrini,940610,https://api.sofascore.app/api/v1/player/940610/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/matias-pellegrini/940610
+Sarco Alejo,1482433,https://api.sofascore.app/api/v1/player/1482433/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/sarco-alejo/1482433
+Jalil Elias,797031,https://api.sofascore.app/api/v1/player/797031/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/jalil-elias/797031
+Ricardo Centurion,249397,https://api.sofascore.app/api/v1/player/249397/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ricardo-centurion/249397
+Claudio Aquino,340455,https://api.sofascore.app/api/v1/player/340455/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/claudio-aquino/340455
+Rodrigo Pineiro,924872,https://api.sofascore.app/api/v1/player/924872/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/rodrigo-pineiro/924872
+Thiago Fernandez,1201412,https://api.sofascore.app/api/v1/player/1201412/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/thiago-fernandez/1201412
+Santiago Caseres,856132,https://api.sofascore.app/api/v1/player/856132/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/santiago-caseres/856132
+Christian Ordonez,1201388,https://api.sofascore.app/api/v1/player/1201388/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/christian-ordonez/1201388
+Francisco Pizzini,257475,https://api.sofascore.app/api/v1/player/257475/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/francisco-pizzini/257475
+Agustin Bouzat,830699,https://api.sofascore.app/api/v1/player/830699/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/agustin-bouzat/830699
+Yeison Gordillo,285429,https://api.sofascore.app/api/v1/player/285429/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/yeison-gordillo/285429
+Felipe Bussio,1894553,https://api.sofascore.app/api/v1/player/1894553/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/felipe-bussio/1894553
+Diego Gomez,1186010,https://api.sofascore.app/api/v1/player/1186010/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/diego-gomez/1186010
+Emanuel Mammana,358914,https://api.sofascore.app/api/v1/player/358914/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/emanuel-mammana/358914
+Joaquin Garcia,989860,https://api.sofascore.app/api/v1/player/989860/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/joaquin-garcia/989860
+Aaron Quiros,1113232,https://api.sofascore.app/api/v1/player/1113232/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/aaron-quiros/1113232
+Damian Fernandez,989201,https://api.sofascore.app/api/v1/player/989201/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/damian-fernandez/989201
+Elias Gomez,365862,https://api.sofascore.app/api/v1/player/365862/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/elias-gomez/365862
+Agustin Lagos,993929,https://api.sofascore.app/api/v1/player/993929/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/agustin-lagos/993929
+Leonardo Jara,250933,https://api.sofascore.app/api/v1/player/250933/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/leonardo-jara/250933
+Tomas Guidara,871519,https://api.sofascore.app/api/v1/player/871519/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/tomas-guidara/871519
+Tomas Cavanagh,1086278,https://api.sofascore.app/api/v1/player/1086278/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/tomas-cavanagh/1086278
+Patricio Pernicone,1086288,https://api.sofascore.app/api/v1/player/1086288/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/patricio-pernicone/1086288
+Leonel Roldan,1201404,https://api.sofascore.app/api/v1/player/1201404/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/leonel-roldan/1201404
+Jano Gordon,1894551,https://api.sofascore.app/api/v1/player/1894551/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/jano-gordon/1894551
+Thiago Silveor,1894554,https://api.sofascore.app/api/v1/player/1894554/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/thiago-silveor/1894554
+Isaias Andrada,1901968,https://api.sofascore.app/api/v1/player/1901968/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/isaias-andrada/1901968
+Rodriguez Randall,1087006,https://api.sofascore.app/api/v1/player/1087006/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/rodriguez-randall/1087006
+Tomas Marchiori,898750,https://api.sofascore.app/api/v1/player/898750/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/tomas-marchiori/898750
 Ramon Abila,788935,https://api.sofascore.app/api/v1/player/788935/image,Huracán,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ramon-abila/788935
 Leandro Garate,364980,https://api.sofascore.app/api/v1/player/364980/image,Huracán,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/leandro-garate/364980
 Perez Marcelo,980586,https://api.sofascore.app/api/v1/player/980586/image,Huracán,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/perez-marcelo/980586
@@ -54,33 +86,33 @@ Matias Orihuela,584422,https://api.sofascore.app/api/v1/player/584422/image,Atl�
 Juan Infante,941542,https://api.sofascore.app/api/v1/player/941542/image,Atlético Tucumán,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/juan-infante/941542
 Tomas Durso,895734,https://api.sofascore.app/api/v1/player/895734/image,Atlético Tucumán,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/tomas-durso/895734
 Juan Ignacio Gonzalez,846754,https://api.sofascore.app/api/v1/player/846754/image,Atlético Tucumán,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/juan-ignacio-gonzalez/846754
-Gonzalo Javier Morales,1410399,https://api.sofascore.app/api/v1/player/1410399/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gonzalo-javier-morales/1410399
-Domina Jeronimo,1200744,https://api.sofascore.app/api/v1/player/1200744/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/domina-jeronimo/1200744
-Adrian Balboa,368422,https://api.sofascore.app/api/v1/player/368422/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/adrian-balboa/368422
-Nicolas Orsini,347744,https://api.sofascore.app/api/v1/player/347744/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nicolas-orsini/347744
-Lucas Gamba,789445,https://api.sofascore.app/api/v1/player/789445/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lucas-gamba/789445
-Del Blanco Mateo,1183059,https://api.sofascore.app/api/v1/player/1183059/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/del-blanco-mateo/1183059
-Lionel Verde,1523447,https://api.sofascore.app/api/v1/player/1523447/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lionel-verde/1523447
-Enzo Roldan,1022263,https://api.sofascore.app/api/v1/player/1022263/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/enzo-roldan/1022263
-Mosqueira Joaquin,1464852,https://api.sofascore.app/api/v1/player/1464852/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/mosqueira-joaquin/1464852
-Mauro Pitton,796958,https://api.sofascore.app/api/v1/player/796958/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/mauro-pitton/796958
-Tiago Banega,1016652,https://api.sofascore.app/api/v1/player/1016652/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/tiago-banega/1016652
-Simon Rivero,1131035,https://api.sofascore.app/api/v1/player/1131035/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/simon-rivero/1131035
-Patricio Tanda,1067814,https://api.sofascore.app/api/v1/player/1067814/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/patricio-tanda/1067814
-Pumpido Francisco,1861054,https://api.sofascore.app/api/v1/player/1861054/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/pumpido-francisco/1861054
-Profini Rafael,1515401,https://api.sofascore.app/api/v1/player/1515401/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/profini-rafael/1515401
-Miguel Torren,76383,https://api.sofascore.app/api/v1/player/76383/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/miguel-torren/76383
-Nicolas Paz,1189173,https://api.sofascore.app/api/v1/player/1189173/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nicolas-paz/1189173
-Bruno Pitton,800246,https://api.sofascore.app/api/v1/player/800246/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/bruno-pitton/800246
-Franco Pardo,879962,https://api.sofascore.app/api/v1/player/879962/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/franco-pardo/879962
-Claudio Corvalan,249383,https://api.sofascore.app/api/v1/player/249383/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/claudio-corvalan/249383
-Valentin Fascendini,1537838,https://api.sofascore.app/api/v1/player/1537838/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/valentin-fascendini/1537838
-Vargas Lautaro,1485084,https://api.sofascore.app/api/v1/player/1485084/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/vargas-lautaro/1485084
-Gerometta Francisco,1017181,https://api.sofascore.app/api/v1/player/1017181/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gerometta-francisco/1017181
-Luduena Juan Pablo,1392241,https://api.sofascore.app/api/v1/player/1392241/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/luduena-juan-pablo/1392241
-Thiago Cardozo,358618,https://api.sofascore.app/api/v1/player/358618/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/thiago-cardozo/358618
-Campisi Nicolas,978370,https://api.sofascore.app/api/v1/player/978370/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/campisi-nicolas/978370
-Meuli Lucas,1200751,https://api.sofascore.app/api/v1/player/1200751/image,Club Atlético Unión de Santa Fé,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/meuli-lucas/1200751
+Gonzalo Javier Morales,1410399,https://api.sofascore.app/api/v1/player/1410399/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gonzalo-javier-morales/1410399
+Domina Jeronimo,1200744,https://api.sofascore.app/api/v1/player/1200744/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/domina-jeronimo/1200744
+Adrian Balboa,368422,https://api.sofascore.app/api/v1/player/368422/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/adrian-balboa/368422
+Nicolas Orsini,347744,https://api.sofascore.app/api/v1/player/347744/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nicolas-orsini/347744
+Lucas Gamba,789445,https://api.sofascore.app/api/v1/player/789445/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lucas-gamba/789445
+Del Blanco Mateo,1183059,https://api.sofascore.app/api/v1/player/1183059/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/del-blanco-mateo/1183059
+Lionel Verde,1523447,https://api.sofascore.app/api/v1/player/1523447/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lionel-verde/1523447
+Enzo Roldan,1022263,https://api.sofascore.app/api/v1/player/1022263/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/enzo-roldan/1022263
+Mosqueira Joaquin,1464852,https://api.sofascore.app/api/v1/player/1464852/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/mosqueira-joaquin/1464852
+Mauro Pitton,796958,https://api.sofascore.app/api/v1/player/796958/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/mauro-pitton/796958
+Tiago Banega,1016652,https://api.sofascore.app/api/v1/player/1016652/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/tiago-banega/1016652
+Simon Rivero,1131035,https://api.sofascore.app/api/v1/player/1131035/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/simon-rivero/1131035
+Patricio Tanda,1067814,https://api.sofascore.app/api/v1/player/1067814/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/patricio-tanda/1067814
+Pumpido Francisco,1861054,https://api.sofascore.app/api/v1/player/1861054/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/pumpido-francisco/1861054
+Profini Rafael,1515401,https://api.sofascore.app/api/v1/player/1515401/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/profini-rafael/1515401
+Miguel Torren,76383,https://api.sofascore.app/api/v1/player/76383/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/miguel-torren/76383
+Nicolas Paz,1189173,https://api.sofascore.app/api/v1/player/1189173/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nicolas-paz/1189173
+Bruno Pitton,800246,https://api.sofascore.app/api/v1/player/800246/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/bruno-pitton/800246
+Franco Pardo,879962,https://api.sofascore.app/api/v1/player/879962/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/franco-pardo/879962
+Claudio Corvalan,249383,https://api.sofascore.app/api/v1/player/249383/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/claudio-corvalan/249383
+Valentin Fascendini,1537838,https://api.sofascore.app/api/v1/player/1537838/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/valentin-fascendini/1537838
+Vargas Lautaro,1485084,https://api.sofascore.app/api/v1/player/1485084/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/vargas-lautaro/1485084
+Gerometta Francisco,1017181,https://api.sofascore.app/api/v1/player/1017181/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gerometta-francisco/1017181
+Luduena Juan Pablo,1392241,https://api.sofascore.app/api/v1/player/1392241/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/luduena-juan-pablo/1392241
+Thiago Cardozo,358618,https://api.sofascore.app/api/v1/player/358618/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/thiago-cardozo/358618
+Campisi Nicolas,978370,https://api.sofascore.app/api/v1/player/978370/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/campisi-nicolas/978370
+Meuli Lucas,1200751,https://api.sofascore.app/api/v1/player/1200751/image,Club Atlético Unión de Santa Fe,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/meuli-lucas/1200751
 Juan Quintero,221162,https://api.sofascore.app/api/v1/player/221162/image,Racing Club,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/juan-quintero/221162
 Roger Martinez,344243,https://api.sofascore.app/api/v1/player/344243/image,Racing Club,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/roger-martinez/344243
 Martinez Adrian,906811,https://api.sofascore.app/api/v1/player/906811/image,Racing Club,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/martinez-adrian/906811
@@ -109,38 +141,6 @@ Juan Manuel Elordi,993481,https://api.sofascore.app/api/v1/player/993481/image,R
 Gabriel Arias,581782,https://api.sofascore.app/api/v1/player/581782/image,Racing Club,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gabriel-arias/581782
 Cambeses Facundo,836159,https://api.sofascore.app/api/v1/player/836159/image,Racing Club,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/cambeses-facundo/836159
 Roberto Leon,1109381,https://api.sofascore.app/api/v1/player/1109381/image,Racing Club,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/roberto-leon/1109381
-Braian Romero,789435,https://api.sofascore.app/api/v1/player/789435/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/braian-romero/789435
-Michael Santos,339115,https://api.sofascore.app/api/v1/player/339115/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/michael-santos/339115
-Matias Pellegrini,940610,https://api.sofascore.app/api/v1/player/940610/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/matias-pellegrini/940610
-Sarco Alejo,1482433,https://api.sofascore.app/api/v1/player/1482433/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/sarco-alejo/1482433
-Jalil Elias,797031,https://api.sofascore.app/api/v1/player/797031/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/jalil-elias/797031
-Ricardo Centurion,249397,https://api.sofascore.app/api/v1/player/249397/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ricardo-centurion/249397
-Claudio Aquino,340455,https://api.sofascore.app/api/v1/player/340455/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/claudio-aquino/340455
-Rodrigo Pineiro,924872,https://api.sofascore.app/api/v1/player/924872/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/rodrigo-pineiro/924872
-Thiago Fernandez,1201412,https://api.sofascore.app/api/v1/player/1201412/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/thiago-fernandez/1201412
-Santiago Caseres,856132,https://api.sofascore.app/api/v1/player/856132/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/santiago-caseres/856132
-Christian Ordonez,1201388,https://api.sofascore.app/api/v1/player/1201388/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/christian-ordonez/1201388
-Francisco Pizzini,257475,https://api.sofascore.app/api/v1/player/257475/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/francisco-pizzini/257475
-Agustin Bouzat,830699,https://api.sofascore.app/api/v1/player/830699/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/agustin-bouzat/830699
-Yeison Gordillo,285429,https://api.sofascore.app/api/v1/player/285429/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/yeison-gordillo/285429
-Felipe Bussio,1894553,https://api.sofascore.app/api/v1/player/1894553/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/felipe-bussio/1894553
-Diego Gomez,1186010,https://api.sofascore.app/api/v1/player/1186010/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/diego-gomez/1186010
-Emanuel Mammana,358914,https://api.sofascore.app/api/v1/player/358914/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/emanuel-mammana/358914
-Joaquin Garcia,989860,https://api.sofascore.app/api/v1/player/989860/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/joaquin-garcia/989860
-Aaron Quiros,1113232,https://api.sofascore.app/api/v1/player/1113232/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/aaron-quiros/1113232
-Damian Fernandez,989201,https://api.sofascore.app/api/v1/player/989201/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/damian-fernandez/989201
-Elias Gomez,365862,https://api.sofascore.app/api/v1/player/365862/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/elias-gomez/365862
-Agustin Lagos,993929,https://api.sofascore.app/api/v1/player/993929/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/agustin-lagos/993929
-Leonardo Jara,250933,https://api.sofascore.app/api/v1/player/250933/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/leonardo-jara/250933
-Tomas Guidara,871519,https://api.sofascore.app/api/v1/player/871519/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/tomas-guidara/871519
-Tomas Cavanagh,1086278,https://api.sofascore.app/api/v1/player/1086278/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/tomas-cavanagh/1086278
-Patricio Pernicone,1086288,https://api.sofascore.app/api/v1/player/1086288/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/patricio-pernicone/1086288
-Leonel Roldan,1201404,https://api.sofascore.app/api/v1/player/1201404/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/leonel-roldan/1201404
-Jano Gordon,1894551,https://api.sofascore.app/api/v1/player/1894551/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/jano-gordon/1894551
-Thiago Silveor,1894554,https://api.sofascore.app/api/v1/player/1894554/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/thiago-silveor/1894554
-Isaias Andrada,1901968,https://api.sofascore.app/api/v1/player/1901968/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/isaias-andrada/1901968
-Rodriguez Randall,1087006,https://api.sofascore.app/api/v1/player/1087006/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/rodriguez-randall/1087006
-Tomas Marchiori,898750,https://api.sofascore.app/api/v1/player/898750/image,Vélez Sarsfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/tomas-marchiori/898750
 Silvio Romero,174937,https://api.sofascore.app/api/v1/player/174937/image,Instituto De Córdoba,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/silvio-romero/174937
 Santiago Rodriguez,897000,https://api.sofascore.app/api/v1/player/897000/image,Instituto De Córdoba,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/santiago-rodriguez/897000
 Facundo Suarez,992068,https://api.sofascore.app/api/v1/player/992068/image,Instituto De Córdoba,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/facundo-suarez/992068
@@ -322,31 +322,6 @@ Nicolas Morgantini,941545,https://api.sofascore.app/api/v1/player/941545/image,L
 Leonel Cardozo,1906689,https://api.sofascore.app/api/v1/player/1906689/image,Lanús,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/leonel-cardozo/1906689
 Nahuel Losada,384552,https://api.sofascore.app/api/v1/player/384552/image,Lanús,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nahuel-losada/384552
 Alan Aguerre,147351,https://api.sofascore.app/api/v1/player/147351/image,Lanús,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/alan-aguerre/147351
-Salomon Rodriguez,1020191,https://api.sofascore.app/api/v1/player/1020191/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/salomon-rodriguez/1020191
-Juan Bautista Cejas,868364,https://api.sofascore.app/api/v1/player/868364/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/juan-bautista-cejas/868364
-Barrea Daniel,1183778,https://api.sofascore.app/api/v1/player/1183778/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/barrea-daniel/1183778
-Luciano Cingolani,1087070,https://api.sofascore.app/api/v1/player/1087070/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/luciano-cingolani/1087070
-Martin Pino,994452,https://api.sofascore.app/api/v1/player/994452/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/martin-pino/994452
-Gonzalo Torres,1086329,https://api.sofascore.app/api/v1/player/1086329/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gonzalo-torres/1086329
-Ulariaga Nahuel,1096230,https://api.sofascore.app/api/v1/player/1096230/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ulariaga-nahuel/1096230
-Poggi Vicente,1020066,https://api.sofascore.app/api/v1/player/1020066/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/poggi-vicente/1020066
-Gonzalo Abrego,1084967,https://api.sofascore.app/api/v1/player/1084967/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gonzalo-abrego/1084967
-Nicolas Fernandez,846419,https://api.sofascore.app/api/v1/player/846419/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nicolas-fernandez/846419
-Tomas Pozzo,1086963,https://api.sofascore.app/api/v1/player/1086963/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/tomas-pozzo/1086963
-Leyes Bruno,1130268,https://api.sofascore.app/api/v1/player/1130268/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/leyes-bruno/1130268
-Altamira Facundo,1134768,https://api.sofascore.app/api/v1/player/1134768/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/altamira-facundo/1134768
-Mariano Santiago,1391295,https://api.sofascore.app/api/v1/player/1391295/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/mariano-santiago/1391295
-Gaston Moreyra,1134165,https://api.sofascore.app/api/v1/player/1134165/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gaston-moreyra/1134165
-Martin Luciano,1114869,https://api.sofascore.app/api/v1/player/1114869/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/martin-luciano/1114869
-Elias Pereyra,922450,https://api.sofascore.app/api/v1/player/922450/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/elias-pereyra/922450
-Federico Rasmussen,932903,https://api.sofascore.app/api/v1/player/932903/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/federico-rasmussen/932903
-Lucas Arce,1109302,https://api.sofascore.app/api/v1/player/1109302/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lucas-arce/1109302
-Pier Barrios,140103,https://api.sofascore.app/api/v1/player/140103/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/pier-barrios/140103
-Braian Salvareschi,871794,https://api.sofascore.app/api/v1/player/871794/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/braian-salvareschi/871794
-Facundo Butti,992067,https://api.sofascore.app/api/v1/player/992067/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/facundo-butti/992067
-Facundo Ardiles,1093100,https://api.sofascore.app/api/v1/player/1093100/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/facundo-ardiles/1093100
-Franco Petroli,822590,https://api.sofascore.app/api/v1/player/822590/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/franco-petroli/822590
-Roberto Ramirez,551382,https://api.sofascore.app/api/v1/player/551382/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/roberto-ramirez/551382
 Nicolas Fernandez,581804,https://api.sofascore.app/api/v1/player/581804/image,Belgrano,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nicolas-fernandez/581804
 Lucas Passerini,579316,https://api.sofascore.app/api/v1/player/579316/image,Belgrano,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lucas-passerini/579316
 Matias Suarez,46007,https://api.sofascore.app/api/v1/player/46007/image,Belgrano,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/matias-suarez/46007
@@ -417,6 +392,31 @@ Kevin Silva,1117067,https://api.sofascore.app/api/v1/player/1117067/image,Rosari
 Axel Werner,250219,https://api.sofascore.app/api/v1/player/250219/image,Rosario Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/axel-werner/250219
 Jorge Broun,789406,https://api.sofascore.app/api/v1/player/789406/image,Rosario Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/jorge-broun/789406
 Valentino Quintero,1117120,https://api.sofascore.app/api/v1/player/1117120/image,Rosario Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/valentino-quintero/1117120
+Salomon Rodriguez,1020191,https://api.sofascore.app/api/v1/player/1020191/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/salomon-rodriguez/1020191
+Juan Bautista Cejas,868364,https://api.sofascore.app/api/v1/player/868364/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/juan-bautista-cejas/868364
+Barrea Daniel,1183778,https://api.sofascore.app/api/v1/player/1183778/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/barrea-daniel/1183778
+Luciano Cingolani,1087070,https://api.sofascore.app/api/v1/player/1087070/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/luciano-cingolani/1087070
+Martin Pino,994452,https://api.sofascore.app/api/v1/player/994452/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/martin-pino/994452
+Gonzalo Torres,1086329,https://api.sofascore.app/api/v1/player/1086329/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gonzalo-torres/1086329
+Ulariaga Nahuel,1096230,https://api.sofascore.app/api/v1/player/1096230/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ulariaga-nahuel/1096230
+Poggi Vicente,1020066,https://api.sofascore.app/api/v1/player/1020066/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/poggi-vicente/1020066
+Gonzalo Abrego,1084967,https://api.sofascore.app/api/v1/player/1084967/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gonzalo-abrego/1084967
+Nicolas Fernandez,846419,https://api.sofascore.app/api/v1/player/846419/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nicolas-fernandez/846419
+Tomas Pozzo,1086963,https://api.sofascore.app/api/v1/player/1086963/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/tomas-pozzo/1086963
+Leyes Bruno,1130268,https://api.sofascore.app/api/v1/player/1130268/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/leyes-bruno/1130268
+Altamira Facundo,1134768,https://api.sofascore.app/api/v1/player/1134768/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/altamira-facundo/1134768
+Mariano Santiago,1391295,https://api.sofascore.app/api/v1/player/1391295/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/mariano-santiago/1391295
+Gaston Moreyra,1134165,https://api.sofascore.app/api/v1/player/1134165/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gaston-moreyra/1134165
+Martin Luciano,1114869,https://api.sofascore.app/api/v1/player/1114869/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/martin-luciano/1114869
+Elias Pereyra,922450,https://api.sofascore.app/api/v1/player/922450/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/elias-pereyra/922450
+Federico Rasmussen,932903,https://api.sofascore.app/api/v1/player/932903/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/federico-rasmussen/932903
+Lucas Arce,1109302,https://api.sofascore.app/api/v1/player/1109302/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lucas-arce/1109302
+Pier Barrios,140103,https://api.sofascore.app/api/v1/player/140103/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/pier-barrios/140103
+Braian Salvareschi,871794,https://api.sofascore.app/api/v1/player/871794/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/braian-salvareschi/871794
+Facundo Butti,992067,https://api.sofascore.app/api/v1/player/992067/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/facundo-butti/992067
+Facundo Ardiles,1093100,https://api.sofascore.app/api/v1/player/1093100/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/facundo-ardiles/1093100
+Franco Petroli,822590,https://api.sofascore.app/api/v1/player/822590/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/franco-petroli/822590
+Roberto Ramirez,551382,https://api.sofascore.app/api/v1/player/551382/image,Godoy Cruz,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/roberto-ramirez/551382
 Guido Carrillo,174519,https://api.sofascore.app/api/v1/player/174519/image,Estudiantes de La Plata,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/guido-carrillo/174519
 Tiago Palacios,1018468,https://api.sofascore.app/api/v1/player/1018468/image,Estudiantes de La Plata,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/tiago-palacios/1018468
 Mauro Mendez,979827,https://api.sofascore.app/api/v1/player/979827/image,Estudiantes de La Plata,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/mauro-mendez/979827
@@ -442,6 +442,37 @@ Santiago Flores,1086985,https://api.sofascore.app/api/v1/player/1086985/image,Es
 Fernandez Nicolas,1185976,https://api.sofascore.app/api/v1/player/1185976/image,Estudiantes de La Plata,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/fernandez-nicolas/1185976
 Fabricio Iacovich,1185969,https://api.sofascore.app/api/v1/player/1185969/image,Estudiantes de La Plata,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/fabricio-iacovich/1185969
 Matias Mansilla,1099481,https://api.sofascore.app/api/v1/player/1099481/image,Estudiantes de La Plata,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/matias-mansilla/1099481
+Norberto Briasco,848619,https://api.sofascore.app/api/v1/player/848619/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/norberto-briasco/848619
+Castillo Rodrigo,1182504,https://api.sofascore.app/api/v1/player/1182504/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/castillo-rodrigo/1182504
+Cristian Colman,805316,https://api.sofascore.app/api/v1/player/805316/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/cristian-colman/805316
+Franco Troyansky,859990,https://api.sofascore.app/api/v1/player/859990/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/franco-troyansky/859990
+Ivo Mammini,1087009,https://api.sofascore.app/api/v1/player/1087009/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ivo-mammini/1087009
+Juan Cruz Esquivel,981347,https://api.sofascore.app/api/v1/player/981347/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/juan-cruz-esquivel/981347
+Matias Ramirez,897094,https://api.sofascore.app/api/v1/player/897094/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/matias-ramirez/897094
+Jeremias Merlo,1893228,https://api.sofascore.app/api/v1/player/1893228/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/jeremias-merlo/1893228
+Santino Primante,1903029,https://api.sofascore.app/api/v1/player/1903029/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/santino-primante/1903029
+Benjamin Dominguez,1162611,https://api.sofascore.app/api/v1/player/1162611/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/benjamin-dominguez/1162611
+Abaldo Matias,1177402,https://api.sofascore.app/api/v1/player/1177402/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/abaldo-matias/1177402
+Lucas Castro,122711,https://api.sofascore.app/api/v1/player/122711/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lucas-castro/122711
+Pablo De Blasis,256683,https://api.sofascore.app/api/v1/player/256683/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/pablo-de-blasis/256683
+Valentin Rodriguez,1065975,https://api.sofascore.app/api/v1/player/1065975/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/valentin-rodriguez/1065975
+Nicolas Garayalde,1017450,https://api.sofascore.app/api/v1/player/1017450/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nicolas-garayalde/1017450
+David Zalazar,1017422,https://api.sofascore.app/api/v1/player/1017422/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/david-zalazar/1017422
+Nicolas Colazo,106294,https://api.sofascore.app/api/v1/player/106294/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nicolas-colazo/106294
+Matias Miranda,998283,https://api.sofascore.app/api/v1/player/998283/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/matias-miranda/998283
+Martin Fernandez,981588,https://api.sofascore.app/api/v1/player/981588/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/martin-fernandez/981588
+Lautaro Chavez,926232,https://api.sofascore.app/api/v1/player/926232/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lautaro-chavez/926232
+Leandro Mamut,1087092,https://api.sofascore.app/api/v1/player/1087092/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/leandro-mamut/1087092
+Agustin Bolivar,895347,https://api.sofascore.app/api/v1/player/895347/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/agustin-bolivar/895347
+Ignacio Zappulla,1915998,https://api.sofascore.app/api/v1/player/1915998/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ignacio-zappulla/1915998
+Leonardo Morales,895342,https://api.sofascore.app/api/v1/player/895342/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/leonardo-morales/895342
+Juan Pintado,805330,https://api.sofascore.app/api/v1/player/805330/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/juan-pintado/805330
+Canto Gustavo,792153,https://api.sofascore.app/api/v1/player/792153/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/canto-gustavo/792153
+Yonatan Cabral,385318,https://api.sofascore.app/api/v1/player/385318/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/yonatan-cabral/385318
+Brian Blasi,824516,https://api.sofascore.app/api/v1/player/824516/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/brian-blasi/824516
+Fabricio Corbalan,1893227,https://api.sofascore.app/api/v1/player/1893227/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/fabricio-corbalan/1893227
+Nelson Insfran,875481,https://api.sofascore.app/api/v1/player/875481/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nelson-insfran/875481
+Marcos Ledesma,757762,https://api.sofascore.app/api/v1/player/757762/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/marcos-ledesma/757762
 Pellegrino Mateo,1099296,https://api.sofascore.app/api/v1/player/1099296/image,Platense,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/pellegrino-mateo/1099296
 Juan Pablo Goicochea,1201015,https://api.sofascore.app/api/v1/player/1201015/image,Platense,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/juan-pablo-goicochea/1201015
 Ronaldo Martinez,874452,https://api.sofascore.app/api/v1/player/874452/image,Platense,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ronaldo-martinez/874452
@@ -535,37 +566,6 @@ De Irastorza Jonathan,1893248,https://api.sofascore.app/api/v1/player/1893248/im
 Rodrigo Rey,158249,https://api.sofascore.app/api/v1/player/158249/image,Independiente,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/rodrigo-rey/158249
 Diego Segovia,1117018,https://api.sofascore.app/api/v1/player/1117018/image,Independiente,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/diego-segovia/1117018
 Scafati Juli,1900680,https://api.sofascore.app/api/v1/player/1900680/image,Independiente,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/scafati-juli/1900680
-Norberto Briasco,848619,https://api.sofascore.app/api/v1/player/848619/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/norberto-briasco/848619
-Castillo Rodrigo,1182504,https://api.sofascore.app/api/v1/player/1182504/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/castillo-rodrigo/1182504
-Cristian Colman,805316,https://api.sofascore.app/api/v1/player/805316/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/cristian-colman/805316
-Franco Troyansky,859990,https://api.sofascore.app/api/v1/player/859990/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/franco-troyansky/859990
-Ivo Mammini,1087009,https://api.sofascore.app/api/v1/player/1087009/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ivo-mammini/1087009
-Juan Cruz Esquivel,981347,https://api.sofascore.app/api/v1/player/981347/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/juan-cruz-esquivel/981347
-Matias Ramirez,897094,https://api.sofascore.app/api/v1/player/897094/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/matias-ramirez/897094
-Jeremias Merlo,1893228,https://api.sofascore.app/api/v1/player/1893228/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/jeremias-merlo/1893228
-Santino Primante,1903029,https://api.sofascore.app/api/v1/player/1903029/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/santino-primante/1903029
-Benjamin Dominguez,1162611,https://api.sofascore.app/api/v1/player/1162611/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/benjamin-dominguez/1162611
-Abaldo Matias,1177402,https://api.sofascore.app/api/v1/player/1177402/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/abaldo-matias/1177402
-Lucas Castro,122711,https://api.sofascore.app/api/v1/player/122711/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lucas-castro/122711
-Pablo De Blasis,256683,https://api.sofascore.app/api/v1/player/256683/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/pablo-de-blasis/256683
-Valentin Rodriguez,1065975,https://api.sofascore.app/api/v1/player/1065975/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/valentin-rodriguez/1065975
-Nicolas Garayalde,1017450,https://api.sofascore.app/api/v1/player/1017450/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nicolas-garayalde/1017450
-David Zalazar,1017422,https://api.sofascore.app/api/v1/player/1017422/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/david-zalazar/1017422
-Nicolas Colazo,106294,https://api.sofascore.app/api/v1/player/106294/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nicolas-colazo/106294
-Matias Miranda,998283,https://api.sofascore.app/api/v1/player/998283/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/matias-miranda/998283
-Martin Fernandez,981588,https://api.sofascore.app/api/v1/player/981588/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/martin-fernandez/981588
-Lautaro Chavez,926232,https://api.sofascore.app/api/v1/player/926232/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lautaro-chavez/926232
-Leandro Mamut,1087092,https://api.sofascore.app/api/v1/player/1087092/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/leandro-mamut/1087092
-Agustin Bolivar,895347,https://api.sofascore.app/api/v1/player/895347/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/agustin-bolivar/895347
-Ignacio Zappulla,1915998,https://api.sofascore.app/api/v1/player/1915998/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ignacio-zappulla/1915998
-Leonardo Morales,895342,https://api.sofascore.app/api/v1/player/895342/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/leonardo-morales/895342
-Juan Pintado,805330,https://api.sofascore.app/api/v1/player/805330/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/juan-pintado/805330
-Canto Gustavo,792153,https://api.sofascore.app/api/v1/player/792153/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/canto-gustavo/792153
-Yonatan Cabral,385318,https://api.sofascore.app/api/v1/player/385318/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/yonatan-cabral/385318
-Brian Blasi,824516,https://api.sofascore.app/api/v1/player/824516/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/brian-blasi/824516
-Fabricio Corbalan,1893227,https://api.sofascore.app/api/v1/player/1893227/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/fabricio-corbalan/1893227
-Nelson Insfran,875481,https://api.sofascore.app/api/v1/player/875481/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nelson-insfran/875481
-Marcos Ledesma,757762,https://api.sofascore.app/api/v1/player/757762/image,Gimnasia y Esgrima,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/marcos-ledesma/757762
 Luciano Gondou,1096378,https://api.sofascore.app/api/v1/player/1096378/image,Argentinos Juniors,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/luciano-gondou/1096378
 Maximiliano Romero,792585,https://api.sofascore.app/api/v1/player/792585/image,Argentinos Juniors,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/maximiliano-romero/792585
 Gaston Veron,924198,https://api.sofascore.app/api/v1/player/924198/image,Argentinos Juniors,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gaston-veron/924198
@@ -681,32 +681,6 @@ Torrente Valentino,1901674,https://api.sofascore.app/api/v1/player/1901674/image
 Lucas Hoyos,106111,https://api.sofascore.app/api/v1/player/106111/image,Newell's Old Boys,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lucas-hoyos/106111
 Ramiro Macagno,818326,https://api.sofascore.app/api/v1/player/818326/image,Newell's Old Boys,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ramiro-macagno/818326
 Faustino Piotti,1893582,https://api.sofascore.app/api/v1/player/1893582/image,Newell's Old Boys,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/faustino-piotti/1893582
-Nahuel Bustos,859961,https://api.sofascore.app/api/v1/player/859961/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nahuel-bustos/859961
-Francisco Fydriszewski,594430,https://api.sofascore.app/api/v1/player/594430/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/francisco-fydriszewski/594430
-Andres Vombergar,894415,https://api.sofascore.app/api/v1/player/894415/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/andres-vombergar/894415
-Reali Matias,1182457,https://api.sofascore.app/api/v1/player/1182457/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/reali-matias/1182457
-Facundo Bruera,933164,https://api.sofascore.app/api/v1/player/933164/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/facundo-bruera/933164
-Alexis Cuello,965768,https://api.sofascore.app/api/v1/player/965768/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/alexis-cuello/965768
-Ezequiel Cerutti,340785,https://api.sofascore.app/api/v1/player/340785/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ezequiel-cerutti/340785
-Agustin Hausch,1017278,https://api.sofascore.app/api/v1/player/1017278/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/agustin-hausch/1017278
-Carlos Sanchez,26995,https://api.sofascore.app/api/v1/player/26995/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/carlos-sanchez/26995
-Nahuel Barrios,875236,https://api.sofascore.app/api/v1/player/875236/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nahuel-barrios/875236
-Ivan Leguizamon,1161823,https://api.sofascore.app/api/v1/player/1161823/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ivan-leguizamon/1161823
-Malcom Braida,994453,https://api.sofascore.app/api/v1/player/994453/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/malcom-braida/994453
-Sebastian Blanco,33239,https://api.sofascore.app/api/v1/player/33239/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/sebastian-blanco/33239
-Eric Remedi,796096,https://api.sofascore.app/api/v1/player/796096/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/eric-remedi/796096
-Irala Elian,1385755,https://api.sofascore.app/api/v1/player/1385755/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/irala-elian/1385755
-Manuel Insaurralde,960297,https://api.sofascore.app/api/v1/player/960297/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/manuel-insaurralde/960297
-Gonzalo Alassia,1096231,https://api.sofascore.app/api/v1/player/1096231/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gonzalo-alassia/1096231
-Gonzalo Lujan,1106584,https://api.sofascore.app/api/v1/player/1106584/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gonzalo-lujan/1106584
-Jhohan Romana,839734,https://api.sofascore.app/api/v1/player/839734/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/jhohan-romana/839734
-Gaston Hernandez,980886,https://api.sofascore.app/api/v1/player/980886/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gaston-hernandez/980886
-Nicolas Tripichio,358924,https://api.sofascore.app/api/v1/player/358924/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nicolas-tripichio/358924
-Gaston Campi,351824,https://api.sofascore.app/api/v1/player/351824/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gaston-campi/351824
-Nahuel Arias,1485102,https://api.sofascore.app/api/v1/player/1485102/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nahuel-arias/1485102
-Facundo Altamirano,794812,https://api.sofascore.app/api/v1/player/794812/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/facundo-altamirano/794812
-Gaston Gomez,830775,https://api.sofascore.app/api/v1/player/830775/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gaston-gomez/830775
-Lautaro Lopez,989677,https://api.sofascore.app/api/v1/player/989677/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lautaro-lopez/989677
 Bruno Sepulveda,981451,https://api.sofascore.app/api/v1/player/981451/image,Banfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/bruno-sepulveda/981451
 Damian Diaz,42454,https://api.sofascore.app/api/v1/player/42454/image,Banfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/damian-diaz/42454
 Rivera Geronimo,1498863,https://api.sofascore.app/api/v1/player/1498863/image,Banfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/rivera-geronimo/1498863
@@ -736,32 +710,32 @@ Juan Iribarren,1199312,https://api.sofascore.app/api/v1/player/1199312/image,Ban
 Jose Devecchi,578460,https://api.sofascore.app/api/v1/player/578460/image,Banfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/jose-devecchi/578460
 Facundo Sanguinetti,1086977,https://api.sofascore.app/api/v1/player/1086977/image,Banfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/facundo-sanguinetti/1086977
 Vila Facundo,1114486,https://api.sofascore.app/api/v1/player/1114486/image,Banfield,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/vila-facundo/1114486
-Jhonatan Candia,877628,https://api.sofascore.app/api/v1/player/877628/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/jhonatan-candia/877628
-Daniel Juarez,1021875,https://api.sofascore.app/api/v1/player/1021875/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/daniel-juarez/1021875
-Alexis Dominguez,879625,https://api.sofascore.app/api/v1/player/879625/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/alexis-dominguez/879625
-Aguirre Federico,1471244,https://api.sofascore.app/api/v1/player/1471244/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/aguirre-federico/1471244
-Facundo Nicolas Kruger,1597466,https://api.sofascore.app/api/v1/player/1597466/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/facundo-nicolas-kruger/1597466
-Maximiliano Zalazar,1067653,https://api.sofascore.app/api/v1/player/1067653/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/maximiliano-zalazar/1067653
-Ivan Tapia,992084,https://api.sofascore.app/api/v1/player/992084/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ivan-tapia/992084
-Manuel Duarte,1117075,https://api.sofascore.app/api/v1/player/1117075/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/manuel-duarte/1117075
-Siro Rosane,1086976,https://api.sofascore.app/api/v1/player/1086976/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/siro-rosane/1086976
-Lucas Brochero,1084971,https://api.sofascore.app/api/v1/player/1084971/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lucas-brochero/1084971
-Rodrigo Herrera,1067815,https://api.sofascore.app/api/v1/player/1067815/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/rodrigo-herrera/1067815
-Marco Iacobellis,992100,https://api.sofascore.app/api/v1/player/992100/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/marco-iacobellis/992100
-Alan Cantero,1084961,https://api.sofascore.app/api/v1/player/1084961/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/alan-cantero/1084961
-Santiago Coronel,1116122,https://api.sofascore.app/api/v1/player/1116122/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/santiago-coronel/1116122
-Maximiliano Puig,1118095,https://api.sofascore.app/api/v1/player/1118095/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/maximiliano-puig/1118095
-Dardo Miloc,122713,https://api.sofascore.app/api/v1/player/122713/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/dardo-miloc/122713
-Lopez Lucas,1020575,https://api.sofascore.app/api/v1/player/1020575/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lopez-lucas/1020575
-Facundo Mater,896753,https://api.sofascore.app/api/v1/player/896753/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/facundo-mater/896753
-Velurtas Pedro,1158788,https://api.sofascore.app/api/v1/player/1158788/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/velurtas-pedro/1158788
-Gonzalo Goni,871805,https://api.sofascore.app/api/v1/player/871805/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gonzalo-goni/871805
-Rodrigo Insua,1020511,https://api.sofascore.app/api/v1/player/1020511/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/rodrigo-insua/1020511
-Nicolas Tolosa,1179176,https://api.sofascore.app/api/v1/player/1179176/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nicolas-tolosa/1179176
-Faggioli Lucas,1183699,https://api.sofascore.app/api/v1/player/1183699/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/faggioli-lucas/1183699
-Agustin Irazoque,1104114,https://api.sofascore.app/api/v1/player/1104114/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/agustin-irazoque/1104114
-Sebastian Moyano,147578,https://api.sofascore.app/api/v1/player/147578/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/sebastian-moyano/147578
-Marcelo Agustin Mino,875438,https://api.sofascore.app/api/v1/player/875438/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/marcelo-agustin-mino/875438
+Nahuel Bustos,859961,https://api.sofascore.app/api/v1/player/859961/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nahuel-bustos/859961
+Francisco Fydriszewski,594430,https://api.sofascore.app/api/v1/player/594430/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/francisco-fydriszewski/594430
+Andres Vombergar,894415,https://api.sofascore.app/api/v1/player/894415/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/andres-vombergar/894415
+Reali Matias,1182457,https://api.sofascore.app/api/v1/player/1182457/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/reali-matias/1182457
+Facundo Bruera,933164,https://api.sofascore.app/api/v1/player/933164/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/facundo-bruera/933164
+Alexis Cuello,965768,https://api.sofascore.app/api/v1/player/965768/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/alexis-cuello/965768
+Ezequiel Cerutti,340785,https://api.sofascore.app/api/v1/player/340785/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ezequiel-cerutti/340785
+Agustin Hausch,1017278,https://api.sofascore.app/api/v1/player/1017278/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/agustin-hausch/1017278
+Carlos Sanchez,26995,https://api.sofascore.app/api/v1/player/26995/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/carlos-sanchez/26995
+Nahuel Barrios,875236,https://api.sofascore.app/api/v1/player/875236/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nahuel-barrios/875236
+Ivan Leguizamon,1161823,https://api.sofascore.app/api/v1/player/1161823/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ivan-leguizamon/1161823
+Malcom Braida,994453,https://api.sofascore.app/api/v1/player/994453/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/malcom-braida/994453
+Sebastian Blanco,33239,https://api.sofascore.app/api/v1/player/33239/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/sebastian-blanco/33239
+Eric Remedi,796096,https://api.sofascore.app/api/v1/player/796096/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/eric-remedi/796096
+Irala Elian,1385755,https://api.sofascore.app/api/v1/player/1385755/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/irala-elian/1385755
+Manuel Insaurralde,960297,https://api.sofascore.app/api/v1/player/960297/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/manuel-insaurralde/960297
+Gonzalo Alassia,1096231,https://api.sofascore.app/api/v1/player/1096231/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gonzalo-alassia/1096231
+Gonzalo Lujan,1106584,https://api.sofascore.app/api/v1/player/1106584/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gonzalo-lujan/1106584
+Jhohan Romana,839734,https://api.sofascore.app/api/v1/player/839734/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/jhohan-romana/839734
+Gaston Hernandez,980886,https://api.sofascore.app/api/v1/player/980886/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gaston-hernandez/980886
+Nicolas Tripichio,358924,https://api.sofascore.app/api/v1/player/358924/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nicolas-tripichio/358924
+Gaston Campi,351824,https://api.sofascore.app/api/v1/player/351824/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gaston-campi/351824
+Nahuel Arias,1485102,https://api.sofascore.app/api/v1/player/1485102/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nahuel-arias/1485102
+Facundo Altamirano,794812,https://api.sofascore.app/api/v1/player/794812/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/facundo-altamirano/794812
+Gaston Gomez,830775,https://api.sofascore.app/api/v1/player/830775/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gaston-gomez/830775
+Lautaro Lopez,989677,https://api.sofascore.app/api/v1/player/989677/image,San Lorenzo,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lautaro-lopez/989677
 Osorio Abiel,1190083,https://api.sofascore.app/api/v1/player/1190083/image,Defensa y Justicia,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/osorio-abiel/1190083
 Juan Miritello,1003721,https://api.sofascore.app/api/v1/player/1003721/image,Defensa y Justicia,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/juan-miritello/1003721
 Facundo Echevarria,1094181,https://api.sofascore.app/api/v1/player/1094181/image,Defensa y Justicia,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/facundo-echevarria/1094181
@@ -789,6 +763,32 @@ Tiago Ferreyra,1650473,https://api.sofascore.app/api/v1/player/1650473/image,Def
 Enrique Bologna,107418,https://api.sofascore.app/api/v1/player/107418/image,Defensa y Justicia,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/enrique-bologna/107418
 Cristopher Fiermarin,881111,https://api.sofascore.app/api/v1/player/881111/image,Defensa y Justicia,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/cristopher-fiermarin/881111
 Ramiro Garcia,1468120,https://api.sofascore.app/api/v1/player/1468120/image,Defensa y Justicia,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ramiro-garcia/1468120
+Jhonatan Candia,877628,https://api.sofascore.app/api/v1/player/877628/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/jhonatan-candia/877628
+Daniel Juarez,1021875,https://api.sofascore.app/api/v1/player/1021875/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/daniel-juarez/1021875
+Alexis Dominguez,879625,https://api.sofascore.app/api/v1/player/879625/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/alexis-dominguez/879625
+Aguirre Federico,1471244,https://api.sofascore.app/api/v1/player/1471244/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/aguirre-federico/1471244
+Facundo Nicolas Kruger,1597466,https://api.sofascore.app/api/v1/player/1597466/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/facundo-nicolas-kruger/1597466
+Maximiliano Zalazar,1067653,https://api.sofascore.app/api/v1/player/1067653/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/maximiliano-zalazar/1067653
+Ivan Tapia,992084,https://api.sofascore.app/api/v1/player/992084/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/ivan-tapia/992084
+Manuel Duarte,1117075,https://api.sofascore.app/api/v1/player/1117075/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/manuel-duarte/1117075
+Siro Rosane,1086976,https://api.sofascore.app/api/v1/player/1086976/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/siro-rosane/1086976
+Lucas Brochero,1084971,https://api.sofascore.app/api/v1/player/1084971/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lucas-brochero/1084971
+Rodrigo Herrera,1067815,https://api.sofascore.app/api/v1/player/1067815/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/rodrigo-herrera/1067815
+Marco Iacobellis,992100,https://api.sofascore.app/api/v1/player/992100/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/marco-iacobellis/992100
+Alan Cantero,1084961,https://api.sofascore.app/api/v1/player/1084961/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/alan-cantero/1084961
+Santiago Coronel,1116122,https://api.sofascore.app/api/v1/player/1116122/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/santiago-coronel/1116122
+Maximiliano Puig,1118095,https://api.sofascore.app/api/v1/player/1118095/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/maximiliano-puig/1118095
+Dardo Miloc,122713,https://api.sofascore.app/api/v1/player/122713/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/dardo-miloc/122713
+Lopez Lucas,1020575,https://api.sofascore.app/api/v1/player/1020575/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lopez-lucas/1020575
+Facundo Mater,896753,https://api.sofascore.app/api/v1/player/896753/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/facundo-mater/896753
+Velurtas Pedro,1158788,https://api.sofascore.app/api/v1/player/1158788/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/velurtas-pedro/1158788
+Gonzalo Goni,871805,https://api.sofascore.app/api/v1/player/871805/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/gonzalo-goni/871805
+Rodrigo Insua,1020511,https://api.sofascore.app/api/v1/player/1020511/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/rodrigo-insua/1020511
+Nicolas Tolosa,1179176,https://api.sofascore.app/api/v1/player/1179176/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nicolas-tolosa/1179176
+Faggioli Lucas,1183699,https://api.sofascore.app/api/v1/player/1183699/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/faggioli-lucas/1183699
+Agustin Irazoque,1104114,https://api.sofascore.app/api/v1/player/1104114/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/agustin-irazoque/1104114
+Sebastian Moyano,147578,https://api.sofascore.app/api/v1/player/147578/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/sebastian-moyano/147578
+Marcelo Agustin Mino,875438,https://api.sofascore.app/api/v1/player/875438/image,Barracas Central,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/marcelo-agustin-mino/875438
 Matias Godoy,1003016,https://api.sofascore.app/api/v1/player/1003016/image,Central Córdoba,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/matias-godoy/1003016
 Nicolas Quagliata,1009556,https://api.sofascore.app/api/v1/player/1009556/image,Central Córdoba,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/nicolas-quagliata/1009556
 Lucas Varaldo,1003024,https://api.sofascore.app/api/v1/player/1003024/image,Central Córdoba,Liga Profesional,Argentina,2024,https://www.sofascore.com/es/jugador/lucas-varaldo/1003024

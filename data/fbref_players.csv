@@ -1,0 +1,976 @@
+player,id,profile,team,league,season,country,link
+Elias Gomez,9f110faf,https://fbref.com/req/202302030/images/headshots/9f110faf_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9f110faf/Elias-Gomez
+Agustin Bouzat,a98f4de5,https://fbref.com/req/202302030/images/headshots/a98f4de5_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a98f4de5/Agustin-Bouzat
+Francisco Pizzini,3511f465,https://fbref.com/req/202302030/images/headshots/3511f465_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3511f465/Francisco-Pizzini
+Braian Romero,c5cc3130,https://fbref.com/req/202302030/images/headshots/c5cc3130_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c5cc3130/Braian-Romero
+Claudio Aquino,1645d166,https://fbref.com/req/202302030/images/headshots/1645d166_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1645d166/Claudio-Aquino
+Thiago Fernandez,00322f0d,https://fbref.com/req/202302030/images/headshots/00322f0d_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/00322f0d/Thiago-Fernandez
+Tomas Marchiori,1c00ff13,https://fbref.com/req/202302030/images/headshots/1c00ff13_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1c00ff13/Tomas-Marchiori
+Christian Ordonez,0d94b6d9,https://fbref.com/req/202302030/images/headshots/0d94b6d9_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0d94b6d9/Christian-Ordonez
+Joaquin Garcia,14779141,https://fbref.com/req/202302030/images/headshots/14779141_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/14779141/Joaquin-Garcia
+Emanuel Mammana,7e927fda,https://fbref.com/req/202302030/images/headshots/7e927fda_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7e927fda/Emanuel-Mammana
+Valentin Gomez,0394c2ee,https://fbref.com/req/202302030/images/headshots/0394c2ee_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0394c2ee/Valentin-Gomez
+Patricio Pernicone,62cd6639,https://fbref.com/req/202302030/images/headshots/62cd6639_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/62cd6639/Patricio-Pernicone
+Tomas Guidara,14efa370,https://fbref.com/req/202302030/images/headshots/14efa370_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/14efa370/Tomas-Guidara
+Damian Fernandez,a15750e1,https://fbref.com/req/202302030/images/headshots/a15750e1_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a15750e1/Damian-Fernandez
+Aaron Quiros,95fd4bf2,https://fbref.com/req/202302030/images/headshots/95fd4bf2_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/95fd4bf2/Aaron-Quiros
+Leonel Roldan,e763fecf,https://fbref.com/req/202302030/images/headshots/e763fecf_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e763fecf/Leonel-Roldan
+Randall Rodriguez,2cd45366,https://fbref.com/req/202302030/images/headshots/2cd45366_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2cd45366/Randall-Rodriguez
+Matias Pellegrini,b59f0060,https://fbref.com/req/202302030/images/headshots/b59f0060_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b59f0060/Matias-Pellegrini
+Michael Santos,3cb6f224,https://fbref.com/req/202302030/images/headshots/3cb6f224_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3cb6f224/Michael-Santos
+Alejo Sarco,ec756d03,https://fbref.com/req/202302030/images/headshots/ec756d03_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ec756d03/Alejo-Sarco
+Juan Ignacio Mendez,035a3093,https://fbref.com/req/202302030/images/headshots/035a3093_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/035a3093/Juan-Ignacio-Mendez
+Agustin Lagos,09cdea58,https://fbref.com/req/202302030/images/headshots/09cdea58_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/09cdea58/Agustin-Lagos
+Lautaro Garzon,c3955b40,https://fbref.com/req/202302030/images/headshots/c3955b40_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c3955b40/Lautaro-Garzon
+Rodrigo Pineiro,d2a78b5e,https://fbref.com/req/202302030/images/headshots/d2a78b5e_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d2a78b5e/Rodrigo-Pineiro
+Jalil Elias,ffab97dd,https://fbref.com/req/202302030/images/headshots/ffab97dd_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ffab97dd/Jalil-Elias
+Alvaro Montoro,4c55ed86,https://fbref.com/req/202302030/images/headshots/4c55ed86_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4c55ed86/Alvaro-Montoro
+Santiago Caseres,958bba56,https://fbref.com/req/202302030/images/headshots/958bba56_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/958bba56/Santiago-Caseres
+Maher Carrizo,9ce60d15,https://fbref.com/req/202302030/images/headshots/9ce60d15_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9ce60d15/Maher-Carrizo
+Lenny Lobato,5c514884,https://fbref.com/req/202302030/images/headshots/5c514884_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5c514884/Lenny-Lobato
+Tomas Cavanagh,04b5f40e,https://fbref.com/req/202302030/images/headshots/04b5f40e_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/04b5f40e/Tomas-Cavanagh
+Leonardo Jara,688aaca2,https://fbref.com/req/202302030/images/headshots/688aaca2_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/688aaca2/Leonardo-Jara
+Isaias Andrada,522f541c,https://fbref.com/req/202302030/images/headshots/522f541c_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/522f541c/Isaias-Andrada
+Gianluca Benjamin,7a16bf7a,https://fbref.com/req/202302030/images/headshots/7a16bf7a_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7a16bf7a/Gianluca-Benjamin
+Felipe Bussio,a1206ad0,https://fbref.com/req/202302030/images/headshots/a1206ad0_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a1206ad0/Felipe-Bussio
+Elias Cabrera,4874cad4,https://fbref.com/req/202302030/images/headshots/4874cad4_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4874cad4/Elias-Cabrera
+Jano Gordon,1477cae6,https://fbref.com/req/202302030/images/headshots/1477cae6_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1477cae6/Jano-Gordon
+Maximiliano Porcel,5fff6887,https://fbref.com/req/202302030/images/headshots/5fff6887_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5fff6887/Maximiliano-Porcel
+Thiago Silvero,f5ac3688,https://fbref.com/req/202302030/images/headshots/f5ac3688_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f5ac3688/Thiago-Silvero
+Thiago Vecino,bd659846,https://fbref.com/req/202302030/images/headshots/bd659846_2022.jpg,Velez Sarsfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bd659846/Thiago-Vecino
+Walter Mazzantti,55ce9bfd,https://fbref.com/req/202302030/images/headshots/55ce9bfd_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/55ce9bfd/Walter-Mazzantti
+Lucas Carrizo,2bfc68c3,https://fbref.com/req/202302030/images/headshots/2bfc68c3_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2bfc68c3/Lucas-Carrizo
+William Alarcon,325d990a,https://fbref.com/req/202302030/images/headshots/325d990a_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/325d990a/William-Alarcon
+Rodrigo Cabral,9c874e17,https://fbref.com/req/202302030/images/headshots/9c874e17_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9c874e17/Rodrigo-Cabral
+Rodrigo Echeverria,b852aefd,https://fbref.com/req/202302030/images/headshots/b852aefd_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b852aefd/Rodrigo-Echeverria
+Hernan Galindez,89c136f6,https://fbref.com/req/202302030/images/headshots/89c136f6_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/89c136f6/Hernan-Galindez
+Hector Fertoli,54328474,https://fbref.com/req/202302030/images/headshots/54328474_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/54328474/Hector-Fertoli
+Cesar Ibanez,78d48e60,https://fbref.com/req/202302030/images/headshots/78d48e60_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/78d48e60/Cesar-Ibanez
+Fabio Pereyra,71862cd6,https://fbref.com/req/202302030/images/headshots/71862cd6_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/71862cd6/Fabio-Pereyra
+Hernan De La Fuente,035db54d,https://fbref.com/req/202302030/images/headshots/035db54d_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/035db54d/Hernan-De-La-Fuente
+Lucas Souto,ca39d38f,https://fbref.com/req/202302030/images/headshots/ca39d38f_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ca39d38f/Lucas-Souto
+Federico Fattori,80373bb5,https://fbref.com/req/202302030/images/headshots/80373bb5_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/80373bb5/Federico-Fattori
+Fernando Tobio,4958ceac,https://fbref.com/req/202302030/images/headshots/4958ceac_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4958ceac/Fernando-Tobio
+Ignacio Pussetto,62437b4f,https://fbref.com/req/202302030/images/headshots/62437b4f_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/62437b4f/Ignacio-Pussetto
+Guillermo Benitez,5a149253,https://fbref.com/req/202302030/images/headshots/5a149253_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5a149253/Guillermo-Benitez
+Sebastian Ramirez,99612e10,https://fbref.com/req/202302030/images/headshots/99612e10_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/99612e10/Sebastian-Ramirez
+Ramon Abila,db5ee72d,https://fbref.com/req/202302030/images/headshots/db5ee72d_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/db5ee72d/Ramon-Abila
+Sebastian Meza,a3f3cf7a,https://fbref.com/req/202302030/images/headshots/a3f3cf7a_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a3f3cf7a/Sebastian-Meza
+Agustin Toledo,26e38db9,https://fbref.com/req/202302030/images/headshots/26e38db9_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/26e38db9/Agustin-Toledo
+Eric Ramirez,9492f6e2,https://fbref.com/req/202302030/images/headshots/9492f6e2_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9492f6e2/Eric-Ramirez
+Pablo Siles,cca1e0b5,https://fbref.com/req/202302030/images/headshots/cca1e0b5_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/cca1e0b5/Pablo-Siles
+Guillermo Burdisso,34980324,https://fbref.com/req/202302030/images/headshots/34980324_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/34980324/Guillermo-Burdisso
+Franco Alfonso,4a0383c0,https://fbref.com/req/202302030/images/headshots/4a0383c0_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4a0383c0/Franco-Alfonso
+Leandro Garate,3b4539b5,https://fbref.com/req/202302030/images/headshots/3b4539b5_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3b4539b5/Leandro-Garate
+Andres Roa,7dcb8cb2,https://fbref.com/req/202302030/images/headshots/7dcb8cb2_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7dcb8cb2/Andres-Roa
+Franco Watson,0d7ad669,https://fbref.com/req/202302030/images/headshots/0d7ad669_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0d7ad669/Franco-Watson
+Matias Gomez,f6b9c85c,https://fbref.com/req/202302030/images/headshots/f6b9c85c_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f6b9c85c/Matias-Gomez
+Nicolas Cordero,78f10ec0,https://fbref.com/req/202302030/images/headshots/78f10ec0_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/78f10ec0/Nicolas-Cordero
+Nazareno Duran,7079cb81,https://fbref.com/req/202302030/images/headshots/7079cb81_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7079cb81/Nazareno-Duran
+Leandro Figueredo,4f09de21,https://fbref.com/req/202302030/images/headshots/4f09de21_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4f09de21/Leandro-Figueredo
+Marcelo Perez,6e62658c,https://fbref.com/req/202302030/images/headshots/6e62658c_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6e62658c/Marcelo-Perez
+Alan Sonora,4b71bfe4,https://fbref.com/req/202302030/images/headshots/4b71bfe4_2022.jpg,Huracan,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4b71bfe4/Alan-Sonora
+Tomas Durso,a7245aa0,https://fbref.com/req/202302030/images/headshots/a7245aa0_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a7245aa0/Tomas-Durso
+Nicolas Romero,bc4b0544,https://fbref.com/req/202302030/images/headshots/bc4b0544_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bc4b0544/Nicolas-Romero
+Adrian Guillermo Sanchez,bfb67716,https://fbref.com/req/202302030/images/headshots/bfb67716_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bfb67716/Adrian-Guillermo-Sanchez
+Renzo Tesuri,1bc771b3,https://fbref.com/req/202302030/images/headshots/1bc771b3_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1bc771b3/Renzo-Tesuri
+Guillermo Acosta,1bae6597,https://fbref.com/req/202302030/images/headshots/1bae6597_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1bae6597/Guillermo-Acosta
+Juan Infante,13f61a69,https://fbref.com/req/202302030/images/headshots/13f61a69_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/13f61a69/Juan-Infante
+Mateo Bajamich,d005b036,https://fbref.com/req/202302030/images/headshots/d005b036_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d005b036/Mateo-Bajamich
+Joaquin Pereyra,98af660d,https://fbref.com/req/202302030/images/headshots/98af660d_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/98af660d/Joaquin-Pereyra
+Matias De los Santos,726d759f,https://fbref.com/req/202302030/images/headshots/726d759f_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/726d759f/Matias-De-los-Santos
+Mateo Coronel,52e8ada7,https://fbref.com/req/202302030/images/headshots/52e8ada7_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/52e8ada7/Mateo-Coronel
+Moises Brandan,ab69d6eb,https://fbref.com/req/202302030/images/headshots/ab69d6eb_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ab69d6eb/Moises-Brandan
+Francisco Flores,448ff13f,https://fbref.com/req/202302030/images/headshots/448ff13f_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/448ff13f/Francisco-Flores
+Luis Miguel Rodriguez,96d19d5b,https://fbref.com/req/202302030/images/headshots/96d19d5b_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/96d19d5b/Luis-Miguel-Rodriguez
+Marcelo Estigarribia,d535f426,https://fbref.com/req/202302030/images/headshots/d535f426_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d535f426/Marcelo-Estigarribia
+Justo Giani,c06407ce,https://fbref.com/req/202302030/images/headshots/c06407ce_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c06407ce/Justo-Giani
+Nicolas Castro,d016a159,https://fbref.com/req/202302030/images/headshots/d016a159_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d016a159/Nicolas-Castro
+Gino Peruzzi,9a50da64,https://fbref.com/req/202302030/images/headshots/9a50da64_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9a50da64/Gino-Peruzzi
+Matias Orihuela,432e6973,https://fbref.com/req/202302030/images/headshots/432e6973_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/432e6973/Matias-Orihuela
+Rodrigo Inaki Melo,31b185e8,https://fbref.com/req/202302030/images/headshots/31b185e8_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/31b185e8/Rodrigo-Inaki-Melo
+Gianluca Ferrari,09e1d2b1,https://fbref.com/req/202302030/images/headshots/09e1d2b1_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/09e1d2b1/Gianluca-Ferrari
+Francisco Bonfiglio,848f0ed6,https://fbref.com/req/202302030/images/headshots/848f0ed6_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/848f0ed6/Francisco-Bonfiglio
+Tomas Castro,b69465e2,https://fbref.com/req/202302030/images/headshots/b69465e2_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b69465e2/Tomas-Castro
+Franco Nicola,cddd1e30,https://fbref.com/req/202302030/images/headshots/cddd1e30_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/cddd1e30/Franco-Nicola
+Nicolas Servetto,26c510e3,https://fbref.com/req/202302030/images/headshots/26c510e3_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/26c510e3/Nicolas-Servetto
+Nestor Breitenbruch,44b130dc,https://fbref.com/req/202302030/images/headshots/44b130dc_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/44b130dc/Nestor-Breitenbruch
+Julian Carrasco,eb10b183,https://fbref.com/req/202302030/images/headshots/eb10b183_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/eb10b183/Julian-Carrasco
+Jose Devecchi,5d448a04,https://fbref.com/req/202302030/images/headshots/5d448a04_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5d448a04/Jose-Devecchi
+Lautaro Godoy,3546ee7e,https://fbref.com/req/202302030/images/headshots/3546ee7e_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3546ee7e/Lautaro-Godoy
+Juan Gonzalez,f90f059e,https://fbref.com/req/202302030/images/headshots/f90f059e_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f90f059e/Juan-Gonzalez
+Rodrigo Morales,2108f71c,https://fbref.com/req/202302030/images/headshots/2108f71c_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2108f71c/Rodrigo-Morales
+Sergio Ortiz,8b5960a1,https://fbref.com/req/202302030/images/headshots/8b5960a1_2022.jpg,Atletico Tucuman,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8b5960a1/Sergio-Ortiz
+ Franco Pardo,de16bb25,https://fbref.com/req/202302030/images/headshots/de16bb25_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/de16bb25/-Franco-Pardo
+Mauro Pitton,363fa6bd,https://fbref.com/req/202302030/images/headshots/363fa6bd_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/363fa6bd/Mauro-Pitton
+Thiago Cardozo,d99c8e00,https://fbref.com/req/202302030/images/headshots/d99c8e00_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d99c8e00/Thiago-Cardozo
+Adrian Balboa,42cd719c,https://fbref.com/req/202302030/images/headshots/42cd719c_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/42cd719c/Adrian-Balboa
+Nicolas Orsini,55934138,https://fbref.com/req/202302030/images/headshots/55934138_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/55934138/Nicolas-Orsini
+Nicolas Paz,0af517c2,https://fbref.com/req/202302030/images/headshots/0af517c2_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0af517c2/Nicolas-Paz
+Joaquin Mosqueira,58754597,https://fbref.com/req/202302030/images/headshots/58754597_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/58754597/Joaquin-Mosqueira
+Bruno Pitton,e6ff541d,https://fbref.com/req/202302030/images/headshots/e6ff541d_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e6ff541d/Bruno-Pitton
+Claudio Corvalan,8cd70adc,https://fbref.com/req/202302030/images/headshots/8cd70adc_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8cd70adc/Claudio-Corvalan
+Lautaro Vargas,24e2e2a6,https://fbref.com/req/202302030/images/headshots/24e2e2a6_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/24e2e2a6/Lautaro-Vargas
+Simon Rivero,2376b044,https://fbref.com/req/202302030/images/headshots/2376b044_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2376b044/Simon-Rivero
+Mauro Luna Diale,19d9859a,https://fbref.com/req/202302030/images/headshots/19d9859a_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/19d9859a/Mauro-Luna-Diale
+Miguel Angel Torren,c6549bd1,https://fbref.com/req/202302030/images/headshots/c6549bd1_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c6549bd1/Miguel-Angel-Torren
+Federico Vera,dc93fa94,https://fbref.com/req/202302030/images/headshots/dc93fa94_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/dc93fa94/Federico-Vera
+Mateo Del Blanco,85e0feab,https://fbref.com/req/202302030/images/headshots/85e0feab_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/85e0feab/Mateo-Del-Blanco
+Javier Morales,125e771a,https://fbref.com/req/202302030/images/headshots/125e771a_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/125e771a/Javier-Morales
+Jeronimo Domina,25da3c90,https://fbref.com/req/202302030/images/headshots/25da3c90_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/25da3c90/Jeronimo-Domina
+Dante Campisi,3dff7ccb,https://fbref.com/req/202302030/images/headshots/3dff7ccb_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3dff7ccb/Dante-Campisi
+Lucas Gamba,ca252a8a,https://fbref.com/req/202302030/images/headshots/ca252a8a_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ca252a8a/Lucas-Gamba
+Enzo Martin Roldan,cf89da0a,https://fbref.com/req/202302030/images/headshots/cf89da0a_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/cf89da0a/Enzo-Martin-Roldan
+Patricio Tanda,c3645e90,https://fbref.com/req/202302030/images/headshots/c3645e90_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c3645e90/Patricio-Tanda
+Valentin Fascendini,16e54624,https://fbref.com/req/202302030/images/headshots/16e54624_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/16e54624/Valentin-Fascendini
+Francisco Gerometta,70e92629,https://fbref.com/req/202302030/images/headshots/70e92629_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/70e92629/Francisco-Gerometta
+Tiago Banega,b8131112,https://fbref.com/req/202302030/images/headshots/b8131112_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b8131112/Tiago-Banega
+Juan Luduena,6bee1610,https://fbref.com/req/202302030/images/headshots/6bee1610_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6bee1610/Juan-Luduena
+Lucas Meuli,160aac38,https://fbref.com/req/202302030/images/headshots/160aac38_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/160aac38/Lucas-Meuli
+Rafael Profini,d12f8940,https://fbref.com/req/202302030/images/headshots/d12f8940_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d12f8940/Rafael-Profini
+Francisco Pumpido,9188b4b3,https://fbref.com/req/202302030/images/headshots/9188b4b3_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9188b4b3/Francisco-Pumpido
+Lionel Verde,5be69b74,https://fbref.com/req/202302030/images/headshots/5be69b74_2022.jpg,Union,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5be69b74/Lionel-Verde
+Gaston Martirena,2d4eefca,https://fbref.com/req/202302030/images/headshots/2d4eefca_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2d4eefca/Gaston-Martirena
+Santiago Sosa,f080dd22,https://fbref.com/req/202302030/images/headshots/f080dd22_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f080dd22/Santiago-Sosa
+Gabriel Arias,9f9cbfca,https://fbref.com/req/202302030/images/headshots/9f9cbfca_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9f9cbfca/Gabriel-Arias
+Gabriel Rojas,79ad7358,https://fbref.com/req/202302030/images/headshots/79ad7358_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/79ad7358/Gabriel-Rojas
+Maximiliano Salas,c3c12758,https://fbref.com/req/202302030/images/headshots/c3c12758_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c3c12758/Maximiliano-Salas
+Agustin Almendra,1f5f7c6c,https://fbref.com/req/202302030/images/headshots/1f5f7c6c_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1f5f7c6c/Agustin-Almendra
+Adrian Martinez,6c513f98,https://fbref.com/req/202302030/images/headshots/6c513f98_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6c513f98/Adrian-Martinez
+Juan Nardoni,e91c3cc9,https://fbref.com/req/202302030/images/headshots/e91c3cc9_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e91c3cc9/Juan-Nardoni
+Nazareno Colombo,8127de9b,https://fbref.com/req/202302030/images/headshots/8127de9b_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8127de9b/Nazareno-Colombo
+Johan Carbonero,9eca9710,https://fbref.com/req/202302030/images/headshots/9eca9710_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9eca9710/Johan-Carbonero
+Marco Di Cesare,28c96f20,https://fbref.com/req/202302030/images/headshots/28c96f20_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/28c96f20/Marco-Di-Cesare
+Santiago Quiros,51bbeea0,https://fbref.com/req/202302030/images/headshots/51bbeea0_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/51bbeea0/Santiago-Quiros
+Roger Martinez,6f0d613a,https://fbref.com/req/202302030/images/headshots/6f0d613a_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6f0d613a/Roger-Martinez
+Baltasar Gallego,3ae8029b,https://fbref.com/req/202302030/images/headshots/3ae8029b_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3ae8029b/Baltasar-Gallego
+Agustin Urzi,bd7e2715,https://fbref.com/req/202302030/images/headshots/bd7e2715_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bd7e2715/Agustin-Urzi
+Agustin Garcia Basso,84c478aa,https://fbref.com/req/202302030/images/headshots/84c478aa_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/84c478aa/Agustin-Garcia-Basso
+Bruno Zuculini,17cddb4d,https://fbref.com/req/202302030/images/headshots/17cddb4d_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/17cddb4d/Bruno-Zuculini
+Leonardo Sigali,aeb53bd6,https://fbref.com/req/202302030/images/headshots/aeb53bd6_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/aeb53bd6/Leonardo-Sigali
+Facundo Cambeses,0a7c2b06,https://fbref.com/req/202302030/images/headshots/0a7c2b06_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0a7c2b06/Facundo-Cambeses
+Santiago Solari,5099e15e,https://fbref.com/req/202302030/images/headshots/5099e15e_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5099e15e/Santiago-Solari
+Juan Quintero,540d0b37,https://fbref.com/req/202302030/images/headshots/540d0b37_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/540d0b37/Juan-Quintero
+Juan Manuel Elordi,7b05e904,https://fbref.com/req/202302030/images/headshots/7b05e904_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7b05e904/Juan-Manuel-Elordi
+Facundo Mura,5d16dfc2,https://fbref.com/req/202302030/images/headshots/5d16dfc2_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5d16dfc2/Facundo-Mura
+Martin Barrios,715c684b,https://fbref.com/req/202302030/images/headshots/715c684b_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/715c684b/Martin-Barrios
+David Gonzalez,e6ee013c,https://fbref.com/req/202302030/images/headshots/e6ee013c_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e6ee013c/David-Gonzalez
+German Conti,7b18b6db,https://fbref.com/req/202302030/images/headshots/7b18b6db_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7b18b6db/German-Conti
+Ivan Pillud,aa07f770,https://fbref.com/req/202302030/images/headshots/aa07f770_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/aa07f770/Ivan-Pillud
+Ignacio Galvan,e2525aa4,https://fbref.com/req/202302030/images/headshots/e2525aa4_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e2525aa4/Ignacio-Galvan
+Tobias Rubio,3be76aa4,https://fbref.com/req/202302030/images/headshots/3be76aa4_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3be76aa4/Tobias-Rubio
+Matias Bergara,73b2e5b0,https://fbref.com/req/202302030/images/headshots/73b2e5b0_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/73b2e5b0/Matias-Bergara
+Ramiro Degregorio,24a3ab29,https://fbref.com/req/202302030/images/headshots/24a3ab29_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/24a3ab29/Ramiro-Degregorio
+Roberto Leon,70d628a1,https://fbref.com/req/202302030/images/headshots/70d628a1_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/70d628a1/Roberto-Leon
+Leonel Miranda,518b4a46,https://fbref.com/req/202302030/images/headshots/518b4a46_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/518b4a46/Leonel-Miranda
+Pedro Paredes,6cb888d6,https://fbref.com/req/202302030/images/headshots/6cb888d6_2022.jpg,Racing Club,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6cb888d6/Pedro-Paredes
+Gonzalo Requena,0f978661,https://fbref.com/req/202302030/images/headshots/0f978661_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0f978661/Gonzalo-Requena
+Manuel Roffo,b50e5848,https://fbref.com/req/202302030/images/headshots/b50e5848_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b50e5848/Manuel-Roffo
+Gaston Lodico,0373879c,https://fbref.com/req/202302030/images/headshots/0373879c_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0373879c/Gaston-Lodico
+Damian Puebla,bfaeb90e,https://fbref.com/req/202302030/images/headshots/bfaeb90e_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bfaeb90e/Damian-Puebla
+Jonas Acevedo,0b419c37,https://fbref.com/req/202302030/images/headshots/0b419c37_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0b419c37/Jonas-Acevedo
+Nicolas Dubersarsky,bed3eed1,https://fbref.com/req/202302030/images/headshots/bed3eed1_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bed3eed1/Nicolas-Dubersarsky
+Santiago Rodriguez,1ebb7c72,https://fbref.com/req/202302030/images/headshots/1ebb7c72_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1ebb7c72/Santiago-Rodriguez
+Fernando Alarcon,b4c8e4c5,https://fbref.com/req/202302030/images/headshots/b4c8e4c5_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b4c8e4c5/Fernando-Alarcon
+Ignacio Russo,2ca3d7f2,https://fbref.com/req/202302030/images/headshots/2ca3d7f2_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2ca3d7f2/Ignacio-Russo
+Lucas Rodriguez,ffaebee2,https://fbref.com/req/202302030/images/headshots/ffaebee2_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ffaebee2/Lucas-Rodriguez
+Giuliano Cerato,f88ec6d6,https://fbref.com/req/202302030/images/headshots/f88ec6d6_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f88ec6d6/Giuliano-Cerato
+Juan Franco Arrellaga,6015ddd0,https://fbref.com/req/202302030/images/headshots/6015ddd0_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6015ddd0/Juan-Franco-Arrellaga
+Jonathan Bay,663d052d,https://fbref.com/req/202302030/images/headshots/663d052d_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/663d052d/Jonathan-Bay
+Facundo Suarez,c4232f83,https://fbref.com/req/202302030/images/headshots/c4232f83_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c4232f83/Facundo-Suarez
+Gregorio Rodriguez,de7ce7b1,https://fbref.com/req/202302030/images/headshots/de7ce7b1_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/de7ce7b1/Gregorio-Rodriguez
+Victor Cabrera,2332941c,https://fbref.com/req/202302030/images/headshots/2332941c_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2332941c/Victor-Cabrera
+Stefano Moreyra,c24da22e,https://fbref.com/req/202302030/images/headshots/c24da22e_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c24da22e/Stefano-Moreyra
+Brian Cuello,f22503a8,https://fbref.com/req/202302030/images/headshots/f22503a8_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f22503a8/Brian-Cuello
+Miguel Brizuela,ac2206e1,https://fbref.com/req/202302030/images/headshots/ac2206e1_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ac2206e1/Miguel-Brizuela
+Jeremias Lazaro,f1a9a9f0,https://fbref.com/req/202302030/images/headshots/f1a9a9f0_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f1a9a9f0/Jeremias-Lazaro
+Silvio Romero,6a00c4b0,https://fbref.com/req/202302030/images/headshots/6a00c4b0_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6a00c4b0/Silvio-Romero
+Rodrigo Perez,559c0731,https://fbref.com/req/202302030/images/headshots/559c0731_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/559c0731/Rodrigo-Perez
+Nicolas Barrientos,189d9c64,https://fbref.com/req/202302030/images/headshots/189d9c64_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/189d9c64/Nicolas-Barrientos
+Emanuel Bilbao,e81f3d39,https://fbref.com/req/202302030/images/headshots/e81f3d39_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e81f3d39/Emanuel-Bilbao
+Lautaro Carrera,0cc742f4,https://fbref.com/req/202302030/images/headshots/0cc742f4_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0cc742f4/Lautaro-Carrera
+Franco Diaz,a8150001,https://fbref.com/req/202302030/images/headshots/a8150001_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a8150001/Franco-Diaz
+Guido Mainero,c7f7afc5,https://fbref.com/req/202302030/images/headshots/c7f7afc5_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c7f7afc5/Guido-Mainero
+Joaquin Papaleo,96abc4be,https://fbref.com/req/202302030/images/headshots/96abc4be_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/96abc4be/Joaquin-Papaleo
+Marcos Peano,e40f365c,https://fbref.com/req/202302030/images/headshots/e40f365c_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e40f365c/Marcos-Peano
+Matias Romero,b5dda2b5,https://fbref.com/req/202302030/images/headshots/b5dda2b5_2022.jpg,Instituto,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b5dda2b5/Matias-Romero
+Guido Herrera,4b9b1f3a,https://fbref.com/req/202302030/images/headshots/4b9b1f3a_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4b9b1f3a/Guido-Herrera
+Gaston Benavidez,adc19df2,https://fbref.com/req/202302030/images/headshots/adc19df2_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/adc19df2/Gaston-Benavidez
+Federico Girotti,ea24ce2c,https://fbref.com/req/202302030/images/headshots/ea24ce2c_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ea24ce2c/Federico-Girotti
+Miguel Navarro,3fbff39a,https://fbref.com/req/202302030/images/headshots/3fbff39a_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3fbff39a/Miguel-Navarro
+Marcos Portillo,244afd21,https://fbref.com/req/202302030/images/headshots/244afd21_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/244afd21/Marcos-Portillo
+Diego Ortegoza,265893e5,https://fbref.com/req/202302030/images/headshots/265893e5_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/265893e5/Diego-Ortegoza
+Lucas Suarez,51bc9fe2,https://fbref.com/req/202302030/images/headshots/51bc9fe2_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/51bc9fe2/Lucas-Suarez
+Matias Catalan,e7eab8e7,https://fbref.com/req/202302030/images/headshots/e7eab8e7_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e7eab8e7/Matias-Catalan
+Juan Portillo,2f9ae3a1,https://fbref.com/req/202302030/images/headshots/2f9ae3a1_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2f9ae3a1/Juan-Portillo
+Alejandro Martinez,26f76d7b,https://fbref.com/req/202302030/images/headshots/26f76d7b_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/26f76d7b/Alejandro-Martinez
+Juan Camilo Portilla,ad49f7fb,https://fbref.com/req/202302030/images/headshots/ad49f7fb_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ad49f7fb/Juan-Camilo-Portilla
+Bruno Barticciotto,11a865cb,https://fbref.com/req/202302030/images/headshots/11a865cb_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/11a865cb/Bruno-Barticciotto
+Ruben Botta,b11fd1e7,https://fbref.com/req/202302030/images/headshots/b11fd1e7_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b11fd1e7/Ruben-Botta
+Kevin Mantilla,3c9d192d,https://fbref.com/req/202302030/images/headshots/3c9d192d_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3c9d192d/Kevin-Mantilla
+Matias Galarza,8e97a57b,https://fbref.com/req/202302030/images/headshots/8e97a57b_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8e97a57b/Matias-Galarza
+Ramiro Ruiz,976c8f8f,https://fbref.com/req/202302030/images/headshots/976c8f8f_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/976c8f8f/Ramiro-Ruiz
+Blas Riveros,87d8b5a3,https://fbref.com/req/202302030/images/headshots/87d8b5a3_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/87d8b5a3/Blas-Riveros
+Cristian Tarragona,a5ac5b47,https://fbref.com/req/202302030/images/headshots/a5ac5b47_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a5ac5b47/Cristian-Tarragona
+Valentin Depietri,d02cb5d7,https://fbref.com/req/202302030/images/headshots/d02cb5d7_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d02cb5d7/Valentin-Depietri
+Ramon Sosa,2d3417a1,https://fbref.com/req/202302030/images/headshots/2d3417a1_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2d3417a1/Ramon-Sosa
+Alex Vigo,1d8d182c,https://fbref.com/req/202302030/images/headshots/1d8d182c_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1d8d182c/Alex-Vigo
+Matias Esquivel,fdfee538,https://fbref.com/req/202302030/images/headshots/fdfee538_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/fdfee538/Matias-Esquivel
+Gustavo Bou,3dfcc735,https://fbref.com/req/202302030/images/headshots/3dfcc735_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3dfcc735/Gustavo-Bou
+Sebastian Palacios,e4a47bec,https://fbref.com/req/202302030/images/headshots/e4a47bec_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e4a47bec/Sebastian-Palacios
+Lautaro Morales,119a4577,https://fbref.com/req/202302030/images/headshots/119a4577_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/119a4577/Lautaro-Morales
+Juan Rodriguez,18da6cc6,https://fbref.com/req/202302030/images/headshots/18da6cc6_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/18da6cc6/Juan-Rodriguez
+Franco Moyano,5d00dab4,https://fbref.com/req/202302030/images/headshots/5d00dab4_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5d00dab4/Franco-Moyano
+Gustavo Albarracin,7cdcbfdc,https://fbref.com/req/202302030/images/headshots/7cdcbfdc_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7cdcbfdc/Gustavo-Albarracin
+Luis Sequeira,fe8334f8,https://fbref.com/req/202302030/images/headshots/fe8334f8_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/fe8334f8/Luis-Sequeira
+Nahuel Bustos,8f774c7f,https://fbref.com/req/202302030/images/headshots/8f774c7f_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8f774c7f/Nahuel-Bustos
+Imanol Segovia,dbf63d70,https://fbref.com/req/202302030/images/headshots/dbf63d70_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/dbf63d70/Imanol-Segovia
+Diego Barrera,3ad28381,https://fbref.com/req/202302030/images/headshots/3ad28381_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3ad28381/Diego-Barrera
+Jeremias Gallard,a0f37882,https://fbref.com/req/202302030/images/headshots/a0f37882_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a0f37882/Jeremias-Gallard
+Francisco Pozzo,c4192980,https://fbref.com/req/202302030/images/headshots/c4192980_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c4192980/Francisco-Pozzo
+Jose Romero,e76ff509,https://fbref.com/req/202302030/images/headshots/e76ff509_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e76ff509/Jose-Romero
+Franco Saavedra,23db03e5,https://fbref.com/req/202302030/images/headshots/23db03e5_2022.jpg,Talleres,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/23db03e5/Franco-Saavedra
+Miguel Merentiel,307224a2,https://fbref.com/req/202302030/images/headshots/307224a2_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/307224a2/Miguel-Merentiel
+Sergio Romero,1e26e376,https://fbref.com/req/202302030/images/headshots/1e26e376_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1e26e376/Sergio-Romero
+Lautaro Blanco,1657f448,https://fbref.com/req/202302030/images/headshots/1657f448_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1657f448/Lautaro-Blanco
+Guillermo Matias Fernandez,24377e64,https://fbref.com/req/202302030/images/headshots/24377e64_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/24377e64/Guillermo-Matias-Fernandez
+Lautaro Di Lollo,7b58c3c3,https://fbref.com/req/202302030/images/headshots/7b58c3c3_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7b58c3c3/Lautaro-Di-Lollo
+Luis Advincula,cacadf4f,https://fbref.com/req/202302030/images/headshots/cacadf4f_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/cacadf4f/Luis-Advincula
+Cristian Medina,5a0d551b,https://fbref.com/req/202302030/images/headshots/5a0d551b_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5a0d551b/Cristian-Medina
+Kevin Zenon,8f0d8b0a,https://fbref.com/req/202302030/images/headshots/8f0d8b0a_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8f0d8b0a/Kevin-Zenon
+Gary Medel,563a68ad,https://fbref.com/req/202302030/images/headshots/563a68ad_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/563a68ad/Gary-Medel
+Tomas Belmonte,9928bf1a,https://fbref.com/req/202302030/images/headshots/9928bf1a_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9928bf1a/Tomas-Belmonte
+Edinson Cavani,527f063d,https://fbref.com/req/202302030/images/headshots/527f063d_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/527f063d/Edinson-Cavani
+Ezequiel Fernandez,319857df,https://fbref.com/req/202302030/images/headshots/319857df_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/319857df/Ezequiel-Fernandez
+Jorge Figal,91e44066,https://fbref.com/req/202302030/images/headshots/91e44066_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/91e44066/Jorge-Figal
+Milton Gimenez,526f7e39,https://fbref.com/req/202302030/images/headshots/526f7e39_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/526f7e39/Milton-Gimenez
+Cristian Lema,2c20f2fb,https://fbref.com/req/202302030/images/headshots/2c20f2fb_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2c20f2fb/Cristian-Lema
+Marcos Rojo,e0991c04,https://fbref.com/req/202302030/images/headshots/e0991c04_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e0991c04/Marcos-Rojo
+Agustin Martegani,591bf874,https://fbref.com/req/202302030/images/headshots/591bf874_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/591bf874/Agustin-Martegani
+Marcelo Saracchi,1c96ad85,https://fbref.com/req/202302030/images/headshots/1c96ad85_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1c96ad85/Marcelo-Saracchi
+Brian Aguirre,edfebd8d,https://fbref.com/req/202302030/images/headshots/edfebd8d_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/edfebd8d/Brian-Aguirre
+Exequiel Zeballos,02f9fb61,https://fbref.com/req/202302030/images/headshots/02f9fb61_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/02f9fb61/Exequiel-Zeballos
+Aaron Anselmino,1d87670e,https://fbref.com/req/202302030/images/headshots/1d87670e_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1d87670e/Aaron-Anselmino
+Luca Langoni,b9532512,https://fbref.com/req/202302030/images/headshots/b9532512_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b9532512/Luca-Langoni
+Milton Delgado,947949f1,https://fbref.com/req/202302030/images/headshots/947949f1_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/947949f1/Milton-Delgado
+Jabes Saralegui,a694431e,https://fbref.com/req/202302030/images/headshots/a694431e_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a694431e/Jabes-Saralegui
+Mateo Mendia,881aa581,https://fbref.com/req/202302030/images/headshots/881aa581_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/881aa581/Mateo-Mendia
+Lucas Janson,f3f2db7a,https://fbref.com/req/202302030/images/headshots/f3f2db7a_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f3f2db7a/Lucas-Janson
+Leandro Brey,0827937d,https://fbref.com/req/202302030/images/headshots/0827937d_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0827937d/Leandro-Brey
+Vicente Taborda,52f2d47d,https://fbref.com/req/202302030/images/headshots/52f2d47d_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/52f2d47d/Vicente-Taborda
+Frank Fabra,feccb595,https://fbref.com/req/202302030/images/headshots/feccb595_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/feccb595/Frank-Fabra
+Julian Ceballos,4902f18b,https://fbref.com/req/202302030/images/headshots/4902f18b_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4902f18b/Julian-Ceballos
+Dylan Gorosito,78873bad,https://fbref.com/req/202302030/images/headshots/78873bad_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/78873bad/Dylan-Gorosito
+Ignacio Miramon,e43a4083,https://fbref.com/req/202302030/images/headshots/e43a4083_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e43a4083/Ignacio-Miramon
+Norberto Briasco,b47b5b30,https://fbref.com/req/202302030/images/headshots/b47b5b30_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b47b5b30/Norberto-Briasco
+Iker Zufiaurre,e5e08d06,https://fbref.com/req/202302030/images/headshots/e5e08d06_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e5e08d06/Iker-Zufiaurre
+Jorman Campuzano,5ca52045,https://fbref.com/req/202302030/images/headshots/5ca52045_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5ca52045/Jorman-Campuzano
+Walter Molas,fae0c4f0,https://fbref.com/req/202302030/images/headshots/fae0c4f0_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/fae0c4f0/Walter-Molas
+Mauricio Benitez,51831761,https://fbref.com/req/202302030/images/headshots/51831761_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/51831761/Mauricio-Benitez
+Ezequiel Bullaude,e0b5ac38,https://fbref.com/req/202302030/images/headshots/e0b5ac38_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e0b5ac38/Ezequiel-Bullaude
+Santiago Dalmasso,a2f24dc6,https://fbref.com/req/202302030/images/headshots/a2f24dc6_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a2f24dc6/Santiago-Dalmasso
+Javier Hernan Garcia,55c66abd,https://fbref.com/req/202302030/images/headshots/55c66abd_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/55c66abd/Javier-Hernan-Garcia
+Juan Payal,ea415864,https://fbref.com/req/202302030/images/headshots/ea415864_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ea415864/Juan-Payal
+Juan Ramirez,46667801,https://fbref.com/req/202302030/images/headshots/46667801_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/46667801/Juan-Ramirez
+Ignacio Rodriguez,be8c7af5,https://fbref.com/req/202302030/images/headshots/be8c7af5_2022.jpg,Boca Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/be8c7af5/Ignacio-Rodriguez
+Jorge Broun,6503ae16,https://fbref.com/req/202302030/images/headshots/6503ae16_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6503ae16/Jorge-Broun
+Mauricio Martinez,6027a024,https://fbref.com/req/202302030/images/headshots/6027a024_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6027a024/Mauricio-Martinez
+Alan Rodriguez,fd25e4d7,https://fbref.com/req/202302030/images/headshots/fd25e4d7_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/fd25e4d7/Alan-Rodriguez
+Emanuel Coronel,e5aa6459,https://fbref.com/req/202302030/images/headshots/e5aa6459_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e5aa6459/Emanuel-Coronel
+Franco Ibarra,db6540c5,https://fbref.com/req/202302030/images/headshots/db6540c5_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/db6540c5/Franco-Ibarra
+Jaminton Campaz,8d5ceef2,https://fbref.com/req/202302030/images/headshots/8d5ceef2_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8d5ceef2/Jaminton-Campaz
+Agustin Modica,eb0aabdd,https://fbref.com/req/202302030/images/headshots/eb0aabdd_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/eb0aabdd/Agustin-Modica
+Jonathan David Gomez,c911d311,https://fbref.com/req/202302030/images/headshots/c911d311_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c911d311/Jonathan-David-Gomez
+Kevin Ortiz,1ed313b7,https://fbref.com/req/202302030/images/headshots/1ed313b7_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1ed313b7/Kevin-Ortiz
+Facundo Mallo,d3e5285f,https://fbref.com/req/202302030/images/headshots/d3e5285f_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d3e5285f/Facundo-Mallo
+Juan Gimenez,e907e63b,https://fbref.com/req/202302030/images/headshots/e907e63b_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e907e63b/Juan-Gimenez
+Carlos Quintana,26176390,https://fbref.com/req/202302030/images/headshots/26176390_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/26176390/Carlos-Quintana
+Victor Malcorra,90a0bb3b,https://fbref.com/req/202302030/images/headshots/90a0bb3b_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/90a0bb3b/Victor-Malcorra
+Agustin Sandez,8ccb067e,https://fbref.com/req/202302030/images/headshots/8ccb067e_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8ccb067e/Agustin-Sandez
+Damian Martinez,3fd3bf8a,https://fbref.com/req/202302030/images/headshots/3fd3bf8a_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3fd3bf8a/Damian-Martinez
+Enzo Copetti,a535dbc6,https://fbref.com/req/202302030/images/headshots/a535dbc6_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a535dbc6/Enzo-Copetti
+Laurtaro Giaccone,5a9ff6cf,https://fbref.com/req/202302030/images/headshots/5a9ff6cf_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5a9ff6cf/Laurtaro-Giaccone
+Maximiliano Lovera,c27ae377,https://fbref.com/req/202302030/images/headshots/c27ae377_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c27ae377/Maximiliano-Lovera
+Juan Cruz Komar,f4480f5b,https://fbref.com/req/202302030/images/headshots/f4480f5b_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f4480f5b/Juan-Cruz-Komar
+Francesco Lo Celso,53ea4157,https://fbref.com/req/202302030/images/headshots/53ea4157_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/53ea4157/Francesco-Lo-Celso
+Marco Ruben,30795728,https://fbref.com/req/202302030/images/headshots/30795728_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/30795728/Marco-Ruben
+Miguel Barbieri,0e8cbfc4,https://fbref.com/req/202302030/images/headshots/0e8cbfc4_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0e8cbfc4/Miguel-Barbieri
+Tomas OConnor,98de4568,https://fbref.com/req/202302030/images/headshots/98de4568_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/98de4568/Tomas-OConnor
+Axel Werner,c0b1a6da,https://fbref.com/req/202302030/images/headshots/c0b1a6da_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c0b1a6da/Axel-Werner
+Luca Martinez,9546e026,https://fbref.com/req/202302030/images/headshots/9546e026_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9546e026/Luca-Martinez
+Elias Ocampo,4f3c59c3,https://fbref.com/req/202302030/images/headshots/4f3c59c3_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4f3c59c3/Elias-Ocampo
+Tobias Cervera,3d395749,https://fbref.com/req/202302030/images/headshots/3d395749_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3d395749/Tobias-Cervera
+Fabricio Oviedo,7a39f13b,https://fbref.com/req/202302030/images/headshots/7a39f13b_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7a39f13b/Fabricio-Oviedo
+Augusto Solari,3ca6106c,https://fbref.com/req/202302030/images/headshots/3ca6106c_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3ca6106c/Augusto-Solari
+Giovanni Bogado,9b1dc8ab,https://fbref.com/req/202302030/images/headshots/9b1dc8ab_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9b1dc8ab/Giovanni-Bogado
+Samuel Beltran,abe57011,https://fbref.com/req/202302030/images/headshots/abe57011_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/abe57011/Samuel-Beltran
+Felipe Carnicero,63789fba,https://fbref.com/req/202302030/images/headshots/63789fba_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/63789fba/Felipe-Carnicero
+Kevin Gutierrez,288ac952,https://fbref.com/req/202302030/images/headshots/288ac952_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/288ac952/Kevin-Gutierrez
+Valentino Quintero,cee4bded,https://fbref.com/req/202302030/images/headshots/cee4bded_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/cee4bded/Valentino-Quintero
+Kevin Silva,3ae8d22a,https://fbref.com/req/202302030/images/headshots/3ae8d22a_2022.jpg,Rosario Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3ae8d22a/Kevin-Silva
+Ignacio Arce,707fcc63,https://fbref.com/req/202302030/images/headshots/707fcc63_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/707fcc63/Ignacio-Arce
+Alan Barrionuevo,f2e5d390,https://fbref.com/req/202302030/images/headshots/f2e5d390_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f2e5d390/Alan-Barrionuevo
+Nicolas Sansotre,e7815a02,https://fbref.com/req/202302030/images/headshots/e7815a02_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e7815a02/Nicolas-Sansotre
+Jonathan Herrera,2f6ff462,https://fbref.com/req/202302030/images/headshots/2f6ff462_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2f6ff462/Jonathan-Herrera
+Pedro Ramirez,6cc0a227,https://fbref.com/req/202302030/images/headshots/6cc0a227_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6cc0a227/Pedro-Ramirez
+Pablo Monje,37077a8b,https://fbref.com/req/202302030/images/headshots/37077a8b_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/37077a8b/Pablo-Monje
+Milton Celiz,92a6cccf,https://fbref.com/req/202302030/images/headshots/92a6cccf_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/92a6cccf/Milton-Celiz
+Nicolas Caro,c4789f7e,https://fbref.com/req/202302030/images/headshots/c4789f7e_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c4789f7e/Nicolas-Caro
+Jonatan Goitia,edbdf494,https://fbref.com/req/202302030/images/headshots/edbdf494_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/edbdf494/Jonatan-Goitia
+Guillermo Pereira,00843162,https://fbref.com/req/202302030/images/headshots/00843162_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/00843162/Guillermo-Pereira
+Gustavo Fernandez,c8aea686,https://fbref.com/req/202302030/images/headshots/c8aea686_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c8aea686/Gustavo-Fernandez
+Antony Alonso,d96469f1,https://fbref.com/req/202302030/images/headshots/d96469f1_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d96469f1/Antony-Alonso
+Rodrigo Sayavedra,bb2ffda5,https://fbref.com/req/202302030/images/headshots/bb2ffda5_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bb2ffda5/Rodrigo-Sayavedra
+Gonzalo Bravo,85b317de,https://fbref.com/req/202302030/images/headshots/85b317de_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/85b317de/Gonzalo-Bravo
+Jonathan Goya,ebd040ee,https://fbref.com/req/202302030/images/headshots/ebd040ee_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ebd040ee/Jonathan-Goya
+Nicolas Dematei,eb2bbe09,https://fbref.com/req/202302030/images/headshots/eb2bbe09_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/eb2bbe09/Nicolas-Dematei
+Yaison Murillo,80620663,https://fbref.com/req/202302030/images/headshots/80620663_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/80620663/Yaison-Murillo
+Brian Sanchez,f14e5e1f,https://fbref.com/req/202302030/images/headshots/f14e5e1f_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f14e5e1f/Brian-Sanchez
+Leonardo Landriel,1e9ff026,https://fbref.com/req/202302030/images/headshots/1e9ff026_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1e9ff026/Leonardo-Landriel
+Delfor Minervino,f4cdc350,https://fbref.com/req/202302030/images/headshots/f4cdc350_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f4cdc350/Delfor-Minervino
+Walter Acuna,15741f49,https://fbref.com/req/202302030/images/headshots/15741f49_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/15741f49/Walter-Acuna
+Nicolas Benegas,b7b1dea7,https://fbref.com/req/202302030/images/headshots/b7b1dea7_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b7b1dea7/Nicolas-Benegas
+Maximiliano Rodriguez,08cb49de,https://fbref.com/req/202302030/images/headshots/08cb49de_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/08cb49de/Maximiliano-Rodriguez
+Alexander Diaz,4032a5b0,https://fbref.com/req/202302030/images/headshots/4032a5b0_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4032a5b0/Alexander-Diaz
+Jose Mendez,d1524700,https://fbref.com/req/202302030/images/headshots/d1524700_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d1524700/Jose-Mendez
+Walter Rodriguez,9996fdef,https://fbref.com/req/202302030/images/headshots/9996fdef_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9996fdef/Walter-Rodriguez
+Mario Sanabria,17390286,https://fbref.com/req/202302030/images/headshots/17390286_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/17390286/Mario-Sanabria
+Maximiliano Brito,e452aa10,https://fbref.com/req/202302030/images/headshots/e452aa10_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e452aa10/Maximiliano-Brito
+Cristian Paz,55d7093b,https://fbref.com/req/202302030/images/headshots/55d7093b_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/55d7093b/Cristian-Paz
+Gustavo Benitez,8ad01c57,https://fbref.com/req/202302030/images/headshots/8ad01c57_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8ad01c57/Gustavo-Benitez
+Joaquin Borja,7a896fb2,https://fbref.com/req/202302030/images/headshots/7a896fb2_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7a896fb2/Joaquin-Borja
+Juan Dobboletta,bf3b7b14,https://fbref.com/req/202302030/images/headshots/bf3b7b14_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bf3b7b14/Juan-Dobboletta
+Ramon Gonzalez,54892f1a,https://fbref.com/req/202302030/images/headshots/54892f1a_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/54892f1a/Ramon-Gonzalez
+Nahuel Iribarren,eae60353,https://fbref.com/req/202302030/images/headshots/eae60353_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/eae60353/Nahuel-Iribarren
+Jeremias James,61d4d9ac,https://fbref.com/req/202302030/images/headshots/61d4d9ac_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/61d4d9ac/Jeremias-James
+Rodrigo Saracho,8ba6fbcc,https://fbref.com/req/202302030/images/headshots/8ba6fbcc_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8ba6fbcc/Rodrigo-Saracho
+Tomas Villoldo,6f5af988,https://fbref.com/req/202302030/images/headshots/6f5af988_2022.jpg,Deportivo Riestra,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6f5af988/Tomas-Villoldo
+Paulo Diaz,3906e923,https://fbref.com/req/202302030/images/headshots/3906e923_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3906e923/Paulo-Diaz
+Pablo Solari,17e34547,https://fbref.com/req/202302030/images/headshots/17e34547_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/17e34547/Pablo-Solari
+Franco Armani,b3e42951,https://fbref.com/req/202302030/images/headshots/b3e42951_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b3e42951/Franco-Armani
+Miguel Borja,211dc5fd,https://fbref.com/req/202302030/images/headshots/211dc5fd_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/211dc5fd/Miguel-Borja
+Santiago Simon,8a825742,https://fbref.com/req/202302030/images/headshots/8a825742_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8a825742/Santiago-Simon
+Milton Casco,7dc4f16a,https://fbref.com/req/202302030/images/headshots/7dc4f16a_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7dc4f16a/Milton-Casco
+Leandro Gonzalez Pirez,5ba1112c,https://fbref.com/req/202302030/images/headshots/5ba1112c_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5ba1112c/Leandro-Gonzalez-Pirez
+Enzo Diaz,411d2dc0,https://fbref.com/req/202302030/images/headshots/411d2dc0_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/411d2dc0/Enzo-Diaz
+Facundo Colidio,69a6523a,https://fbref.com/req/202302030/images/headshots/69a6523a_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/69a6523a/Facundo-Colidio
+Franco Mastantuono,633b2b1f,https://fbref.com/req/202302030/images/headshots/633b2b1f_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/633b2b1f/Franco-Mastantuono
+Claudio Echeverri,49a605df,https://fbref.com/req/202302030/images/headshots/49a605df_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/49a605df/Claudio-Echeverri
+Rodrigo Aliendro,8b259046,https://fbref.com/req/202302030/images/headshots/8b259046_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8b259046/Rodrigo-Aliendro
+Nicolas Fonseca,2a8d62fc,https://fbref.com/req/202302030/images/headshots/2a8d62fc_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2a8d62fc/Nicolas-Fonseca
+Ezequiel Barco,7fa737c4,https://fbref.com/req/202302030/images/headshots/7fa737c4_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7fa737c4/Ezequiel-Barco
+Agustin SantAnna,a680fc25,https://fbref.com/req/202302030/images/headshots/a680fc25_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a680fc25/Agustin-SantAnna
+Matias Kranevitter,314bdac5,https://fbref.com/req/202302030/images/headshots/314bdac5_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/314bdac5/Matias-Kranevitter
+Felipe Pena,1e72d119,https://fbref.com/req/202302030/images/headshots/1e72d119_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1e72d119/Felipe-Pena
+Ignacio Fernandez,97a17c0b,https://fbref.com/req/202302030/images/headshots/97a17c0b_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/97a17c0b/Ignacio-Fernandez
+Manuel Lanzini,26f6dca8,https://fbref.com/req/202302030/images/headshots/26f6dca8_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/26f6dca8/Manuel-Lanzini
+Sebastian Boselli,08576297,https://fbref.com/req/202302030/images/headshots/08576297_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/08576297/Sebastian-Boselli
+Adam Bareiro,afb7f0ea,https://fbref.com/req/202302030/images/headshots/afb7f0ea_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/afb7f0ea/Adam-Bareiro
+Federico Gattoni,86087757,https://fbref.com/req/202302030/images/headshots/86087757_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/86087757/Federico-Gattoni
+Jeremias Ledesma,6c4776b1,https://fbref.com/req/202302030/images/headshots/6c4776b1_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6c4776b1/Jeremias-Ledesma
+German Pezzella,8c725b43,https://fbref.com/req/202302030/images/headshots/8c725b43_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8c725b43/German-Pezzella
+Maximiliano Meza,e5e15e0a,https://fbref.com/req/202302030/images/headshots/e5e15e0a_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e5e15e0a/Maximiliano-Meza
+Rodrigo Villagra,b39ae7e1,https://fbref.com/req/202302030/images/headshots/b39ae7e1_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b39ae7e1/Rodrigo-Villagra
+Marcos Acuna,81442ecb,https://fbref.com/req/202302030/images/headshots/81442ecb_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/81442ecb/Marcos-Acuna
+Fabricio Bustos,82549f54,https://fbref.com/req/202302030/images/headshots/82549f54_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/82549f54/Fabricio-Bustos
+Ezequiel Centurion,d2313e46,https://fbref.com/req/202302030/images/headshots/d2313e46_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d2313e46/Ezequiel-Centurion
+Ramiro Funes Mori,89cbc961,https://fbref.com/req/202302030/images/headshots/89cbc961_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/89cbc961/Ramiro-Funes-Mori
+Agustin Ruberto,a61bbe15,https://fbref.com/req/202302030/images/headshots/a61bbe15_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a61bbe15/Agustin-Ruberto
+Agustin Palavecino,b555c58c,https://fbref.com/req/202302030/images/headshots/b555c58c_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b555c58c/Agustin-Palavecino
+Hector David Martinez,03d0ea9a,https://fbref.com/req/202302030/images/headshots/03d0ea9a_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/03d0ea9a/Hector-David-Martinez
+Ian Subiabre,f9e8a841,https://fbref.com/req/202302030/images/headshots/f9e8a841_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f9e8a841/Ian-Subiabre
+Santiago Lencina,8d88e3be,https://fbref.com/req/202302030/images/headshots/8d88e3be_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8d88e3be/Santiago-Lencina
+Daniel Zabala,b537d6e6,https://fbref.com/req/202302030/images/headshots/b537d6e6_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b537d6e6/Daniel-Zabala
+Santiago Beltran,83340875,https://fbref.com/req/202302030/images/headshots/83340875_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/83340875/Santiago-Beltran
+Franco Carboni,b033f803,https://fbref.com/req/202302030/images/headshots/b033f803_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b033f803/Franco-Carboni
+Marcelo Herrera,460cfb5b,https://fbref.com/req/202302030/images/headshots/460cfb5b_2022.jpg,River Plate,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/460cfb5b/Marcelo-Herrera
+Rodrigo Castillo,da71df54,https://fbref.com/req/202302030/images/headshots/da71df54_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/da71df54/Rodrigo-Castillo
+Juan Pintado,ba31fd7e,https://fbref.com/req/202302030/images/headshots/ba31fd7e_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ba31fd7e/Juan-Pintado
+Yonathan Cabral,40424ddf,https://fbref.com/req/202302030/images/headshots/40424ddf_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/40424ddf/Yonathan-Cabral
+Benjamin Dominguez,a83b47fa,https://fbref.com/req/202302030/images/headshots/a83b47fa_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a83b47fa/Benjamin-Dominguez
+Lucas Castro,56b2957b,https://fbref.com/req/202302030/images/headshots/56b2957b_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/56b2957b/Lucas-Castro
+Leonardo Morales,19cf6f7c,https://fbref.com/req/202302030/images/headshots/19cf6f7c_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/19cf6f7c/Leonardo-Morales
+Nelson Insfran,6a72010c,https://fbref.com/req/202302030/images/headshots/6a72010c_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6a72010c/Nelson-Insfran
+Pablo de Blasis,9ab48bde,https://fbref.com/req/202302030/images/headshots/9ab48bde_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9ab48bde/Pablo-de-Blasis
+Matias Abaldo,5b0041f5,https://fbref.com/req/202302030/images/headshots/5b0041f5_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5b0041f5/Matias-Abaldo
+Nicolas Colazo,161b89a2,https://fbref.com/req/202302030/images/headshots/161b89a2_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/161b89a2/Nicolas-Colazo
+Nicolas Garayalde,32b8ceeb,https://fbref.com/req/202302030/images/headshots/32b8ceeb_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/32b8ceeb/Nicolas-Garayalde
+Rodrigo Saravia,14b61b88,https://fbref.com/req/202302030/images/headshots/14b61b88_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/14b61b88/Rodrigo-Saravia
+David Zalazar,4aeb00f4,https://fbref.com/req/202302030/images/headshots/4aeb00f4_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4aeb00f4/David-Zalazar
+Marcos Ignacio Ledesma,97232163,https://fbref.com/req/202302030/images/headshots/97232163_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/97232163/Marcos-Ignacio-Ledesma
+Juan Cortazzo,a01ac08d,https://fbref.com/req/202302030/images/headshots/a01ac08d_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a01ac08d/Juan-Cortazzo
+Gustavo Canto,b5354c19,https://fbref.com/req/202302030/images/headshots/b5354c19_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b5354c19/Gustavo-Canto
+Valentin Rodriguez,bc14f35f,https://fbref.com/req/202302030/images/headshots/bc14f35f_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bc14f35f/Valentin-Rodriguez
+Martin Fernandez,f7560b9d,https://fbref.com/req/202302030/images/headshots/f7560b9d_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f7560b9d/Martin-Fernandez
+Rodrigo Gallo,ab84ccab,https://fbref.com/req/202302030/images/headshots/ab84ccab_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ab84ccab/Rodrigo-Gallo
+Agustin Bolivar,6aed6998,https://fbref.com/req/202302030/images/headshots/6aed6998_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6aed6998/Agustin-Bolivar
+Felipe Sanchez,742d5369,https://fbref.com/req/202302030/images/headshots/742d5369_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/742d5369/Felipe-Sanchez
+Yonatan Rodriguez,61b70b21,https://fbref.com/req/202302030/images/headshots/61b70b21_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/61b70b21/Yonatan-Rodriguez
+Franco Troyansky,95bca53e,https://fbref.com/req/202302030/images/headshots/95bca53e_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/95bca53e/Franco-Troyansky
+Matias Miranda,3362dde8,https://fbref.com/req/202302030/images/headshots/3362dde8_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3362dde8/Matias-Miranda
+Juan Esquivel,e9f45558,https://fbref.com/req/202302030/images/headshots/e9f45558_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e9f45558/Juan-Esquivel
+Santino Primante,11836a3f,https://fbref.com/req/202302030/images/headshots/11836a3f_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/11836a3f/Santino-Primante
+Fabricio Corbalan,f402e113,https://fbref.com/req/202302030/images/headshots/f402e113_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f402e113/Fabricio-Corbalan
+Guillermo Enrique,4d26ae2d,https://fbref.com/req/202302030/images/headshots/4d26ae2d_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4d26ae2d/Guillermo-Enrique
+Cristian Colman,c896354b,https://fbref.com/req/202302030/images/headshots/c896354b_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c896354b/Cristian-Colman
+Nicolas Sanchez,ed740a7c,https://fbref.com/req/202302030/images/headshots/ed740a7c_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ed740a7c/Nicolas-Sanchez
+Lautaro Chavez,8f422ddd,https://fbref.com/req/202302030/images/headshots/8f422ddd_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8f422ddd/Lautaro-Chavez
+Jeremias Merlo,f236096a,https://fbref.com/req/202302030/images/headshots/f236096a_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f236096a/Jeremias-Merlo
+Matias Ramirez,cfe8fb62,https://fbref.com/req/202302030/images/headshots/cfe8fb62_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/cfe8fb62/Matias-Ramirez
+Brian Blasi,6acfdf47,https://fbref.com/req/202302030/images/headshots/6acfdf47_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6acfdf47/Brian-Blasi
+Luciano Gomez,0bc8cd45,https://fbref.com/req/202302030/images/headshots/0bc8cd45_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0bc8cd45/Luciano-Gomez
+Julian Kadijevic,fab2776f,https://fbref.com/req/202302030/images/headshots/fab2776f_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/fab2776f/Julian-Kadijevic
+Leandro Mamut,8b675255,https://fbref.com/req/202302030/images/headshots/8b675255_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8b675255/Leandro-Mamut
+Federico Milo,badf2a43,https://fbref.com/req/202302030/images/headshots/badf2a43_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/badf2a43/Federico-Milo
+Valentin Penalva,9f70bb6a,https://fbref.com/req/202302030/images/headshots/9f70bb6a_2022.jpg,Gimnasia y Esgrima LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9f70bb6a/Valentin-Penalva
+Marcelino Moreno,058c938c,https://fbref.com/req/202302030/images/headshots/058c938c_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/058c938c/Marcelino-Moreno
+Nicolas Morgantini,242d37f3,https://fbref.com/req/202302030/images/headshots/242d37f3_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/242d37f3/Nicolas-Morgantini
+Brian Luciatti,ba0f7e5f,https://fbref.com/req/202302030/images/headshots/ba0f7e5f_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ba0f7e5f/Brian-Luciatti
+Raul Loaiza,94ec1c0a,https://fbref.com/req/202302030/images/headshots/94ec1c0a_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/94ec1c0a/Raul-Loaiza
+Ezequiel Munoz,e4b8c5b6,https://fbref.com/req/202302030/images/headshots/e4b8c5b6_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e4b8c5b6/Ezequiel-Munoz
+Alan Aguerre,ca6050cb,https://fbref.com/req/202302030/images/headshots/ca6050cb_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ca6050cb/Alan-Aguerre
+Walter Bou,b5143c97,https://fbref.com/req/202302030/images/headshots/b5143c97_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b5143c97/Walter-Bou
+Braian Aguirre,74b396d8,https://fbref.com/req/202302030/images/headshots/74b396d8_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/74b396d8/Braian-Aguirre
+Ramiro Carrera,44c271db,https://fbref.com/req/202302030/images/headshots/44c271db_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/44c271db/Ramiro-Carrera
+Nery Dominguez,5887a70d,https://fbref.com/req/202302030/images/headshots/5887a70d_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5887a70d/Nery-Dominguez
+Carlos Izquierdoz,cf5c3ef1,https://fbref.com/req/202302030/images/headshots/cf5c3ef1_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/cf5c3ef1/Carlos-Izquierdoz
+Julio Soler,98c8559a,https://fbref.com/req/202302030/images/headshots/98c8559a_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/98c8559a/Julio-Soler
+Eduardo Salvio,5f424f35,https://fbref.com/req/202302030/images/headshots/5f424f35_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5f424f35/Eduardo-Salvio
+Jonathan Torres,fd1604fa,https://fbref.com/req/202302030/images/headshots/fd1604fa_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/fd1604fa/Jonathan-Torres
+Nahuel Losada,f07d5b4d,https://fbref.com/req/202302030/images/headshots/f07d5b4d_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f07d5b4d/Nahuel-Losada
+Gonzalo Perez,cede2aa9,https://fbref.com/req/202302030/images/headshots/cede2aa9_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/cede2aa9/Gonzalo-Perez
+Juan Caceres,db887bdf,https://fbref.com/req/202302030/images/headshots/db887bdf_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/db887bdf/Juan-Caceres
+Mateo Sanabria,85d69267,https://fbref.com/req/202302030/images/headshots/85d69267_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/85d69267/Mateo-Sanabria
+Lautaro Acosta,2a3af4d5,https://fbref.com/req/202302030/images/headshots/2a3af4d5_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2a3af4d5/Lautaro-Acosta
+Dylan Aquino,dababecf,https://fbref.com/req/202302030/images/headshots/dababecf_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/dababecf/Dylan-Aquino
+Augusto Lotti,659fa937,https://fbref.com/req/202302030/images/headshots/659fa937_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/659fa937/Augusto-Lotti
+Fabio Alvarez,2aae3ff2,https://fbref.com/req/202302030/images/headshots/2aae3ff2_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2aae3ff2/Fabio-Alvarez
+Luciano Boggio,44b5be2b,https://fbref.com/req/202302030/images/headshots/44b5be2b_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/44b5be2b/Luciano-Boggio
+Agustin Rodriguez,be4f969a,https://fbref.com/req/202302030/images/headshots/be4f969a_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/be4f969a/Agustin-Rodriguez
+Leandro Diaz,3fee512a,https://fbref.com/req/202302030/images/headshots/3fee512a_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3fee512a/Leandro-Diaz
+David Gonzalez,ab3ff6e2,https://fbref.com/req/202302030/images/headshots/ab3ff6e2_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ab3ff6e2/David-Gonzalez
+Bruno Cabrera,548ffe4c,https://fbref.com/req/202302030/images/headshots/548ffe4c_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/548ffe4c/Bruno-Cabrera
+Jose Dominguez,97d24b73,https://fbref.com/req/202302030/images/headshots/97d24b73_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/97d24b73/Jose-Dominguez
+Octavio Ontivero,1b9d4ba0,https://fbref.com/req/202302030/images/headshots/1b9d4ba0_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1b9d4ba0/Octavio-Ontivero
+Thiago Balbuena,41e067ae,https://fbref.com/req/202302030/images/headshots/41e067ae_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/41e067ae/Thiago-Balbuena
+Lucas Besozzi,d8dcc840,https://fbref.com/req/202302030/images/headshots/d8dcc840_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d8dcc840/Lucas-Besozzi
+Leonel Cardozo,5dbf09fb,https://fbref.com/req/202302030/images/headshots/5dbf09fb_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5dbf09fb/Leonel-Cardozo
+Nicolas Claa,a73a302e,https://fbref.com/req/202302030/images/headshots/a73a302e_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a73a302e/Nicolas-Claa
+Mariano Gerez,67e9b274,https://fbref.com/req/202302030/images/headshots/67e9b274_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/67e9b274/Mariano-Gerez
+Lucas Irusta,e2b437bd,https://fbref.com/req/202302030/images/headshots/e2b437bd_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e2b437bd/Lucas-Irusta
+Agustin Medina,215cb5d2,https://fbref.com/req/202302030/images/headshots/215cb5d2_2022.jpg,Lanus,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/215cb5d2/Agustin-Medina
+Matias Mansilla,30c0c914,https://fbref.com/req/202302030/images/headshots/30c0c914_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/30c0c914/Matias-Mansilla
+Tiago Palacios,6d3f6a31,https://fbref.com/req/202302030/images/headshots/6d3f6a31_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6d3f6a31/Tiago-Palacios
+Luciano Lollo,6ed8d841,https://fbref.com/req/202302030/images/headshots/6ed8d841_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6ed8d841/Luciano-Lollo
+Santiago Ascacibar,e26fcca3,https://fbref.com/req/202302030/images/headshots/e26fcca3_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e26fcca3/Santiago-Ascacibar
+Gaston Benedetti,58a19703,https://fbref.com/req/202302030/images/headshots/58a19703_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/58a19703/Gaston-Benedetti
+Enzo Perez,6d27cfc2,https://fbref.com/req/202302030/images/headshots/6d27cfc2_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6d27cfc2/Enzo-Perez
+Edwin Cetre,9e81aaf7,https://fbref.com/req/202302030/images/headshots/9e81aaf7_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9e81aaf7/Edwin-Cetre
+Guido Carrillo,8f898ba8,https://fbref.com/req/202302030/images/headshots/8f898ba8_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8f898ba8/Guido-Carrillo
+Eros Mancuso,e2d40bc5,https://fbref.com/req/202302030/images/headshots/e2d40bc5_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e2d40bc5/Eros-Mancuso
+Facundo Rodriguez,ed020f1e,https://fbref.com/req/202302030/images/headshots/ed020f1e_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ed020f1e/Facundo-Rodriguez
+Pablo Piatti,48e89655,https://fbref.com/req/202302030/images/headshots/48e89655_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/48e89655/Pablo-Piatti
+Eric Meza,47171e2c,https://fbref.com/req/202302030/images/headshots/47171e2c_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/47171e2c/Eric-Meza
+Jose Sosa,1eecc0c6,https://fbref.com/req/202302030/images/headshots/1eecc0c6_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1eecc0c6/Jose-Sosa
+Federico Fernandez,f25b010f,https://fbref.com/req/202302030/images/headshots/f25b010f_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f25b010f/Federico-Fernandez
+Luciano Gimenez,74d84a14,https://fbref.com/req/202302030/images/headshots/74d84a14_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/74d84a14/Luciano-Gimenez
+Gabriel Neves,2a03fb5f,https://fbref.com/req/202302030/images/headshots/2a03fb5f_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2a03fb5f/Gabriel-Neves
+Javier Marcelo Correa,04bdcce2,https://fbref.com/req/202302030/images/headshots/04bdcce2_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/04bdcce2/Javier-Marcelo-Correa
+Fernando Zuqui,d4814e00,https://fbref.com/req/202302030/images/headshots/d4814e00_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d4814e00/Fernando-Zuqui
+Zaid Romero,71c980b7,https://fbref.com/req/202302030/images/headshots/71c980b7_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/71c980b7/Zaid-Romero
+Santiago Flores,ab00a18b,https://fbref.com/req/202302030/images/headshots/ab00a18b_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ab00a18b/Santiago-Flores
+Nicolas Fernandez,1531aff8,https://fbref.com/req/202302030/images/headshots/1531aff8_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1531aff8/Nicolas-Fernandez
+Alexis Manyoma,6e159787,https://fbref.com/req/202302030/images/headshots/6e159787_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6e159787/Alexis-Manyoma
+Santiago Arzamendia,759d8dd7,https://fbref.com/req/202302030/images/headshots/759d8dd7_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/759d8dd7/Santiago-Arzamendia
+Bautista Kociubinski,412f2985,https://fbref.com/req/202302030/images/headshots/412f2985_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/412f2985/Bautista-Kociubinski
+Mauro Mendez,12e579fa,https://fbref.com/req/202302030/images/headshots/12e579fa_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/12e579fa/Mauro-Mendez
+Roman Gomez,68084f40,https://fbref.com/req/202302030/images/headshots/68084f40_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/68084f40/Roman-Gomez
+Nehuen Benedetti,1ced6bde,https://fbref.com/req/202302030/images/headshots/1ced6bde_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1ced6bde/Nehuen-Benedetti
+Emanuel DallAglio,c2105ec3,https://fbref.com/req/202302030/images/headshots/c2105ec3_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c2105ec3/Emanuel-DallAglio
+Franco Zapiola,7b0f7577,https://fbref.com/req/202302030/images/headshots/7b0f7577_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7b0f7577/Franco-Zapiola
+Axel Atum,bfd8b7c6,https://fbref.com/req/202302030/images/headshots/bfd8b7c6_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bfd8b7c6/Axel-Atum
+Ezequiel Naya,0a5103bd,https://fbref.com/req/202302030/images/headshots/0a5103bd_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0a5103bd/Ezequiel-Naya
+Mikel Amondarain,95cf8804,https://fbref.com/req/202302030/images/headshots/95cf8804_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/95cf8804/Mikel-Amondarain
+Rodrigo Borzone,e1494da2,https://fbref.com/req/202302030/images/headshots/e1494da2_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e1494da2/Rodrigo-Borzone
+Fabricio Iacovich,bf6410b8,https://fbref.com/req/202302030/images/headshots/bf6410b8_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bf6410b8/Fabricio-Iacovich
+Joaquin Pereyra,c03bfffd,https://fbref.com/req/202302030/images/headshots/c03bfffd_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c03bfffd/Joaquin-Pereyra
+Valente Pierani,50190225,https://fbref.com/req/202302030/images/headshots/50190225_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/50190225/Valente-Pierani
+Benjamin Sagues,c1f3a9ea,https://fbref.com/req/202302030/images/headshots/c1f3a9ea_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c1f3a9ea/Benjamin-Sagues
+Javier Urzua,334e5b0f,https://fbref.com/req/202302030/images/headshots/334e5b0f_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/334e5b0f/Javier-Urzua
+Juan Zozaya,994f9a18,https://fbref.com/req/202302030/images/headshots/994f9a18_2022.jpg,Estudiantes LP,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/994f9a18/Juan-Zozaya
+Lucas Arce,00345a70,https://fbref.com/req/202302030/images/headshots/00345a70_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/00345a70/Lucas-Arce
+Bruno Leyes,07453486,https://fbref.com/req/202302030/images/headshots/07453486_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/07453486/Bruno-Leyes
+Vicente Poggi,5ce77553,https://fbref.com/req/202302030/images/headshots/5ce77553_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5ce77553/Vicente-Poggi
+Franco Petroli,3836b6f6,https://fbref.com/req/202302030/images/headshots/3836b6f6_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3836b6f6/Franco-Petroli
+Pier Barrios,f910551d,https://fbref.com/req/202302030/images/headshots/f910551d_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f910551d/Pier-Barrios
+Federico Rasmussen,413acb9d,https://fbref.com/req/202302030/images/headshots/413acb9d_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/413acb9d/Federico-Rasmussen
+Roberto Nicolas Fernandez,255d1969,https://fbref.com/req/202302030/images/headshots/255d1969_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/255d1969/Roberto-Nicolas-Fernandez
+Daniel Barrea,5bf6b9f3,https://fbref.com/req/202302030/images/headshots/5bf6b9f3_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5bf6b9f3/Daniel-Barrea
+Facundo Altamira,5bf873f8,https://fbref.com/req/202302030/images/headshots/5bf873f8_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5bf873f8/Facundo-Altamira
+Martin Luciano,2c29ddcc,https://fbref.com/req/202302030/images/headshots/2c29ddcc_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2c29ddcc/Martin-Luciano
+Salomon Rodriguez,d0908723,https://fbref.com/req/202302030/images/headshots/d0908723_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d0908723/Salomon-Rodriguez
+Silvio Ulariaga,9a8e9ca7,https://fbref.com/req/202302030/images/headshots/9a8e9ca7_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9a8e9ca7/Silvio-Ulariaga
+Elias Pereyra,d27d8a0b,https://fbref.com/req/202302030/images/headshots/d27d8a0b_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d27d8a0b/Elias-Pereyra
+Juan Bautista Cejas,a4757fc4,https://fbref.com/req/202302030/images/headshots/a4757fc4_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a4757fc4/Juan-Bautista-Cejas
+Martin Pino,7b12b0f1,https://fbref.com/req/202302030/images/headshots/7b12b0f1_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7b12b0f1/Martin-Pino
+Thomas Galdames,9e635406,https://fbref.com/req/202302030/images/headshots/9e635406_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9e635406/Thomas-Galdames
+Tomas Conechny,f61143dd,https://fbref.com/req/202302030/images/headshots/f61143dd_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f61143dd/Tomas-Conechny
+Mariano Santiago,806ba274,https://fbref.com/req/202302030/images/headshots/806ba274_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/806ba274/Mariano-Santiago
+Facundo Butti,2373ae0b,https://fbref.com/req/202302030/images/headshots/2373ae0b_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2373ae0b/Facundo-Butti
+Roberto Ramirez,0dd2a48c,https://fbref.com/req/202302030/images/headshots/0dd2a48c_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0dd2a48c/Roberto-Ramirez
+Brian Salvareschi,6e74c22f,https://fbref.com/req/202302030/images/headshots/6e74c22f_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6e74c22f/Brian-Salvareschi
+Gonzalo Abrego,de8bad41,https://fbref.com/req/202302030/images/headshots/de8bad41_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/de8bad41/Gonzalo-Abrego
+Gaston Emanuel Moreyra,ec288e12,https://fbref.com/req/202302030/images/headshots/ec288e12_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ec288e12/Gaston-Emanuel-Moreyra
+Mateo Mendoza,7b2c18c0,https://fbref.com/req/202302030/images/headshots/7b2c18c0_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7b2c18c0/Mateo-Mendoza
+Facundo Ardiles,4776c629,https://fbref.com/req/202302030/images/headshots/4776c629_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4776c629/Facundo-Ardiles
+Julian Eseiza,0757e74b,https://fbref.com/req/202302030/images/headshots/0757e74b_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0757e74b/Julian-Eseiza
+Tomas Badaloni,d3a444aa,https://fbref.com/req/202302030/images/headshots/d3a444aa_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d3a444aa/Tomas-Badaloni
+Manuel Guillen,ac7431cc,https://fbref.com/req/202302030/images/headshots/ac7431cc_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ac7431cc/Manuel-Guillen
+Marcos Montiel,da09fc8f,https://fbref.com/req/202302030/images/headshots/da09fc8f_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/da09fc8f/Marcos-Montiel
+Enzo Briones,9c8524cf,https://fbref.com/req/202302030/images/headshots/9c8524cf_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9c8524cf/Enzo-Briones
+Agustin Villalobos,de17a20c,https://fbref.com/req/202302030/images/headshots/de17a20c_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/de17a20c/Agustin-Villalobos
+Luciano Cingolani,93f1acf1,https://fbref.com/req/202302030/images/headshots/93f1acf1_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/93f1acf1/Luciano-Cingolani
+Cristian Torres,ee3af1c7,https://fbref.com/req/202302030/images/headshots/ee3af1c7_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ee3af1c7/Cristian-Torres
+Juan Andrada,af9d0aea,https://fbref.com/req/202302030/images/headshots/af9d0aea_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/af9d0aea/Juan-Andrada
+Lucio Falasco,913d986d,https://fbref.com/req/202302030/images/headshots/913d986d_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/913d986d/Lucio-Falasco
+Luciano Pascual,7be5e556,https://fbref.com/req/202302030/images/headshots/7be5e556_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7be5e556/Luciano-Pascual
+Edilson Salinas,6108aa3c,https://fbref.com/req/202302030/images/headshots/6108aa3c_2022.jpg,Godoy Cruz,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6108aa3c/Edilson-Salinas
+Esteban Rolon,10e25802,https://fbref.com/req/202302030/images/headshots/10e25802_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/10e25802/Esteban-Rolon
+Alejandro Rebola,02dfa252,https://fbref.com/req/202302030/images/headshots/02dfa252_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/02dfa252/Alejandro-Rebola
+Francisco Gonzalez,d454a739,https://fbref.com/req/202302030/images/headshots/d454a739_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d454a739/Francisco-Gonzalez
+Juan Velazquez,891b9bb8,https://fbref.com/req/202302030/images/headshots/891b9bb8_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/891b9bb8/Juan-Velazquez
+Mariano Troilo,fa2c1419,https://fbref.com/req/202302030/images/headshots/fa2c1419_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/fa2c1419/Mariano-Troilo
+Juan Barinaga,6bdb7078,https://fbref.com/req/202302030/images/headshots/6bdb7078_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6bdb7078/Juan-Barinaga
+Santiago Longo,9a102b86,https://fbref.com/req/202302030/images/headshots/9a102b86_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9a102b86/Santiago-Longo
+Agustin Baldi,c0bb4690,https://fbref.com/req/202302030/images/headshots/c0bb4690_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c0bb4690/Agustin-Baldi
+Matias Moreno,4637e608,https://fbref.com/req/202302030/images/headshots/4637e608_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4637e608/Matias-Moreno
+Bryan Reyna,f383829b,https://fbref.com/req/202302030/images/headshots/f383829b_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f383829b/Bryan-Reyna
+Franco Jara,413cce14,https://fbref.com/req/202302030/images/headshots/413cce14_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/413cce14/Franco-Jara
+Ignacio Chicco,3723f64a,https://fbref.com/req/202302030/images/headshots/3723f64a_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3723f64a/Ignacio-Chicco
+Pablo Chavarria,4207e578,https://fbref.com/req/202302030/images/headshots/4207e578_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4207e578/Pablo-Chavarria
+Matias Suarez,e753aa9e,https://fbref.com/req/202302030/images/headshots/e753aa9e_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e753aa9e/Matias-Suarez
+Nicolas Fernandez,31d73bbd,https://fbref.com/req/202302030/images/headshots/31d73bbd_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/31d73bbd/Nicolas-Fernandez
+Nicolas Meriano,9b0cafc4,https://fbref.com/req/202302030/images/headshots/9b0cafc4_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9b0cafc4/Nicolas-Meriano
+Geronimo Heredia,5e045116,https://fbref.com/req/202302030/images/headshots/5e045116_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5e045116/Geronimo-Heredia
+Facundo Quignon,5b33b84c,https://fbref.com/req/202302030/images/headshots/5b33b84c_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5b33b84c/Facundo-Quignon
+Gabriel Compagnucci,9d3e62ff,https://fbref.com/req/202302030/images/headshots/9d3e62ff_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9d3e62ff/Gabriel-Compagnucci
+Facundo Lencioni,afc6d172,https://fbref.com/req/202302030/images/headshots/afc6d172_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/afc6d172/Facundo-Lencioni
+Francisco Facello,982c96ca,https://fbref.com/req/202302030/images/headshots/982c96ca_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/982c96ca/Francisco-Facello
+Juan Espinola,93649708,https://fbref.com/req/202302030/images/headshots/93649708_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/93649708/Juan-Espinola
+Matias Marin,e11f5921,https://fbref.com/req/202302030/images/headshots/e11f5921_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e11f5921/Matias-Marin
+Rafael Marcelo Delgado,14cc32a6,https://fbref.com/req/202302030/images/headshots/14cc32a6_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/14cc32a6/Rafael-Marcelo-Delgado
+Lucas Bustos,7da68c63,https://fbref.com/req/202302030/images/headshots/7da68c63_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7da68c63/Lucas-Bustos
+Ignacio Tapia,c4b560e4,https://fbref.com/req/202302030/images/headshots/c4b560e4_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c4b560e4/Ignacio-Tapia
+Maximo Oses,768f11ca,https://fbref.com/req/202302030/images/headshots/768f11ca_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/768f11ca/Maximo-Oses
+Jeremias Lucco,50845a91,https://fbref.com/req/202302030/images/headshots/50845a91_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/50845a91/Jeremias-Lucco
+Ramiro Hernandes,bd04e8dc,https://fbref.com/req/202302030/images/headshots/bd04e8dc_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bd04e8dc/Ramiro-Hernandes
+Lucas Bernabeu,cd168c36,https://fbref.com/req/202302030/images/headshots/cd168c36_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/cd168c36/Lucas-Bernabeu
+Ariel Rojas,09773645,https://fbref.com/req/202302030/images/headshots/09773645_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/09773645/Ariel-Rojas
+Franco Rami,32c4b4b3,https://fbref.com/req/202302030/images/headshots/32c4b4b3_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/32c4b4b3/Franco-Rami
+Marcos Acosta,012cb416,https://fbref.com/req/202302030/images/headshots/012cb416_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/012cb416/Marcos-Acosta
+Lucas Argayo,3aa7bc58,https://fbref.com/req/202302030/images/headshots/3aa7bc58_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3aa7bc58/Lucas-Argayo
+Mirko Bonfigli,1e42ea14,https://fbref.com/req/202302030/images/headshots/1e42ea14_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1e42ea14/Mirko-Bonfigli
+Matias Daniele,c4d2815c,https://fbref.com/req/202302030/images/headshots/c4d2815c_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c4d2815c/Matias-Daniele
+Santiago Ferez,21254e92,https://fbref.com/req/202302030/images/headshots/21254e92_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/21254e92/Santiago-Ferez
+Matias Garcia,91e7fc9a,https://fbref.com/req/202302030/images/headshots/91e7fc9a_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/91e7fc9a/Matias-Garcia
+Juan Herrera,5ba92658,https://fbref.com/req/202302030/images/headshots/5ba92658_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5ba92658/Juan-Herrera
+Gonzalo Maffini,f101b79a,https://fbref.com/req/202302030/images/headshots/f101b79a_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f101b79a/Gonzalo-Maffini
+Matias Palavecino,0b717a3f,https://fbref.com/req/202302030/images/headshots/0b717a3f_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0b717a3f/Matias-Palavecino
+Lucio Velazco,1e0dacd8,https://fbref.com/req/202302030/images/headshots/1e0dacd8_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1e0dacd8/Lucio-Velazco
+Gonzalo Zelarayan,e214af7f,https://fbref.com/req/202302030/images/headshots/e214af7f_2022.jpg,Belgrano,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e214af7f/Gonzalo-Zelarayan
+Gaston Suso,9c1b0d34,https://fbref.com/req/202302030/images/headshots/9c1b0d34_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9c1b0d34/Gaston-Suso
+Ignacio Vazquez,f228c287,https://fbref.com/req/202302030/images/headshots/f228c287_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f228c287/Ignacio-Vazquez
+Fernando Juarez,2aebc81b,https://fbref.com/req/202302030/images/headshots/2aebc81b_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2aebc81b/Fernando-Juarez
+Juan Cozzani,fe1e4971,https://fbref.com/req/202302030/images/headshots/fe1e4971_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/fe1e4971/Juan-Cozzani
+Sasha Marcich,6d8d706a,https://fbref.com/req/202302030/images/headshots/6d8d706a_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6d8d706a/Sasha-Marcich
+Mateo Pellegrino,8c9e96c5,https://fbref.com/req/202302030/images/headshots/8c9e96c5_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8c9e96c5/Mateo-Pellegrino
+Leonel Picco,f4187ac3,https://fbref.com/req/202302030/images/headshots/f4187ac3_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f4187ac3/Leonel-Picco
+Lucas Ocampo,df0058c1,https://fbref.com/req/202302030/images/headshots/df0058c1_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/df0058c1/Lucas-Ocampo
+Bautista Barros Schelotto,ab935d6a,https://fbref.com/req/202302030/images/headshots/ab935d6a_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ab935d6a/Bautista-Barros-Schelotto
+Ivan Gomez,426ec996,https://fbref.com/req/202302030/images/headshots/426ec996_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/426ec996/Ivan-Gomez
+Ronaldo Martinez,278f93a4,https://fbref.com/req/202302030/images/headshots/278f93a4_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/278f93a4/Ronaldo-Martinez
+Juan Saborido,3dee8b4e,https://fbref.com/req/202302030/images/headshots/3dee8b4e_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3dee8b4e/Juan-Saborido
+Carlos Villalba,24a99c0e,https://fbref.com/req/202302030/images/headshots/24a99c0e_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/24a99c0e/Carlos-Villalba
+Franco Minerva,dde3e2aa,https://fbref.com/req/202302030/images/headshots/dde3e2aa_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/dde3e2aa/Franco-Minerva
+Agustin Quiroga,7a6f6903,https://fbref.com/req/202302030/images/headshots/7a6f6903_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7a6f6903/Agustin-Quiroga
+Facundo Russo,0a076c4c,https://fbref.com/req/202302030/images/headshots/0a076c4c_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0a076c4c/Facundo-Russo
+Braian Rivero,8bf58693,https://fbref.com/req/202302030/images/headshots/8bf58693_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8bf58693/Braian-Rivero
+Nicolas Sumavil,9bb92a85,https://fbref.com/req/202302030/images/headshots/9bb92a85_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9bb92a85/Nicolas-Sumavil
+Lisandro Montenegro,69b2dea5,https://fbref.com/req/202302030/images/headshots/69b2dea5_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/69b2dea5/Lisandro-Montenegro
+Luis Angulo,88ad94f7,https://fbref.com/req/202302030/images/headshots/88ad94f7_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/88ad94f7/Luis-Angulo
+Franco Baldassarra,f559d2d7,https://fbref.com/req/202302030/images/headshots/f559d2d7_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f559d2d7/Franco-Baldassarra
+Gabriel Hachen,f8dd4788,https://fbref.com/req/202302030/images/headshots/f8dd4788_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f8dd4788/Gabriel-Hachen
+Ignacio Schor,c80be903,https://fbref.com/req/202302030/images/headshots/c80be903_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c80be903/Ignacio-Schor
+Maximiliano Urruti,6c8fb474,https://fbref.com/req/202302030/images/headshots/6c8fb474_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6c8fb474/Maximiliano-Urruti
+Oscar Salomon,92c77992,https://fbref.com/req/202302030/images/headshots/92c77992_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/92c77992/Oscar-Salomon
+Manuel Tucker,f2b925ac,https://fbref.com/req/202302030/images/headshots/f2b925ac_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f2b925ac/Manuel-Tucker
+Juan Pignani,c3fb942c,https://fbref.com/req/202302030/images/headshots/c3fb942c_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c3fb942c/Juan-Pignani
+Juan Goicochea,de9dd5be,https://fbref.com/req/202302030/images/headshots/de9dd5be_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/de9dd5be/Juan-Goicochea
+Luciano Ferreyra,056229e3,https://fbref.com/req/202302030/images/headshots/056229e3_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/056229e3/Luciano-Ferreyra
+Joaquin Blazquez,6a9e4913,https://fbref.com/req/202302030/images/headshots/6a9e4913_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6a9e4913/Joaquin-Blazquez
+Andres Desabato,bf3b5c92,https://fbref.com/req/202302030/images/headshots/bf3b5c92_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bf3b5c92/Andres-Desabato
+Agustin Obando,67e2d7f5,https://fbref.com/req/202302030/images/headshots/67e2d7f5_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/67e2d7f5/Agustin-Obando
+Nicolas Ortiz,6244bb29,https://fbref.com/req/202302030/images/headshots/6244bb29_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6244bb29/Nicolas-Ortiz
+Gonzalo Valdivia,176db128,https://fbref.com/req/202302030/images/headshots/176db128_2022.jpg,Platense,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/176db128/Gonzalo-Valdivia
+Franco Romero,bf9b4489,https://fbref.com/req/202302030/images/headshots/bf9b4489_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bf9b4489/Franco-Romero
+Lautaro Rios,4b3cb59b,https://fbref.com/req/202302030/images/headshots/4b3cb59b_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4b3cb59b/Lautaro-Rios
+Tobias Ostchega,759b7576,https://fbref.com/req/202302030/images/headshots/759b7576_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/759b7576/Tobias-Ostchega
+Bruno Bianchi,733d2db2,https://fbref.com/req/202302030/images/headshots/733d2db2_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/733d2db2/Bruno-Bianchi
+Ezequiel Ham,300753b4,https://fbref.com/req/202302030/images/headshots/300753b4_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/300753b4/Ezequiel-Ham
+Tiago Palacios,404101f9,https://fbref.com/req/202302030/images/headshots/404101f9_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/404101f9/Tiago-Palacios
+Sebastian Villa,df454699,https://fbref.com/req/202302030/images/headshots/df454699_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/df454699/Sebastian-Villa
+Ivan Villalba,3f66660b,https://fbref.com/req/202302030/images/headshots/3f66660b_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3f66660b/Ivan-Villalba
+Mauricio Asenjo,35e2e0df,https://fbref.com/req/202302030/images/headshots/35e2e0df_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/35e2e0df/Mauricio-Asenjo
+Fernando Romero,d62591d0,https://fbref.com/req/202302030/images/headshots/d62591d0_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d62591d0/Fernando-Romero
+Gonzalo Marinelli,d9caf300,https://fbref.com/req/202302030/images/headshots/d9caf300_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d9caf300/Gonzalo-Marinelli
+Matias Reali,e1358992,https://fbref.com/req/202302030/images/headshots/e1358992_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e1358992/Matias-Reali
+Francisco Petrasso,c6a9b5eb,https://fbref.com/req/202302030/images/headshots/c6a9b5eb_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c6a9b5eb/Francisco-Petrasso
+Matias Ruiz Diaz,61141c17,https://fbref.com/req/202302030/images/headshots/61141c17_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/61141c17/Matias-Ruiz-Diaz
+Luciano Abecasis,6c510f2d,https://fbref.com/req/202302030/images/headshots/6c510f2d_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6c510f2d/Luciano-Abecasis
+Esteban Burgos,40449bbd,https://fbref.com/req/202302030/images/headshots/40449bbd_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/40449bbd/Esteban-Burgos
+Mauro Maidana,772391a5,https://fbref.com/req/202302030/images/headshots/772391a5_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/772391a5/Mauro-Maidana
+Gonzalo Rios,777cdbf8,https://fbref.com/req/202302030/images/headshots/777cdbf8_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/777cdbf8/Gonzalo-Rios
+Victorio Ramis,f936dcd7,https://fbref.com/req/202302030/images/headshots/f936dcd7_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f936dcd7/Victorio-Ramis
+Antonio Napolitano,72ffe375,https://fbref.com/req/202302030/images/headshots/72ffe375_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/72ffe375/Antonio-Napolitano
+Gaston Gil Romero,912652f3,https://fbref.com/req/202302030/images/headshots/912652f3_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/912652f3/Gaston-Gil-Romero
+Alvaro Dionisio,7bee8114,https://fbref.com/req/202302030/images/headshots/7bee8114_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7bee8114/Alvaro-Dionisio
+Agustin Mulet,cfe617d2,https://fbref.com/req/202302030/images/headshots/cfe617d2_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/cfe617d2/Agustin-Mulet
+Jorge Sanguina,2ff9f1f9,https://fbref.com/req/202302030/images/headshots/2ff9f1f9_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2ff9f1f9/Jorge-Sanguina
+Juan Cavallaro,0e0fdf06,https://fbref.com/req/202302030/images/headshots/0e0fdf06_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0e0fdf06/Juan-Cavallaro
+Diego Tonetto,0b3c8e45,https://fbref.com/req/202302030/images/headshots/0b3c8e45_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0b3c8e45/Diego-Tonetto
+Fabrizio Sartori,2755e745,https://fbref.com/req/202302030/images/headshots/2755e745_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2755e745/Fabrizio-Sartori
+Maximiliano Alvez,4d09da09,https://fbref.com/req/202302030/images/headshots/4d09da09_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4d09da09/Maximiliano-Alvez
+Nahuel Gallardo,87b8a7a5,https://fbref.com/req/202302030/images/headshots/87b8a7a5_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/87b8a7a5/Nahuel-Gallardo
+Joel Sonora,208eb5fd,https://fbref.com/req/202302030/images/headshots/208eb5fd_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/208eb5fd/Joel-Sonora
+Emiliano Saliadarre,9bd9c029,https://fbref.com/req/202302030/images/headshots/9bd9c029_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9bd9c029/Emiliano-Saliadarre
+Julian Ascacibar,2dccbb38,https://fbref.com/req/202302030/images/headshots/2dccbb38_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2dccbb38/Julian-Ascacibar
+Francisco Maidana,ac9faf32,https://fbref.com/req/202302030/images/headshots/ac9faf32_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ac9faf32/Francisco-Maidana
+Juan Manuel Vazquez,f5d54ecd,https://fbref.com/req/202302030/images/headshots/f5d54ecd_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f5d54ecd/Juan-Manuel-Vazquez
+Mariano Monllor,e7395aec,https://fbref.com/req/202302030/images/headshots/e7395aec_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e7395aec/Mariano-Monllor
+Mateo Ortale,1f496f46,https://fbref.com/req/202302030/images/headshots/1f496f46_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1f496f46/Mateo-Ortale
+Fredy Vera,2e92fbf9,https://fbref.com/req/202302030/images/headshots/2e92fbf9_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2e92fbf9/Fredy-Vera
+Juan Vera,9afc9aa0,https://fbref.com/req/202302030/images/headshots/9afc9aa0_2022.jpg,Independiente Rivadavia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9afc9aa0/Juan-Vera
+Joaquin Laso,3c7a3791,https://fbref.com/req/202302030/images/headshots/3c7a3791_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3c7a3791/Joaquin-Laso
+Rodrigo Rey,6436748b,https://fbref.com/req/202302030/images/headshots/6436748b_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6436748b/Rodrigo-Rey
+Ruben Martinez,6b084305,https://fbref.com/req/202302030/images/headshots/6b084305_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6b084305/Ruben-Martinez
+Gabriel Avalos,b6781b67,https://fbref.com/req/202302030/images/headshots/b6781b67_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b6781b67/Gabriel-Avalos
+Damian Perez,7c884b79,https://fbref.com/req/202302030/images/headshots/7c884b79_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7c884b79/Damian-Perez
+Juan Fedorco,36cb53e7,https://fbref.com/req/202302030/images/headshots/36cb53e7_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/36cb53e7/Juan-Fedorco
+Ivan Marcone,b14f755d,https://fbref.com/req/202302030/images/headshots/b14f755d_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b14f755d/Ivan-Marcone
+Santiago Lopez,0a7d98ae,https://fbref.com/req/202302030/images/headshots/0a7d98ae_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0a7d98ae/Santiago-Lopez
+Alex Luna,cf85ad26,https://fbref.com/req/202302030/images/headshots/cf85ad26_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/cf85ad26/Alex-Luna
+Santiago Salle,12357769,https://fbref.com/req/202302030/images/headshots/12357769_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/12357769/Santiago-Salle
+Federico Mancuello,e1cf57c7,https://fbref.com/req/202302030/images/headshots/e1cf57c7_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e1cf57c7/Federico-Mancuello
+Diego Tarzia,69b553f7,https://fbref.com/req/202302030/images/headshots/69b553f7_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/69b553f7/Diego-Tarzia
+Lucas Gonzalez,528b1be4,https://fbref.com/req/202302030/images/headshots/528b1be4_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/528b1be4/Lucas-Gonzalez
+Mauricio Isla,de4517dd,https://fbref.com/req/202302030/images/headshots/de4517dd_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/de4517dd/Mauricio-Isla
+Felipe Loyola,ff749703,https://fbref.com/req/202302030/images/headshots/ff749703_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ff749703/Felipe-Loyola
+Kevin Lomonaco,dd5ddb83,https://fbref.com/req/202302030/images/headshots/dd5ddb83_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/dd5ddb83/Kevin-Lomonaco
+Lautaro Millan,58d81550,https://fbref.com/req/202302030/images/headshots/58d81550_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/58d81550/Lautaro-Millan
+Adrian Sporle,f5122c46,https://fbref.com/req/202302030/images/headshots/f5122c46_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f5122c46/Adrian-Sporle
+Alexis Canelo,fa828ce6,https://fbref.com/req/202302030/images/headshots/fa828ce6_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/fa828ce6/Alexis-Canelo
+Santiago Hidalgo,0448c34f,https://fbref.com/req/202302030/images/headshots/0448c34f_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0448c34f/Santiago-Hidalgo
+Ignacio Maestro Puch,3fc0e136,https://fbref.com/req/202302030/images/headshots/3fc0e136_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3fc0e136/Ignacio-Maestro-Puch
+Marco Pellegrino,18950a80,https://fbref.com/req/202302030/images/headshots/18950a80_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/18950a80/Marco-Pellegrino
+Santiago Montiel,8f2ac304,https://fbref.com/req/202302030/images/headshots/8f2ac304_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8f2ac304/Santiago-Montiel
+Felipe Aguilar,c285529f,https://fbref.com/req/202302030/images/headshots/c285529f_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c285529f/Felipe-Aguilar
+Rodrigo Marquez,ad6df5d4,https://fbref.com/req/202302030/images/headshots/ad6df5d4_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ad6df5d4/Rodrigo-Marquez
+Jhonny Quinonez,ed0101c1,https://fbref.com/req/202302030/images/headshots/ed0101c1_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ed0101c1/Jhonny-Quinonez
+Santiago Toloza,1961c843,https://fbref.com/req/202302030/images/headshots/1961c843_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1961c843/Santiago-Toloza
+Javier Ruiz,162012b6,https://fbref.com/req/202302030/images/headshots/162012b6_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/162012b6/Javier-Ruiz
+Javier Vallejo,37c0ecf8,https://fbref.com/req/202302030/images/headshots/37c0ecf8_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/37c0ecf8/Javier-Vallejo
+Mateo Barcia,a35ee3a5,https://fbref.com/req/202302030/images/headshots/a35ee3a5_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a35ee3a5/Mateo-Barcia
+Julio Buffarini,66d9f8ee,https://fbref.com/req/202302030/images/headshots/66d9f8ee_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/66d9f8ee/Julio-Buffarini
+Fernando Da Rosa,196f78bb,https://fbref.com/req/202302030/images/headshots/196f78bb_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/196f78bb/Fernando-Da-Rosa
+Jonathan De Irastorza,1ebb2579,https://fbref.com/req/202302030/images/headshots/1ebb2579_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1ebb2579/Jonathan-De-Irastorza
+Ezequiel Duarte,6e2bec19,https://fbref.com/req/202302030/images/headshots/6e2bec19_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6e2bec19/Ezequiel-Duarte
+Luciano Echeverria,b1abd618,https://fbref.com/req/202302030/images/headshots/b1abd618_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b1abd618/Luciano-Echeverria
+Edgar Elizalde,f2950f57,https://fbref.com/req/202302030/images/headshots/f2950f57_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f2950f57/Edgar-Elizalde
+Mateo Morro,af97bdc4,https://fbref.com/req/202302030/images/headshots/af97bdc4_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/af97bdc4/Mateo-Morro
+Tomas Parmo,9c33c8d3,https://fbref.com/req/202302030/images/headshots/9c33c8d3_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9c33c8d3/Tomas-Parmo
+Julian Scafati,cae38228,https://fbref.com/req/202302030/images/headshots/cae38228_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/cae38228/Julian-Scafati
+Diego Segovia,8ce2a519,https://fbref.com/req/202302030/images/headshots/8ce2a519_2022.jpg,Independiente,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8ce2a519/Diego-Segovia
+Diego Matias Rodriguez,19f4d2c0,https://fbref.com/req/202302030/images/headshots/19f4d2c0_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/19f4d2c0/Diego-Matias-Rodriguez
+Alan Lescano,b88b1142,https://fbref.com/req/202302030/images/headshots/b88b1142_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b88b1142/Alan-Lescano
+Francisco Alvarez,1990d38d,https://fbref.com/req/202302030/images/headshots/1990d38d_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1990d38d/Francisco-Alvarez
+Nicolas Oroz,c4263233,https://fbref.com/req/202302030/images/headshots/c4263233_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c4263233/Nicolas-Oroz
+Jonathan Galvan,f865dc98,https://fbref.com/req/202302030/images/headshots/f865dc98_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f865dc98/Jonathan-Galvan
+Thiago Santamaria,c57cc4aa,https://fbref.com/req/202302030/images/headshots/c57cc4aa_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c57cc4aa/Thiago-Santamaria
+Ariel Gamarra,4ba52080,https://fbref.com/req/202302030/images/headshots/4ba52080_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4ba52080/Ariel-Gamarra
+Roman Vega,dc0a603e,https://fbref.com/req/202302030/images/headshots/dc0a603e_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/dc0a603e/Roman-Vega
+Gaston Veron,e5a62424,https://fbref.com/req/202302030/images/headshots/e5a62424_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e5a62424/Gaston-Veron
+Maximiliano Romero,716e7308,https://fbref.com/req/202302030/images/headshots/716e7308_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/716e7308/Maximiliano-Romero
+Luciano Gondou,a09727b9,https://fbref.com/req/202302030/images/headshots/a09727b9_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a09727b9/Luciano-Gondou
+Alan Rodriguez,fcd24b4b,https://fbref.com/req/202302030/images/headshots/fcd24b4b_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/fcd24b4b/Alan-Rodriguez
+Emiliano Viveros,5b12c37d,https://fbref.com/req/202302030/images/headshots/5b12c37d_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5b12c37d/Emiliano-Viveros
+Sebastian Prieto,3e0b3184,https://fbref.com/req/202302030/images/headshots/3e0b3184_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3e0b3184/Sebastian-Prieto
+Leonardo Heredia,45cfa4ba,https://fbref.com/req/202302030/images/headshots/45cfa4ba_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/45cfa4ba/Leonardo-Heredia
+Tobias Palacio,4c0c10de,https://fbref.com/req/202302030/images/headshots/4c0c10de_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4c0c10de/Tobias-Palacio
+Jose Herrera,1dcddc4d,https://fbref.com/req/202302030/images/headshots/1dcddc4d_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1dcddc4d/Jose-Herrera
+Erik Godoy,e8b80334,https://fbref.com/req/202302030/images/headshots/e8b80334_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e8b80334/Erik-Godoy
+Juan Cardozo,e68bce6e,https://fbref.com/req/202302030/images/headshots/e68bce6e_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e68bce6e/Juan-Cardozo
+Francis Mac Allister,1cc51702,https://fbref.com/req/202302030/images/headshots/1cc51702_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1cc51702/Francis-Mac-Allister
+Matias Perello,87cfb885,https://fbref.com/req/202302030/images/headshots/87cfb885_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/87cfb885/Matias-Perello
+Kevin Coronel,d52da527,https://fbref.com/req/202302030/images/headshots/d52da527_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d52da527/Kevin-Coronel
+Lucas Gomez,c19830ba,https://fbref.com/req/202302030/images/headshots/c19830ba_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c19830ba/Lucas-Gomez
+Tomas Molina,d3134e28,https://fbref.com/req/202302030/images/headshots/d3134e28_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d3134e28/Tomas-Molina
+Mateo Diaz Chaves,72aa70fd,https://fbref.com/req/202302030/images/headshots/72aa70fd_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/72aa70fd/Mateo-Diaz-Chaves
+Fernando Meza,2c24fe94,https://fbref.com/req/202302030/images/headshots/2c24fe94_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2c24fe94/Fernando-Meza
+Facundo Baez,66db16c4,https://fbref.com/req/202302030/images/headshots/66db16c4_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/66db16c4/Facundo-Baez
+Damian Batallini,be1395da,https://fbref.com/req/202302030/images/headshots/be1395da_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/be1395da/Damian-Batallini
+Jairo ONeill,30af5ce0,https://fbref.com/req/202302030/images/headshots/30af5ce0_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/30af5ce0/Jairo-ONeill
+Gonzalo Siri Payer,698bbd9a,https://fbref.com/req/202302030/images/headshots/698bbd9a_2022.jpg,Argentinos Juniors,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/698bbd9a/Gonzalo-Siri-Payer
+Juan Manuel Insaurralde,deb82749,https://fbref.com/req/202302030/images/headshots/deb82749_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/deb82749/Juan-Manuel-Insaurralde
+Yair Ezequiel Arismendi,9438188a,https://fbref.com/req/202302030/images/headshots/9438188a_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9438188a/Yair-Ezequiel-Arismendi
+Gabriel Gudino,e5b011c2,https://fbref.com/req/202302030/images/headshots/e5b011c2_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e5b011c2/Gabriel-Gudino
+Franco Paredes,9a091625,https://fbref.com/req/202302030/images/headshots/9a091625_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9a091625/Franco-Paredes
+Manuel Garcia,64b184ac,https://fbref.com/req/202302030/images/headshots/64b184ac_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/64b184ac/Manuel-Garcia
+Emiliano Mendez,9807164b,https://fbref.com/req/202302030/images/headshots/9807164b_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9807164b/Emiliano-Mendez
+Elias Lopez,bc78521f,https://fbref.com/req/202302030/images/headshots/bc78521f_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bc78521f/Elias-Lopez
+Joaquin Gho,3fd907f6,https://fbref.com/req/202302030/images/headshots/3fd907f6_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3fd907f6/Joaquin-Gho
+Lucas Acosta,50f7c408,https://fbref.com/req/202302030/images/headshots/50f7c408_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/50f7c408/Lucas-Acosta
+Valentin Burgoa,f99cfccb,https://fbref.com/req/202302030/images/headshots/f99cfccb_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f99cfccb/Valentin-Burgoa
+Jeronimo Pourtau,e488072d,https://fbref.com/req/202302030/images/headshots/e488072d_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e488072d/Jeronimo-Pourtau
+Juan Hernandez,0fab7750,https://fbref.com/req/202302030/images/headshots/0fab7750_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0fab7750/Juan-Hernandez
+Agustin Fontana,deb75bd4,https://fbref.com/req/202302030/images/headshots/deb75bd4_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/deb75bd4/Agustin-Fontana
+Facundo Roncaglia,51e3954c,https://fbref.com/req/202302030/images/headshots/51e3954c_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/51e3954c/Facundo-Roncaglia
+Matias Rosales,ffe7af4a,https://fbref.com/req/202302030/images/headshots/ffe7af4a_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ffe7af4a/Matias-Rosales
+Gabriel Diaz,a6eff0a3,https://fbref.com/req/202302030/images/headshots/a6eff0a3_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a6eff0a3/Gabriel-Diaz
+Ivan Morales Bravo,3468cf5d,https://fbref.com/req/202302030/images/headshots/3468cf5d_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3468cf5d/Ivan-Morales-Bravo
+Lisandro Lopez,bc55bb5a,https://fbref.com/req/202302030/images/headshots/bc55bb5a_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bc55bb5a/Lisandro-Lopez
+Juan Guasone,5d59f2af,https://fbref.com/req/202302030/images/headshots/5d59f2af_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5d59f2af/Juan-Guasone
+Fernando Godoy,532066bf,https://fbref.com/req/202302030/images/headshots/532066bf_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/532066bf/Fernando-Godoy
+Sergio Quiroga,df543124,https://fbref.com/req/202302030/images/headshots/df543124_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/df543124/Sergio-Quiroga
+Gaston Sauro,636ca479,https://fbref.com/req/202302030/images/headshots/636ca479_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/636ca479/Gaston-Sauro
+Nicolas Gaitan,7ebfac0f,https://fbref.com/req/202302030/images/headshots/7ebfac0f_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7ebfac0f/Nicolas-Gaitan
+Gabriel Hauche,e0abe95e,https://fbref.com/req/202302030/images/headshots/e0abe95e_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e0abe95e/Gabriel-Hauche
+Thyago Ayala,0f200ce4,https://fbref.com/req/202302030/images/headshots/0f200ce4_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0f200ce4/Thyago-Ayala
+Diego Calcaterra,686926ac,https://fbref.com/req/202302030/images/headshots/686926ac_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/686926ac/Diego-Calcaterra
+Jose Mauri,644faf10,https://fbref.com/req/202302030/images/headshots/644faf10_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/644faf10/Jose-Mauri
+David Gallardo,f34629ab,https://fbref.com/req/202302030/images/headshots/f34629ab_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f34629ab/David-Gallardo
+Manuel Monaco,e3c45b18,https://fbref.com/req/202302030/images/headshots/e3c45b18_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e3c45b18/Manuel-Monaco
+Tomas Guiacobini,76c67ea0,https://fbref.com/req/202302030/images/headshots/76c67ea0_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/76c67ea0/Tomas-Guiacobini
+Diego Azcurra,0f12c6ac,https://fbref.com/req/202302030/images/headshots/0f12c6ac_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0f12c6ac/Diego-Azcurra
+Bryan Cabezas,061f1eed,https://fbref.com/req/202302030/images/headshots/061f1eed_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/061f1eed/Bryan-Cabezas
+Franco Calderon,2a65434a,https://fbref.com/req/202302030/images/headshots/2a65434a_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2a65434a/Franco-Calderon
+Lautaro Cerato,b96cf89c,https://fbref.com/req/202302030/images/headshots/b96cf89c_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b96cf89c/Lautaro-Cerato
+Patricio Ferreira,03c611a8,https://fbref.com/req/202302030/images/headshots/03c611a8_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/03c611a8/Patricio-Ferreira
+Joel Godoy,9ebb9e83,https://fbref.com/req/202302030/images/headshots/9ebb9e83_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9ebb9e83/Joel-Godoy
+Brandon Marquez,f4dd01dd,https://fbref.com/req/202302030/images/headshots/f4dd01dd_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f4dd01dd/Brandon-Marquez
+Andres Marsengo,7fe90163,https://fbref.com/req/202302030/images/headshots/7fe90163_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7fe90163/Andres-Marsengo
+Santiago Morales,935f1e96,https://fbref.com/req/202302030/images/headshots/935f1e96_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/935f1e96/Santiago-Morales
+Agustin Seyral,3d8a448f,https://fbref.com/req/202302030/images/headshots/3d8a448f_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3d8a448f/Agustin-Seyral
+Jeremias Vallejos,7f75c34b,https://fbref.com/req/202302030/images/headshots/7f75c34b_2022.jpg,Sarmiento,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7f75c34b/Jeremias-Vallejos
+Felipe Zenobio,21faad0e,https://fbref.com/req/202302030/images/headshots/21faad0e_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/21faad0e/Felipe-Zenobio
+Agustin Cardozo,1b677f5e,https://fbref.com/req/202302030/images/headshots/1b677f5e_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1b677f5e/Agustin-Cardozo
+Tomas Galvan,e699d3db,https://fbref.com/req/202302030/images/headshots/e699d3db_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e699d3db/Tomas-Galvan
+Martin Ortega,68acce47,https://fbref.com/req/202302030/images/headshots/68acce47_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/68acce47/Martin-Ortega
+Gonzalo Maroni,e01ca8f4,https://fbref.com/req/202302030/images/headshots/e01ca8f4_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e01ca8f4/Gonzalo-Maroni
+Blas Armoa,c0d97f5c,https://fbref.com/req/202302030/images/headshots/c0d97f5c_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c0d97f5c/Blas-Armoa
+Martin Garay,57148654,https://fbref.com/req/202302030/images/headshots/57148654_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/57148654/Martin-Garay
+Nahuel Banegas,55551a71,https://fbref.com/req/202302030/images/headshots/55551a71_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/55551a71/Nahuel-Banegas
+Brian Alexis Leizza,0b35bd75,https://fbref.com/req/202302030/images/headshots/0b35bd75_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0b35bd75/Brian-Alexis-Leizza
+Florian Monzon,31d67d65,https://fbref.com/req/202302030/images/headshots/31d67d65_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/31d67d65/Florian-Monzon
+Nehuen Paz,42b1a58a,https://fbref.com/req/202302030/images/headshots/42b1a58a_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/42b1a58a/Nehuen-Paz
+Gian Nardelli,756ee97a,https://fbref.com/req/202302030/images/headshots/756ee97a_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/756ee97a/Gian-Nardelli
+Angelo Marchese,abe841b4,https://fbref.com/req/202302030/images/headshots/abe841b4_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/abe841b4/Angelo-Marchese
+Tomas Fernandez,4292d55e,https://fbref.com/req/202302030/images/headshots/4292d55e_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4292d55e/Tomas-Fernandez
+Leandro Contin,890901f1,https://fbref.com/req/202302030/images/headshots/890901f1_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/890901f1/Leandro-Contin
+Facundo Ferreyra,b39a793e,https://fbref.com/req/202302030/images/headshots/b39a793e_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b39a793e/Facundo-Ferreyra
+Santiago Gonzalez,2223cdf0,https://fbref.com/req/202302030/images/headshots/2223cdf0_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2223cdf0/Santiago-Gonzalez
+Eric Ramirez,b9f92e76,https://fbref.com/req/202302030/images/headshots/b9f92e76_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b9f92e76/Eric-Ramirez
+Lorenzo Scipioni,b6dcc374,https://fbref.com/req/202302030/images/headshots/b6dcc374_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b6dcc374/Lorenzo-Scipioni
+Camilo Viganoni,d223a58e,https://fbref.com/req/202302030/images/headshots/d223a58e_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d223a58e/Camilo-Viganoni
+Nahuel Genez,a9febb86,https://fbref.com/req/202302030/images/headshots/a9febb86_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a9febb86/Nahuel-Genez
+Ezequiel Forclaz,8e301679,https://fbref.com/req/202302030/images/headshots/8e301679_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8e301679/Ezequiel-Forclaz
+Dario Sarmiento,343a0930,https://fbref.com/req/202302030/images/headshots/343a0930_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/343a0930/Dario-Sarmiento
+Flabian Londono,c3d3449c,https://fbref.com/req/202302030/images/headshots/c3d3449c_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c3d3449c/Flabian-Londono
+Bernardo Benitez,02d5694b,https://fbref.com/req/202302030/images/headshots/02d5694b_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/02d5694b/Bernardo-Benitez
+Sebastian Medina,bd35fdf5,https://fbref.com/req/202302030/images/headshots/bd35fdf5_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bd35fdf5/Sebastian-Medina
+Matias Espindola,70be6ae2,https://fbref.com/req/202302030/images/headshots/70be6ae2_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/70be6ae2/Matias-Espindola
+Valentin Moreno,eb55b9f5,https://fbref.com/req/202302030/images/headshots/eb55b9f5_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/eb55b9f5/Valentin-Moreno
+Augusto Aguirre,8ee57d76,https://fbref.com/req/202302030/images/headshots/8ee57d76_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8ee57d76/Augusto-Aguirre
+Brahian Aleman,32a7d080,https://fbref.com/req/202302030/images/headshots/32a7d080_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/32a7d080/Brahian-Aleman
+Mateo Caceres,afc7a109,https://fbref.com/req/202302030/images/headshots/afc7a109_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/afc7a109/Mateo-Caceres
+Tomas Chavez,3a87640b,https://fbref.com/req/202302030/images/headshots/3a87640b_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3a87640b/Tomas-Chavez
+Luka Fuster,d59c8af0,https://fbref.com/req/202302030/images/headshots/d59c8af0_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d59c8af0/Luka-Fuster
+Tomas Lecanda,0e14fbc4,https://fbref.com/req/202302030/images/headshots/0e14fbc4_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0e14fbc4/Tomas-Lecanda
+Pablo Minissale,da17552e,https://fbref.com/req/202302030/images/headshots/da17552e_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/da17552e/Pablo-Minissale
+Dayro Pena,87eefd92,https://fbref.com/req/202302030/images/headshots/87eefd92_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/87eefd92/Dayro-Pena
+Sebastian Sanchez,a26c6bb6,https://fbref.com/req/202302030/images/headshots/a26c6bb6_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a26c6bb6/Sebastian-Sanchez
+Alan Sosa,b02676ef,https://fbref.com/req/202302030/images/headshots/b02676ef_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b02676ef/Alan-Sosa
+Matias Tagliamonte,bafc3bbe,https://fbref.com/req/202302030/images/headshots/bafc3bbe_2022.jpg,Tigre,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bafc3bbe/Matias-Tagliamonte
+Juan Ignacio Ramirez,ad513a6b,https://fbref.com/req/202302030/images/headshots/ad513a6b_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ad513a6b/Juan-Ignacio-Ramirez
+Gustavo Velasquez,b99b4cf5,https://fbref.com/req/202302030/images/headshots/b99b4cf5_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b99b4cf5/Gustavo-Velasquez
+Angelo Martino,3d0031f4,https://fbref.com/req/202302030/images/headshots/3d0031f4_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3d0031f4/Angelo-Martino
+Francisco Gonzalez,d266af3b,https://fbref.com/req/202302030/images/headshots/d266af3b_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d266af3b/Francisco-Gonzalez
+Ever Banega,fa937f7a,https://fbref.com/req/202302030/images/headshots/fa937f7a_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/fa937f7a/Ever-Banega
+Rodrigo Fernandez,617ee116,https://fbref.com/req/202302030/images/headshots/617ee116_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/617ee116/Rodrigo-Fernandez
+Armando Mendez,5a39b971,https://fbref.com/req/202302030/images/headshots/5a39b971_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5a39b971/Armando-Mendez
+Lucas Hoyos,848cbc52,https://fbref.com/req/202302030/images/headshots/848cbc52_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/848cbc52/Lucas-Hoyos
+Saul Salcedo,6d8fe94c,https://fbref.com/req/202302030/images/headshots/6d8fe94c_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6d8fe94c/Saul-Salcedo
+Ian Glavinovich,7298c545,https://fbref.com/req/202302030/images/headshots/7298c545_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7298c545/Ian-Glavinovich
+Ramiro Macagno,64293bed,https://fbref.com/req/202302030/images/headshots/64293bed_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/64293bed/Ramiro-Macagno
+Jeronimo Cacciabue,a8456000,https://fbref.com/req/202302030/images/headshots/a8456000_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a8456000/Jeronimo-Cacciabue
+Fernando David Cardozo,5f7d6d59,https://fbref.com/req/202302030/images/headshots/5f7d6d59_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5f7d6d59/Fernando-David-Cardozo
+Augusto Schott,c52aaba0,https://fbref.com/req/202302030/images/headshots/c52aaba0_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c52aaba0/Augusto-Schott
+Julian Fernandez,88d268c8,https://fbref.com/req/202302030/images/headshots/88d268c8_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/88d268c8/Julian-Fernandez
+Tomas Jacob,3264fa21,https://fbref.com/req/202302030/images/headshots/3264fa21_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3264fa21/Tomas-Jacob
+Brian Calderara,0b135483,https://fbref.com/req/202302030/images/headshots/0b135483_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0b135483/Brian-Calderara
+Matko Miljevic,74b76abc,https://fbref.com/req/202302030/images/headshots/74b76abc_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/74b76abc/Matko-Miljevic
+Tomas Perez,ae067682,https://fbref.com/req/202302030/images/headshots/ae067682_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ae067682/Tomas-Perez
+Gabriel Carabajal,7a694ae4,https://fbref.com/req/202302030/images/headshots/7a694ae4_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7a694ae4/Gabriel-Carabajal
+Leonel Vangioni,c71a187b,https://fbref.com/req/202302030/images/headshots/c71a187b_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c71a187b/Leonel-Vangioni
+Giovani Chiaverano,2e0d1e5b,https://fbref.com/req/202302030/images/headshots/2e0d1e5b_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2e0d1e5b/Giovani-Chiaverano
+Guillermo Balzi,60194b77,https://fbref.com/req/202302030/images/headshots/60194b77_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/60194b77/Guillermo-Balzi
+Fabricio Tirado,1df448b0,https://fbref.com/req/202302030/images/headshots/1df448b0_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1df448b0/Fabricio-Tirado
+Guillermo May,ab38e145,https://fbref.com/req/202302030/images/headshots/ab38e145_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ab38e145/Guillermo-May
+Mateo Silvetti,12a2d3e0,https://fbref.com/req/202302030/images/headshots/12a2d3e0_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/12a2d3e0/Mateo-Silvetti
+Misael Jaime,687aad09,https://fbref.com/req/202302030/images/headshots/687aad09_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/687aad09/Misael-Jaime
+Jeremias Perez Tica,8260fd3e,https://fbref.com/req/202302030/images/headshots/8260fd3e_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8260fd3e/Jeremias-Perez-Tica
+Lucas Banos,3ca7a9ae,https://fbref.com/req/202302030/images/headshots/3ca7a9ae_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3ca7a9ae/Lucas-Banos
+Juan Manuel Garcia,06f7516d,https://fbref.com/req/202302030/images/headshots/06f7516d_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/06f7516d/Juan-Manuel-Garcia
+Esteban Fernandez,347d5cb0,https://fbref.com/req/202302030/images/headshots/347d5cb0_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/347d5cb0/Esteban-Fernandez
+Agustin Juarez,2ea3144d,https://fbref.com/req/202302030/images/headshots/2ea3144d_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2ea3144d/Agustin-Juarez
+Lucas Mihovilcevich,473928c3,https://fbref.com/req/202302030/images/headshots/473928c3_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/473928c3/Lucas-Mihovilcevich
+Ezequiel Moya,95b160f8,https://fbref.com/req/202302030/images/headshots/95b160f8_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/95b160f8/Ezequiel-Moya
+Faustino Piotti,73ab93b6,https://fbref.com/req/202302030/images/headshots/73ab93b6_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/73ab93b6/Faustino-Piotti
+Josue Reinatti,70ce8fa7,https://fbref.com/req/202302030/images/headshots/70ce8fa7_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/70ce8fa7/Josue-Reinatti
+Valentino Torrente,3988a8e5,https://fbref.com/req/202302030/images/headshots/3988a8e5_2022.jpg,Newells Old Boys,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3988a8e5/Valentino-Torrente
+Alejandro Maciel,1522a5cc,https://fbref.com/req/202302030/images/headshots/1522a5cc_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1522a5cc/Alejandro-Maciel
+Ignacio Rodriguez,6d550725,https://fbref.com/req/202302030/images/headshots/6d550725_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6d550725/Ignacio-Rodriguez
+Facundo Sanguinetti,2047a087,https://fbref.com/req/202302030/images/headshots/2047a087_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2047a087/Facundo-Sanguinetti
+Emanuel Insua,792c7b94,https://fbref.com/req/202302030/images/headshots/792c7b94_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/792c7b94/Emanuel-Insua
+Cristian Nunez,28dbc1b9,https://fbref.com/req/202302030/images/headshots/28dbc1b9_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/28dbc1b9/Cristian-Nunez
+Juan Alvarez,4c50934e,https://fbref.com/req/202302030/images/headshots/4c50934e_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4c50934e/Juan-Alvarez
+Matias Gonzalez,3ba507c4,https://fbref.com/req/202302030/images/headshots/3ba507c4_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3ba507c4/Matias-Gonzalez
+Jesus Soraire,5089f6ce,https://fbref.com/req/202302030/images/headshots/5089f6ce_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5089f6ce/Jesus-Soraire
+Mauricio Roldan,d4dd642a,https://fbref.com/req/202302030/images/headshots/d4dd642a_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d4dd642a/Mauricio-Roldan
+Bruno Sepulveda,29ee723f,https://fbref.com/req/202302030/images/headshots/29ee723f_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/29ee723f/Bruno-Sepulveda
+Braian Galvan,bbfbd4d3,https://fbref.com/req/202302030/images/headshots/bbfbd4d3_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bbfbd4d3/Braian-Galvan
+Gabriel Aranda,e59b8980,https://fbref.com/req/202302030/images/headshots/e59b8980_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e59b8980/Gabriel-Aranda
+Nicolas Hernandez,86046c18,https://fbref.com/req/202302030/images/headshots/86046c18_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/86046c18/Nicolas-Hernandez
+Ezequiel Bonifacio,0b6ff48b,https://fbref.com/req/202302030/images/headshots/0b6ff48b_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0b6ff48b/Ezequiel-Bonifacio
+Mathias De Ritis,d2e6d986,https://fbref.com/req/202302030/images/headshots/d2e6d986_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d2e6d986/Mathias-De-Ritis
+Lautaro Cardozo,419481f4,https://fbref.com/req/202302030/images/headshots/419481f4_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/419481f4/Lautaro-Cardozo
+Mateo Perez,f1cd1c9e,https://fbref.com/req/202302030/images/headshots/f1cd1c9e_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f1cd1c9e/Mateo-Perez
+Marcelo Barovero,868c0f75,https://fbref.com/req/202302030/images/headshots/868c0f75_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/868c0f75/Marcelo-Barovero
+Geronimo Rivera,731a1d66,https://fbref.com/req/202302030/images/headshots/731a1d66_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/731a1d66/Geronimo-Rivera
+Ezequiel Canete,f53eb86a,https://fbref.com/req/202302030/images/headshots/f53eb86a_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f53eb86a/Ezequiel-Canete
+Yvo Calleros,e16858e3,https://fbref.com/req/202302030/images/headshots/e16858e3_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e16858e3/Yvo-Calleros
+Juan Iribarren,034d63d7,https://fbref.com/req/202302030/images/headshots/034d63d7_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/034d63d7/Juan-Iribarren
+Juan Bisanz,7a012117,https://fbref.com/req/202302030/images/headshots/7a012117_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7a012117/Juan-Bisanz
+Marcos Echeverria,72582844,https://fbref.com/req/202302030/images/headshots/72582844_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/72582844/Marcos-Echeverria
+Lautaro Villegas,f101aa59,https://fbref.com/req/202302030/images/headshots/f101aa59_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f101aa59/Lautaro-Villegas
+Damian Diaz,08e0a56b,https://fbref.com/req/202302030/images/headshots/08e0a56b_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/08e0a56b/Damian-Diaz
+Juan Quintana,9c5daa24,https://fbref.com/req/202302030/images/headshots/9c5daa24_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9c5daa24/Juan-Quintana
+Federico Medina,215df1e0,https://fbref.com/req/202302030/images/headshots/215df1e0_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/215df1e0/Federico-Medina
+Lautaro Gomez,61d1a611,https://fbref.com/req/202302030/images/headshots/61d1a611_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/61d1a611/Lautaro-Gomez
+Alexander Byndgaard,50f0ec33,https://fbref.com/req/202302030/images/headshots/50f0ec33_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/50f0ec33/Alexander-Byndgaard
+Lisandro Pinero,8bd8e620,https://fbref.com/req/202302030/images/headshots/8bd8e620_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8bd8e620/Lisandro-Pinero
+Franco Quinteros,c4760af0,https://fbref.com/req/202302030/images/headshots/c4760af0_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c4760af0/Franco-Quinteros
+Luciano Recalde,823dc1ab,https://fbref.com/req/202302030/images/headshots/823dc1ab_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/823dc1ab/Luciano-Recalde
+Facundo Vila,f019ded5,https://fbref.com/req/202302030/images/headshots/f019ded5_2022.jpg,Banfield,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f019ded5/Facundo-Vila
+Jhohan Romana,4e32c2d6,https://fbref.com/req/202302030/images/headshots/4e32c2d6_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4e32c2d6/Jhohan-Romana
+Gaston Campi,74223a01,https://fbref.com/req/202302030/images/headshots/74223a01_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/74223a01/Gaston-Campi
+Alexis Cuello,0bf6b89a,https://fbref.com/req/202302030/images/headshots/0bf6b89a_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/0bf6b89a/Alexis-Cuello
+Elian Irala,290c4f4a,https://fbref.com/req/202302030/images/headshots/290c4f4a_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/290c4f4a/Elian-Irala
+Ivan Leguizamon,bfdcc1e4,https://fbref.com/req/202302030/images/headshots/bfdcc1e4_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bfdcc1e4/Ivan-Leguizamon
+Facundo Altamirano,84d5fd29,https://fbref.com/req/202302030/images/headshots/84d5fd29_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/84d5fd29/Facundo-Altamirano
+Malcom Braida,7cc9bb66,https://fbref.com/req/202302030/images/headshots/7cc9bb66_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7cc9bb66/Malcom-Braida
+Eric Remedi,38e2cbd6,https://fbref.com/req/202302030/images/headshots/38e2cbd6_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/38e2cbd6/Eric-Remedi
+Nahuel Barrios,b2fabf7e,https://fbref.com/req/202302030/images/headshots/b2fabf7e_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b2fabf7e/Nahuel-Barrios
+Oscar Arias,267c2050,https://fbref.com/req/202302030/images/headshots/267c2050_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/267c2050/Oscar-Arias
+Gonzalo Lujan,209aad11,https://fbref.com/req/202302030/images/headshots/209aad11_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/209aad11/Gonzalo-Lujan
+Elias Baez,ecb61924,https://fbref.com/req/202302030/images/headshots/ecb61924_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ecb61924/Elias-Baez
+Nicolas Tripichio,4c3e3d0a,https://fbref.com/req/202302030/images/headshots/4c3e3d0a_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4c3e3d0a/Nicolas-Tripichio
+Gaston Gomez,33c24be0,https://fbref.com/req/202302030/images/headshots/33c24be0_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/33c24be0/Gaston-Gomez
+Ezequiel Cerutti,635c9552,https://fbref.com/req/202302030/images/headshots/635c9552_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/635c9552/Ezequiel-Cerutti
+Cristian Ferreira,f088e129,https://fbref.com/req/202302030/images/headshots/f088e129_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f088e129/Cristian-Ferreira
+Daniel Herrera,e5fc269b,https://fbref.com/req/202302030/images/headshots/e5fc269b_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e5fc269b/Daniel-Herrera
+Andres Vombergar,71910d3e,https://fbref.com/req/202302030/images/headshots/71910d3e_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/71910d3e/Andres-Vombergar
+Santiago Sosa,9857c88f,https://fbref.com/req/202302030/images/headshots/9857c88f_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9857c88f/Santiago-Sosa
+Agustin Giay,8047b72e,https://fbref.com/req/202302030/images/headshots/8047b72e_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8047b72e/Agustin-Giay
+Francisco Perruzzi,33359192,https://fbref.com/req/202302030/images/headshots/33359192_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/33359192/Francisco-Perruzzi
+Ivan Tapia,1e594292,https://fbref.com/req/202302030/images/headshots/1e594292_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1e594292/Ivan-Tapia
+Diego Herazo,c78eb31f,https://fbref.com/req/202302030/images/headshots/c78eb31f_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c78eb31f/Diego-Herazo
+Sebastian Blanco,4ddd0834,https://fbref.com/req/202302030/images/headshots/4ddd0834_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4ddd0834/Sebastian-Blanco
+Mateo Clemente,98089d61,https://fbref.com/req/202302030/images/headshots/98089d61_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/98089d61/Mateo-Clemente
+Carlos Sanchez,50b51fac,https://fbref.com/req/202302030/images/headshots/50b51fac_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/50b51fac/Carlos-Sanchez
+Tobias Medina,a2660293,https://fbref.com/req/202302030/images/headshots/a2660293_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a2660293/Tobias-Medina
+Tomas Porra,77c42172,https://fbref.com/req/202302030/images/headshots/77c42172_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/77c42172/Tomas-Porra
+Facundo Bruera,8d7881e1,https://fbref.com/req/202302030/images/headshots/8d7881e1_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8d7881e1/Facundo-Bruera
+Gonzalo Alassia,f9f1d02c,https://fbref.com/req/202302030/images/headshots/f9f1d02c_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f9f1d02c/Gonzalo-Alassia
+Lucas Coronel,bf29dc11,https://fbref.com/req/202302030/images/headshots/bf29dc11_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/bf29dc11/Lucas-Coronel
+Agustin Hausch,098a28f8,https://fbref.com/req/202302030/images/headshots/098a28f8_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/098a28f8/Agustin-Hausch
+Lautaro Lopez,c00b6bef,https://fbref.com/req/202302030/images/headshots/c00b6bef_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c00b6bef/Lautaro-Lopez
+Mauro Perez,b73a9a5f,https://fbref.com/req/202302030/images/headshots/b73a9a5f_2022.jpg,San Lorenzo,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b73a9a5f/Mauro-Perez
+Kevin Facundo Gutierrez,b9412d9e,https://fbref.com/req/202302030/images/headshots/b9412d9e_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b9412d9e/Kevin-Facundo-Gutierrez
+Cristopher Fiermarin,9a910a78,https://fbref.com/req/202302030/images/headshots/9a910a78_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9a910a78/Cristopher-Fiermarin
+Santi Ramos Mingo,fe0a346d,https://fbref.com/req/202302030/images/headshots/fe0a346d_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/fe0a346d/Santi-Ramos-Mingo
+Luciano Ramon Herrera,e3ec96c1,https://fbref.com/req/202302030/images/headshots/e3ec96c1_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e3ec96c1/Luciano-Ramon-Herrera
+Ezequiel Cannavo,134bd6e4,https://fbref.com/req/202302030/images/headshots/134bd6e4_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/134bd6e4/Ezequiel-Cannavo
+Emanuel Aguilera,fc63eb31,https://fbref.com/req/202302030/images/headshots/fc63eb31_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/fc63eb31/Emanuel-Aguilera
+Lucas Ferreira,27aecc44,https://fbref.com/req/202302030/images/headshots/27aecc44_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/27aecc44/Lucas-Ferreira
+Julian Lopez,698923cf,https://fbref.com/req/202302030/images/headshots/698923cf_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/698923cf/Julian-Lopez
+Kevin Lopez,5256c4ca,https://fbref.com/req/202302030/images/headshots/5256c4ca_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5256c4ca/Kevin-Lopez
+Aaron Nicolas Molinas,cc704b9f,https://fbref.com/req/202302030/images/headshots/cc704b9f_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/cc704b9f/Aaron-Nicolas-Molinas
+Juan Miritello,be06718c,https://fbref.com/req/202302030/images/headshots/be06718c_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/be06718c/Juan-Miritello
+Alexis Soto,c20a7043,https://fbref.com/req/202302030/images/headshots/c20a7043_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/c20a7043/Alexis-Soto
+Gabriel Alanis,d9ebfcfa,https://fbref.com/req/202302030/images/headshots/d9ebfcfa_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d9ebfcfa/Gabriel-Alanis
+Abiel Osorio,8d69f8f3,https://fbref.com/req/202302030/images/headshots/8d69f8f3_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8d69f8f3/Abiel-Osorio
+Rodrigo Bogarin,5bc7c208,https://fbref.com/req/202302030/images/headshots/5bc7c208_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5bc7c208/Rodrigo-Bogarin
+Ayrton Portillo,a1f80904,https://fbref.com/req/202302030/images/headshots/a1f80904_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a1f80904/Ayrton-Portillo
+Nicolas Palavecino,b62ca703,https://fbref.com/req/202302030/images/headshots/b62ca703_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b62ca703/Nicolas-Palavecino
+Dario Caceres,18637ecc,https://fbref.com/req/202302030/images/headshots/18637ecc_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/18637ecc/Dario-Caceres
+Facundo Echevarria,5d78e702,https://fbref.com/req/202302030/images/headshots/5d78e702_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5d78e702/Facundo-Echevarria
+Enrique Bologna,33330466,https://fbref.com/req/202302030/images/headshots/33330466_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/33330466/Enrique-Bologna
+Matias Sosa,b9e2c318,https://fbref.com/req/202302030/images/headshots/b9e2c318_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b9e2c318/Matias-Sosa
+Cesar Perez,9dde0ebb,https://fbref.com/req/202302030/images/headshots/9dde0ebb_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/9dde0ebb/Cesar-Perez
+Esteban Lucero,307002fa,https://fbref.com/req/202302030/images/headshots/307002fa_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/307002fa/Esteban-Lucero
+Nicolas Blandi,b4519dd4,https://fbref.com/req/202302030/images/headshots/b4519dd4_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/b4519dd4/Nicolas-Blandi
+Santiago Godoy,f99d8d48,https://fbref.com/req/202302030/images/headshots/f99d8d48_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/f99d8d48/Santiago-Godoy
+Francisco Marco,02b5b6de,https://fbref.com/req/202302030/images/headshots/02b5b6de_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/02b5b6de/Francisco-Marco
+Andres Berizovsky,d7e3acbf,https://fbref.com/req/202302030/images/headshots/d7e3acbf_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d7e3acbf/Andres-Berizovsky
+Benjamin Schamine,be6ff7fc,https://fbref.com/req/202302030/images/headshots/be6ff7fc_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/be6ff7fc/Benjamin-Schamine
+Mateo Aguiar,251ea0b9,https://fbref.com/req/202302030/images/headshots/251ea0b9_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/251ea0b9/Mateo-Aguiar
+Lorenzo Brun,87c57e01,https://fbref.com/req/202302030/images/headshots/87c57e01_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/87c57e01/Lorenzo-Brun
+Elias Calderon,d6e292b3,https://fbref.com/req/202302030/images/headshots/d6e292b3_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d6e292b3/Elias-Calderon
+Tiago Ferreyra,cd6010ce,https://fbref.com/req/202302030/images/headshots/cd6010ce_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/cd6010ce/Tiago-Ferreyra
+Ramiro Garcia,67ca7e13,https://fbref.com/req/202302030/images/headshots/67ca7e13_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/67ca7e13/Ramiro-Garcia
+Tiago Serrago,504cd579,https://fbref.com/req/202302030/images/headshots/504cd579_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/504cd579/Tiago-Serrago
+Elian Sosa,eb382eef,https://fbref.com/req/202302030/images/headshots/eb382eef_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/eb382eef/Elian-Sosa
+Alejo Valenzuela,e466d774,https://fbref.com/req/202302030/images/headshots/e466d774_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e466d774/Alejo-Valenzuela
+Yorman Zapata,2d6a53ad,https://fbref.com/req/202302030/images/headshots/2d6a53ad_2022.jpg,Defensa y Justicia,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2d6a53ad/Yorman-Zapata
+Rodrigo Herrera,1537c952,https://fbref.com/req/202302030/images/headshots/1537c952_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/1537c952/Rodrigo-Herrera
+Nicolas Capraro,d64d46e4,https://fbref.com/req/202302030/images/headshots/d64d46e4_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d64d46e4/Nicolas-Capraro
+Gonzalo Goni,687e908f,https://fbref.com/req/202302030/images/headshots/687e908f_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/687e908f/Gonzalo-Goni
+Rodrigo Insua,094c0621,https://fbref.com/req/202302030/images/headshots/094c0621_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/094c0621/Rodrigo-Insua
+Siro Rosane,23f646f1,https://fbref.com/req/202302030/images/headshots/23f646f1_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/23f646f1/Siro-Rosane
+Maximiliano Zalazar,e374a7f5,https://fbref.com/req/202302030/images/headshots/e374a7f5_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e374a7f5/Maximiliano-Zalazar
+Sebastian Moyano,e4bcd56b,https://fbref.com/req/202302030/images/headshots/e4bcd56b_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e4bcd56b/Sebastian-Moyano
+Marco Iacobellis,93cfb989,https://fbref.com/req/202302030/images/headshots/93cfb989_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/93cfb989/Marco-Iacobellis
+Facundo Mater,d04ee029,https://fbref.com/req/202302030/images/headshots/d04ee029_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/d04ee029/Facundo-Mater
+Alan Cantero,a2232656,https://fbref.com/req/202302030/images/headshots/a2232656_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a2232656/Alan-Cantero
+Jhonatan Candia,a62813d2,https://fbref.com/req/202302030/images/headshots/a62813d2_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a62813d2/Jhonatan-Candia
+Pedro Velurtas,8585684e,https://fbref.com/req/202302030/images/headshots/8585684e_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/8585684e/Pedro-Velurtas
+Lucas Brochero,2aaca0b8,https://fbref.com/req/202302030/images/headshots/2aaca0b8_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2aaca0b8/Lucas-Brochero
+Alexis Dominguez,55facc6c,https://fbref.com/req/202302030/images/headshots/55facc6c_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/55facc6c/Alexis-Dominguez
+Marcelo Mino,3372ab71,https://fbref.com/req/202302030/images/headshots/3372ab71_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/3372ab71/Marcelo-Mino
+Federico Aguirre,a3b898ff,https://fbref.com/req/202302030/images/headshots/a3b898ff_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/a3b898ff/Federico-Aguirre
+Santiago Coronel,03b736c5,https://fbref.com/req/202302030/images/headshots/03b736c5_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/03b736c5/Santiago-Coronel
+Daniel Juarez,5ed601ca,https://fbref.com/req/202302030/images/headshots/5ed601ca_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/5ed601ca/Daniel-Juarez
+Nicolas Demartini,328cb061,https://fbref.com/req/202302030/images/headshots/328cb061_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/328cb061/Nicolas-Demartini
+Manuel Agustin Duarte,be50f4be,https://fbref.com/req/202302030/images/headshots/be50f4be_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/be50f4be/Manuel-Agustin-Duarte
+Alex Juarez,6b002771,https://fbref.com/req/202302030/images/headshots/6b002771_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6b002771/Alex-Juarez
+Nicolas Tolosa,7a1a4096,https://fbref.com/req/202302030/images/headshots/7a1a4096_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/7a1a4096/Nicolas-Tolosa
+Carlos Arce,4c49e1f1,https://fbref.com/req/202302030/images/headshots/4c49e1f1_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/4c49e1f1/Carlos-Arce
+Dardo Miloc,15bf7de8,https://fbref.com/req/202302030/images/headshots/15bf7de8_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/15bf7de8/Dardo-Miloc
+Facundo Kruger,02e13312,https://fbref.com/req/202302030/images/headshots/02e13312_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/02e13312/Facundo-Kruger
+Agustin Irazoque,ba2349eb,https://fbref.com/req/202302030/images/headshots/ba2349eb_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/ba2349eb/Agustin-Irazoque
+Bahiano Benjamin Garcia,690f7b77,https://fbref.com/req/202302030/images/headshots/690f7b77_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/690f7b77/Bahiano-Benjamin-Garcia
+Lucas Faggioli,af506675,https://fbref.com/req/202302030/images/headshots/af506675_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/af506675/Lucas-Faggioli
+Rafael Ferrario,6853a0e2,https://fbref.com/req/202302030/images/headshots/6853a0e2_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/6853a0e2/Rafael-Ferrario
+Diego Pavia,255e76fa,https://fbref.com/req/202302030/images/headshots/255e76fa_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/255e76fa/Diego-Pavia
+Maximiliano Puig,e1dac904,https://fbref.com/req/202302030/images/headshots/e1dac904_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/e1dac904/Maximiliano-Puig
+Santiago Villalba,2e2a78ab,https://fbref.com/req/202302030/images/headshots/2e2a78ab_2022.jpg,Barracas Central,Liga Profesional,2024,Argentina,https://www.fbref.com/es/jugadores/2e2a78ab/Santiago-Villalba

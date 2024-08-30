@@ -124,19 +124,19 @@ Diego Rodríguez,38266,50,G,False,90,1,por,1/1,POR,Home,Argentinos Jrs.,4-3-3,4,
 Kevin Coronel,1485234,14,D,False,81,2,def,1/4,DEF,Home,Argentinos Jrs.,4-3-3,4,3,3,43.806315789474,12.224210526316,95.0
 Francisco Álvarez,871788,16,D,False,81,3,def,2/4,DEF,Home,Argentinos Jrs.,4-3-3,4,3,3,36.7,28.583098591549,71.0
 Jonathan Galván,789271,19,D,False,90,4,def,3/4,DEF,Home,Argentinos Jrs.,4-3-3,4,3,3,34.190697674419,69.745348837209,86.0
-Jonathan Galván,789271,19,D,False,90,4,def,3/4,DEF,Home,Argentinos Jrs.,4-3-3,4,3,3,34.190697674419,69.745348837209,86.0
-Jonathan Galván,789271,19,D,False,90,4,def,3/4,DEF,Home,Argentinos Jrs.,4-3-3,4,3,3,34.190697674419,69.745348837209,86.0
-Jonathan Galván,789271,19,D,False,90,4,def,3/4,DEF,Home,Argentinos Jrs.,4-3-3,4,3,3,34.190697674419,69.745348837209,86.0
-Jonathan Galván,789271,19,D,False,90,4,def,3/4,DEF,Home,Argentinos Jrs.,4-3-3,4,3,3,34.190697674419,69.745348837209,86.0
-Jonathan Galván,789271,19,D,False,90,4,def,3/4,DEF,Home,Argentinos Jrs.,4-3-3,4,3,3,34.190697674419,69.745348837209,86.0
-Jonathan Galván,789271,19,D,False,90,4,def,3/4,DEF,Home,Argentinos Jrs.,4-3-3,4,3,3,34.190697674419,69.745348837209,86.0
-Jonathan Galván,789271,19,D,False,90,4,def,3/4,DEF,Home,Argentinos Jrs.,4-3-3,4,3,3,34.190697674419,69.745348837209,86.0
 Sebastián Prieto,946305,20,D,False,90,5,def,4/4,DEF,Home,Argentinos Jrs.,4-3-3,4,3,3,49.764,87.538666666667,75.0
 Álan Rodríguez,874576,8,M,False,90,6,mid_1,1/3,MED,Home,Argentinos Jrs.,4-3-3,4,3,3,54.595714285714,34.434285714286,70.0
 Francis Mac Allister,1089454,30,M,False,69,7,mid_1,2/3,MED,Home,Argentinos Jrs.,4-3-3,4,3,3,54.613114754098,40.35737704918,61.0
 Nicolas Oroz,558790,21,M,False,88,8,mid_1,3/3,MED,Home,Argentinos Jrs.,4-3-3,4,3,3,54.155384615385,59.823076923077,65.0
 Leonardo Heredia,895720,15,F,False,69,9,ata,1/3,ATA,Home,Argentinos Jrs.,4-3-3,4,3,3,58.7625,52.858333333333,24.0
 Alan Lescano,1186068,22,F,False,81,10,ata,2/3,ATA,Home,Argentinos Jrs.,4-3-3,4,3,3,58.597142857143,44.745714285714,35.0
+José Herrera,1179171,26,F,False,90,11,ata,3/3,ATA,Home,Argentinos Jrs.,4-3-3,4,3,3,66.961764705882,23.470588235294,68.0
+José Herrera,1179171,26,F,False,90,11,ata,3/3,ATA,Home,Argentinos Jrs.,4-3-3,4,3,3,66.961764705882,23.470588235294,68.0
+José Herrera,1179171,26,F,False,90,11,ata,3/3,ATA,Home,Argentinos Jrs.,4-3-3,4,3,3,66.961764705882,23.470588235294,68.0
+José Herrera,1179171,26,F,False,90,11,ata,3/3,ATA,Home,Argentinos Jrs.,4-3-3,4,3,3,66.961764705882,23.470588235294,68.0
+José Herrera,1179171,26,F,False,90,11,ata,3/3,ATA,Home,Argentinos Jrs.,4-3-3,4,3,3,66.961764705882,23.470588235294,68.0
+José Herrera,1179171,26,F,False,90,11,ata,3/3,ATA,Home,Argentinos Jrs.,4-3-3,4,3,3,66.961764705882,23.470588235294,68.0
+José Herrera,1179171,26,F,False,90,11,ata,3/3,ATA,Home,Argentinos Jrs.,4-3-3,4,3,3,66.961764705882,23.470588235294,68.0
 José Herrera,1179171,26,F,False,90,11,ata,3/3,ATA,Home,Argentinos Jrs.,4-3-3,4,3,3,66.961764705882,23.470588235294,68.0
 Ariel Gamarra,1412474,36,M,True,21,12,,,SUS,Home,Argentinos Jrs.,4-3-3,4,3,3,49.69,48.25,10.0
 Gastón Verón,924198,10,F,True,21,13,,,SUS,Home,Argentinos Jrs.,4-3-3,4,3,3,64.7625,44.30625,16.0
@@ -267,36 +267,36 @@ Tomas Fernandez,1485715,38,D,True,0,20,,,SUS,Home,Tigre,4-2-3-1,4,5,1,,,
 Darío Sarmiento,989829,17,F,True,0,21,,,SUS,Home,Tigre,4-2-3-1,4,5,1,,,
 Camilo Viganoni,1485722,37,F,True,0,22,,,SUS,Home,Tigre,4-2-3-1,4,5,1,,,
 Facundo Ferreyra,129724,14,F,True,0,23,,,SUS,Home,Tigre,4-2-3-1,4,5,1,,,
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Away,Unión de Santa Fé,3-5-2,3,5,2,8.695,48.22,20.0
-Nicolás Paz,1189173,32,D,False,90,2,def,1/3,DEF,Away,Unión de Santa Fé,3-5-2,3,5,2,40.20985915493,25.977464788732,71.0
-Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fé,3-5-2,3,5,2,33.05671641791,41.858208955224,67.0
-Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fé,3-5-2,3,5,2,33.05671641791,41.858208955224,67.0
-Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fé,3-5-2,3,5,2,33.05671641791,41.858208955224,67.0
-Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fé,3-5-2,3,5,2,33.05671641791,41.858208955224,67.0
-Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fé,3-5-2,3,5,2,33.05671641791,41.858208955224,67.0
-Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fé,3-5-2,3,5,2,33.05671641791,41.858208955224,67.0
-Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fé,3-5-2,3,5,2,33.05671641791,41.858208955224,67.0
-Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fé,3-5-2,3,5,2,33.05671641791,41.858208955224,67.0
-Claudio Corvalán,249383,3,D,False,76,4,def,3/3,DEF,Away,Unión de Santa Fé,3-5-2,3,5,2,38.570512820513,75.682051282051,78.0
-Lautaro Vargas,1485084,35,M,False,61,5,mid_1,1/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,54.852380952381,13.119047619048,42.0
-Simón Rivero,1131035,20,M,False,90,6,mid_1,2/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,54.014754098361,30.826229508197,61.0
-Joaquin Mosqueira,1464852,5,M,False,45,7,mid_1,3/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,46.558823529412,53.182352941176,34.0
-Mauro Pittón,796958,28,M,False,90,8,mid_1,4/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,55.51095890411,55.182191780822,73.0
-Bruno Pittón,800246,14,M,False,45,9,mid_1,5/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,47.972727272727,87.121212121212,33.0
-Nicolás Orsini,347744,33,F,False,90,10,ata,1/2,ATA,Away,Unión de Santa Fé,3-5-2,3,5,2,64.914634146341,36.417073170732,41.0
-Adrián Balboa,368422,77,F,False,76,11,ata,2/2,ATA,Away,Unión de Santa Fé,3-5-2,3,5,2,64.620833333333,54.020833333333,24.0
-Patricio Tanda,1067814,15,M,True,45,12,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,41.691111111111,44.724444444444,45.0
-Mateo Del Blanco,1183059,11,F,True,45,13,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,50.527027027027,87.159459459459,37.0
-Gonzalo Javier Morales,1410399,9,F,True,29,14,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,73.228571428571,37.8,7.0
-Enzo Roldán,1022263,10,M,True,14,15,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,52.02,51.56,5.0
-Lucas Gamba,789445,18,F,True,14,16,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,57.277777777778,79.322222222222,9.0
-Nicolás Campisi,978370,1,G,True,0,17,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,,,
-Miguel Torren,76383,2,D,True,0,18,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,,,
-Juan Pablo Luduena,1392241,26,D,True,0,19,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,,,
-Francisco Gerometta,1017181,22,D,True,0,20,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,,,
-Valentín Fascendini,1537838,13,D,True,0,21,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,,,
-Tiago Banega,1016652,19,M,True,0,22,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,,,
-Jeronimo Domina,1200744,30,F,True,0,23,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,,,
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Away,Unión de Santa Fe,3-5-2,3,5,2,8.695,48.22,20.0
+Nicolás Paz,1189173,32,D,False,90,2,def,1/3,DEF,Away,Unión de Santa Fe,3-5-2,3,5,2,40.20985915493,25.977464788732,71.0
+Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fe,3-5-2,3,5,2,33.05671641791,41.858208955224,67.0
+Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fe,3-5-2,3,5,2,33.05671641791,41.858208955224,67.0
+Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fe,3-5-2,3,5,2,33.05671641791,41.858208955224,67.0
+Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fe,3-5-2,3,5,2,33.05671641791,41.858208955224,67.0
+Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fe,3-5-2,3,5,2,33.05671641791,41.858208955224,67.0
+Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fe,3-5-2,3,5,2,33.05671641791,41.858208955224,67.0
+Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fe,3-5-2,3,5,2,33.05671641791,41.858208955224,67.0
+Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fe,3-5-2,3,5,2,33.05671641791,41.858208955224,67.0
+Claudio Corvalán,249383,3,D,False,76,4,def,3/3,DEF,Away,Unión de Santa Fe,3-5-2,3,5,2,38.570512820513,75.682051282051,78.0
+Lautaro Vargas,1485084,35,M,False,61,5,mid_1,1/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,54.852380952381,13.119047619048,42.0
+Simón Rivero,1131035,20,M,False,90,6,mid_1,2/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,54.014754098361,30.826229508197,61.0
+Joaquin Mosqueira,1464852,5,M,False,45,7,mid_1,3/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,46.558823529412,53.182352941176,34.0
+Mauro Pittón,796958,28,M,False,90,8,mid_1,4/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,55.51095890411,55.182191780822,73.0
+Bruno Pittón,800246,14,M,False,45,9,mid_1,5/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,47.972727272727,87.121212121212,33.0
+Nicolás Orsini,347744,33,F,False,90,10,ata,1/2,ATA,Away,Unión de Santa Fe,3-5-2,3,5,2,64.914634146341,36.417073170732,41.0
+Adrián Balboa,368422,77,F,False,76,11,ata,2/2,ATA,Away,Unión de Santa Fe,3-5-2,3,5,2,64.620833333333,54.020833333333,24.0
+Patricio Tanda,1067814,15,M,True,45,12,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,41.691111111111,44.724444444444,45.0
+Mateo Del Blanco,1183059,11,F,True,45,13,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,50.527027027027,87.159459459459,37.0
+Gonzalo Javier Morales,1410399,9,F,True,29,14,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,73.228571428571,37.8,7.0
+Enzo Roldán,1022263,10,M,True,14,15,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,52.02,51.56,5.0
+Lucas Gamba,789445,18,F,True,14,16,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,57.277777777778,79.322222222222,9.0
+Nicolás Campisi,978370,1,G,True,0,17,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,,,
+Miguel Torren,76383,2,D,True,0,18,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,,,
+Juan Pablo Luduena,1392241,26,D,True,0,19,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,,,
+Francisco Gerometta,1017181,22,D,True,0,20,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,,,
+Valentín Fascendini,1537838,13,D,True,0,21,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,,,
+Tiago Banega,1016652,19,M,True,0,22,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,,,
+Jeronimo Domina,1200744,30,F,True,0,23,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,,,
 Nahuel Losada,384552,26,G,False,90,1,por,1/1,POR,Home,Lanús,4-2-3-1,4,5,1,9.4074074074074,51.507407407407,54.0
 Nicolás Morgantini,941545,3,D,False,90,2,def,1/4,DEF,Home,Lanús,4-2-3-1,4,5,1,41.637254901961,13.172549019608,51.0
 Carlos Izquierdoz,174943,24,D,False,90,3,def,2/4,DEF,Home,Lanús,4-2-3-1,4,5,1,31.2421875,34.1421875,64.0
@@ -332,13 +332,6 @@ Lucas Arce,1109302,4,D,False,75,2,def,1/4,DEF,Away,Godoy Cruz,4-1-4-1,4,5,1,56.9
 Federico Rasmussen,932903,23,D,False,90,3,def,2/4,DEF,Away,Godoy Cruz,4-1-4-1,4,5,1,30.843661971831,62.577464788732,71.0
 Braian Salvareschi,871794,15,D,False,45,4,def,3/4,DEF,Away,Godoy Cruz,4-1-4-1,4,5,1,30.836842105263,24.347368421053,19.0
 Elías Pereyra,922450,21,D,False,90,5,def,4/4,DEF,Away,Godoy Cruz,4-1-4-1,4,5,1,46.135593220339,81.51186440678,59.0
-Elías Pereyra,922450,21,D,False,90,5,def,4/4,DEF,Away,Godoy Cruz,4-1-4-1,4,5,1,46.135593220339,81.51186440678,59.0
-Elías Pereyra,922450,21,D,False,90,5,def,4/4,DEF,Away,Godoy Cruz,4-1-4-1,4,5,1,46.135593220339,81.51186440678,59.0
-Elías Pereyra,922450,21,D,False,90,5,def,4/4,DEF,Away,Godoy Cruz,4-1-4-1,4,5,1,46.135593220339,81.51186440678,59.0
-Elías Pereyra,922450,21,D,False,90,5,def,4/4,DEF,Away,Godoy Cruz,4-1-4-1,4,5,1,46.135593220339,81.51186440678,59.0
-Elías Pereyra,922450,21,D,False,90,5,def,4/4,DEF,Away,Godoy Cruz,4-1-4-1,4,5,1,46.135593220339,81.51186440678,59.0
-Elías Pereyra,922450,21,D,False,90,5,def,4/4,DEF,Away,Godoy Cruz,4-1-4-1,4,5,1,46.135593220339,81.51186440678,59.0
-Elías Pereyra,922450,21,D,False,90,5,def,4/4,DEF,Away,Godoy Cruz,4-1-4-1,4,5,1,46.135593220339,81.51186440678,59.0
 Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Away,Godoy Cruz,4-1-4-1,4,5,1,43.009574468085,50.53829787234,94.0
 Facundo Altamira,1134768,41,M,False,81,7,mid_2,1/4,MED,Away,Godoy Cruz,4-1-4-1,4,5,1,66.066101694915,22.172881355932,59.0
 Vicente Poggi,1020066,25,M,False,45,8,mid_2,2/4,MED,Away,Godoy Cruz,4-1-4-1,4,5,1,56.025,37.5,28.0
@@ -346,6 +339,13 @@ Nicolás Fernández,846419,13,M,False,90,9,mid_2,3/4,MED,Away,Godoy Cruz,4-1-4-1
 Daniel Barrea,1183778,36,M,False,81,10,mid_2,4/4,MED,Away,Godoy Cruz,4-1-4-1,4,5,1,61.611111111111,68.391666666667,36.0
 Salomón Rodríguez,1020191,19,F,False,90,11,ata,1/1,ATA,Away,Godoy Cruz,4-1-4-1,4,5,1,63.893548387097,45.98064516129,31.0
 Mateo Mendoza,1467092,26,D,True,45,12,,,SUS,Away,Godoy Cruz,4-1-4-1,4,5,1,39.359615384615,24.588461538462,52.0
+Gonzalo Abrego,1084967,32,M,True,45,13,,,SUS,Away,Godoy Cruz,4-1-4-1,4,5,1,55.208333333333,29.11875,48.0
+Gonzalo Abrego,1084967,32,M,True,45,13,,,SUS,Away,Godoy Cruz,4-1-4-1,4,5,1,55.208333333333,29.11875,48.0
+Gonzalo Abrego,1084967,32,M,True,45,13,,,SUS,Away,Godoy Cruz,4-1-4-1,4,5,1,55.208333333333,29.11875,48.0
+Gonzalo Abrego,1084967,32,M,True,45,13,,,SUS,Away,Godoy Cruz,4-1-4-1,4,5,1,55.208333333333,29.11875,48.0
+Gonzalo Abrego,1084967,32,M,True,45,13,,,SUS,Away,Godoy Cruz,4-1-4-1,4,5,1,55.208333333333,29.11875,48.0
+Gonzalo Abrego,1084967,32,M,True,45,13,,,SUS,Away,Godoy Cruz,4-1-4-1,4,5,1,55.208333333333,29.11875,48.0
+Gonzalo Abrego,1084967,32,M,True,45,13,,,SUS,Away,Godoy Cruz,4-1-4-1,4,5,1,55.208333333333,29.11875,48.0
 Gonzalo Abrego,1084967,32,M,True,45,13,,,SUS,Away,Godoy Cruz,4-1-4-1,4,5,1,55.208333333333,29.11875,48.0
 Facundo Ardiles,1093100,30,D,True,15,14,,,SUS,Away,Godoy Cruz,4-1-4-1,4,5,1,56.966666666667,15.277777777778,18.0
 Gonzalo Torres,1086329,28,F,True,9,15,,,SUS,Away,Godoy Cruz,4-1-4-1,4,5,1,32.411111111111,76.4,9.0
@@ -422,17 +422,17 @@ Facundo Mura,974664,34,D,False,45,2,def,1/4,DEF,Home,Racing,4-2-3-1,4,5,1,51.716
 Marco Di Cesare,1017460,3,D,False,90,3,def,2/4,DEF,Home,Racing,4-2-3-1,4,5,1,36.718072289157,29.940963855422,83.0
 Leonardo Sigali,33268,30,D,False,90,4,def,3/4,DEF,Home,Racing,4-2-3-1,4,5,1,40.758227848101,65.551898734177,79.0
 Santiago Quiros,1464535,35,D,False,71,5,def,4/4,DEF,Home,Racing,4-2-3-1,4,5,1,51.792941176471,87.057647058824,85.0
+Santiago Quiros,1464535,35,D,False,71,5,def,4/4,DEF,Home,Racing,4-2-3-1,4,5,1,51.792941176471,87.057647058824,85.0
+Santiago Quiros,1464535,35,D,False,71,5,def,4/4,DEF,Home,Racing,4-2-3-1,4,5,1,51.792941176471,87.057647058824,85.0
+Santiago Quiros,1464535,35,D,False,71,5,def,4/4,DEF,Home,Racing,4-2-3-1,4,5,1,51.792941176471,87.057647058824,85.0
+Santiago Quiros,1464535,35,D,False,71,5,def,4/4,DEF,Home,Racing,4-2-3-1,4,5,1,51.792941176471,87.057647058824,85.0
+Santiago Quiros,1464535,35,D,False,71,5,def,4/4,DEF,Home,Racing,4-2-3-1,4,5,1,51.792941176471,87.057647058824,85.0
+Santiago Quiros,1464535,35,D,False,71,5,def,4/4,DEF,Home,Racing,4-2-3-1,4,5,1,51.792941176471,87.057647058824,85.0
+Santiago Quiros,1464535,35,D,False,71,5,def,4/4,DEF,Home,Racing,4-2-3-1,4,5,1,51.792941176471,87.057647058824,85.0
 Santiago Sosa,928237,13,M,False,90,6,mid_0,1/2,MED,Home,Racing,4-2-3-1,4,5,1,50.467213114754,52.97868852459,122.0
 Agustín Almendra,922440,32,M,False,55,7,mid_0,2/2,MED,Home,Racing,4-2-3-1,4,5,1,54.385294117647,64.25,34.0
 Baltasar Rodriguez,1201515,22,M,False,81,8,mid_2,1/3,MED,Home,Racing,4-2-3-1,4,5,1,60.074358974359,47.233333333333,78.0
 Roger Martínez,344243,10,M,False,70,9,mid_2,2/3,MED,Home,Racing,4-2-3-1,4,5,1,73.104255319149,35.423404255319,47.0
-Johan Carbonero,925125,17,M,False,90,10,mid_2,3/3,MED,Home,Racing,4-2-3-1,4,5,1,68.813235294118,79.429411764706,68.0
-Johan Carbonero,925125,17,M,False,90,10,mid_2,3/3,MED,Home,Racing,4-2-3-1,4,5,1,68.813235294118,79.429411764706,68.0
-Johan Carbonero,925125,17,M,False,90,10,mid_2,3/3,MED,Home,Racing,4-2-3-1,4,5,1,68.813235294118,79.429411764706,68.0
-Johan Carbonero,925125,17,M,False,90,10,mid_2,3/3,MED,Home,Racing,4-2-3-1,4,5,1,68.813235294118,79.429411764706,68.0
-Johan Carbonero,925125,17,M,False,90,10,mid_2,3/3,MED,Home,Racing,4-2-3-1,4,5,1,68.813235294118,79.429411764706,68.0
-Johan Carbonero,925125,17,M,False,90,10,mid_2,3/3,MED,Home,Racing,4-2-3-1,4,5,1,68.813235294118,79.429411764706,68.0
-Johan Carbonero,925125,17,M,False,90,10,mid_2,3/3,MED,Home,Racing,4-2-3-1,4,5,1,68.813235294118,79.429411764706,68.0
 Johan Carbonero,925125,17,M,False,90,10,mid_2,3/3,MED,Home,Racing,4-2-3-1,4,5,1,68.813235294118,79.429411764706,68.0
 Adrián Martínez,906811,9,F,False,90,11,ata,1/1,ATA,Home,Racing,4-2-3-1,4,5,1,71.638888888889,57.980555555556,36.0
 Gastón Martirena,1017433,15,D,True,45,12,,,SUS,Home,Racing,4-2-3-1,4,5,1,60.002564102564,21.405128205128,39.0
@@ -537,6 +537,251 @@ Brian Calderara,1086937,16,D,True,0,20,,,SUS,Away,Newell's,4-2-3-1,4,5,1,,,
 Julián Fernández,334027,22,M,True,0,21,,,SUS,Away,Newell's,4-2-3-1,4,5,1,,,
 Gabriel Carabajal,830742,17,M,True,0,22,,,SUS,Away,Newell's,4-2-3-1,4,5,1,,,
 Agustín Juárez,1918460,42,F,True,0,23,,,SUS,Away,Newell's,4-2-3-1,4,5,1,,,
+Marcelo Agustín Miño,875438,30,G,False,90,1,por,1/1,POR,Home,Barracas,4-2-3-1,4,5,1,8.2170212765957,48.231914893617,47.0
+Facundo Mater,896753,33,D,False,90,2,def,1/4,DEF,Home,Barracas,4-2-3-1,4,5,1,41.9825,17.855,80.0
+Nicolas Capraro,1190570,2,D,False,90,3,def,2/4,DEF,Home,Barracas,4-2-3-1,4,5,1,28.109677419355,31.106451612903,62.0
+Gonzalo Goñi,871805,14,D,False,90,4,def,3/4,DEF,Home,Barracas,4-2-3-1,4,5,1,30.234615384615,63.244230769231,52.0
+Rodrigo Insúa,1020511,6,D,False,90,5,def,4/4,DEF,Home,Barracas,4-2-3-1,4,5,1,42.21847826087,85.9,92.0
+Rodrigo Herrera,1067815,5,M,False,54,6,mid_0,1/2,MED,Home,Barracas,4-2-3-1,4,5,1,43.062162162162,35.913513513514,37.0
+Siro Rosane,1086976,8,M,False,76,7,mid_0,2/2,MED,Home,Barracas,4-2-3-1,4,5,1,39.444642857143,60.003571428571,56.0
+Siro Rosane,1086976,8,M,False,76,7,mid_0,2/2,MED,Home,Barracas,4-2-3-1,4,5,1,39.444642857143,60.003571428571,56.0
+Siro Rosane,1086976,8,M,False,76,7,mid_0,2/2,MED,Home,Barracas,4-2-3-1,4,5,1,39.444642857143,60.003571428571,56.0
+Siro Rosane,1086976,8,M,False,76,7,mid_0,2/2,MED,Home,Barracas,4-2-3-1,4,5,1,39.444642857143,60.003571428571,56.0
+Siro Rosane,1086976,8,M,False,76,7,mid_0,2/2,MED,Home,Barracas,4-2-3-1,4,5,1,39.444642857143,60.003571428571,56.0
+Siro Rosane,1086976,8,M,False,76,7,mid_0,2/2,MED,Home,Barracas,4-2-3-1,4,5,1,39.444642857143,60.003571428571,56.0
+Siro Rosane,1086976,8,M,False,76,7,mid_0,2/2,MED,Home,Barracas,4-2-3-1,4,5,1,39.444642857143,60.003571428571,56.0
+Siro Rosane,1086976,8,M,False,76,7,mid_0,2/2,MED,Home,Barracas,4-2-3-1,4,5,1,39.444642857143,60.003571428571,56.0
+Marco Iacobellis,992100,27,M,False,62,8,mid_2,1/3,MED,Home,Barracas,4-2-3-1,4,5,1,52.731481481481,54.609259259259,54.0
+Iván Tapia,992084,10,M,False,90,9,mid_2,2/3,MED,Home,Barracas,4-2-3-1,4,5,1,51.626153846154,51.755384615385,65.0
+Maximiliano Zalazar,1067653,43,M,False,54,10,mid_2,3/3,MED,Home,Barracas,4-2-3-1,4,5,1,60.645454545455,50.672727272727,22.0
+Federico Aguirre,1471244,48,F,False,45,11,ata,1/1,ATA,Home,Barracas,4-2-3-1,4,5,1,52.588888888889,52.722222222222,18.0
+Jhonatan Candia,877628,20,F,True,45,12,,,SUS,Home,Barracas,4-2-3-1,4,5,1,56.023529411765,47.141176470588,17.0
+Alan Cantero,1084961,11,F,True,36,13,,,SUS,Home,Barracas,4-2-3-1,4,5,1,60.996296296296,60.418518518519,27.0
+Manuel Duarte,1117075,24,M,True,36,14,,,SUS,Home,Barracas,4-2-3-1,4,5,1,39.378571428571,37.317857142857,28.0
+Daniel Juárez,1021875,29,F,True,28,15,,,SUS,Home,Barracas,4-2-3-1,4,5,1,57.6625,59.70625,16.0
+Dardo Miloc,122713,28,M,True,14,16,,,SUS,Home,Barracas,4-2-3-1,4,5,1,41.814285714286,60.878571428571,14.0
+Rafael Ferrario,941085,1,G,True,0,17,,,SUS,Home,Barracas,4-2-3-1,4,5,1,,,
+Nicolás Demartini,895365,15,D,True,0,18,,,SUS,Home,Barracas,4-2-3-1,4,5,1,,,
+Lucas Faggioli,1183699,23,D,True,0,19,,,SUS,Home,Barracas,4-2-3-1,4,5,1,,,
+Maximiliano Puig,1118095,79,M,True,0,20,,,SUS,Home,Barracas,4-2-3-1,4,5,1,,,
+Diego Pavia,1870538,58,M,True,0,21,,,SUS,Home,Barracas,4-2-3-1,4,5,1,,,
+Santiago Coronel,1116122,32,M,True,0,22,,,SUS,Home,Barracas,4-2-3-1,4,5,1,,,
+Santiago Villalba,1546505,22,M,True,0,23,,,SUS,Home,Barracas,4-2-3-1,4,5,1,,,
+Randall Rodriguez,1087006,12,G,False,90,1,por,1/1,POR,Away,Vélez Sarsfield,4-2-3-1,4,5,1,10.398148148148,49.985185185185,54.0
+Joaquín García,989860,4,D,False,90,2,def,1/4,DEF,Away,Vélez Sarsfield,4-2-3-1,4,5,1,45.05625,18.24125,80.0
+Emanuel Mammana,358914,2,D,False,90,3,def,2/4,DEF,Away,Vélez Sarsfield,4-2-3-1,4,5,1,35.176388888889,29.802777777778,72.0
+Aarón Quirós,1113232,6,D,False,90,4,def,3/4,DEF,Away,Vélez Sarsfield,4-2-3-1,4,5,1,31.511111111111,65.398611111111,72.0
+Elías Gómez,365862,3,D,False,90,5,def,4/4,DEF,Away,Vélez Sarsfield,4-2-3-1,4,5,1,46.672972972973,86.378378378378,74.0
+Christian Ordoñez,1201388,32,M,False,77,6,mid_0,1/2,MED,Away,Vélez Sarsfield,4-2-3-1,4,5,1,51.56393442623,38.250819672131,61.0
+Agustín Bouzat,830699,26,M,False,90,7,mid_0,2/2,MED,Away,Vélez Sarsfield,4-2-3-1,4,5,1,49.2890625,59.76875,64.0
+Francisco Pizzini,257475,20,M,False,77,8,mid_2,1/3,MED,Away,Vélez Sarsfield,4-2-3-1,4,5,1,65.230909090909,27.632727272727,55.0
+Claudio Aquino,340455,22,M,False,68,9,mid_2,2/3,MED,Away,Vélez Sarsfield,4-2-3-1,4,5,1,64.445901639344,49.562295081967,61.0
+Thiago Fernández,1201412,27,M,False,84,10,mid_2,3/3,MED,Away,Vélez Sarsfield,4-2-3-1,4,5,1,66.106153846154,68.193846153846,65.0
+Thiago Fernández,1201412,27,M,False,84,10,mid_2,3/3,MED,Away,Vélez Sarsfield,4-2-3-1,4,5,1,66.106153846154,68.193846153846,65.0
+Thiago Fernández,1201412,27,M,False,84,10,mid_2,3/3,MED,Away,Vélez Sarsfield,4-2-3-1,4,5,1,66.106153846154,68.193846153846,65.0
+Thiago Fernández,1201412,27,M,False,84,10,mid_2,3/3,MED,Away,Vélez Sarsfield,4-2-3-1,4,5,1,66.106153846154,68.193846153846,65.0
+Thiago Fernández,1201412,27,M,False,84,10,mid_2,3/3,MED,Away,Vélez Sarsfield,4-2-3-1,4,5,1,66.106153846154,68.193846153846,65.0
+Thiago Fernández,1201412,27,M,False,84,10,mid_2,3/3,MED,Away,Vélez Sarsfield,4-2-3-1,4,5,1,66.106153846154,68.193846153846,65.0
+Thiago Fernández,1201412,27,M,False,84,10,mid_2,3/3,MED,Away,Vélez Sarsfield,4-2-3-1,4,5,1,66.106153846154,68.193846153846,65.0
+Thiago Fernández,1201412,27,M,False,84,10,mid_2,3/3,MED,Away,Vélez Sarsfield,4-2-3-1,4,5,1,66.106153846154,68.193846153846,65.0
+Braian Romero,789435,9,F,False,68,11,ata,1/1,ATA,Away,Vélez Sarsfield,4-2-3-1,4,5,1,69.265217391304,60.34347826087,23.0
+Jalil Elias,797031,5,M,True,22,12,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,43.809523809524,49.266666666667,21.0
+Michael Santos,339115,7,F,True,22,13,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,66.054545454545,51.163636363636,11.0
+Leonel Roldán,1201404,19,D,True,13,14,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,51.266666666667,38.88,15.0
+Maher Carrizo,1597274,28,F,True,13,15,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,65.814285714286,19.107142857143,14.0
+Rodrigo Piñeiro,924872,17,F,True,6,16,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,66.6,77.7,4.0
+Lautaro Garzón,1201403,42,G,True,0,17,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,,,
+Tomás Cavanagh,1086278,37,D,True,0,18,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,,,
+Patricio Pernicone,1086288,23,D,True,0,19,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,,,
+Tomás Guidara,871519,24,D,True,0,20,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,,,
+Santiago Cáseres,856132,35,M,True,0,21,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,,,
+Álvaro Montoro,1650770,36,F,True,0,22,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,,,
+Matías Pellegrini,940610,11,F,True,0,23,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,,,
+Luis Ingolotti,871745,1,G,False,90,1,por,1/1,POR,Home,Central Córdoba,4-4-2,4,4,2,9.7075,47.545,40.0
+Rafael Barrios,584038,13,D,False,90,2,def,1/4,DEF,Home,Central Córdoba,4-4-2,4,4,2,48.621348314607,15.229213483146,89.0
+Rafael Barrios,584038,13,D,False,90,2,def,1/4,DEF,Home,Central Córdoba,4-4-2,4,4,2,48.621348314607,15.229213483146,89.0
+Rafael Barrios,584038,13,D,False,90,2,def,1/4,DEF,Home,Central Córdoba,4-4-2,4,4,2,48.621348314607,15.229213483146,89.0
+Rafael Barrios,584038,13,D,False,90,2,def,1/4,DEF,Home,Central Córdoba,4-4-2,4,4,2,48.621348314607,15.229213483146,89.0
+Rafael Barrios,584038,13,D,False,90,2,def,1/4,DEF,Home,Central Córdoba,4-4-2,4,4,2,48.621348314607,15.229213483146,89.0
+Rafael Barrios,584038,13,D,False,90,2,def,1/4,DEF,Home,Central Córdoba,4-4-2,4,4,2,48.621348314607,15.229213483146,89.0
+Rafael Barrios,584038,13,D,False,90,2,def,1/4,DEF,Home,Central Córdoba,4-4-2,4,4,2,48.621348314607,15.229213483146,89.0
+Rafael Barrios,584038,13,D,False,90,2,def,1/4,DEF,Home,Central Córdoba,4-4-2,4,4,2,48.621348314607,15.229213483146,89.0
+Rafael Barrios,584038,13,D,False,90,2,def,1/4,DEF,Home,Central Córdoba,4-4-2,4,4,2,48.621348314607,15.229213483146,89.0
+Lucas Abascia,1113113,2,D,False,90,3,def,2/4,DEF,Home,Central Córdoba,4-4-2,4,4,2,31.429411764706,34.267058823529,85.0
+Sebastián Valdez,896783,6,D,False,90,4,def,3/4,DEF,Home,Central Córdoba,4-4-2,4,4,2,33.68904109589,57.219178082192,73.0
+Juan Meli,1087034,26,D,False,90,5,def,4/4,DEF,Home,Central Córdoba,4-4-2,4,4,2,40.483928571429,84.257142857143,56.0
+Rodrigo Atencio,1199246,8,M,False,90,6,mid_1,1/4,MED,Home,Central Córdoba,4-4-2,4,4,2,60.892424242424,22.610606060606,66.0
+Kevin Vázquez,1406468,32,M,False,90,7,mid_1,2/4,MED,Home,Central Córdoba,4-4-2,4,4,2,45.092207792208,50.261038961039,77.0
+Franco Aragón,897108,22,M,False,61,8,mid_1,3/4,MED,Home,Central Córdoba,4-4-2,4,4,2,46.852083333333,45.372916666667,48.0
+Matías Godoy,1003016,11,M,False,79,9,mid_1,4/4,MED,Home,Central Córdoba,4-4-2,4,4,2,65.722222222222,82.316666666667,18.0
+Lucas Varaldo,1003024,9,F,False,45,10,ata,1/2,ATA,Home,Central Córdoba,4-4-2,4,4,2,65.860869565217,48.84347826087,23.0
+Elías Cabrera,1201391,10,F,False,84,11,ata,2/2,ATA,Home,Central Córdoba,4-4-2,4,4,2,64.203773584906,64.007547169811,53.0
+Matías Benítez,1065603,7,F,True,45,12,,,SUS,Home,Central Córdoba,4-4-2,4,4,2,59.408333333333,48.454166666667,24.0
+Luis Miguel Angulo,1113346,18,F,True,29,13,,,SUS,Home,Central Córdoba,4-4-2,4,4,2,70.007142857143,43.235714285714,14.0
+Alexis Segovia,1199084,21,F,True,11,14,,,SUS,Home,Central Córdoba,4-4-2,4,4,2,61.5,24.925,12.0
+Nicolás Quagliata,1009556,27,F,True,10,15,,,SUS,Home,Central Córdoba,4-4-2,4,4,2,68.3,61.653846153846,13.0
+Lautaro Bursich,1167976,23,G,True,0,16,,,SUS,Home,Central Córdoba,4-4-2,4,4,2,,,
+Leonardo Marchi,947210,3,D,True,0,17,,,SUS,Home,Central Córdoba,4-4-2,4,4,2,,,
+Iván Pillud,82371,4,D,True,0,18,,,SUS,Home,Central Córdoba,4-4-2,4,4,2,,,
+Gonzalo Trindade,1482278,14,D,True,0,19,,,SUS,Home,Central Córdoba,4-4-2,4,4,2,,,
+Federico Andueza,789945,16,D,True,0,20,,,SUS,Home,Central Córdoba,4-4-2,4,4,2,,,
+Santiago Laquidaín,1102827,24,D,True,0,21,,,SUS,Home,Central Córdoba,4-4-2,4,4,2,,,
+Agustín Morales,1126750,37,F,True,0,22,,,SUS,Home,Central Córdoba,4-4-2,4,4,2,,,
+Luis Sánchez,963525,88,M,True,0,23,,,SUS,Home,Central Córdoba,4-4-2,4,4,2,,,
+Facundo Sanguinetti,1086977,1,G,False,90,1,por,1/1,POR,Away,Banfield,4-2-3-1,4,5,1,9.904,51.082666666667,75.0
+Guillermo Enrique,943712,6,D,False,26,2,def,1/4,DEF,Away,Banfield,4-2-3-1,4,5,1,44.968181818182,12.740909090909,22.0
+Alejandro Maciel,895336,4,D,False,90,3,def,2/4,DEF,Away,Banfield,4-2-3-1,4,5,1,29.89298245614,29.843859649123,57.0
+Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,29.172058823529,66.236764705882,68.0
+Mathias de Ritis,1199467,15,D,False,90,5,def,4/4,DEF,Away,Banfield,4-2-3-1,4,5,1,40.686842105263,88.409210526316,76.0
+Mathias de Ritis,1199467,15,D,False,90,5,def,4/4,DEF,Away,Banfield,4-2-3-1,4,5,1,40.686842105263,88.409210526316,76.0
+Mathias de Ritis,1199467,15,D,False,90,5,def,4/4,DEF,Away,Banfield,4-2-3-1,4,5,1,40.686842105263,88.409210526316,76.0
+Mathias de Ritis,1199467,15,D,False,90,5,def,4/4,DEF,Away,Banfield,4-2-3-1,4,5,1,40.686842105263,88.409210526316,76.0
+Mathias de Ritis,1199467,15,D,False,90,5,def,4/4,DEF,Away,Banfield,4-2-3-1,4,5,1,40.686842105263,88.409210526316,76.0
+Mathias de Ritis,1199467,15,D,False,90,5,def,4/4,DEF,Away,Banfield,4-2-3-1,4,5,1,40.686842105263,88.409210526316,76.0
+Mathias de Ritis,1199467,15,D,False,90,5,def,4/4,DEF,Away,Banfield,4-2-3-1,4,5,1,40.686842105263,88.409210526316,76.0
+Mathias de Ritis,1199467,15,D,False,90,5,def,4/4,DEF,Away,Banfield,4-2-3-1,4,5,1,40.686842105263,88.409210526316,76.0
+Ezequiel Cañete,1017455,24,M,False,83,6,mid_0,1/2,MED,Away,Banfield,4-2-3-1,4,5,1,37.426315789474,46.536842105263,57.0
+Yonathan Rodríguez,1197454,32,M,False,90,7,mid_0,2/2,MED,Away,Banfield,4-2-3-1,4,5,1,43.796721311475,56.886885245902,61.0
+Juan Bisanz,1489941,17,M,False,61,8,mid_2,1/3,MED,Away,Banfield,4-2-3-1,4,5,1,61.421621621622,20.386486486486,37.0
+Damián Díaz,42454,20,M,False,83,9,mid_2,2/3,MED,Away,Banfield,4-2-3-1,4,5,1,56.85,69.527777777778,54.0
+Mauricio Roldán,1199315,18,M,False,61,10,mid_2,3/3,MED,Away,Banfield,4-2-3-1,4,5,1,59.809090909091,78.286363636364,22.0
+Leandro Garate,364980,30,F,False,90,11,ata,1/1,ATA,Away,Banfield,4-2-3-1,4,5,1,63.233333333333,48.169444444444,36.0
+Ezequiel Bonifacio,583978,19,M,True,64,12,,,SUS,Away,Banfield,4-2-3-1,4,5,1,43.9125,19.471875,32.0
+Juan Álvarez,881912,22,M,True,29,13,,,SUS,Away,Banfield,4-2-3-1,4,5,1,54.266666666667,30.961111111111,18.0
+Bruno Sepúlveda,981451,11,F,True,29,14,,,SUS,Away,Banfield,4-2-3-1,4,5,1,62.726666666667,88.846666666667,15.0
+Jesús Miguel Soraire,943997,8,M,True,11,15,,,SUS,Away,Banfield,4-2-3-1,4,5,1,52.078571428571,38.692857142857,14.0
+Matías González,1087041,10,M,True,11,16,,,SUS,Away,Banfield,4-2-3-1,4,5,1,50.0,53.3,6.0
+José Devecchi,578460,26,G,True,0,17,,,SUS,Away,Banfield,4-2-3-1,4,5,1,,,
+Emanuel Insua,250345,33,D,True,0,18,,,SUS,Away,Banfield,4-2-3-1,4,5,1,,,
+Gabriel Aranda,1131027,47,D,True,0,19,,,SUS,Away,Banfield,4-2-3-1,4,5,1,,,
+Cristian Núñez,991476,5,M,True,0,20,,,SUS,Away,Banfield,4-2-3-1,4,5,1,,,
+Braian Galván,896247,14,F,True,0,21,,,SUS,Away,Banfield,4-2-3-1,4,5,1,,,
+Lautaro Villegas,1114489,38,M,True,0,22,,,SUS,Away,Banfield,4-2-3-1,4,5,1,,,
+Lisandro Piñero,1918993,31,F,True,0,23,,,SUS,Away,Banfield,4-2-3-1,4,5,1,,,
+Juan Espinola,805426,25,G,False,90,1,por,1/1,POR,Home,Belgrano,3-4-1-2,3,5,2,11.661904761905,45.364285714286,42.0
+Matias Moreno,1496360,40,D,False,90,2,def,1/3,DEF,Home,Belgrano,3-4-1-2,3,5,2,41.216883116883,29.888311688312,77.0
+Alejandro Rebola,830672,6,D,False,90,3,def,2/3,DEF,Home,Belgrano,3-4-1-2,3,5,2,28.524528301887,53.945283018868,53.0
+Nicolás Meriano,1117093,13,D,False,46,4,def,3/3,DEF,Home,Belgrano,3-4-1-2,3,5,2,40.296428571429,80.735714285714,56.0
+Gabriel Compagnucci,944621,8,M,False,90,5,mid_0,1/4,MED,Home,Belgrano,3-4-1-2,3,5,2,48.389772727273,18.509090909091,88.0
+Santiago Longo,990171,5,M,False,90,6,mid_0,2/4,MED,Home,Belgrano,3-4-1-2,3,5,2,46.614285714286,43.745238095238,84.0
+Santiago Longo,990171,5,M,False,90,6,mid_0,2/4,MED,Home,Belgrano,3-4-1-2,3,5,2,46.614285714286,43.745238095238,84.0
+Santiago Longo,990171,5,M,False,90,6,mid_0,2/4,MED,Home,Belgrano,3-4-1-2,3,5,2,46.614285714286,43.745238095238,84.0
+Santiago Longo,990171,5,M,False,90,6,mid_0,2/4,MED,Home,Belgrano,3-4-1-2,3,5,2,46.614285714286,43.745238095238,84.0
+Santiago Longo,990171,5,M,False,90,6,mid_0,2/4,MED,Home,Belgrano,3-4-1-2,3,5,2,46.614285714286,43.745238095238,84.0
+Santiago Longo,990171,5,M,False,90,6,mid_0,2/4,MED,Home,Belgrano,3-4-1-2,3,5,2,46.614285714286,43.745238095238,84.0
+Santiago Longo,990171,5,M,False,90,6,mid_0,2/4,MED,Home,Belgrano,3-4-1-2,3,5,2,46.614285714286,43.745238095238,84.0
+Santiago Longo,990171,5,M,False,90,6,mid_0,2/4,MED,Home,Belgrano,3-4-1-2,3,5,2,46.614285714286,43.745238095238,84.0
+Santiago Longo,990171,5,M,False,90,6,mid_0,2/4,MED,Home,Belgrano,3-4-1-2,3,5,2,46.614285714286,43.745238095238,84.0
+Esteban Rolón,816808,16,M,False,65,7,mid_0,3/4,MED,Home,Belgrano,3-4-1-2,3,5,2,54.28,51.534,50.0
+Juan Velázquez,1835765,53,M,False,89,8,mid_0,4/4,MED,Home,Belgrano,3-4-1-2,3,5,2,51.333802816901,79.108450704225,71.0
+Francisco González Metilli,896773,24,F,False,87,9,mid_2,1/1,MED,Home,Belgrano,3-4-1-2,3,5,2,59.932142857143,33.896428571429,56.0
+Nicolás Fernández,581804,22,F,False,65,10,ata,1/2,ATA,Home,Belgrano,3-4-1-2,3,5,2,67.0,54.326530612245,49.0
+Matías Suárez,46007,7,F,False,45,11,ata,2/2,ATA,Home,Belgrano,3-4-1-2,3,5,2,61.192,77.468,25.0
+Rafael Delgado,799653,33,D,True,45,12,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,27.532258064516,71.467741935484,31.0
+Facundo Quignon,340731,23,M,True,25,13,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,38.675,61.170833333333,24.0
+Franco Jara,40776,29,F,True,25,14,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,61.844827586207,44.168965517241,29.0
+Gerónimo Heredia,1518445,34,D,True,3,15,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,44.75,20.55,2.0
+Pablo Chavarría,121973,19,F,True,1,16,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,41.2,49.1,2.0
+Ignacio Chicco,875398,1,G,True,0,17,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,,,
+Juan Barinaga,974729,4,D,True,0,18,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,,,
+Agustín Baldi,992055,45,M,True,0,19,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,,,
+Mariano Troilo,1516324,37,D,True,0,20,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,,,
+Bryan Reyna,883747,11,M,True,0,21,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,,,
+Ramiro Hernandes,1835748,51,M,True,0,22,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,,,
+Jeremías Lucco,1518447,42,F,True,0,23,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,,,
+Facundo Lencioni,1516347,26,M,True,0,24,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,,,
+Marcos Ledesma,757762,13,G,False,90,1,por,1/1,POR,Away,Gimnasia,3-4-3,3,4,3,8.66,50.185,40.0
+Juan Cruz Cortazzo,1639642,35,D,False,45,2,def,1/3,DEF,Away,Gimnasia,3-4-3,3,4,3,36.651428571429,27.157142857143,35.0
+Leonardo Morales,895342,4,D,False,90,3,def,2/3,DEF,Away,Gimnasia,3-4-3,3,4,3,39.047368421053,39.786842105263,76.0
+Yonatan Cabral,385318,20,D,False,90,4,def,3/3,DEF,Away,Gimnasia,3-4-3,3,4,3,34.680821917808,68.2,73.0
+Juan Pintado,805330,15,M,False,90,5,mid_1,1/4,MED,Away,Gimnasia,3-4-3,3,4,3,57.412087912088,16.013186813187,91.0
+Juan Pintado,805330,15,M,False,90,5,mid_1,1/4,MED,Away,Gimnasia,3-4-3,3,4,3,57.412087912088,16.013186813187,91.0
+Juan Pintado,805330,15,M,False,90,5,mid_1,1/4,MED,Away,Gimnasia,3-4-3,3,4,3,57.412087912088,16.013186813187,91.0
+Juan Pintado,805330,15,M,False,90,5,mid_1,1/4,MED,Away,Gimnasia,3-4-3,3,4,3,57.412087912088,16.013186813187,91.0
+Juan Pintado,805330,15,M,False,90,5,mid_1,1/4,MED,Away,Gimnasia,3-4-3,3,4,3,57.412087912088,16.013186813187,91.0
+Juan Pintado,805330,15,M,False,90,5,mid_1,1/4,MED,Away,Gimnasia,3-4-3,3,4,3,57.412087912088,16.013186813187,91.0
+Juan Pintado,805330,15,M,False,90,5,mid_1,1/4,MED,Away,Gimnasia,3-4-3,3,4,3,57.412087912088,16.013186813187,91.0
+Juan Pintado,805330,15,M,False,90,5,mid_1,1/4,MED,Away,Gimnasia,3-4-3,3,4,3,57.412087912088,16.013186813187,91.0
+Juan Pintado,805330,15,M,False,90,5,mid_1,1/4,MED,Away,Gimnasia,3-4-3,3,4,3,57.412087912088,16.013186813187,91.0
+Martín Fernández,981588,6,M,False,90,6,mid_1,2/4,MED,Away,Gimnasia,3-4-3,3,4,3,54.484523809524,54.584523809524,84.0
+Nicolás Garayalde,1017450,36,M,False,80,7,mid_1,3/4,MED,Away,Gimnasia,3-4-3,3,4,3,51.064383561644,56.739726027397,73.0
+Rodrigo Gallo,1003722,3,M,False,84,8,mid_1,4/4,MED,Away,Gimnasia,3-4-3,3,4,3,48.809259259259,85.846296296296,54.0
+Matias Abaldo,1177402,9,F,False,90,9,ata,1/3,ATA,Away,Gimnasia,3-4-3,3,4,3,71.6375,27.1725,40.0
+Rodrigo Castillo,1182504,30,F,False,90,10,ata,2/3,ATA,Away,Gimnasia,3-4-3,3,4,3,62.768518518519,50.275925925926,54.0
+Norberto Briasco,848619,25,F,False,80,11,ata,3/3,ATA,Away,Gimnasia,3-4-3,3,4,3,65.693846153846,57.446153846154,65.0
+David Zalazar,1017422,11,F,True,45,12,,,SUS,Away,Gimnasia,3-4-3,3,4,3,72.636170212766,50.072340425532,47.0
+Lucas Castro,122711,19,M,True,10,13,,,SUS,Away,Gimnasia,3-4-3,3,4,3,62.973333333333,61.013333333333,30.0
+Juan Cruz Esquivel,981347,22,F,True,10,14,,,SUS,Away,Gimnasia,3-4-3,3,4,3,72.077777777778,75.133333333333,9.0
+Fabricio Corbalan,1893227,28,D,True,10,15,,,SUS,Away,Gimnasia,3-4-3,3,4,3,72.7,86.942857142857,7.0
+Nelson Insfrán,875481,23,G,True,0,16,,,SUS,Away,Gimnasia,3-4-3,3,4,3,,,
+Gustavo Canto,792153,32,D,True,0,17,,,SUS,Away,Gimnasia,3-4-3,3,4,3,,,
+Brian Blasi,824516,17,D,True,0,18,,,SUS,Away,Gimnasia,3-4-3,3,4,3,,,
+Nicolás Colazo,106294,18,M,True,0,19,,,SUS,Away,Gimnasia,3-4-3,3,4,3,,,
+Matías Miranda,998283,8,M,True,0,20,,,SUS,Away,Gimnasia,3-4-3,3,4,3,,,
+Agustín Sanchez,1485375,5,M,True,0,21,,,SUS,Away,Gimnasia,3-4-3,3,4,3,,,
+Matías Ramírez,897094,16,F,True,0,22,,,SUS,Away,Gimnasia,3-4-3,3,4,3,,,
+Jeremías Daniel Merlo,1893228,24,M,True,0,23,,,SUS,Away,Gimnasia,3-4-3,3,4,3,,,
+Jorge Broun,789406,1,G,False,90,1,por,1/1,POR,Home,Rosario Central,4-2-3-1,4,5,1,9.5627906976744,48.062790697674,43.0
+Emanuel Coronel,895593,32,D,False,90,2,def,1/4,DEF,Home,Rosario Central,4-2-3-1,4,5,1,42.281609195402,14.489655172414,87.0
+Miguel Barbieri,834177,6,D,False,90,3,def,2/4,DEF,Home,Rosario Central,4-2-3-1,4,5,1,24.953086419753,29.898765432099,81.0
+Carlos Quintana,33202,2,D,False,83,4,def,3/4,DEF,Home,Rosario Central,4-2-3-1,4,5,1,32.087096774194,58.654838709677,62.0
+Agustín Sández,1066556,3,D,False,90,5,def,4/4,DEF,Home,Rosario Central,4-2-3-1,4,5,1,46.020588235294,83.351470588235,68.0
+Franco Ibarra,989796,5,M,False,90,6,mid_0,1/2,MED,Home,Rosario Central,4-2-3-1,4,5,1,41.681690140845,53.757746478873,71.0
+Mauricio Martínez,789402,16,M,False,71,7,mid_0,2/2,MED,Home,Rosario Central,4-2-3-1,4,5,1,42.886538461538,38.855769230769,52.0
+Jonatan Gómez,986257,8,M,False,56,8,mid_2,1/3,MED,Home,Rosario Central,4-2-3-1,4,5,1,45.647619047619,25.87380952381,42.0
+Ignacio Malcorra,789427,10,M,False,71,9,mid_2,2/3,MED,Home,Rosario Central,4-2-3-1,4,5,1,59.8,51.967857142857,56.0
+Jaminton Campaz,877299,13,M,False,90,10,mid_2,3/3,MED,Home,Rosario Central,4-2-3-1,4,5,1,62.053012048193,77.687951807229,83.0
+Jaminton Campaz,877299,13,M,False,90,10,mid_2,3/3,MED,Home,Rosario Central,4-2-3-1,4,5,1,62.053012048193,77.687951807229,83.0
+Jaminton Campaz,877299,13,M,False,90,10,mid_2,3/3,MED,Home,Rosario Central,4-2-3-1,4,5,1,62.053012048193,77.687951807229,83.0
+Jaminton Campaz,877299,13,M,False,90,10,mid_2,3/3,MED,Home,Rosario Central,4-2-3-1,4,5,1,62.053012048193,77.687951807229,83.0
+Jaminton Campaz,877299,13,M,False,90,10,mid_2,3/3,MED,Home,Rosario Central,4-2-3-1,4,5,1,62.053012048193,77.687951807229,83.0
+Jaminton Campaz,877299,13,M,False,90,10,mid_2,3/3,MED,Home,Rosario Central,4-2-3-1,4,5,1,62.053012048193,77.687951807229,83.0
+Jaminton Campaz,877299,13,M,False,90,10,mid_2,3/3,MED,Home,Rosario Central,4-2-3-1,4,5,1,62.053012048193,77.687951807229,83.0
+Jaminton Campaz,877299,13,M,False,90,10,mid_2,3/3,MED,Home,Rosario Central,4-2-3-1,4,5,1,62.053012048193,77.687951807229,83.0
+Enzo Copetti,860045,25,F,False,82,11,ata,1/1,ATA,Home,Rosario Central,4-2-3-1,4,5,1,58.967924528302,51.81320754717,53.0
+Lautaro Giaccone,1087087,22,M,True,34,12,,,SUS,Home,Rosario Central,4-2-3-1,4,5,1,51.4375,34.13125,16.0
+Maximiliano Lovera,839582,7,F,True,19,13,,,SUS,Home,Rosario Central,4-2-3-1,4,5,1,60.860714285714,66.764285714286,28.0
+Kevin Ortíz,1180814,45,M,True,19,14,,,SUS,Home,Rosario Central,4-2-3-1,4,5,1,50.28,38.64,15.0
+Luca Martínez Dupuy,1087100,29,F,True,8,15,,,SUS,Home,Rosario Central,4-2-3-1,4,5,1,68.25,35.41,10.0
+Juan Gimenez,1482411,24,D,True,12,16,,,SUS,Home,Rosario Central,4-2-3-1,4,5,1,43.166666666667,46.45,6.0
+Axel Werner,250219,20,G,True,0,17,,,SUS,Home,Rosario Central,4-2-3-1,4,5,1,,,
+Kevin Silva,1117067,49,D,True,0,18,,,SUS,Home,Rosario Central,4-2-3-1,4,5,1,,,
+Alan Rodríguez,990289,21,D,True,0,19,,,SUS,Home,Rosario Central,4-2-3-1,4,5,1,,,
+Damián Martínez,38106,4,D,True,0,20,,,SUS,Home,Rosario Central,4-2-3-1,4,5,1,,,
+Tomás O'Connor,1117117,30,M,True,0,21,,,SUS,Home,Rosario Central,4-2-3-1,4,5,1,,,
+Augusto Solari,291279,23,M,True,0,22,,,SUS,Home,Rosario Central,4-2-3-1,4,5,1,,,
+Tobias Cervera,1086929,48,F,True,0,23,,,SUS,Home,Rosario Central,4-2-3-1,4,5,1,,,
+Tomás Durso,895734,25,G,False,90,1,por,1/1,POR,Away,Atlético Tucumán,4-4-2,4,4,2,10.2375,48.1925,40.0
+Gino Peruzzi,129520,30,D,False,45,2,def,1/4,DEF,Away,Atlético Tucumán,4-4-2,4,4,2,50.261538461538,21.726923076923,26.0
+Matías de los Santos,246121,3,D,False,90,3,def,2/4,DEF,Away,Atlético Tucumán,4-4-2,4,4,2,34.989655172414,39.55,58.0
+Nicolás Romero,1102816,20,D,False,90,4,def,3/4,DEF,Away,Atlético Tucumán,4-4-2,4,4,2,34.092452830189,66.58679245283,53.0
+Juan Infante,941542,32,D,False,90,5,def,4/4,DEF,Away,Atlético Tucumán,4-4-2,4,4,2,57.89014084507,87.095774647887,71.0
+Renzo Tesuri,897044,18,M,False,86,6,mid_1,1/4,MED,Away,Atlético Tucumán,4-4-2,4,4,2,52.073913043478,28.527536231884,69.0
+Adrián Sánchez,1009957,5,M,False,90,7,mid_1,2/4,MED,Away,Atlético Tucumán,4-4-2,4,4,2,50.346,61.222,100.0
+Adrián Sánchez,1009957,5,M,False,90,7,mid_1,2/4,MED,Away,Atlético Tucumán,4-4-2,4,4,2,50.346,61.222,100.0
+Adrián Sánchez,1009957,5,M,False,90,7,mid_1,2/4,MED,Away,Atlético Tucumán,4-4-2,4,4,2,50.346,61.222,100.0
+Adrián Sánchez,1009957,5,M,False,90,7,mid_1,2/4,MED,Away,Atlético Tucumán,4-4-2,4,4,2,50.346,61.222,100.0
+Adrián Sánchez,1009957,5,M,False,90,7,mid_1,2/4,MED,Away,Atlético Tucumán,4-4-2,4,4,2,50.346,61.222,100.0
+Adrián Sánchez,1009957,5,M,False,90,7,mid_1,2/4,MED,Away,Atlético Tucumán,4-4-2,4,4,2,50.346,61.222,100.0
+Adrián Sánchez,1009957,5,M,False,90,7,mid_1,2/4,MED,Away,Atlético Tucumán,4-4-2,4,4,2,50.346,61.222,100.0
+Adrián Sánchez,1009957,5,M,False,90,7,mid_1,2/4,MED,Away,Atlético Tucumán,4-4-2,4,4,2,50.346,61.222,100.0
+Adrián Sánchez,1009957,5,M,False,90,7,mid_1,2/4,MED,Away,Atlético Tucumán,4-4-2,4,4,2,50.346,61.222,100.0
+Guillermo Acosta,830747,8,M,False,86,8,mid_1,3/4,MED,Away,Atlético Tucumán,4-4-2,4,4,2,50.250847457627,47.718644067797,59.0
+Mateo Bajamich,994451,9,M,False,90,9,mid_1,4/4,MED,Away,Atlético Tucumán,4-4-2,4,4,2,65.048684210526,62.096052631579,76.0
+Marcelo Estigarribia,943166,19,F,False,90,10,ata,1/2,ATA,Away,Atlético Tucumán,4-4-2,4,4,2,63.024324324324,54.412162162162,74.0
+Mateo Coronel,898982,37,F,False,45,11,ata,2/2,ATA,Away,Atlético Tucumán,4-4-2,4,4,2,73.386666666667,59.07,30.0
+Moisés Brandán,1162052,16,D,True,45,12,,,SUS,Away,Atlético Tucumán,4-4-2,4,4,2,54.680434782609,15.410869565217,46.0
+Franco Nicola,1177668,21,F,True,45,13,,,SUS,Away,Atlético Tucumán,4-4-2,4,4,2,65.012121212121,74.6,33.0
+Luis Miguel Rodríguez,93199,7,F,True,9,14,,,SUS,Away,Atlético Tucumán,4-4-2,4,4,2,36.525,29.625,8.0
+Justo Giani,932866,40,F,True,9,15,,,SUS,Away,Atlético Tucumán,4-4-2,4,4,2,64.925,22.2,8.0
+Juan Ignacio González,846754,12,G,True,0,16,,,SUS,Away,Atlético Tucumán,4-4-2,4,4,2,,,
+Gianluca Ferrari,945103,6,D,True,0,17,,,SUS,Away,Atlético Tucumán,4-4-2,4,4,2,,,
+Matías Orihuela,584422,39,D,True,0,18,,,SUS,Away,Atlético Tucumán,4-4-2,4,4,2,,,
+Néstor Breitenbruch,579356,15,D,True,0,19,,,SUS,Away,Atlético Tucumán,4-4-2,4,4,2,,,
+Tomás Castro Ponce,1065612,26,M,True,0,20,,,SUS,Away,Atlético Tucumán,4-4-2,4,4,2,,,
+Nicolás Castro,896985,11,M,True,0,21,,,SUS,Away,Atlético Tucumán,4-4-2,4,4,2,,,
+Rodrigo Melo,971199,41,M,True,0,22,,,SUS,Away,Atlético Tucumán,4-4-2,4,4,2,,,
+Francisco Bonfiglio,1214434,23,F,True,0,23,,,SUS,Away,Atlético Tucumán,4-4-2,4,4,2,,,
 Juan Cozzani,874969,31,G,False,90,1,por,1/1,POR,Home,Platense,4-4-1-1,4,5,1,13.79,47.456666666667,30.0
 Bautista Barros Schelotto,1085929,4,D,False,78,2,def,1/4,DEF,Home,Platense,4-4-1-1,4,5,1,47.534693877551,16.414285714286,49.0
 Ignacio Vazquez,883922,13,D,False,90,3,def,2/4,DEF,Home,Platense,4-4-1-1,4,5,1,41.453703703704,37.696296296296,54.0
@@ -658,15 +903,15 @@ Tobias Rubio,1201527,38,D,True,0,21,,,SUS,Away,Racing,4-3-3,4,3,3,,,
 Leonardo Sigali,33268,30,D,True,0,22,,,SUS,Away,Racing,4-3-3,4,3,3,,,
 Juan Fernando Quintero,221162,8,M,True,0,23,,,SUS,Away,Racing,4-3-3,4,3,3,,,
 Alan Aguerre,147351,1,G,False,90,1,por,1/1,POR,Home,Lanús,4-3-3,4,3,3,8.8913043478261,47.628260869565,46.0
+Alan Aguerre,147351,1,G,False,90,1,por,1/1,POR,Home,Lanús,4-3-3,4,3,3,8.8913043478261,47.628260869565,46.0
+Alan Aguerre,147351,1,G,False,90,1,por,1/1,POR,Home,Lanús,4-3-3,4,3,3,8.8913043478261,47.628260869565,46.0
+Alan Aguerre,147351,1,G,False,90,1,por,1/1,POR,Home,Lanús,4-3-3,4,3,3,8.8913043478261,47.628260869565,46.0
+Alan Aguerre,147351,1,G,False,90,1,por,1/1,POR,Home,Lanús,4-3-3,4,3,3,8.8913043478261,47.628260869565,46.0
+Alan Aguerre,147351,1,G,False,90,1,por,1/1,POR,Home,Lanús,4-3-3,4,3,3,8.8913043478261,47.628260869565,46.0
+Alan Aguerre,147351,1,G,False,90,1,por,1/1,POR,Home,Lanús,4-3-3,4,3,3,8.8913043478261,47.628260869565,46.0
+Alan Aguerre,147351,1,G,False,90,1,por,1/1,POR,Home,Lanús,4-3-3,4,3,3,8.8913043478261,47.628260869565,46.0
+Alan Aguerre,147351,1,G,False,90,1,por,1/1,POR,Home,Lanús,4-3-3,4,3,3,8.8913043478261,47.628260869565,46.0
 Juan Cáceres,989801,21,D,False,90,2,def,1/4,DEF,Home,Lanús,4-3-3,4,3,3,38.97380952381,14.122619047619,84.0
-Ezequiel Muñoz,42450,2,D,False,90,3,def,2/4,DEF,Home,Lanús,4-3-3,4,3,3,30.789473684211,33.15,38.0
-Ezequiel Muñoz,42450,2,D,False,90,3,def,2/4,DEF,Home,Lanús,4-3-3,4,3,3,30.789473684211,33.15,38.0
-Ezequiel Muñoz,42450,2,D,False,90,3,def,2/4,DEF,Home,Lanús,4-3-3,4,3,3,30.789473684211,33.15,38.0
-Ezequiel Muñoz,42450,2,D,False,90,3,def,2/4,DEF,Home,Lanús,4-3-3,4,3,3,30.789473684211,33.15,38.0
-Ezequiel Muñoz,42450,2,D,False,90,3,def,2/4,DEF,Home,Lanús,4-3-3,4,3,3,30.789473684211,33.15,38.0
-Ezequiel Muñoz,42450,2,D,False,90,3,def,2/4,DEF,Home,Lanús,4-3-3,4,3,3,30.789473684211,33.15,38.0
-Ezequiel Muñoz,42450,2,D,False,90,3,def,2/4,DEF,Home,Lanús,4-3-3,4,3,3,30.789473684211,33.15,38.0
-Ezequiel Muñoz,42450,2,D,False,90,3,def,2/4,DEF,Home,Lanús,4-3-3,4,3,3,30.789473684211,33.15,38.0
 Ezequiel Muñoz,42450,2,D,False,90,3,def,2/4,DEF,Home,Lanús,4-3-3,4,3,3,30.789473684211,33.15,38.0
 Nery Domínguez,341075,23,D,False,90,4,def,3/4,DEF,Home,Lanús,4-3-3,4,3,3,33.725,71.5609375,64.0
 Julio Soler,1201520,22,D,False,90,5,def,4/4,DEF,Home,Lanús,4-3-3,4,3,3,45.524528301887,89.98679245283,53.0
@@ -1213,58 +1458,58 @@ Marcos Acosta,1914579,55,M,True,0,20,,,SUS,Away,Belgrano,4-4-2,4,4,2,,,
 Mirko Bonfigli,1914534,58,M,True,0,21,,,SUS,Away,Belgrano,4-4-2,4,4,2,,,
 Jeremías Lucco,1518447,42,F,True,0,22,,,SUS,Away,Belgrano,4-4-2,4,4,2,,,
 Gonzalo Zelarayán,1835761,54,F,True,0,23,,,SUS,Away,Belgrano,4-4-2,4,4,2,,,
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fé,3-5-2,3,5,2,10.17358490566,51.250943396226,53.0
-Nicolás Paz,1189173,32,D,False,45,2,def,1/3,DEF,Home,Unión de Santa Fé,3-5-2,3,5,2,42.433333333333,24.330555555556,36.0
-Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Home,Unión de Santa Fé,3-5-2,3,5,2,32.792222222222,44.261111111111,90.0
-Claudio Corvalán,249383,3,D,False,90,4,def,3/3,DEF,Home,Unión de Santa Fé,3-5-2,3,5,2,41.343548387097,77.548387096774,62.0
-Lautaro Vargas,1485084,35,M,False,90,5,mid_1,1/5,MED,Home,Unión de Santa Fé,3-5-2,3,5,2,49.31875,17.3515625,64.0
-Simón Rivero,1131035,20,M,False,79,6,mid_1,2/5,MED,Home,Unión de Santa Fé,3-5-2,3,5,2,63.094117647059,29.982352941176,68.0
-Joaquin Mosqueira,1464852,5,M,False,90,7,mid_1,3/5,MED,Home,Unión de Santa Fé,3-5-2,3,5,2,41.78275862069,50.196551724138,58.0
-Mauro Pittón,796958,28,M,False,79,8,mid_1,4/5,MED,Home,Unión de Santa Fé,3-5-2,3,5,2,52.590909090909,66.331818181818,66.0
-Bruno Pittón,800246,14,M,False,72,9,mid_1,5/5,MED,Home,Unión de Santa Fé,3-5-2,3,5,2,49.85652173913,77.339130434783,46.0
-Nicolás Orsini,347744,33,F,False,72,10,ata,1/2,ATA,Home,Unión de Santa Fé,3-5-2,3,5,2,67.455,41.075,40.0
-Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fé,3-5-2,3,5,2,61.404761904762,43.192857142857,42.0
-Miguel Torren,76383,2,D,True,45,12,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,26.45,49.386363636364,22.0
-Lucas Gamba,789445,18,F,True,18,13,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,53.088888888889,54.555555555556,9.0
-Mateo Del Blanco,1183059,11,F,True,18,14,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,53.226315789474,78.5,19.0
-Valentín Fascendini,1537838,13,D,True,11,15,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,49.886666666667,85.586666666667,15.0
-Valentín Fascendini,1537838,13,D,True,11,15,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,49.886666666667,85.586666666667,15.0
-Valentín Fascendini,1537838,13,D,True,11,15,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,49.886666666667,85.586666666667,15.0
-Valentín Fascendini,1537838,13,D,True,11,15,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,49.886666666667,85.586666666667,15.0
-Valentín Fascendini,1537838,13,D,True,11,15,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,49.886666666667,85.586666666667,15.0
-Valentín Fascendini,1537838,13,D,True,11,15,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,49.886666666667,85.586666666667,15.0
-Valentín Fascendini,1537838,13,D,True,11,15,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,49.886666666667,85.586666666667,15.0
-Valentín Fascendini,1537838,13,D,True,11,15,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,49.886666666667,85.586666666667,15.0
-Enzo Roldán,1022263,10,M,True,11,16,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,64.208333333333,23.35,12.0
-Nicolás Campisi,978370,1,G,True,0,17,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,,,
-Juan Pablo Luduena,1392241,26,D,True,0,18,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,,,
-Francisco Gerometta,1017181,22,D,True,0,19,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,,,
-Tiago Banega,1016652,19,M,True,0,20,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,,,
-Patricio Tanda,1067814,15,M,True,0,21,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,,,
-Gonzalo Javier Morales,1410399,9,F,True,0,22,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,,,
-Jeronimo Domina,1200744,30,F,True,0,23,,,SUS,Home,Unión de Santa Fé,3-5-2,3,5,2,,,
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fe,3-5-2,3,5,2,8.8245283018868,51.739622641509,53.0
+Nicolás Paz,1189173,32,D,False,45,2,def,1/3,DEF,Home,Unión de Santa Fe,3-5-2,3,5,2,42.972972972973,23.67027027027,37.0
+Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Home,Unión de Santa Fe,3-5-2,3,5,2,32.370588235294,43.089411764706,85.0
+Claudio Corvalán,249383,3,D,False,90,4,def,3/3,DEF,Home,Unión de Santa Fe,3-5-2,3,5,2,40.667164179105,77.838805970149,67.0
+Lautaro Vargas,1485084,35,M,False,90,5,mid_1,1/5,MED,Home,Unión de Santa Fe,3-5-2,3,5,2,49.920289855072,16.820289855072,69.0
+Simón Rivero,1131035,20,M,False,79,6,mid_1,2/5,MED,Home,Unión de Santa Fe,3-5-2,3,5,2,63.181428571429,29.792857142857,70.0
+Joaquin Mosqueira,1464852,5,M,False,90,7,mid_1,3/5,MED,Home,Unión de Santa Fe,3-5-2,3,5,2,40.958928571429,50.998214285714,56.0
+Mauro Pittón,796958,28,M,False,79,8,mid_1,4/5,MED,Home,Unión de Santa Fe,3-5-2,3,5,2,52.380597014925,66.841791044776,67.0
+Bruno Pittón,800246,14,M,False,72,9,mid_1,5/5,MED,Home,Unión de Santa Fe,3-5-2,3,5,2,49.829787234043,78.153191489362,47.0
+Nicolás Orsini,347744,33,F,False,72,10,ata,1/2,ATA,Home,Unión de Santa Fe,3-5-2,3,5,2,65.220454545455,41.361363636364,44.0
+Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fe,3-5-2,3,5,2,62.271111111111,41.246666666667,45.0
+Miguel Torren,76383,2,D,True,45,12,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,26.24347826087,49.54347826087,23.0
+Lucas Gamba,789445,18,F,True,18,13,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,53.088888888889,54.555555555556,9.0
+Mateo Del Blanco,1183059,11,F,True,18,14,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,54.165,77.085,20.0
+Valentín Fascendini,1537838,13,D,True,11,15,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,51.853333333333,86.673333333333,15.0
+Valentín Fascendini,1537838,13,D,True,11,15,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,51.853333333333,86.673333333333,15.0
+Valentín Fascendini,1537838,13,D,True,11,15,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,51.853333333333,86.673333333333,15.0
+Valentín Fascendini,1537838,13,D,True,11,15,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,51.853333333333,86.673333333333,15.0
+Valentín Fascendini,1537838,13,D,True,11,15,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,51.853333333333,86.673333333333,15.0
+Valentín Fascendini,1537838,13,D,True,11,15,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,51.853333333333,86.673333333333,15.0
+Valentín Fascendini,1537838,13,D,True,11,15,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,51.853333333333,86.673333333333,15.0
+Valentín Fascendini,1537838,13,D,True,11,15,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,51.853333333333,86.673333333333,15.0
+Enzo Roldán,1022263,10,M,True,11,16,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,63.6,21.118181818182,11.0
+Nicolás Campisi,978370,1,G,True,0,17,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,,,
+Juan Pablo Luduena,1392241,26,D,True,0,18,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,,,
+Francisco Gerometta,1017181,22,D,True,0,19,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,,,
+Tiago Banega,1016652,19,M,True,0,20,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,,,
+Patricio Tanda,1067814,15,M,True,0,21,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,,,
+Gonzalo Javier Morales,1410399,9,F,True,0,22,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,,,
+Jeronimo Domina,1200744,30,F,True,0,23,,,SUS,Home,Unión de Santa Fe,3-5-2,3,5,2,,,
 Diego Rodríguez,38266,50,G,False,90,1,por,1/1,POR,Away,Argentinos Jrs.,3-4-3,3,4,3,8.395,46.41,20.0
-Francisco Álvarez,871788,16,D,False,90,2,def,1/3,DEF,Away,Argentinos Jrs.,3-4-3,3,4,3,37.766666666667,21.719607843137,102.0
-Jonathan Galván,789271,19,D,False,90,3,def,2/3,DEF,Away,Argentinos Jrs.,3-4-3,3,4,3,31.995890410959,47.767123287671,73.0
-Tobías Palacio,1482389,2,D,False,90,4,def,3/3,DEF,Away,Argentinos Jrs.,3-4-3,3,4,3,36.414285714286,78.752380952381,84.0
-José Herrera,1179171,26,M,False,53,5,mid_1,1/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,54.05625,25.627083333333,48.0
-Ariel Gamarra,1412474,36,M,False,90,6,mid_1,2/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,42.690625,55.503125,64.0
-Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,52.097777777778,49.701111111111,90.0
-Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,52.097777777778,49.701111111111,90.0
-Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,52.097777777778,49.701111111111,90.0
-Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,52.097777777778,49.701111111111,90.0
-Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,52.097777777778,49.701111111111,90.0
-Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,52.097777777778,49.701111111111,90.0
-Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,52.097777777778,49.701111111111,90.0
-Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,52.097777777778,49.701111111111,90.0
-Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,52.097777777778,49.701111111111,90.0
-Román Vega,1109356,6,M,False,29,8,mid_1,4/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,49.621739130435,85.4,23.0
-Gastón Verón,924198,10,F,False,53,9,ata,1/3,ATA,Away,Argentinos Jrs.,3-4-3,3,4,3,56.907142857143,48.232142857143,28.0
-Luciano Gondou,1096378,32,F,False,90,10,ata,2/3,ATA,Away,Argentinos Jrs.,3-4-3,3,4,3,67.039473684211,44.481578947368,38.0
-Matías Perello,1117084,28,F,False,74,11,ata,3/3,ATA,Away,Argentinos Jrs.,3-4-3,3,4,3,72.67,59.84,20.0
-Emiliano Viveros,1117022,29,M,True,61,12,,,SUS,Away,Argentinos Jrs.,3-4-3,3,4,3,55.281818181818,37.072727272727,66.0
-Sebastián Prieto,946305,20,D,True,37,13,,,SUS,Away,Argentinos Jrs.,3-4-3,3,4,3,49.407894736842,81.594736842105,38.0
-Alan Lescano,1186068,22,M,True,37,14,,,SUS,Away,Argentinos Jrs.,3-4-3,3,4,3,58.408823529412,44.691176470588,34.0
+Francisco Álvarez,871788,16,D,False,90,2,def,1/3,DEF,Away,Argentinos Jrs.,3-4-3,3,4,3,37.38431372549,21.805882352941,102.0
+Jonathan Galván,789271,19,D,False,90,3,def,2/3,DEF,Away,Argentinos Jrs.,3-4-3,3,4,3,31.872602739726,48.309589041096,73.0
+Tobías Palacio,1482389,2,D,False,90,4,def,3/3,DEF,Away,Argentinos Jrs.,3-4-3,3,4,3,36.672093023256,78.790697674419,86.0
+José Herrera,1179171,26,M,False,53,5,mid_1,1/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,52.09387755102,25.808163265306,49.0
+Ariel Gamarra,1412474,36,M,False,90,6,mid_1,2/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,43.75652173913,57.336231884058,69.0
+Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,51.987777777778,49.447777777778,90.0
+Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,51.987777777778,49.447777777778,90.0
+Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,51.987777777778,49.447777777778,90.0
+Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,51.987777777778,49.447777777778,90.0
+Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,51.987777777778,49.447777777778,90.0
+Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,51.987777777778,49.447777777778,90.0
+Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,51.987777777778,49.447777777778,90.0
+Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,51.987777777778,49.447777777778,90.0
+Álan Rodríguez,874576,8,M,False,90,7,mid_1,3/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,51.987777777778,49.447777777778,90.0
+Román Vega,1109356,6,M,False,29,8,mid_1,4/4,MED,Away,Argentinos Jrs.,3-4-3,3,4,3,49.639130434783,88.465217391304,23.0
+Gastón Verón,924198,10,F,False,53,9,ata,1/3,ATA,Away,Argentinos Jrs.,3-4-3,3,4,3,57.635714285714,46.092857142857,28.0
+Luciano Gondou,1096378,32,F,False,90,10,ata,2/3,ATA,Away,Argentinos Jrs.,3-4-3,3,4,3,66.772972972973,45.264864864865,37.0
+Matías Perello,1117084,28,F,False,74,11,ata,3/3,ATA,Away,Argentinos Jrs.,3-4-3,3,4,3,70.555,60.165,20.0
+Emiliano Viveros,1117022,29,M,True,61,12,,,SUS,Away,Argentinos Jrs.,3-4-3,3,4,3,55.373134328358,37.601492537313,67.0
+Sebastián Prieto,946305,20,D,True,37,13,,,SUS,Away,Argentinos Jrs.,3-4-3,3,4,3,51.061111111111,82.569444444444,36.0
+Alan Lescano,1186068,22,M,True,37,14,,,SUS,Away,Argentinos Jrs.,3-4-3,3,4,3,57.551515151515,44.566666666667,33.0
 Nicolas Oroz,558790,21,M,True,16,15,,,SUS,Away,Argentinos Jrs.,3-4-3,3,4,3,65.04,68.3,15.0
 Gonzalo Siri Payer,1179169,12,G,True,0,16,,,SUS,Away,Argentinos Jrs.,3-4-3,3,4,3,,,
 Erik Godoy,249427,4,D,True,0,17,,,SUS,Away,Argentinos Jrs.,3-4-3,3,4,3,,,
@@ -1274,28 +1519,28 @@ Francis Mac Allister,1089454,30,M,True,0,20,,,SUS,Away,Argentinos Jrs.,3-4-3,3,4
 Juan Cardozo,1179172,5,M,True,0,21,,,SUS,Away,Argentinos Jrs.,3-4-3,3,4,3,,,
 Leonardo Heredia,895720,15,F,True,0,22,,,SUS,Away,Argentinos Jrs.,3-4-3,3,4,3,,,
 Mateo Díaz Chaves,1485242,24,F,True,0,23,,,SUS,Away,Argentinos Jrs.,3-4-3,3,4,3,,,
-Franco Petroli,822590,1,G,False,90,1,por,1/1,POR,Home,Godoy Cruz,4-1-4-1,4,5,1,12.18904109589,47.712328767123,73.0
-Lucas Arce,1109302,4,D,False,90,2,def,1/4,DEF,Home,Godoy Cruz,4-1-4-1,4,5,1,51.14512195122,12.370731707317,82.0
-Pier Barrios,140103,2,D,False,87,3,def,2/4,DEF,Home,Godoy Cruz,4-1-4-1,4,5,1,30.8328125,26.365625,64.0
-Federico Rasmussen,932903,23,D,False,90,4,def,3/4,DEF,Home,Godoy Cruz,4-1-4-1,4,5,1,29.27027027027,68.597297297297,74.0
-Elías Pereyra,922450,21,D,False,90,5,def,4/4,DEF,Home,Godoy Cruz,4-1-4-1,4,5,1,42.888157894737,86.109210526316,76.0
-Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,36.435616438356,53.531506849315,73.0
-Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,36.435616438356,53.531506849315,73.0
-Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,36.435616438356,53.531506849315,73.0
-Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,36.435616438356,53.531506849315,73.0
-Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,36.435616438356,53.531506849315,73.0
-Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,36.435616438356,53.531506849315,73.0
-Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,36.435616438356,53.531506849315,73.0
-Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,36.435616438356,53.531506849315,73.0
-Facundo Altamira,1134768,41,M,False,76,7,mid_2,1/4,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,66.869047619048,20.471428571429,42.0
-Vicente Poggi,1020066,25,M,False,67,8,mid_2,2/4,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,53.726530612245,33.857142857143,49.0
-Nicolás Fernández,846419,13,M,False,73,9,mid_2,3/4,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,53.925609756098,56.913414634146,82.0
-Daniel Barrea,1183778,36,M,False,67,10,mid_2,4/4,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,57.082051282051,80.110256410256,39.0
-Salomón Rodríguez,1020191,19,F,False,67,11,ata,1/1,ATA,Home,Godoy Cruz,4-1-4-1,4,5,1,61.825,60.445,40.0
-Gonzalo Abrego,1084967,32,M,True,23,12,,,SUS,Home,Godoy Cruz,4-1-4-1,4,5,1,49.833333333333,18.166666666667,27.0
+Franco Petroli,822590,1,G,False,90,1,por,1/1,POR,Home,Godoy Cruz,4-1-4-1,4,5,1,12.150684931507,47.476712328767,73.0
+Lucas Arce,1109302,4,D,False,90,2,def,1/4,DEF,Home,Godoy Cruz,4-1-4-1,4,5,1,51.208641975309,12.227160493827,81.0
+Pier Barrios,140103,2,D,False,87,3,def,2/4,DEF,Home,Godoy Cruz,4-1-4-1,4,5,1,30.8953125,26.6390625,64.0
+Federico Rasmussen,932903,23,D,False,90,4,def,3/4,DEF,Home,Godoy Cruz,4-1-4-1,4,5,1,29.383116883117,67.893506493507,77.0
+Elías Pereyra,922450,21,D,False,90,5,def,4/4,DEF,Home,Godoy Cruz,4-1-4-1,4,5,1,42.416666666667,85.764102564103,78.0
+Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,37.121917808219,53.506849315069,73.0
+Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,37.121917808219,53.506849315069,73.0
+Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,37.121917808219,53.506849315069,73.0
+Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,37.121917808219,53.506849315069,73.0
+Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,37.121917808219,53.506849315069,73.0
+Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,37.121917808219,53.506849315069,73.0
+Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,37.121917808219,53.506849315069,73.0
+Bruno Leyes,1130268,5,M,False,90,6,mid_0,1/1,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,37.121917808219,53.506849315069,73.0
+Facundo Altamira,1134768,41,M,False,76,7,mid_2,1/4,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,66.141860465116,21.090697674419,43.0
+Vicente Poggi,1020066,25,M,False,67,8,mid_2,2/4,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,53.681632653061,35.528571428571,49.0
+Nicolás Fernández,846419,13,M,False,73,9,mid_2,3/4,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,54.430120481928,57.171084337349,83.0
+Daniel Barrea,1183778,36,M,False,67,10,mid_2,4/4,MED,Home,Godoy Cruz,4-1-4-1,4,5,1,57.038461538462,80.112820512821,39.0
+Salomón Rodríguez,1020191,19,F,False,67,11,ata,1/1,ATA,Home,Godoy Cruz,4-1-4-1,4,5,1,61.8925,60.335,40.0
+Gonzalo Abrego,1084967,32,M,True,23,12,,,SUS,Home,Godoy Cruz,4-1-4-1,4,5,1,49.811111111111,17.903703703704,27.0
 Gastón Moreyra,1134165,11,M,True,23,13,,,SUS,Home,Godoy Cruz,4-1-4-1,4,5,1,47.65625,59.70625,16.0
-Martin Pino,994452,22,F,True,23,14,,,SUS,Home,Godoy Cruz,4-1-4-1,4,5,1,58.88,44.02,5.0
-Agustín Villalobos,1130303,29,M,True,17,15,,,SUS,Home,Godoy Cruz,4-1-4-1,4,5,1,35.461904761905,44.47619047619,21.0
+Martin Pino,994452,22,F,True,23,14,,,SUS,Home,Godoy Cruz,4-1-4-1,4,5,1,54.916666666667,45.283333333333,6.0
+Agustín Villalobos,1130303,29,M,True,17,15,,,SUS,Home,Godoy Cruz,4-1-4-1,4,5,1,35.47619047619,43.819047619048,21.0
 Mariano Santiago,1391295,16,M,True,14,16,,,SUS,Home,Godoy Cruz,4-1-4-1,4,5,1,49.433333333333,18.916666666667,6.0
 Roberto Ramírez,551382,12,G,True,0,17,,,SUS,Home,Godoy Cruz,4-1-4-1,4,5,1,,,
 Facundo Ardiles,1093100,30,D,True,0,18,,,SUS,Home,Godoy Cruz,4-1-4-1,4,5,1,,,
@@ -1304,29 +1549,29 @@ Braian Salvareschi,871794,15,D,True,0,20,,,SUS,Home,Godoy Cruz,4-1-4-1,4,5,1,,,
 Luciano Pascual,1627979,35,M,True,0,21,,,SUS,Home,Godoy Cruz,4-1-4-1,4,5,1,,,
 Luciano Cingolani,1087070,17,F,True,0,22,,,SUS,Home,Godoy Cruz,4-1-4-1,4,5,1,,,
 Juan Bautista Cejas,868364,7,F,True,0,23,,,SUS,Home,Godoy Cruz,4-1-4-1,4,5,1,,,
-Ignacio Arce,896998,1,G,False,90,1,por,1/1,POR,Away,Dep. Riestra,5-3-2,5,3,2,14.233333333333,49.942222222222,45.0
-Pedro Ramírez,1065971,5,D,False,70,2,def,1/5,DEF,Away,Dep. Riestra,5-3-2,5,3,2,50.647058823529,18.054901960784,51.0
+Ignacio Arce,896998,1,G,False,90,1,por,1/1,POR,Away,Dep. Riestra,5-3-2,5,3,2,13.757777777778,48.717777777778,45.0
+Pedro Ramírez,1065971,5,D,False,70,2,def,1/5,DEF,Away,Dep. Riestra,5-3-2,5,3,2,49.983333333333,17.935185185185,54.0
 Nicolás Sansotre,897088,15,D,False,90,3,def,2/5,DEF,Away,Dep. Riestra,5-3-2,5,3,2,38.264444444444,19.844444444444,45.0
-Alan Barrionuevo,1110289,40,D,False,90,4,def,3/5,DEF,Away,Dep. Riestra,5-3-2,5,3,2,32.911666666667,36.665,60.0
-Nicolás Caro Torres,860000,3,D,False,90,5,def,4/5,DEF,Away,Dep. Riestra,5-3-2,5,3,2,29.851162790698,72.244186046512,43.0
-Rodrigo Sayavedra,992979,28,D,False,90,6,def,5/5,DEF,Away,Dep. Riestra,5-3-2,5,3,2,48.13,77.456666666667,90.0
-Pablo Monje,1190295,14,M,False,90,7,mid_1,1/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,51.966071428571,49.864285714286,56.0
-Pablo Monje,1190295,14,M,False,90,7,mid_1,1/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,51.966071428571,49.864285714286,56.0
-Pablo Monje,1190295,14,M,False,90,7,mid_1,1/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,51.966071428571,49.864285714286,56.0
-Pablo Monje,1190295,14,M,False,90,7,mid_1,1/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,51.966071428571,49.864285714286,56.0
-Pablo Monje,1190295,14,M,False,90,7,mid_1,1/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,51.966071428571,49.864285714286,56.0
-Pablo Monje,1190295,14,M,False,90,7,mid_1,1/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,51.966071428571,49.864285714286,56.0
-Pablo Monje,1190295,14,M,False,90,7,mid_1,1/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,51.966071428571,49.864285714286,56.0
-Pablo Monje,1190295,14,M,False,90,7,mid_1,1/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,51.966071428571,49.864285714286,56.0
-Jonathan Goya,899289,19,M,False,19,8,mid_1,2/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,41.141666666667,49.991666666667,12.0
-Gonzalo Bravo,850924,10,M,False,45,9,mid_1,3/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,57.708,58.332,25.0
-Antony Alonso,1094187,7,F,False,45,10,ata,1/2,ATA,Away,Dep. Riestra,5-3-2,5,3,2,59.48,38.796,25.0
-Jonathan Herrera,873763,9,F,False,90,11,ata,2/2,ATA,Away,Dep. Riestra,5-3-2,5,3,2,68.2325,60.3175,40.0
-Guillermo Pereira,971214,16,M,True,51,12,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,42.319512195122,34.075609756098,41.0
-Brian Sánchez,899292,35,M,True,45,13,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,59.734285714286,64.214285714286,35.0
-Alexander Díaz,951244,20,F,True,45,14,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,67.209090909091,32.418181818182,33.0
-Jonathan Goitia,895924,27,D,True,20,15,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,49.171428571429,71.171428571429,14.0
-Mario Sanabria,1385490,37,F,True,20,16,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,70.958333333333,17.558333333333,12.0
+Alan Barrionuevo,1110289,40,D,False,90,4,def,3/5,DEF,Away,Dep. Riestra,5-3-2,5,3,2,33.286666666667,36.96,60.0
+Nicolás Caro Torres,860000,3,D,False,90,5,def,4/5,DEF,Away,Dep. Riestra,5-3-2,5,3,2,29.720930232558,71.555813953488,43.0
+Rodrigo Sayavedra,992979,28,D,False,90,6,def,5/5,DEF,Away,Dep. Riestra,5-3-2,5,3,2,47.522826086957,77.408695652174,92.0
+Pablo Monje,1190295,14,M,False,90,7,mid_1,1/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,51.460344827586,50.662068965517,58.0
+Pablo Monje,1190295,14,M,False,90,7,mid_1,1/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,51.460344827586,50.662068965517,58.0
+Pablo Monje,1190295,14,M,False,90,7,mid_1,1/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,51.460344827586,50.662068965517,58.0
+Pablo Monje,1190295,14,M,False,90,7,mid_1,1/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,51.460344827586,50.662068965517,58.0
+Pablo Monje,1190295,14,M,False,90,7,mid_1,1/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,51.460344827586,50.662068965517,58.0
+Pablo Monje,1190295,14,M,False,90,7,mid_1,1/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,51.460344827586,50.662068965517,58.0
+Pablo Monje,1190295,14,M,False,90,7,mid_1,1/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,51.460344827586,50.662068965517,58.0
+Pablo Monje,1190295,14,M,False,90,7,mid_1,1/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,51.460344827586,50.662068965517,58.0
+Jonathan Goya,899289,19,M,False,19,8,mid_1,2/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,41.166666666667,49.508333333333,12.0
+Gonzalo Bravo,850924,10,M,False,45,9,mid_1,3/3,MED,Away,Dep. Riestra,5-3-2,5,3,2,58.519230769231,57.696153846154,26.0
+Antony Alonso,1094187,7,F,False,45,10,ata,1/2,ATA,Away,Dep. Riestra,5-3-2,5,3,2,59.0875,39.120833333333,24.0
+Jonathan Herrera,873763,9,F,False,90,11,ata,2/2,ATA,Away,Dep. Riestra,5-3-2,5,3,2,68.872093023256,59.56976744186,43.0
+Guillermo Pereira,971214,16,M,True,51,12,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,42.282926829268,32.924390243902,41.0
+Brian Sánchez,899292,35,M,True,45,13,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,58.165714285714,65.282857142857,35.0
+Alexander Díaz,951244,20,F,True,45,14,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,68.438235294118,33.438235294118,34.0
+Mario Sanabria,1385490,37,F,True,20,15,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,71.258333333333,17.608333333333,12.0
+Jonathan Goitia,895924,27,D,True,20,16,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,49.171428571429,71.171428571429,14.0
 Rodrigo Saracho,816599,29,G,True,0,17,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,,,
 Delfor Minervino,950814,36,D,True,0,18,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,,,
 Máximiliano Rodríguez,992107,26,D,True,0,19,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,,,
@@ -1334,28 +1579,28 @@ Cristian Paz,789369,22,D,True,0,20,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,,,
 Tomas Villoldo,1093120,18,D,True,0,21,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,,,
 Gustavo Benítez,897135,24,D,True,0,22,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,,,
 Gustavo Martin Fernandez,47451,17,F,True,0,23,,,SUS,Away,Dep. Riestra,5-3-2,5,3,2,,,
-Enrique Bologna,107418,23,G,False,90,1,por,1/1,POR,Home,Def y Justicia,4-2-3-1,4,5,1,7.738,49.642,50.0
-Ezequiel Cannavo,1094180,14,D,False,85,2,def,1/4,DEF,Home,Def y Justicia,4-2-3-1,4,5,1,51.632258064516,12.953225806452,62.0
-Lucas Ferreira,1023053,6,D,False,90,3,def,2/4,DEF,Home,Def y Justicia,4-2-3-1,4,5,1,30.176595744681,27.514893617021,47.0
-Santiago Ramos Mingo,989843,21,D,False,90,4,def,3/4,DEF,Home,Def y Justicia,4-2-3-1,4,5,1,28.198611111111,79.056944444444,72.0
-Alexis Soto,824513,3,D,False,90,5,def,4/4,DEF,Home,Def y Justicia,4-2-3-1,4,5,1,42.591176470588,85.879411764706,68.0
-Kevin Lopez,1163996,30,M,False,85,6,mid_0,1/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,49.321126760563,45.818309859155,71.0
-Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.640540540541,49.931081081081,74.0
-Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.640540540541,49.931081081081,74.0
-Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.640540540541,49.931081081081,74.0
-Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.640540540541,49.931081081081,74.0
-Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.640540540541,49.931081081081,74.0
-Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.640540540541,49.931081081081,74.0
-Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.640540540541,49.931081081081,74.0
-Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.640540540541,49.931081081081,74.0
-Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.640540540541,49.931081081081,74.0
-Gabriel Alanis,609736,17,M,False,70,8,mid_2,1/3,MED,Home,Def y Justicia,4-2-3-1,4,5,1,60.230952380952,30.392857142857,42.0
+Enrique Bologna,107418,23,G,False,90,1,por,1/1,POR,Home,Def y Justicia,4-2-3-1,4,5,1,7.938,49.718,50.0
+Ezequiel Cannavo,1094180,14,D,False,85,2,def,1/4,DEF,Home,Def y Justicia,4-2-3-1,4,5,1,51.53,12.966666666667,60.0
+Lucas Ferreira,1023053,6,D,False,90,3,def,2/4,DEF,Home,Def y Justicia,4-2-3-1,4,5,1,29.768085106383,27.965957446809,47.0
+Santiago Ramos Mingo,989843,21,D,False,90,4,def,3/4,DEF,Home,Def y Justicia,4-2-3-1,4,5,1,28.202777777778,79.056944444444,72.0
+Alexis Soto,824513,3,D,False,90,5,def,4/4,DEF,Home,Def y Justicia,4-2-3-1,4,5,1,43.058333333333,85.9625,72.0
+Kevin Lopez,1163996,30,M,False,85,6,mid_0,1/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,48.569565217391,45.508695652174,69.0
+Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.560273972603,50.306849315068,73.0
+Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.560273972603,50.306849315068,73.0
+Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.560273972603,50.306849315068,73.0
+Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.560273972603,50.306849315068,73.0
+Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.560273972603,50.306849315068,73.0
+Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.560273972603,50.306849315068,73.0
+Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.560273972603,50.306849315068,73.0
+Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.560273972603,50.306849315068,73.0
+Kevin Gutiérrez,914145,5,M,False,90,7,mid_0,2/2,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.560273972603,50.306849315068,73.0
+Gabriel Alanis,609736,17,M,False,70,8,mid_2,1/3,MED,Home,Def y Justicia,4-2-3-1,4,5,1,59.006976744186,30.113953488372,43.0
 Luciano Herrera,1114494,27,M,False,65,9,mid_2,2/3,MED,Home,Def y Justicia,4-2-3-1,4,5,1,66.037931034483,68.186206896552,29.0
-Matías Sosa,1094185,32,M,False,71,10,mid_2,3/3,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.477272727273,83.913636363636,66.0
-Abiel Osorio,1190083,7,F,False,90,11,ata,1/1,ATA,Home,Def y Justicia,4-2-3-1,4,5,1,60.49649122807,41.750877192982,57.0
+Matías Sosa,1094185,32,M,False,71,10,mid_2,3/3,MED,Home,Def y Justicia,4-2-3-1,4,5,1,47.344444444444,83.838095238095,63.0
+Abiel Osorio,1190083,7,F,False,90,11,ata,1/1,ATA,Home,Def y Justicia,4-2-3-1,4,5,1,60.764912280702,41.038596491228,57.0
 Aaron Molinas,1022257,16,M,True,25,12,,,SUS,Home,Def y Justicia,4-2-3-1,4,5,1,51.786666666667,21.48,15.0
-Ayrton Portillo,1092590,20,M,True,20,13,,,SUS,Home,Def y Justicia,4-2-3-1,4,5,1,37.315384615385,6.6153846153846,13.0
-Ignacio Galván,1102817,18,D,True,19,14,,,SUS,Home,Def y Justicia,4-2-3-1,4,5,1,46.914285714286,74.742857142857,14.0
+Ayrton Portillo,1092590,20,M,True,20,13,,,SUS,Home,Def y Justicia,4-2-3-1,4,5,1,37.207692307692,6.9307692307692,13.0
+Ignacio Galván,1102817,18,D,True,19,14,,,SUS,Home,Def y Justicia,4-2-3-1,4,5,1,48.607692307692,73.892307692308,13.0
 Emanuel Aguilera,147576,28,D,True,11,15,,,SUS,Home,Def y Justicia,4-2-3-1,4,5,1,,,
 Julián López,922455,8,M,True,11,16,,,SUS,Home,Def y Justicia,4-2-3-1,4,5,1,48.2,17.3,1.0
 Cristopher Fiermarín,881111,22,G,True,0,17,,,SUS,Home,Def y Justicia,4-2-3-1,4,5,1,,,
@@ -1366,28 +1611,28 @@ Nicolas Palavecino,1131305,33,M,True,0,21,,,SUS,Home,Def y Justicia,4-2-3-1,4,5,
 Juan Miritello,1003721,9,F,True,0,22,,,SUS,Home,Def y Justicia,4-2-3-1,4,5,1,,,
 Facundo Echevarría,1094181,36,F,True,0,23,,,SUS,Home,Def y Justicia,4-2-3-1,4,5,1,,,
 Facundo Sanguinetti,1086977,1,G,False,90,1,por,1/1,POR,Away,Banfield,4-2-3-1,4,5,1,9.9884615384615,49.875,52.0
-Ezequiel Bonifacio,583978,19,D,False,90,2,def,1/4,DEF,Away,Banfield,4-2-3-1,4,5,1,51.489333333333,12.972,75.0
-Alejandro Maciel,895336,4,D,False,90,3,def,2/4,DEF,Away,Banfield,4-2-3-1,4,5,1,30.380952380952,33.119047619048,84.0
-Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,34.253488372093,71.197674418605,86.0
-Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,34.253488372093,71.197674418605,86.0
-Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,34.253488372093,71.197674418605,86.0
-Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,34.253488372093,71.197674418605,86.0
-Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,34.253488372093,71.197674418605,86.0
-Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,34.253488372093,71.197674418605,86.0
-Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,34.253488372093,71.197674418605,86.0
-Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,34.253488372093,71.197674418605,86.0
-Mathias de Ritis,1199467,15,D,False,90,5,def,4/4,DEF,Away,Banfield,4-2-3-1,4,5,1,50.515730337079,84.658426966292,89.0
-Cristian Núñez,991476,5,M,False,45,6,mid_0,1/2,MED,Away,Banfield,4-2-3-1,4,5,1,39.993548387097,51.067741935484,31.0
-Jesús Miguel Soraire,943997,8,M,False,77,7,mid_0,2/2,MED,Away,Banfield,4-2-3-1,4,5,1,50.380952380952,48.638095238095,42.0
-Ignacio Rodríguez,1113236,11,M,False,60,8,mid_2,1/3,MED,Away,Banfield,4-2-3-1,4,5,1,51.930434782609,43.582608695652,23.0
-Lautaro Villegas,1114489,38,M,False,60,9,mid_2,2/3,MED,Away,Banfield,4-2-3-1,4,5,1,52.285185185185,33.766666666667,27.0
-Juan Álvarez,881912,22,M,False,68,10,mid_2,3/3,MED,Away,Banfield,4-2-3-1,4,5,1,77.014285714286,28.145714285714,35.0
-Mauricio Roldán,1199315,18,F,False,90,11,ata,1/1,ATA,Away,Banfield,4-2-3-1,4,5,1,71.845283018868,42.345283018868,53.0
+Ezequiel Bonifacio,583978,19,D,False,90,2,def,1/4,DEF,Away,Banfield,4-2-3-1,4,5,1,51.809459459459,13.022972972973,74.0
+Alejandro Maciel,895336,4,D,False,90,3,def,2/4,DEF,Away,Banfield,4-2-3-1,4,5,1,30.392941176471,33.26,85.0
+Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,34.061904761905,71.413095238095,84.0
+Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,34.061904761905,71.413095238095,84.0
+Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,34.061904761905,71.413095238095,84.0
+Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,34.061904761905,71.413095238095,84.0
+Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,34.061904761905,71.413095238095,84.0
+Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,34.061904761905,71.413095238095,84.0
+Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,34.061904761905,71.413095238095,84.0
+Nicolás Hernández,887155,3,D,False,90,4,def,3/4,DEF,Away,Banfield,4-2-3-1,4,5,1,34.061904761905,71.413095238095,84.0
+Mathias de Ritis,1199467,15,D,False,90,5,def,4/4,DEF,Away,Banfield,4-2-3-1,4,5,1,51.042045454545,84.75,88.0
+Cristian Núñez,991476,5,M,False,45,6,mid_0,1/2,MED,Away,Banfield,4-2-3-1,4,5,1,39.814285714286,52.239285714286,28.0
+Jesús Miguel Soraire,943997,8,M,False,77,7,mid_0,2/2,MED,Away,Banfield,4-2-3-1,4,5,1,50.713333333333,48.617777777778,45.0
+Ignacio Rodríguez,1113236,11,M,False,60,8,mid_2,1/3,MED,Away,Banfield,4-2-3-1,4,5,1,50.1,45.245454545455,22.0
+Lautaro Villegas,1114489,38,M,False,60,9,mid_2,2/3,MED,Away,Banfield,4-2-3-1,4,5,1,52.296296296296,33.733333333333,27.0
+Juan Álvarez,881912,22,M,False,68,10,mid_2,3/3,MED,Away,Banfield,4-2-3-1,4,5,1,76.569444444444,27.533333333333,36.0
+Mauricio Roldán,1199315,18,F,False,90,11,ata,1/1,ATA,Away,Banfield,4-2-3-1,4,5,1,71.85,41.637037037037,54.0
 Yonathan Rodríguez,1197454,32,M,True,45,12,,,SUS,Away,Banfield,4-2-3-1,4,5,1,50.4,69.4125,24.0
 Matías González,1087041,10,M,True,30,13,,,SUS,Away,Banfield,4-2-3-1,4,5,1,80.408695652174,56.869565217391,23.0
 Braian Galván,896247,14,F,True,30,14,,,SUS,Away,Banfield,4-2-3-1,4,5,1,58.190476190476,85.466666666667,21.0
 Juan Bisanz,1489941,17,M,True,22,15,,,SUS,Away,Banfield,4-2-3-1,4,5,1,62.854545454545,31.581818181818,11.0
-Ezequiel Cañete,1017455,24,M,True,13,16,,,SUS,Away,Banfield,4-2-3-1,4,5,1,42.484848484848,54.848484848485,33.0
+Ezequiel Cañete,1017455,24,M,True,13,16,,,SUS,Away,Banfield,4-2-3-1,4,5,1,42.923529411765,55.414705882353,34.0
 José Devecchi,578460,26,G,True,0,17,,,SUS,Away,Banfield,4-2-3-1,4,5,1,,,
 Luciano Recalde,896879,25,D,True,0,18,,,SUS,Away,Banfield,4-2-3-1,4,5,1,,,
 Gabriel Aranda,1131027,47,D,True,0,19,,,SUS,Away,Banfield,4-2-3-1,4,5,1,,,
@@ -1609,36 +1854,36 @@ Francisco Facello,1464854,35,D,True,0,20,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,,,
 Matías Marín,874589,10,M,True,0,21,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,,,
 Facundo Lencioni,1516347,26,M,True,0,22,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,,,
 Ignacio Tapia,1118269,21,M,True,0,23,,,SUS,Home,Belgrano,3-4-1-2,3,5,2,,,
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Away,Unión de Santa Fé,3-5-2,3,5,2,8.378,50.182,50.0
-Nicolás Paz,1189173,32,D,False,90,2,def,1/3,DEF,Away,Unión de Santa Fé,3-5-2,3,5,2,34.862222222222,19.804444444444,45.0
-Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fé,3-5-2,3,5,2,24.528947368421,46.631578947368,38.0
-Claudio Corvalán,249383,3,D,False,90,4,def,3/3,DEF,Away,Unión de Santa Fé,3-5-2,3,5,2,35.768253968254,76.014285714286,63.0
-Lautaro Vargas,1485084,35,M,False,90,5,mid_1,1/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,39.704081632653,14.675510204082,49.0
-Mauro Pittón,796958,28,M,False,81,6,mid_1,2/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,49.025396825397,63.095238095238,63.0
-Mauro Pittón,796958,28,M,False,81,6,mid_1,2/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,49.025396825397,63.095238095238,63.0
-Mauro Pittón,796958,28,M,False,81,6,mid_1,2/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,49.025396825397,63.095238095238,63.0
-Mauro Pittón,796958,28,M,False,81,6,mid_1,2/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,49.025396825397,63.095238095238,63.0
-Mauro Pittón,796958,28,M,False,81,6,mid_1,2/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,49.025396825397,63.095238095238,63.0
-Mauro Pittón,796958,28,M,False,81,6,mid_1,2/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,49.025396825397,63.095238095238,63.0
-Mauro Pittón,796958,28,M,False,81,6,mid_1,2/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,49.025396825397,63.095238095238,63.0
-Mauro Pittón,796958,28,M,False,81,6,mid_1,2/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,49.025396825397,63.095238095238,63.0
-Joaquin Mosqueira,1464852,5,M,False,90,7,mid_1,3/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,38.765714285714,51.585714285714,35.0
-Simón Rivero,1131035,20,M,False,75,8,mid_1,4/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,49.044897959184,30.208163265306,49.0
-Bruno Pittón,800246,14,M,False,75,9,mid_1,5/5,MED,Away,Unión de Santa Fé,3-5-2,3,5,2,42.386538461538,81.026923076923,52.0
-Nicolás Orsini,347744,33,F,False,76,10,ata,1/2,ATA,Away,Unión de Santa Fé,3-5-2,3,5,2,58.065909090909,43.313636363636,44.0
-Adrián Balboa,368422,77,F,False,87,11,ata,2/2,ATA,Away,Unión de Santa Fé,3-5-2,3,5,2,68.405555555556,46.986111111111,36.0
-Valentín Fascendini,1537838,13,D,True,15,12,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,38.786666666667,79.913333333333,15.0
-Patricio Tanda,1067814,15,M,True,15,13,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,32.75,53.208333333333,12.0
-Gonzalo Javier Morales,1410399,9,F,True,14,14,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,57.71,39.68,10.0
-Enzo Roldán,1022263,10,M,True,9,15,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,45.788888888889,77.944444444444,9.0
-Lucas Gamba,789445,18,F,True,16,16,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,38.375,53.275,4.0
-Nicolás Campisi,978370,1,G,True,0,17,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,,,
-Miguel Torren,76383,2,D,True,0,18,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,,,
-Francisco Gerometta,1017181,22,D,True,0,19,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,,,
-Rafael Profini,1515401,24,M,True,0,20,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,,,
-Tiago Banega,1016652,19,M,True,0,21,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,,,
-Jeronimo Domina,1200744,30,F,True,0,22,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,,,
-Mateo Del Blanco,1183059,11,F,True,0,23,,,SUS,Away,Unión de Santa Fé,3-5-2,3,5,2,,,
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Away,Unión de Santa Fe,3-5-2,3,5,2,8.378,50.182,50.0
+Nicolás Paz,1189173,32,D,False,90,2,def,1/3,DEF,Away,Unión de Santa Fe,3-5-2,3,5,2,34.862222222222,19.804444444444,45.0
+Franco Pardo,879962,34,D,False,90,3,def,2/3,DEF,Away,Unión de Santa Fe,3-5-2,3,5,2,24.528947368421,46.631578947368,38.0
+Claudio Corvalán,249383,3,D,False,90,4,def,3/3,DEF,Away,Unión de Santa Fe,3-5-2,3,5,2,35.768253968254,76.014285714286,63.0
+Lautaro Vargas,1485084,35,M,False,90,5,mid_1,1/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,39.704081632653,14.675510204082,49.0
+Mauro Pittón,796958,28,M,False,81,6,mid_1,2/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,49.025396825397,63.095238095238,63.0
+Mauro Pittón,796958,28,M,False,81,6,mid_1,2/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,49.025396825397,63.095238095238,63.0
+Mauro Pittón,796958,28,M,False,81,6,mid_1,2/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,49.025396825397,63.095238095238,63.0
+Mauro Pittón,796958,28,M,False,81,6,mid_1,2/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,49.025396825397,63.095238095238,63.0
+Mauro Pittón,796958,28,M,False,81,6,mid_1,2/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,49.025396825397,63.095238095238,63.0
+Mauro Pittón,796958,28,M,False,81,6,mid_1,2/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,49.025396825397,63.095238095238,63.0
+Mauro Pittón,796958,28,M,False,81,6,mid_1,2/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,49.025396825397,63.095238095238,63.0
+Mauro Pittón,796958,28,M,False,81,6,mid_1,2/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,49.025396825397,63.095238095238,63.0
+Joaquin Mosqueira,1464852,5,M,False,90,7,mid_1,3/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,38.765714285714,51.585714285714,35.0
+Simón Rivero,1131035,20,M,False,75,8,mid_1,4/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,49.044897959184,30.208163265306,49.0
+Bruno Pittón,800246,14,M,False,75,9,mid_1,5/5,MED,Away,Unión de Santa Fe,3-5-2,3,5,2,42.386538461538,81.026923076923,52.0
+Nicolás Orsini,347744,33,F,False,76,10,ata,1/2,ATA,Away,Unión de Santa Fe,3-5-2,3,5,2,58.065909090909,43.313636363636,44.0
+Adrián Balboa,368422,77,F,False,87,11,ata,2/2,ATA,Away,Unión de Santa Fe,3-5-2,3,5,2,68.405555555556,46.986111111111,36.0
+Valentín Fascendini,1537838,13,D,True,15,12,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,38.786666666667,79.913333333333,15.0
+Patricio Tanda,1067814,15,M,True,15,13,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,32.75,53.208333333333,12.0
+Gonzalo Javier Morales,1410399,9,F,True,14,14,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,57.71,39.68,10.0
+Enzo Roldán,1022263,10,M,True,9,15,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,45.788888888889,77.944444444444,9.0
+Lucas Gamba,789445,18,F,True,16,16,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,38.375,53.275,4.0
+Nicolás Campisi,978370,1,G,True,0,17,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,,,
+Miguel Torren,76383,2,D,True,0,18,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,,,
+Francisco Gerometta,1017181,22,D,True,0,19,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,,,
+Rafael Profini,1515401,24,M,True,0,20,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,,,
+Tiago Banega,1016652,19,M,True,0,21,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,,,
+Jeronimo Domina,1200744,30,F,True,0,22,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,,,
+Mateo Del Blanco,1183059,11,F,True,0,23,,,SUS,Away,Unión de Santa Fe,3-5-2,3,5,2,,,
 Gabriel Arias,581782,21,G,False,45,1,por,1/1,POR,Home,Racing,3-4-3,3,4,3,10.574074074074,46.840740740741,27.0
 Marco Di Cesare,1017460,3,D,False,90,2,def,1/3,DEF,Home,Racing,3-4-3,3,4,3,33.724761904762,33.579047619048,105.0
 Santiago Sosa,928237,13,D,False,90,3,def,2/3,DEF,Home,Racing,3-4-3,3,4,3,45.306837606838,49.11452991453,117.0
@@ -2607,34 +2852,34 @@ Tobias Rubio,1201527,38,D,True,0,20,,,SUS,Away,Racing,4-1-4-1,4,5,1,,,
 Martin Barrios,930196,16,M,True,0,21,,,SUS,Away,Racing,4-1-4-1,4,5,1,,,
 Bruno Zuculini,249409,36,M,True,0,22,,,SUS,Away,Racing,4-1-4-1,4,5,1,,,
 Agustín Urzi,965775,18,F,True,0,23,,,SUS,Away,Racing,4-1-4-1,4,5,1,,,
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fé,5-3-2,5,3,2,9.2404255319149,50.468085106383,47.0
-Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,48.672131147541,16.588524590164,61.0
-Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,33.984615384615,25.060256410256,78.0
-Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,33.984615384615,25.060256410256,78.0
-Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,33.984615384615,25.060256410256,78.0
-Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,33.984615384615,25.060256410256,78.0
-Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,33.984615384615,25.060256410256,78.0
-Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,33.984615384615,25.060256410256,78.0
-Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,33.984615384615,25.060256410256,78.0
-Miguel Torren,76383,2,D,False,90,4,def,3/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,27.527272727273,51.813636363636,44.0
-Nicolás Paz,1189173,32,D,False,90,5,def,4/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,33.177777777778,79.048148148148,54.0
-Bruno Pittón,800246,14,D,False,64,6,def,5/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,52.745161290323,84.241935483871,31.0
-Simón Rivero,1131035,20,M,False,45,7,mid_1,1/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,58.918181818182,44.366666666667,33.0
-Joaquin Mosqueira,1464852,5,M,False,84,8,mid_1,2/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,47.223529411765,53.847058823529,34.0
-Mauro Pittón,796958,28,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,45.601724137931,61.286206896552,58.0
-Gonzalo Javier Morales,1410399,9,F,False,75,10,ata,1/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,64.469565217391,53.721739130435,23.0
-Adrián Balboa,368422,77,F,False,84,11,ata,2/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,63.061538461538,53.976923076923,39.0
-Enzo Roldán,1022263,10,M,True,45,12,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,53.316,35.336,25.0
-Mateo Del Blanco,1183059,11,F,True,26,13,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,51.453571428571,80.203571428571,28.0
-Lucas Gamba,789445,18,F,True,15,14,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,60.890909090909,41.563636363636,11.0
-Patricio Tanda,1067814,15,M,True,10,15,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,45.44,51.36,10.0
-Jeronimo Domina,1200744,30,F,True,10,16,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,53.133333333333,72.233333333333,6.0
-Nicolás Campisi,978370,1,G,True,0,17,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Francisco Gerometta,1017181,22,D,True,0,18,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Juan Pablo Luduena,1392241,26,D,True,0,19,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Valentín Fascendini,1537838,13,D,True,0,20,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Tiago Banega,1016652,19,M,True,0,21,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Rafael Profini,1515401,24,M,True,0,22,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fe,5-3-2,5,3,2,9.2404255319149,50.468085106383,47.0
+Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,48.672131147541,16.588524590164,61.0
+Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,33.984615384615,25.060256410256,78.0
+Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,33.984615384615,25.060256410256,78.0
+Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,33.984615384615,25.060256410256,78.0
+Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,33.984615384615,25.060256410256,78.0
+Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,33.984615384615,25.060256410256,78.0
+Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,33.984615384615,25.060256410256,78.0
+Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,33.984615384615,25.060256410256,78.0
+Miguel Torren,76383,2,D,False,90,4,def,3/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,27.527272727273,51.813636363636,44.0
+Nicolás Paz,1189173,32,D,False,90,5,def,4/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,33.177777777778,79.048148148148,54.0
+Bruno Pittón,800246,14,D,False,64,6,def,5/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,52.745161290323,84.241935483871,31.0
+Simón Rivero,1131035,20,M,False,45,7,mid_1,1/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,58.918181818182,44.366666666667,33.0
+Joaquin Mosqueira,1464852,5,M,False,84,8,mid_1,2/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,47.223529411765,53.847058823529,34.0
+Mauro Pittón,796958,28,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,45.601724137931,61.286206896552,58.0
+Gonzalo Javier Morales,1410399,9,F,False,75,10,ata,1/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,64.469565217391,53.721739130435,23.0
+Adrián Balboa,368422,77,F,False,84,11,ata,2/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,63.061538461538,53.976923076923,39.0
+Enzo Roldán,1022263,10,M,True,45,12,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,53.316,35.336,25.0
+Mateo Del Blanco,1183059,11,F,True,26,13,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,51.453571428571,80.203571428571,28.0
+Lucas Gamba,789445,18,F,True,15,14,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,60.890909090909,41.563636363636,11.0
+Patricio Tanda,1067814,15,M,True,10,15,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,45.44,51.36,10.0
+Jeronimo Domina,1200744,30,F,True,10,16,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,53.133333333333,72.233333333333,6.0
+Nicolás Campisi,978370,1,G,True,0,17,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Francisco Gerometta,1017181,22,D,True,0,18,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Juan Pablo Luduena,1392241,26,D,True,0,19,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Valentín Fascendini,1537838,13,D,True,0,20,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Tiago Banega,1016652,19,M,True,0,21,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Rafael Profini,1515401,24,M,True,0,22,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
 Franco Armani,221140,1,G,False,90,1,por,1/1,POR,Away,River,4-1-3-2,4,4,2,8.9236842105263,49.128947368421,38.0
 Milton Casco,122710,20,D,False,90,2,def,1/4,DEF,Away,River,4-1-3-2,4,4,2,48.698717948718,12.657692307692,78.0
 Milton Casco,122710,20,D,False,90,2,def,1/4,DEF,Away,River,4-1-3-2,4,4,2,48.698717948718,12.657692307692,78.0
@@ -3423,36 +3668,36 @@ Santiago Solari,1104323,28,F,True,0,20,,,SUS,Home,Racing,3-4-2-1,3,6,1,,,
 Bruno Zuculini,249409,36,M,True,0,21,,,SUS,Home,Racing,3-4-2-1,3,6,1,,,
 Agustín Urzi,965775,18,F,True,0,22,,,SUS,Home,Racing,3-4-2-1,3,6,1,,,
 Roger Martínez,344243,10,F,True,0,23,,,SUS,Home,Racing,3-4-2-1,3,6,1,,,
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Away,Unión de Santa Fé,5-3-2,5,3,2,10.018,51.174,50.0
-Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,49.928571428571,15.595604395604,91.0
-Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,49.928571428571,15.595604395604,91.0
-Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,49.928571428571,15.595604395604,91.0
-Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,49.928571428571,15.595604395604,91.0
-Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,49.928571428571,15.595604395604,91.0
-Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,49.928571428571,15.595604395604,91.0
-Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,49.928571428571,15.595604395604,91.0
-Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,49.928571428571,15.595604395604,91.0
-Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,36.812068965517,25.375862068966,58.0
-Miguel Torren,76383,2,D,False,66,4,def,3/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,30.717647058824,45.829411764706,51.0
-Claudio Corvalán,249383,3,D,False,79,5,def,4/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,41.487654320988,79.311111111111,81.0
-Bruno Pittón,800246,14,D,False,88,6,def,5/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,52.839784946237,85.040860215054,93.0
-Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,56.421621621622,55.07972972973,74.0
-Joaquin Mosqueira,1464852,5,M,False,45,8,mid_1,2/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,44.930434782609,55.065217391304,23.0
-Simón Rivero,1131035,20,M,False,85,9,mid_1,3/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,58.026153846154,57.044615384615,65.0
-Nicolás Orsini,347744,33,F,False,90,10,ata,1/2,ATA,Away,Unión de Santa Fé,5-3-2,5,3,2,64.822448979592,55.610204081633,49.0
-Adrián Balboa,368422,77,F,False,85,11,ata,2/2,ATA,Away,Unión de Santa Fé,5-3-2,5,3,2,64.117777777778,57.844444444444,45.0
-Patricio Tanda,1067814,15,M,True,45,12,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,47.006,54.162,50.0
-Gonzalo Javier Morales,1410399,9,F,True,24,13,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,81.357142857143,63.142857142857,7.0
-Enzo Roldán,1022263,10,M,True,11,14,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,68.05,26.77,10.0
-Lucas Gamba,789445,18,F,True,11,15,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,54.342857142857,91.085714285714,7.0
-Mateo Del Blanco,1183059,11,F,True,8,16,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,46.742857142857,85.885714285714,7.0
-Nicolás Campisi,978370,1,G,True,0,17,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Francisco Gerometta,1017181,22,D,True,0,18,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Juan Pablo Luduena,1392241,26,D,True,0,19,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Valentín Fascendini,1537838,13,D,True,0,20,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Tiago Banega,1016652,19,M,True,0,21,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Rafael Profini,1515401,24,M,True,0,22,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Jeronimo Domina,1200744,30,F,True,0,23,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Away,Unión de Santa Fe,5-3-2,5,3,2,10.018,51.174,50.0
+Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,49.928571428571,15.595604395604,91.0
+Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,49.928571428571,15.595604395604,91.0
+Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,49.928571428571,15.595604395604,91.0
+Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,49.928571428571,15.595604395604,91.0
+Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,49.928571428571,15.595604395604,91.0
+Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,49.928571428571,15.595604395604,91.0
+Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,49.928571428571,15.595604395604,91.0
+Lautaro Vargas,1485084,35,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,49.928571428571,15.595604395604,91.0
+Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,36.812068965517,25.375862068966,58.0
+Miguel Torren,76383,2,D,False,66,4,def,3/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,30.717647058824,45.829411764706,51.0
+Claudio Corvalán,249383,3,D,False,79,5,def,4/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,41.487654320988,79.311111111111,81.0
+Bruno Pittón,800246,14,D,False,88,6,def,5/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,52.839784946237,85.040860215054,93.0
+Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,56.421621621622,55.07972972973,74.0
+Joaquin Mosqueira,1464852,5,M,False,45,8,mid_1,2/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,44.930434782609,55.065217391304,23.0
+Simón Rivero,1131035,20,M,False,85,9,mid_1,3/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,58.026153846154,57.044615384615,65.0
+Nicolás Orsini,347744,33,F,False,90,10,ata,1/2,ATA,Away,Unión de Santa Fe,5-3-2,5,3,2,64.822448979592,55.610204081633,49.0
+Adrián Balboa,368422,77,F,False,85,11,ata,2/2,ATA,Away,Unión de Santa Fe,5-3-2,5,3,2,64.117777777778,57.844444444444,45.0
+Patricio Tanda,1067814,15,M,True,45,12,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,47.006,54.162,50.0
+Gonzalo Javier Morales,1410399,9,F,True,24,13,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,81.357142857143,63.142857142857,7.0
+Enzo Roldán,1022263,10,M,True,11,14,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,68.05,26.77,10.0
+Lucas Gamba,789445,18,F,True,11,15,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,54.342857142857,91.085714285714,7.0
+Mateo Del Blanco,1183059,11,F,True,8,16,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,46.742857142857,85.885714285714,7.0
+Nicolás Campisi,978370,1,G,True,0,17,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Francisco Gerometta,1017181,22,D,True,0,18,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Juan Pablo Luduena,1392241,26,D,True,0,19,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Valentín Fascendini,1537838,13,D,True,0,20,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Tiago Banega,1016652,19,M,True,0,21,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Rafael Profini,1515401,24,M,True,0,22,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Jeronimo Domina,1200744,30,F,True,0,23,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
 Franco Armani,221140,1,G,False,90,1,por,1/1,POR,Home,River,4-1-3-2,4,4,2,13.796296296296,47.133333333333,27.0
 Milton Casco,122710,20,D,False,90,2,def,1/4,DEF,Home,River,4-1-3-2,4,4,2,66.008045977011,29.179310344828,87.0
 Leandro González Pírez,158259,14,D,False,90,3,def,2/4,DEF,Home,River,4-1-3-2,4,4,2,46.727777777778,33.060185185185,108.0
@@ -4667,36 +4912,36 @@ Iván Pillud,82371,4,D,True,0,19,,,SUS,Away,Central Córdoba,4-3-3,4,3,3,,,
 José Goméz,1210616,36,D,True,0,20,,,SUS,Away,Central Córdoba,4-3-3,4,3,3,,,
 Leonardo Marchi,947210,3,D,True,0,21,,,SUS,Away,Central Córdoba,4-3-3,4,3,3,,,
 Gonzalo Trindade,1482278,14,D,True,0,22,,,SUS,Away,Central Córdoba,4-3-3,4,3,3,,,
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fé,5-3-2,5,3,2,9.3191489361702,49.468085106383,47.0
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fé,5-3-2,5,3,2,9.3191489361702,49.468085106383,47.0
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fé,5-3-2,5,3,2,9.3191489361702,49.468085106383,47.0
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fé,5-3-2,5,3,2,9.3191489361702,49.468085106383,47.0
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fé,5-3-2,5,3,2,9.3191489361702,49.468085106383,47.0
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fé,5-3-2,5,3,2,9.3191489361702,49.468085106383,47.0
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fé,5-3-2,5,3,2,9.3191489361702,49.468085106383,47.0
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fé,5-3-2,5,3,2,9.3191489361702,49.468085106383,47.0
-Lautaro Vargas,1485084,35,D,False,83,2,def,1/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,58.668333333333,11.09,60.0
-Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,36.741176470588,28.617647058824,51.0
-Miguel Torren,76383,2,D,False,62,4,def,3/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,29.8175,55.89,40.0
-Nicolás Paz,1189173,32,D,False,90,5,def,4/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,37.930769230769,76.761538461538,52.0
-Bruno Pittón,800246,14,D,False,45,6,def,5/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,49.266666666667,83.345833333333,24.0
-Simón Rivero,1131035,20,M,False,83,7,mid_1,1/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,60.289473684211,28.566666666667,57.0
-Joaquin Mosqueira,1464852,5,M,False,90,8,mid_1,2/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,46.267857142857,49.007142857143,56.0
-Mauro Pittón,796958,28,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,58.261818181818,62.230909090909,55.0
-Nicolás Orsini,347744,33,F,False,67,10,ata,1/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,65.758974358974,45.728205128205,39.0
-Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,67.114285714286,45.226984126984,63.0
-Mateo Del Blanco,1183059,11,F,True,45,12,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,58.150980392157,84.023529411765,51.0
-Gonzalo Javier Morales,1410399,9,F,True,28,13,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,59.858333333333,45.85,12.0
-Lucas Gamba,789445,18,F,True,23,14,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,77.493333333333,82.666666666667,15.0
-Francisco Gerometta,1017181,22,D,True,13,15,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,19.15,32.875,4.0
-Enzo Roldán,1022263,10,M,True,13,16,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,53.7,30.9375,8.0
-Nicolás Campisi,978370,1,G,True,0,17,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Juan Pablo Luduena,1392241,26,D,True,0,18,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Valentín Fascendini,1537838,13,D,True,0,19,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Patricio Tanda,1067814,15,M,True,0,20,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Rafael Profini,1515401,24,M,True,0,21,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Tiago Banega,1016652,19,M,True,0,22,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Jeronimo Domina,1200744,30,F,True,0,23,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fe,5-3-2,5,3,2,9.3191489361702,49.468085106383,47.0
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fe,5-3-2,5,3,2,9.3191489361702,49.468085106383,47.0
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fe,5-3-2,5,3,2,9.3191489361702,49.468085106383,47.0
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fe,5-3-2,5,3,2,9.3191489361702,49.468085106383,47.0
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fe,5-3-2,5,3,2,9.3191489361702,49.468085106383,47.0
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fe,5-3-2,5,3,2,9.3191489361702,49.468085106383,47.0
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fe,5-3-2,5,3,2,9.3191489361702,49.468085106383,47.0
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fe,5-3-2,5,3,2,9.3191489361702,49.468085106383,47.0
+Lautaro Vargas,1485084,35,D,False,83,2,def,1/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,58.668333333333,11.09,60.0
+Franco Pardo,879962,34,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,36.741176470588,28.617647058824,51.0
+Miguel Torren,76383,2,D,False,62,4,def,3/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,29.8175,55.89,40.0
+Nicolás Paz,1189173,32,D,False,90,5,def,4/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,37.930769230769,76.761538461538,52.0
+Bruno Pittón,800246,14,D,False,45,6,def,5/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,49.266666666667,83.345833333333,24.0
+Simón Rivero,1131035,20,M,False,83,7,mid_1,1/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,60.289473684211,28.566666666667,57.0
+Joaquin Mosqueira,1464852,5,M,False,90,8,mid_1,2/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,46.267857142857,49.007142857143,56.0
+Mauro Pittón,796958,28,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,58.261818181818,62.230909090909,55.0
+Nicolás Orsini,347744,33,F,False,67,10,ata,1/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,65.758974358974,45.728205128205,39.0
+Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,67.114285714286,45.226984126984,63.0
+Mateo Del Blanco,1183059,11,F,True,45,12,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,58.150980392157,84.023529411765,51.0
+Gonzalo Javier Morales,1410399,9,F,True,28,13,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,59.858333333333,45.85,12.0
+Lucas Gamba,789445,18,F,True,23,14,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,77.493333333333,82.666666666667,15.0
+Francisco Gerometta,1017181,22,D,True,13,15,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,19.15,32.875,4.0
+Enzo Roldán,1022263,10,M,True,13,16,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,53.7,30.9375,8.0
+Nicolás Campisi,978370,1,G,True,0,17,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Juan Pablo Luduena,1392241,26,D,True,0,18,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Valentín Fascendini,1537838,13,D,True,0,19,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Patricio Tanda,1067814,15,M,True,0,20,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Rafael Profini,1515401,24,M,True,0,21,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Tiago Banega,1016652,19,M,True,0,22,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Jeronimo Domina,1200744,30,F,True,0,23,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
 Jorge Broun,789406,1,G,False,90,1,por,1/1,POR,Away,Rosario Central,4-2-3-1,4,5,1,7.4378378378378,48.408108108108,37.0
 Emanuel Coronel,895593,32,D,False,90,2,def,1/4,DEF,Away,Rosario Central,4-2-3-1,4,5,1,41.810227272727,12.586363636364,88.0
 Facundo Mallo,877400,15,D,False,90,3,def,2/4,DEF,Away,Rosario Central,4-2-3-1,4,5,1,31.815517241379,31.653448275862,58.0
@@ -5487,36 +5732,36 @@ Mikel Amondarain,1510920,35,M,True,0,20,,,SUS,Home,Estudiantes,4-3-3,4,3,3,,,
 Axel Atum,1485373,29,M,True,0,21,,,SUS,Home,Estudiantes,4-3-3,4,3,3,,,
 Bautista Kociubinski,1086935,24,M,True,0,22,,,SUS,Home,Estudiantes,4-3-3,4,3,3,,,
 Benjamin Sagues Barreiro,1838978,49,F,True,0,23,,,SUS,Home,Estudiantes,4-3-3,4,3,3,,,
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Away,Unión de Santa Fé,5-3-2,5,3,2,6.1976744186047,50.439534883721,43.0
-Lautaro Vargas,1485084,35,D,False,73,2,def,1/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,45.203921568627,13.905882352941,51.0
-Nicolás Paz,1189173,32,D,False,90,3,def,2/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,31.130555555556,20.775,36.0
-Franco Pardo,879962,34,D,False,90,4,def,3/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,28.236,48.716,50.0
-Claudio Corvalán,249383,3,D,False,90,5,def,4/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,31.441891891892,76.339189189189,74.0
-Bruno Pittón,800246,14,D,False,76,6,def,5/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,49.59,86.63,60.0
-Mauro Pittón,796958,28,M,False,76,7,mid_1,1/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,51.648,30.316,50.0
-Joaquin Mosqueira,1464852,5,M,False,90,8,mid_1,2/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,38.073469387755,55.512244897959,49.0
-Simón Rivero,1131035,20,M,False,68,9,mid_1,3/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,49.0625,65.3925,40.0
-Simón Rivero,1131035,20,M,False,68,9,mid_1,3/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,49.0625,65.3925,40.0
-Simón Rivero,1131035,20,M,False,68,9,mid_1,3/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,49.0625,65.3925,40.0
-Simón Rivero,1131035,20,M,False,68,9,mid_1,3/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,49.0625,65.3925,40.0
-Simón Rivero,1131035,20,M,False,68,9,mid_1,3/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,49.0625,65.3925,40.0
-Simón Rivero,1131035,20,M,False,68,9,mid_1,3/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,49.0625,65.3925,40.0
-Simón Rivero,1131035,20,M,False,68,9,mid_1,3/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,49.0625,65.3925,40.0
-Simón Rivero,1131035,20,M,False,68,9,mid_1,3/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,49.0625,65.3925,40.0
-Nicolás Orsini,347744,33,F,False,90,10,ata,1/2,ATA,Away,Unión de Santa Fé,5-3-2,5,3,2,60.427083333333,47.470833333333,48.0
-Adrián Balboa,368422,77,F,False,68,11,ata,2/2,ATA,Away,Unión de Santa Fé,5-3-2,5,3,2,59.891176470588,60.917647058824,34.0
-Lucas Gamba,789445,18,F,True,22,12,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,59.311764705882,65.141176470588,17.0
-Jeronimo Domina,1200744,30,F,True,22,13,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,44.2,78.194117647059,17.0
-Francisco Gerometta,1017181,22,D,True,17,14,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,28.642857142857,21.471428571429,7.0
-Valentín Fascendini,1537838,13,D,True,14,15,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,36.475,80.7375,16.0
-Enzo Roldán,1022263,10,M,True,14,16,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,56.1,28.75,6.0
-Nicolás Campisi,978370,1,G,True,0,17,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Miguel Torren,76383,2,D,True,0,18,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Juan Pablo Luduena,1392241,26,D,True,0,19,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Patricio Tanda,1067814,15,M,True,0,20,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Tiago Banega,1016652,19,M,True,0,21,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Gonzalo Javier Morales,1410399,9,F,True,0,22,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Mateo Del Blanco,1183059,11,F,True,0,23,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Away,Unión de Santa Fe,5-3-2,5,3,2,6.1976744186047,50.439534883721,43.0
+Lautaro Vargas,1485084,35,D,False,73,2,def,1/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,45.203921568627,13.905882352941,51.0
+Nicolás Paz,1189173,32,D,False,90,3,def,2/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,31.130555555556,20.775,36.0
+Franco Pardo,879962,34,D,False,90,4,def,3/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,28.236,48.716,50.0
+Claudio Corvalán,249383,3,D,False,90,5,def,4/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,31.441891891892,76.339189189189,74.0
+Bruno Pittón,800246,14,D,False,76,6,def,5/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,49.59,86.63,60.0
+Mauro Pittón,796958,28,M,False,76,7,mid_1,1/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,51.648,30.316,50.0
+Joaquin Mosqueira,1464852,5,M,False,90,8,mid_1,2/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,38.073469387755,55.512244897959,49.0
+Simón Rivero,1131035,20,M,False,68,9,mid_1,3/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,49.0625,65.3925,40.0
+Simón Rivero,1131035,20,M,False,68,9,mid_1,3/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,49.0625,65.3925,40.0
+Simón Rivero,1131035,20,M,False,68,9,mid_1,3/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,49.0625,65.3925,40.0
+Simón Rivero,1131035,20,M,False,68,9,mid_1,3/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,49.0625,65.3925,40.0
+Simón Rivero,1131035,20,M,False,68,9,mid_1,3/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,49.0625,65.3925,40.0
+Simón Rivero,1131035,20,M,False,68,9,mid_1,3/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,49.0625,65.3925,40.0
+Simón Rivero,1131035,20,M,False,68,9,mid_1,3/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,49.0625,65.3925,40.0
+Simón Rivero,1131035,20,M,False,68,9,mid_1,3/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,49.0625,65.3925,40.0
+Nicolás Orsini,347744,33,F,False,90,10,ata,1/2,ATA,Away,Unión de Santa Fe,5-3-2,5,3,2,60.427083333333,47.470833333333,48.0
+Adrián Balboa,368422,77,F,False,68,11,ata,2/2,ATA,Away,Unión de Santa Fe,5-3-2,5,3,2,59.891176470588,60.917647058824,34.0
+Lucas Gamba,789445,18,F,True,22,12,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,59.311764705882,65.141176470588,17.0
+Jeronimo Domina,1200744,30,F,True,22,13,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,44.2,78.194117647059,17.0
+Francisco Gerometta,1017181,22,D,True,17,14,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,28.642857142857,21.471428571429,7.0
+Valentín Fascendini,1537838,13,D,True,14,15,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,36.475,80.7375,16.0
+Enzo Roldán,1022263,10,M,True,14,16,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,56.1,28.75,6.0
+Nicolás Campisi,978370,1,G,True,0,17,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Miguel Torren,76383,2,D,True,0,18,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Juan Pablo Luduena,1392241,26,D,True,0,19,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Patricio Tanda,1067814,15,M,True,0,20,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Tiago Banega,1016652,19,M,True,0,21,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Gonzalo Javier Morales,1410399,9,F,True,0,22,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Mateo Del Blanco,1183059,11,F,True,0,23,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
 Cristopher Fiermarín,881111,22,G,False,90,1,por,1/1,POR,Home,Def y Justicia,3-4-2-1,3,6,1,8.5980769230769,51.880769230769,52.0
 Lucas Ferreira,1023053,6,D,False,84,2,def,1/3,DEF,Home,Def y Justicia,3-4-2-1,3,6,1,37.668493150685,16.052054794521,73.0
 Emanuel Aguilera,147576,28,D,False,90,3,def,2/3,DEF,Home,Def y Justicia,3-4-2-1,3,6,1,25.770588235294,36.652941176471,68.0
@@ -6302,36 +6547,36 @@ Juan Pablo Pignani,1176234,2,D,True,0,20,,,SUS,Away,Platense,4-1-4-1,4,5,1,,,
 Agustin Quiroga,1484795,27,D,True,0,21,,,SUS,Away,Platense,4-1-4-1,4,5,1,,,
 Lisandro Montenegro,1466810,43,M,True,0,22,,,SUS,Away,Platense,4-1-4-1,4,5,1,,,
 Agustín Obando,922441,7,F,True,0,23,,,SUS,Away,Platense,4-1-4-1,4,5,1,,,
-Nicolás Campisi,978370,1,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fé,5-3-2,5,3,2,11.033333333333,52.780952380952,21.0
-Federico Vera,981338,16,D,False,45,2,def,1/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,49.23829787234,10.348936170213,47.0
-Nicolás Paz,1189173,32,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,37.016981132075,22.333962264151,53.0
-Franco Pardo,879962,34,D,False,90,4,def,3/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,33.796774193548,53.204838709677,62.0
-Claudio Corvalán,249383,3,D,False,90,5,def,4/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,52.660759493671,84.603797468354,79.0
-Mateo Del Blanco,1183059,11,D,False,67,6,def,5/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,59.735849056604,85.781132075472,53.0
-Mauro Pittón,796958,28,M,False,67,7,mid_1,1/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,52.18947368421,32.589473684211,57.0
-Joaquin Mosqueira,1464852,5,M,False,90,8,mid_1,2/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,42.535849056604,52.979245283019,53.0
-Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,60.804166666667,63.094444444444,72.0
-Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,60.804166666667,63.094444444444,72.0
-Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,60.804166666667,63.094444444444,72.0
-Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,60.804166666667,63.094444444444,72.0
-Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,60.804166666667,63.094444444444,72.0
-Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,60.804166666667,63.094444444444,72.0
-Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,60.804166666667,63.094444444444,72.0
-Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,60.804166666667,63.094444444444,72.0
-Nicolás Orsini,347744,33,F,False,89,10,ata,1/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,70.692,43.766,50.0
-Jeronimo Domina,1200744,30,F,False,45,11,ata,2/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,67.144,50.644,25.0
-Lautaro Vargas,1485084,35,D,True,45,12,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,55.977142857143,15.548571428571,35.0
-Lucas Gamba,789445,18,F,True,45,13,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,70.531428571429,69.745714285714,35.0
-Simón Rivero,1131035,20,M,True,23,14,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,45.65625,27.59375,16.0
-Gonzalo Javier Morales,1410399,9,F,True,23,15,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,50.1,20.033333333333,9.0
-Valentín Fascendini,1537838,13,D,True,1,16,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,9.3,66.5,2.0
-Lucas Meuli,1200751,40,G,True,0,17,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Juan Pablo Luduena,1392241,26,D,True,0,18,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Miguel Torren,76383,2,D,True,0,19,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Tiago Banega,1016652,19,M,True,0,20,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Enzo Roldán,1022263,10,M,True,0,21,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Rafael Profini,1515401,24,M,True,0,22,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Lionel Verde,1523447,31,F,True,0,23,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
+Nicolás Campisi,978370,1,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fe,5-3-2,5,3,2,11.033333333333,52.780952380952,21.0
+Federico Vera,981338,16,D,False,45,2,def,1/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,49.23829787234,10.348936170213,47.0
+Nicolás Paz,1189173,32,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,37.016981132075,22.333962264151,53.0
+Franco Pardo,879962,34,D,False,90,4,def,3/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,33.796774193548,53.204838709677,62.0
+Claudio Corvalán,249383,3,D,False,90,5,def,4/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,52.660759493671,84.603797468354,79.0
+Mateo Del Blanco,1183059,11,D,False,67,6,def,5/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,59.735849056604,85.781132075472,53.0
+Mauro Pittón,796958,28,M,False,67,7,mid_1,1/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,52.18947368421,32.589473684211,57.0
+Joaquin Mosqueira,1464852,5,M,False,90,8,mid_1,2/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,42.535849056604,52.979245283019,53.0
+Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,60.804166666667,63.094444444444,72.0
+Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,60.804166666667,63.094444444444,72.0
+Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,60.804166666667,63.094444444444,72.0
+Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,60.804166666667,63.094444444444,72.0
+Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,60.804166666667,63.094444444444,72.0
+Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,60.804166666667,63.094444444444,72.0
+Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,60.804166666667,63.094444444444,72.0
+Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,60.804166666667,63.094444444444,72.0
+Nicolás Orsini,347744,33,F,False,89,10,ata,1/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,70.692,43.766,50.0
+Jeronimo Domina,1200744,30,F,False,45,11,ata,2/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,67.144,50.644,25.0
+Lautaro Vargas,1485084,35,D,True,45,12,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,55.977142857143,15.548571428571,35.0
+Lucas Gamba,789445,18,F,True,45,13,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,70.531428571429,69.745714285714,35.0
+Simón Rivero,1131035,20,M,True,23,14,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,45.65625,27.59375,16.0
+Gonzalo Javier Morales,1410399,9,F,True,23,15,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,50.1,20.033333333333,9.0
+Valentín Fascendini,1537838,13,D,True,1,16,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,9.3,66.5,2.0
+Lucas Meuli,1200751,40,G,True,0,17,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Juan Pablo Luduena,1392241,26,D,True,0,18,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Miguel Torren,76383,2,D,True,0,19,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Tiago Banega,1016652,19,M,True,0,20,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Enzo Roldán,1022263,10,M,True,0,21,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Rafael Profini,1515401,24,M,True,0,22,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Lionel Verde,1523447,31,F,True,0,23,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
 Facundo Altamirano,794812,13,G,False,90,1,por,1/1,POR,Away,San Lorenzo,3-4-2-1,3,6,1,9.5193548387097,47.787096774194,31.0
 Jhohan Romaña,839734,4,D,False,90,2,def,1/3,DEF,Away,San Lorenzo,3-4-2-1,3,6,1,27.023529411765,24.501470588235,68.0
 Daniel Herrera,1835531,36,D,False,90,3,def,2/3,DEF,Away,San Lorenzo,3-4-2-1,3,6,1,25.358333333333,49.301388888889,72.0
@@ -6799,15 +7044,15 @@ Jorge Broun,789406,1,G,False,90,1,por,1/1,POR,Home,Rosario Central,4-4-2,4,4,2,1
 Emanuel Coronel,895593,33,D,False,90,2,def,1/4,DEF,Home,Rosario Central,4-4-2,4,4,2,53.187755102041,15.016326530612,98.0
 Facundo Mallo,877400,15,D,False,90,3,def,2/4,DEF,Home,Rosario Central,4-4-2,4,4,2,39.923255813954,33.345348837209,86.0
 Juan Komar,376734,6,D,False,90,4,def,3/4,DEF,Home,Rosario Central,4-4-2,4,4,2,36.346428571429,66.933333333333,84.0
-Juan Komar,376734,6,D,False,90,4,def,3/4,DEF,Home,Rosario Central,4-4-2,4,4,2,36.346428571429,66.933333333333,84.0
-Juan Komar,376734,6,D,False,90,4,def,3/4,DEF,Home,Rosario Central,4-4-2,4,4,2,36.346428571429,66.933333333333,84.0
-Juan Komar,376734,6,D,False,90,4,def,3/4,DEF,Home,Rosario Central,4-4-2,4,4,2,36.346428571429,66.933333333333,84.0
-Juan Komar,376734,6,D,False,90,4,def,3/4,DEF,Home,Rosario Central,4-4-2,4,4,2,36.346428571429,66.933333333333,84.0
-Juan Komar,376734,6,D,False,90,4,def,3/4,DEF,Home,Rosario Central,4-4-2,4,4,2,36.346428571429,66.933333333333,84.0
-Juan Komar,376734,6,D,False,90,4,def,3/4,DEF,Home,Rosario Central,4-4-2,4,4,2,36.346428571429,66.933333333333,84.0
-Juan Komar,376734,6,D,False,90,4,def,3/4,DEF,Home,Rosario Central,4-4-2,4,4,2,36.346428571429,66.933333333333,84.0
-Juan Komar,376734,6,D,False,90,4,def,3/4,DEF,Home,Rosario Central,4-4-2,4,4,2,36.346428571429,66.933333333333,84.0
 Alan Rodríguez,990289,21,D,False,90,5,def,4/4,DEF,Home,Rosario Central,4-4-2,4,4,2,47.930769230769,84.861538461538,104.0
+Ignacio Malcorra,789427,10,M,False,69,6,mid_1,1/4,MED,Home,Rosario Central,4-4-2,4,4,2,67.449122807018,29.682456140351,57.0
+Ignacio Malcorra,789427,10,M,False,69,6,mid_1,1/4,MED,Home,Rosario Central,4-4-2,4,4,2,67.449122807018,29.682456140351,57.0
+Ignacio Malcorra,789427,10,M,False,69,6,mid_1,1/4,MED,Home,Rosario Central,4-4-2,4,4,2,67.449122807018,29.682456140351,57.0
+Ignacio Malcorra,789427,10,M,False,69,6,mid_1,1/4,MED,Home,Rosario Central,4-4-2,4,4,2,67.449122807018,29.682456140351,57.0
+Ignacio Malcorra,789427,10,M,False,69,6,mid_1,1/4,MED,Home,Rosario Central,4-4-2,4,4,2,67.449122807018,29.682456140351,57.0
+Ignacio Malcorra,789427,10,M,False,69,6,mid_1,1/4,MED,Home,Rosario Central,4-4-2,4,4,2,67.449122807018,29.682456140351,57.0
+Ignacio Malcorra,789427,10,M,False,69,6,mid_1,1/4,MED,Home,Rosario Central,4-4-2,4,4,2,67.449122807018,29.682456140351,57.0
+Ignacio Malcorra,789427,10,M,False,69,6,mid_1,1/4,MED,Home,Rosario Central,4-4-2,4,4,2,67.449122807018,29.682456140351,57.0
 Ignacio Malcorra,789427,10,M,False,69,6,mid_1,1/4,MED,Home,Rosario Central,4-4-2,4,4,2,67.449122807018,29.682456140351,57.0
 Franco Ibarra,989796,8,M,False,90,7,mid_1,2/4,MED,Home,Rosario Central,4-4-2,4,4,2,42.078947368421,47.830526315789,95.0
 Mauricio Martínez,789402,16,M,False,45,8,mid_1,3/4,MED,Home,Rosario Central,4-4-2,4,4,2,51.228571428571,65.608571428571,35.0
@@ -7319,37 +7564,37 @@ Julian Ascacibar,1087042,18,M,True,0,20,,,SUS,Home,Ind. Rivadavia,5-4-1,5,4,1,,,
 Francisco Maidana,1126884,28,M,True,0,21,,,SUS,Home,Ind. Rivadavia,5-4-1,5,4,1,,,
 Gastón Gil Romero,249925,5,M,True,0,22,,,SUS,Home,Ind. Rivadavia,5-4-1,5,4,1,,,
 Emiliano Saliadarre,1406311,39,F,True,0,23,,,SUS,Home,Ind. Rivadavia,5-4-1,5,4,1,,,
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Away,Unión de Santa Fé,5-3-2,5,3,2,8.924,49.144,50.0
-Federico Vera,981338,16,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,50.150943396226,12.837735849057,53.0
-Nicolás Paz,1189173,32,D,False,90,3,def,2/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,31.258823529412,29.074509803922,51.0
-Franco Pardo,879962,34,D,False,90,4,def,3/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,30.375,49.6765625,64.0
-Claudio Corvalán,249383,3,D,False,90,5,def,4/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,38.801694915254,77.413559322034,59.0
-Bruno Pittón,800246,14,D,False,73,6,def,5/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,45.874193548387,82.324193548387,62.0
-Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
-Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
-Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
-Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
-Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
-Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
-Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
-Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
-Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
-Joaquin Mosqueira,1464852,5,M,False,45,8,mid_1,2/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,40.083333333333,59.016666666667,18.0
-Simón Rivero,1131035,20,M,False,84,9,mid_1,3/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,59.087234042553,51.229787234043,47.0
-Nicolás Orsini,347744,33,F,False,79,10,ata,1/2,ATA,Away,Unión de Santa Fé,5-3-2,5,3,2,68.453846153846,44.953846153846,52.0
-Adrián Balboa,368422,77,F,False,85,11,ata,2/2,ATA,Away,Unión de Santa Fé,5-3-2,5,3,2,65.314583333333,45.145833333333,48.0
-Mateo Del Blanco,1183059,11,F,True,44,12,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,46.048571428571,70.891428571429,35.0
-Lucas Gamba,789445,18,F,True,11,13,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,61.11875,53.9875,16.0
-Enzo Roldán,1022263,10,M,True,13,14,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,53.02,42.08,5.0
-Juan Pablo Luduena,1392241,26,D,True,1,15,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,42.2,94.7,1.0
-Nicolás Campisi,978370,1,G,True,0,16,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Lautaro Vargas,1485084,35,D,True,0,17,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Miguel Torren,76383,2,D,True,0,18,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Rafael Profini,1515401,24,M,True,0,19,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Francisco Pumpido,1861054,36,M,True,0,20,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Tiago Banega,1016652,19,M,True,0,21,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Gonzalo Javier Morales,1410399,9,F,True,0,22,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Lionel Verde,1523447,31,F,True,0,23,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Away,Unión de Santa Fe,5-3-2,5,3,2,8.924,49.144,50.0
+Federico Vera,981338,16,D,False,90,2,def,1/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,50.150943396226,12.837735849057,53.0
+Nicolás Paz,1189173,32,D,False,90,3,def,2/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,31.258823529412,29.074509803922,51.0
+Franco Pardo,879962,34,D,False,90,4,def,3/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,30.375,49.6765625,64.0
+Claudio Corvalán,249383,3,D,False,90,5,def,4/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,38.801694915254,77.413559322034,59.0
+Bruno Pittón,800246,14,D,False,73,6,def,5/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,45.874193548387,82.324193548387,62.0
+Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
+Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
+Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
+Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
+Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
+Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
+Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
+Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
+Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,46.643661971831,46.367605633803,71.0
+Joaquin Mosqueira,1464852,5,M,False,45,8,mid_1,2/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,40.083333333333,59.016666666667,18.0
+Simón Rivero,1131035,20,M,False,84,9,mid_1,3/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,59.087234042553,51.229787234043,47.0
+Nicolás Orsini,347744,33,F,False,79,10,ata,1/2,ATA,Away,Unión de Santa Fe,5-3-2,5,3,2,68.453846153846,44.953846153846,52.0
+Adrián Balboa,368422,77,F,False,85,11,ata,2/2,ATA,Away,Unión de Santa Fe,5-3-2,5,3,2,65.314583333333,45.145833333333,48.0
+Mateo Del Blanco,1183059,11,F,True,44,12,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,46.048571428571,70.891428571429,35.0
+Lucas Gamba,789445,18,F,True,11,13,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,61.11875,53.9875,16.0
+Enzo Roldán,1022263,10,M,True,13,14,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,53.02,42.08,5.0
+Juan Pablo Luduena,1392241,26,D,True,1,15,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,42.2,94.7,1.0
+Nicolás Campisi,978370,1,G,True,0,16,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Lautaro Vargas,1485084,35,D,True,0,17,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Miguel Torren,76383,2,D,True,0,18,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Rafael Profini,1515401,24,M,True,0,19,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Francisco Pumpido,1861054,36,M,True,0,20,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Tiago Banega,1016652,19,M,True,0,21,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Gonzalo Javier Morales,1410399,9,F,True,0,22,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Lionel Verde,1523447,31,F,True,0,23,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
 Ignacio Arce,896998,1,G,False,90,1,por,1/1,POR,Home,Dep. Riestra,4-4-2,4,4,2,13.413559322034,45.672881355932,59.0
 Delfor Minervino,950814,36,D,False,45,2,def,1/4,DEF,Home,Dep. Riestra,4-4-2,4,4,2,61.882857142857,26.82,35.0
 Alan Barrionuevo,1110289,40,D,False,90,3,def,2/4,DEF,Home,Dep. Riestra,4-4-2,4,4,2,35.520895522388,32.405970149254,67.0
@@ -8026,35 +8271,35 @@ Rodrigo Piñeiro,924872,17,F,True,0,20,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1
 Álvaro Montoro,1650770,36,M,True,0,21,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,,,
 Thiago Vecino,923802,18,F,True,0,22,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,,,
 Matías Pellegrini,940610,11,F,True,0,23,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,,,
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fé,5-3-2,5,3,2,7.4225806451613,49.322580645161,31.0
-Federico Vera,981338,16,D,False,72,2,def,1/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,64.049206349206,14.546031746032,63.0
-Nicolás Paz,1189173,32,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,38.435849056604,23.103773584906,53.0
-Franco Pardo,879962,34,D,False,90,4,def,3/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,33.195,47.4225,40.0
-Claudio Corvalán,249383,3,D,False,90,5,def,4/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,42.81746031746,81.379365079365,63.0
-Bruno Pittón,800246,14,D,False,72,6,def,5/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,63.831884057971,81.665217391304,69.0
-Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,59.107792207792,36.415584415584,77.0
-Joaquin Mosqueira,1464852,5,M,False,89,8,mid_1,2/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,40.869090909091,59.923636363636,55.0
-Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,55.450632911392,74.287341772152,79.0
-Nicolás Orsini,347744,33,F,False,73,10,ata,1/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,66.57,41.334,50.0
-Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,68.879411764706,52.041176470588,68.0
-Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,68.879411764706,52.041176470588,68.0
-Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,68.879411764706,52.041176470588,68.0
-Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,68.879411764706,52.041176470588,68.0
-Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,68.879411764706,52.041176470588,68.0
-Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,68.879411764706,52.041176470588,68.0
-Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,68.879411764706,52.041176470588,68.0
-Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,68.879411764706,52.041176470588,68.0
-Lautaro Vargas,1485084,35,D,True,18,12,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,76.542857142857,13.864285714286,14.0
-Valentín Fascendini,1537838,13,D,True,18,13,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,46.07619047619,82.014285714286,21.0
-Lucas Gamba,789445,18,F,True,17,14,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,49.676923076923,80.061538461538,13.0
-Jeronimo Domina,1200744,30,F,True,7,15,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,65.771428571429,38.157142857143,7.0
-Nicolás Campisi,978370,1,G,True,0,16,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Miguel Torren,76383,2,D,True,0,17,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Juan Pablo Luduena,1392241,26,D,True,0,18,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Enzo Roldán,1022263,10,M,True,0,19,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Simón Rivero,1131035,20,M,True,0,20,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Rafael Profini,1515401,24,M,True,0,21,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Gonzalo Javier Morales,1410399,9,F,True,0,22,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fe,5-3-2,5,3,2,7.4225806451613,49.322580645161,31.0
+Federico Vera,981338,16,D,False,72,2,def,1/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,64.049206349206,14.546031746032,63.0
+Nicolás Paz,1189173,32,D,False,90,3,def,2/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,38.435849056604,23.103773584906,53.0
+Franco Pardo,879962,34,D,False,90,4,def,3/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,33.195,47.4225,40.0
+Claudio Corvalán,249383,3,D,False,90,5,def,4/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,42.81746031746,81.379365079365,63.0
+Bruno Pittón,800246,14,D,False,72,6,def,5/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,63.831884057971,81.665217391304,69.0
+Mauro Pittón,796958,28,M,False,90,7,mid_1,1/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,59.107792207792,36.415584415584,77.0
+Joaquin Mosqueira,1464852,5,M,False,89,8,mid_1,2/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,40.869090909091,59.923636363636,55.0
+Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,55.450632911392,74.287341772152,79.0
+Nicolás Orsini,347744,33,F,False,73,10,ata,1/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,66.57,41.334,50.0
+Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,68.879411764706,52.041176470588,68.0
+Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,68.879411764706,52.041176470588,68.0
+Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,68.879411764706,52.041176470588,68.0
+Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,68.879411764706,52.041176470588,68.0
+Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,68.879411764706,52.041176470588,68.0
+Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,68.879411764706,52.041176470588,68.0
+Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,68.879411764706,52.041176470588,68.0
+Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,68.879411764706,52.041176470588,68.0
+Lautaro Vargas,1485084,35,D,True,18,12,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,76.542857142857,13.864285714286,14.0
+Valentín Fascendini,1537838,13,D,True,18,13,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,46.07619047619,82.014285714286,21.0
+Lucas Gamba,789445,18,F,True,17,14,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,49.676923076923,80.061538461538,13.0
+Jeronimo Domina,1200744,30,F,True,7,15,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,65.771428571429,38.157142857143,7.0
+Nicolás Campisi,978370,1,G,True,0,16,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Miguel Torren,76383,2,D,True,0,17,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Juan Pablo Luduena,1392241,26,D,True,0,18,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Enzo Roldán,1022263,10,M,True,0,19,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Simón Rivero,1131035,20,M,True,0,20,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Rafael Profini,1515401,24,M,True,0,21,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Gonzalo Javier Morales,1410399,9,F,True,0,22,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
 Sebastián Moyano,147578,25,G,False,90,1,por,1/1,POR,Away,Barracas,4-2-3-1,4,5,1,9.9092592592593,48.811111111111,54.0
 Facundo Mater,896753,33,D,False,90,2,def,1/4,DEF,Away,Barracas,4-2-3-1,4,5,1,50.015841584158,21.209900990099,101.0
 Nicolas Capraro,1190570,2,D,False,90,3,def,2/4,DEF,Away,Barracas,4-2-3-1,4,5,1,35.633707865169,29.514606741573,89.0
@@ -8365,37 +8610,37 @@ Jeremías Lázaro,1649316,16,M,True,0,20,,,SUS,Home,Instituto,4-4-2,4,4,2,,,
 Guido Mainero,895232,17,F,True,0,21,,,SUS,Home,Instituto,4-4-2,4,4,2,,,
 Stefano Moreyra,1086973,34,M,True,0,22,,,SUS,Home,Instituto,4-4-2,4,4,2,,,
 Silvio Romero,174937,10,F,True,0,23,,,SUS,Home,Instituto,4-4-2,4,4,2,,,
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Away,Unión de Santa Fé,5-3-2,5,3,2,11.861111111111,44.130555555556,36.0
-Lautaro Vargas,1485084,35,D,False,70,2,def,1/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,51.687931034483,15.353448275862,58.0
-Nicolás Paz,1189173,32,D,False,56,3,def,2/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,36.958620689655,27.506896551724,29.0
-Franco Pardo,879962,34,D,False,90,4,def,3/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,35.022988505747,39.968965517241,87.0
-Claudio Corvalán,249383,3,D,False,90,5,def,4/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,44.092857142857,75.861224489796,98.0
-Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
-Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
-Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
-Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
-Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
-Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
-Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
-Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
-Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fé,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
-Mauro Pittón,796958,28,M,False,86,7,mid_1,1/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,56.002127659574,50.478723404255,47.0
-Joaquin Mosqueira,1464852,5,M,False,56,8,mid_1,2/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,47.75,54.791176470588,34.0
-Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Away,Unión de Santa Fé,5-3-2,5,3,2,57.158227848101,66.849367088608,79.0
-Nicolás Orsini,347744,33,F,False,90,10,ata,1/2,ATA,Away,Unión de Santa Fé,5-3-2,5,3,2,65.286842105263,53.428947368421,38.0
-Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Away,Unión de Santa Fé,5-3-2,5,3,2,68.139393939394,64.093939393939,33.0
-Enzo Roldán,1022263,10,M,True,34,12,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,48.717647058824,43.805882352941,34.0
-Lucas Gamba,789445,18,F,True,34,13,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,71.66875,75.7625,16.0
-Federico Vera,981338,16,D,True,20,14,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,31.421212121212,13.827272727273,33.0
-Jeronimo Domina,1200744,30,F,True,8,15,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,41.742857142857,9.1,7.0
-Nicolás Campisi,978370,1,G,True,0,16,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Miguel Torren,76383,2,D,True,0,17,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Valentín Fascendini,1537838,13,D,True,0,18,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Juan Pablo Luduena,1392241,26,D,True,0,19,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Tiago Banega,1016652,19,M,True,0,20,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Simón Rivero,1131035,20,M,True,0,21,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Rafael Profini,1515401,24,M,True,0,22,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
-Gonzalo Javier Morales,1410399,9,F,True,0,23,,,SUS,Away,Unión de Santa Fé,5-3-2,5,3,2,,,
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Away,Unión de Santa Fe,5-3-2,5,3,2,11.861111111111,44.130555555556,36.0
+Lautaro Vargas,1485084,35,D,False,70,2,def,1/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,51.687931034483,15.353448275862,58.0
+Nicolás Paz,1189173,32,D,False,56,3,def,2/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,36.958620689655,27.506896551724,29.0
+Franco Pardo,879962,34,D,False,90,4,def,3/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,35.022988505747,39.968965517241,87.0
+Claudio Corvalán,249383,3,D,False,90,5,def,4/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,44.092857142857,75.861224489796,98.0
+Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
+Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
+Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
+Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
+Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
+Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
+Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
+Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
+Bruno Pittón,800246,14,D,False,90,6,def,5/5,DEF,Away,Unión de Santa Fe,5-3-2,5,3,2,60.42183908046,88.35632183908,87.0
+Mauro Pittón,796958,28,M,False,86,7,mid_1,1/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,56.002127659574,50.478723404255,47.0
+Joaquin Mosqueira,1464852,5,M,False,56,8,mid_1,2/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,47.75,54.791176470588,34.0
+Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Away,Unión de Santa Fe,5-3-2,5,3,2,57.158227848101,66.849367088608,79.0
+Nicolás Orsini,347744,33,F,False,90,10,ata,1/2,ATA,Away,Unión de Santa Fe,5-3-2,5,3,2,65.286842105263,53.428947368421,38.0
+Adrián Balboa,368422,77,F,False,90,11,ata,2/2,ATA,Away,Unión de Santa Fe,5-3-2,5,3,2,68.139393939394,64.093939393939,33.0
+Enzo Roldán,1022263,10,M,True,34,12,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,48.717647058824,43.805882352941,34.0
+Lucas Gamba,789445,18,F,True,34,13,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,71.66875,75.7625,16.0
+Federico Vera,981338,16,D,True,20,14,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,31.421212121212,13.827272727273,33.0
+Jeronimo Domina,1200744,30,F,True,8,15,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,41.742857142857,9.1,7.0
+Nicolás Campisi,978370,1,G,True,0,16,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Miguel Torren,76383,2,D,True,0,17,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Valentín Fascendini,1537838,13,D,True,0,18,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Juan Pablo Luduena,1392241,26,D,True,0,19,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Tiago Banega,1016652,19,M,True,0,20,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Simón Rivero,1131035,20,M,True,0,21,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Rafael Profini,1515401,24,M,True,0,22,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
+Gonzalo Javier Morales,1410399,9,F,True,0,23,,,SUS,Away,Unión de Santa Fe,5-3-2,5,3,2,,,
 Sebastián Moyano,147578,25,G,False,90,1,por,1/1,POR,Home,Barracas,4-2-3-1,4,5,1,9.3219512195122,49.521951219512,41.0
 Facundo Mater,896753,33,D,False,90,2,def,1/4,DEF,Home,Barracas,4-2-3-1,4,5,1,43.952475247525,20.309900990099,101.0
 Nicolas Capraro,1190570,2,D,False,90,3,def,2/4,DEF,Home,Barracas,4-2-3-1,4,5,1,30.75,32.716666666667,96.0
@@ -8736,15 +8981,15 @@ Guillermo Pereira,971214,16,M,False,45,7,mid_1,2/4,MED,Away,Dep. Riestra,4-4-2,4
 Pablo Monje,1190295,14,M,False,90,8,mid_1,3/4,MED,Away,Dep. Riestra,4-4-2,4,4,2,48.954166666667,49.527083333333,48.0
 Pedro Ramírez,1065971,5,M,False,77,9,mid_1,4/4,MED,Away,Dep. Riestra,4-4-2,4,4,2,47.271428571429,68.951428571429,35.0
 Gustavo Martin Fernandez,47451,17,F,False,59,10,ata,1/2,ATA,Away,Dep. Riestra,4-4-2,4,4,2,62.108571428571,29.708571428571,35.0
-Gustavo Martin Fernandez,47451,17,F,False,59,10,ata,1/2,ATA,Away,Dep. Riestra,4-4-2,4,4,2,62.108571428571,29.708571428571,35.0
-Gustavo Martin Fernandez,47451,17,F,False,59,10,ata,1/2,ATA,Away,Dep. Riestra,4-4-2,4,4,2,62.108571428571,29.708571428571,35.0
-Gustavo Martin Fernandez,47451,17,F,False,59,10,ata,1/2,ATA,Away,Dep. Riestra,4-4-2,4,4,2,62.108571428571,29.708571428571,35.0
-Gustavo Martin Fernandez,47451,17,F,False,59,10,ata,1/2,ATA,Away,Dep. Riestra,4-4-2,4,4,2,62.108571428571,29.708571428571,35.0
-Gustavo Martin Fernandez,47451,17,F,False,59,10,ata,1/2,ATA,Away,Dep. Riestra,4-4-2,4,4,2,62.108571428571,29.708571428571,35.0
-Gustavo Martin Fernandez,47451,17,F,False,59,10,ata,1/2,ATA,Away,Dep. Riestra,4-4-2,4,4,2,62.108571428571,29.708571428571,35.0
-Gustavo Martin Fernandez,47451,17,F,False,59,10,ata,1/2,ATA,Away,Dep. Riestra,4-4-2,4,4,2,62.108571428571,29.708571428571,35.0
 Jonathan Herrera,873763,9,F,False,90,11,ata,2/2,ATA,Away,Dep. Riestra,4-4-2,4,4,2,68.396551724138,43.341379310345,29.0
 Máximiliano Rodríguez,992107,29,D,True,45,12,,,SUS,Away,Dep. Riestra,4-4-2,4,4,2,65.561290322581,38.306451612903,31.0
+Milton Celiz,275789,8,F,True,45,13,,,SUS,Away,Dep. Riestra,4-4-2,4,4,2,59.347727272727,54.040909090909,44.0
+Milton Celiz,275789,8,F,True,45,13,,,SUS,Away,Dep. Riestra,4-4-2,4,4,2,59.347727272727,54.040909090909,44.0
+Milton Celiz,275789,8,F,True,45,13,,,SUS,Away,Dep. Riestra,4-4-2,4,4,2,59.347727272727,54.040909090909,44.0
+Milton Celiz,275789,8,F,True,45,13,,,SUS,Away,Dep. Riestra,4-4-2,4,4,2,59.347727272727,54.040909090909,44.0
+Milton Celiz,275789,8,F,True,45,13,,,SUS,Away,Dep. Riestra,4-4-2,4,4,2,59.347727272727,54.040909090909,44.0
+Milton Celiz,275789,8,F,True,45,13,,,SUS,Away,Dep. Riestra,4-4-2,4,4,2,59.347727272727,54.040909090909,44.0
+Milton Celiz,275789,8,F,True,45,13,,,SUS,Away,Dep. Riestra,4-4-2,4,4,2,59.347727272727,54.040909090909,44.0
 Milton Celiz,275789,8,F,True,45,13,,,SUS,Away,Dep. Riestra,4-4-2,4,4,2,59.347727272727,54.040909090909,44.0
 Walter Ruben Acuna,341091,11,F,True,31,14,,,SUS,Away,Dep. Riestra,4-4-2,4,4,2,67.65,57.1625,32.0
 Delfor Minervino,950814,36,D,True,13,15,,,SUS,Away,Dep. Riestra,4-4-2,4,4,2,35.784615384615,25.7,13.0
@@ -9780,32 +10025,32 @@ Ignacio Méndez,881170,21,M,True,0,19,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,
 Santiago Cáseres,856132,35,M,True,0,21,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,,,
 Thiago Vecino,923802,18,F,True,0,22,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,,,
 Lenny Lobato,1104316,14,F,True,0,23,,,SUS,Away,Vélez Sarsfield,4-2-3-1,4,5,1,,,
-Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fé,5-3-2,5,3,2,11.930303030303,45.827272727273,33.0
-Lautaro Vargas,1485084,35,D,False,82,2,def,1/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,55.286956521739,12.636231884058,69.0
-Nicolás Paz,1189173,32,D,False,73,3,def,2/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,43.516901408451,22.407042253521,71.0
-Franco Pardo,879962,34,D,False,90,4,def,3/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,34.341758241758,47.735164835165,91.0
-Claudio Corvalán,249383,3,D,False,90,5,def,4/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,38.898780487805,74.820731707317,82.0
-Bruno Pittón,800246,14,D,False,81,6,def,5/5,DEF,Home,Unión de Santa Fé,5-3-2,5,3,2,65.775609756098,78.990243902439,41.0
-Simón Rivero,1131035,20,M,False,70,7,mid_1,1/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,60.742647058824,29.219117647059,68.0
-Mauro Pittón,796958,28,M,False,90,8,mid_1,2/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,50.36404494382,48.434831460674,89.0
-Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,57.287755102041,65.839795918367,98.0
-Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,57.287755102041,65.839795918367,98.0
-Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,57.287755102041,65.839795918367,98.0
-Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,57.287755102041,65.839795918367,98.0
-Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,57.287755102041,65.839795918367,98.0
-Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fé,5-3-2,5,3,2,57.287755102041,65.839795918367,98.0
-Nicolás Orsini,347744,33,F,False,90,10,ata,1/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,68.131147540984,50.132786885246,61.0
-Adrián Balboa,368422,77,F,False,82,11,ata,2/2,ATA,Home,Unión de Santa Fé,5-3-2,5,3,2,64.53125,45.715625,32.0
-Jeronimo Domina,1200744,30,F,True,20,12,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,64.836,36.932,25.0
-Lucas Gamba,789445,18,F,True,17,13,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,68.8875,71.81875,16.0
-Valentín Fascendini,1537838,13,D,True,9,14,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,56.3625,85.75,8.0
-Tiago Banega,1016652,19,M,True,8,15,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,59.125,18.475,4.0
-Gonzalo Javier Morales,1410399,9,F,True,8,16,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,51.15,17.25,2.0
-Nicolás Campisi,978370,1,G,True,0,17,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Miguel Torren,76383,2,D,True,0,18,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Juan Pablo Luduena,1392241,26,D,True,0,19,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Rafael Profini,1515401,24,M,True,0,20,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
-Francisco Pumpido,1861054,36,M,True,0,21,,,SUS,Home,Unión de Santa Fé,5-3-2,5,3,2,,,
+Thiago Cardozo,358618,25,G,False,90,1,por,1/1,POR,Home,Unión de Santa Fe,5-3-2,5,3,2,11.930303030303,45.827272727273,33.0
+Lautaro Vargas,1485084,35,D,False,82,2,def,1/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,55.286956521739,12.636231884058,69.0
+Nicolás Paz,1189173,32,D,False,73,3,def,2/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,43.516901408451,22.407042253521,71.0
+Franco Pardo,879962,34,D,False,90,4,def,3/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,34.341758241758,47.735164835165,91.0
+Claudio Corvalán,249383,3,D,False,90,5,def,4/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,38.898780487805,74.820731707317,82.0
+Bruno Pittón,800246,14,D,False,81,6,def,5/5,DEF,Home,Unión de Santa Fe,5-3-2,5,3,2,65.775609756098,78.990243902439,41.0
+Simón Rivero,1131035,20,M,False,70,7,mid_1,1/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,60.742647058824,29.219117647059,68.0
+Mauro Pittón,796958,28,M,False,90,8,mid_1,2/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,50.36404494382,48.434831460674,89.0
+Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,57.287755102041,65.839795918367,98.0
+Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,57.287755102041,65.839795918367,98.0
+Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,57.287755102041,65.839795918367,98.0
+Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,57.287755102041,65.839795918367,98.0
+Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,57.287755102041,65.839795918367,98.0
+Mauro Luna Diale,871804,7,M,False,90,9,mid_1,3/3,MED,Home,Unión de Santa Fe,5-3-2,5,3,2,57.287755102041,65.839795918367,98.0
+Nicolás Orsini,347744,33,F,False,90,10,ata,1/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,68.131147540984,50.132786885246,61.0
+Adrián Balboa,368422,77,F,False,82,11,ata,2/2,ATA,Home,Unión de Santa Fe,5-3-2,5,3,2,64.53125,45.715625,32.0
+Jeronimo Domina,1200744,30,F,True,20,12,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,64.836,36.932,25.0
+Lucas Gamba,789445,18,F,True,17,13,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,68.8875,71.81875,16.0
+Valentín Fascendini,1537838,13,D,True,9,14,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,56.3625,85.75,8.0
+Tiago Banega,1016652,19,M,True,8,15,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,59.125,18.475,4.0
+Gonzalo Javier Morales,1410399,9,F,True,8,16,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,51.15,17.25,2.0
+Nicolás Campisi,978370,1,G,True,0,17,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Miguel Torren,76383,2,D,True,0,18,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Juan Pablo Luduena,1392241,26,D,True,0,19,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Rafael Profini,1515401,24,M,True,0,20,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
+Francisco Pumpido,1861054,36,M,True,0,21,,,SUS,Home,Unión de Santa Fe,5-3-2,5,3,2,,,
 Facundo Sanguinetti,1086977,12,G,False,90,1,por,1/1,POR,Away,Banfield,4-2-3-1,4,5,1,8.2488888888889,50.988888888889,45.0
 Ezequiel Bonifacio,583978,19,D,False,90,2,def,1/4,DEF,Away,Banfield,4-2-3-1,4,5,1,39.786206896552,20.78275862069,58.0
 Alejandro Maciel,895336,4,D,False,90,3,def,2/4,DEF,Away,Banfield,4-2-3-1,4,5,1,27.367272727273,37.990909090909,55.0

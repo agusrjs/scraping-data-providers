@@ -8,7 +8,7 @@ event_id,team,team_id,score_for,score_against,win,draw,loose,local
 11937265,Instituto,4937,4,1,True,False,False,Home
 11937265,Def y Justicia,36839,1,4,False,False,True,Away
 11937275,Tigre,7628,5,1,True,False,False,Home
-11937275,Unión de Santa Fé,3204,1,5,False,False,True,Away
+11937275,Unión de Santa Fe,3204,1,5,False,False,True,Away
 11937277,Lanús,3218,1,1,False,True,False,Home
 11937277,Godoy Cruz,6074,1,1,False,True,False,Away
 11937268,San Lorenzo,3201,2,0,True,False,False,Home
@@ -17,6 +17,14 @@ event_id,team,team_id,score_for,score_against,win,draw,loose,local
 11937271,Independiente,3209,0,0,False,True,False,Away
 11937272,River,3211,0,0,False,True,False,Home
 11937272,Newell's,3212,0,0,False,True,False,Away
+11937266,Barracas,65668,0,5,False,False,True,Home
+11937266,Vélez Sarsfield,3208,5,0,True,False,False,Away
+11937264,Central Córdoba,65676,0,0,False,True,False,Home
+11937264,Banfield,3219,0,0,False,True,False,Away
+11937273,Belgrano,3203,0,1,False,False,True,Home
+11937273,Gimnasia,3205,1,0,True,False,False,Away
+11937270,Rosario Central,3217,1,0,True,False,False,Home
+11937270,Atlético Tucumán,36833,0,1,False,False,True,Away
 11937261,Platense,36837,0,0,False,True,False,Home
 11937261,Barracas,65668,0,0,False,True,False,Away
 11937256,Newell's,3212,0,1,False,False,True,Home
@@ -39,7 +47,7 @@ event_id,team,team_id,score_for,score_against,win,draw,loose,local
 11937252,Tigre,7628,0,0,False,True,False,Away
 11937254,Huracán,7629,1,0,True,False,False,Home
 11937254,Belgrano,3203,0,1,False,False,True,Away
-11937253,Unión de Santa Fé,3204,3,0,True,False,False,Home
+11937253,Unión de Santa Fe,3204,3,0,True,False,False,Home
 11937253,Argentinos Jrs.,3216,0,3,False,False,True,Away
 11937251,Godoy Cruz,6074,4,1,True,False,False,Home
 11937251,Dep. Riestra,189723,1,4,False,False,True,Away
@@ -52,7 +60,7 @@ event_id,team,team_id,score_for,score_against,win,draw,loose,local
 11937239,Barracas,65668,1,1,False,True,False,Home
 11937239,Talleres,3210,1,1,False,True,False,Away
 11937246,Belgrano,3203,1,1,False,True,False,Home
-11937246,Unión de Santa Fé,3204,1,1,False,True,False,Away
+11937246,Unión de Santa Fe,3204,1,1,False,True,False,Away
 11937244,Racing,3215,0,1,False,False,True,Home
 11937244,Gimnasia,3205,1,0,True,False,False,Away
 11937241,San Lorenzo,3201,0,1,False,False,True,Home
@@ -85,7 +93,7 @@ event_id,team,team_id,score_for,score_against,win,draw,loose,local
 11937230,San Lorenzo,3201,0,0,False,True,False,Away
 11937227,Huracán,7629,0,0,False,True,False,Home
 11937227,Racing,3215,0,0,False,True,False,Away
-11937226,Unión de Santa Fé,3204,0,0,False,True,False,Home
+11937226,Unión de Santa Fe,3204,0,0,False,True,False,Home
 11937226,River,3211,0,0,False,True,False,Away
 11937225,Sarmiento,42338,0,0,False,True,False,Home
 11937225,Belgrano,3203,0,0,False,True,False,Away
@@ -112,7 +120,7 @@ event_id,team,team_id,score_for,score_against,win,draw,loose,local
 11937215,Estudiantes,3206,4,1,True,False,False,Home
 11937215,Gimnasia,3205,1,4,False,False,True,Away
 11937217,Racing,3215,2,1,True,False,False,Home
-11937217,Unión de Santa Fé,3204,1,2,False,False,True,Away
+11937217,Unión de Santa Fe,3204,1,2,False,False,True,Away
 11937218,River,3211,1,0,True,False,False,Home
 11937218,Sarmiento,42338,0,1,False,False,True,Away
 11937211,Instituto,4937,0,0,False,True,False,Home
@@ -153,7 +161,7 @@ event_id,team,team_id,score_for,score_against,win,draw,loose,local
 11937204,Instituto,4937,0,1,False,False,True,Away
 11937194,Tigre,7628,1,1,False,True,False,Home
 11937194,Central Córdoba,65676,1,1,False,True,False,Away
-11937199,Unión de Santa Fé,3204,1,0,True,False,False,Home
+11937199,Unión de Santa Fe,3204,1,0,True,False,False,Home
 11937199,Rosario Central,3217,0,1,False,False,True,Away
 11937205,Boca Juniors,3202,3,0,True,False,False,Home
 11937205,Banfield,3219,0,3,False,False,True,Away
@@ -180,7 +188,7 @@ event_id,team,team_id,score_for,score_against,win,draw,loose,local
 11937180,Central Córdoba,65676,0,2,False,False,True,Home
 11937180,Platense,36837,2,0,True,False,False,Away
 11937188,Estudiantes,3206,0,0,False,True,False,Home
-11937188,Unión de Santa Fé,3204,0,0,False,True,False,Away
+11937188,Unión de Santa Fe,3204,0,0,False,True,False,Away
 11937182,Def y Justicia,36839,2,2,False,True,False,Home
 11937182,Boca Juniors,3202,2,2,False,True,False,Away
 11937181,Vélez Sarsfield,3208,3,0,True,False,False,Home
@@ -207,7 +215,7 @@ event_id,team,team_id,score_for,score_against,win,draw,loose,local
 11937178,Vélez Sarsfield,3208,0,1,False,False,True,Away
 11937179,Talleres,3210,2,1,True,False,False,Home
 11937179,Platense,36837,1,2,False,False,True,Away
-11937172,Unión de Santa Fé,3204,2,1,True,False,False,Home
+11937172,Unión de Santa Fe,3204,2,1,True,False,False,Home
 11937172,San Lorenzo,3201,1,2,False,False,True,Away
 11937173,Huracán,7629,1,0,True,False,False,Home
 11937173,Ind. Rivadavia,36842,0,1,False,False,True,Away
@@ -240,7 +248,7 @@ event_id,team,team_id,score_for,score_against,win,draw,loose,local
 11937156,Banfield,3219,2,0,True,False,False,Home
 11937156,Newell's,3212,0,2,False,False,True,Away
 11937159,Ind. Rivadavia,36842,0,1,False,False,True,Home
-11937159,Unión de Santa Fé,3204,1,0,True,False,False,Away
+11937159,Unión de Santa Fe,3204,1,0,True,False,False,Away
 11937141,Dep. Riestra,189723,0,2,False,False,True,Home
 11937141,Rosario Central,3217,2,0,True,False,False,Away
 11937140,Tigre,7628,0,4,False,False,True,Home
@@ -263,7 +271,7 @@ event_id,team,team_id,score_for,score_against,win,draw,loose,local
 11937147,Banfield,3219,0,3,False,False,True,Away
 11937149,Independiente,3209,1,1,False,True,False,Home
 11937149,Vélez Sarsfield,3208,1,1,False,True,False,Away
-11937145,Unión de Santa Fé,3204,2,0,True,False,False,Home
+11937145,Unión de Santa Fe,3204,2,0,True,False,False,Home
 11937145,Barracas,65668,0,2,False,False,True,Away
 11937150,Atlético Tucumán,36833,1,1,False,True,False,Home
 11937150,Platense,36837,1,1,False,True,False,Away
@@ -274,7 +282,7 @@ event_id,team,team_id,score_for,score_against,win,draw,loose,local
 11937128,Def y Justicia,36839,1,1,False,True,False,Home
 11937128,Gimnasia,3205,1,1,False,True,False,Away
 11937130,Instituto,4937,1,1,False,True,False,Home
-11937130,Unión de Santa Fé,3204,1,1,False,True,False,Away
+11937130,Unión de Santa Fe,3204,1,1,False,True,False,Away
 11937131,Barracas,65668,1,1,False,True,False,Home
 11937131,Sarmiento,42338,1,1,False,True,False,Away
 11937126,Platense,36837,0,0,False,True,False,Home
@@ -321,5 +329,5 @@ event_id,team,team_id,score_for,score_against,win,draw,loose,local
 11937123,Boca Juniors,3202,0,1,False,False,True,Away
 11937120,Gimnasia,3205,3,1,True,False,False,Home
 11937120,Vélez Sarsfield,3208,1,3,False,False,True,Away
-11937118,Unión de Santa Fé,3204,1,0,True,False,False,Home
+11937118,Unión de Santa Fe,3204,1,0,True,False,False,Home
 11937118,Banfield,3219,0,1,False,False,True,Away

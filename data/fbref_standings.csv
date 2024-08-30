@@ -1,0 +1,29 @@
+RL,team,PJ,PG,PE,PP,GF,GC,DG,Pts,Pts/PJ,xG,xGA,xGD,xGD/90,Últimos 5,Asistencia,Máximo Goleador del Equipo,Portero,Notas,league,season,country
+1,Vélez Sarsfield,12,7,3,2,22,8,14,24,2.0,15.8,11.4,4.4,0.37,PG PG PE PG PG,,Claudio Aquino - 7,Tomás Marchiori,,Liga Profesional,2024,Argentina
+2,Huracán,12,6,6,0,12,4,8,24,2.0,12.3,10.2,2.1,0.18,PG PE PE PG PE,,Ignacio Pussetto - 5,Hernán Galíndez,,Liga Profesional,2024,Argentina
+3,Atlé Tucumán,12,6,4,2,13,8,5,22,1.83,15.5,10.1,5.3,0.44,PG PG PG PG PP,,"Renzo Tesuri, Mateo Coronel... - 3",Tomás Durso,,Liga Profesional,2024,Argentina
+4,Unión,12,6,4,2,14,10,4,22,1.83,14.3,9.8,4.5,0.37,PG PE PE PG PP,,"Nicolás Orsini, Adrián Balboa - 3",Thiago Cardozo,,Liga Profesional,2024,Argentina
+5,Racing Club,12,6,3,3,18,9,9,21,1.75,16.9,9.3,7.7,0.64,PG PE PP PG PE,,Roger Martínez - 4,Gabriel Arias,,Liga Profesional,2024,Argentina
+6,Instituto,12,6,3,3,17,9,8,21,1.75,11.5,10.4,1.0,0.09,PE PE PG PP PG,,Santiago Rodriguez - 5,Manuel Roffo,,Liga Profesional,2024,Argentina
+7,Talleres,12,5,5,2,17,14,3,20,1.67,12.5,9.0,3.5,0.29,PE PE PE PG PP,,Bruno Barticciotto - 6,Guido Herrera,,Liga Profesional,2024,Argentina
+8,Boca Juniors,12,4,6,2,16,11,5,18,1.5,13.3,15.9,-2.6,-0.22,PG PE PE PG PE,,Miguel Merentiel - 5,Sergio Romero,,Liga Profesional,2024,Argentina
+9,Rosario Central,12,5,3,4,14,11,3,18,1.5,11.6,10.9,0.7,0.06,PP PG PG PP PG,,Agustín Módica - 3,Jorge Broun,,Liga Profesional,2024,Argentina
+10,Deportivo Riestra,12,6,0,6,14,15,-1,18,1.5,14.7,13.5,1.1,0.1,PP PG PG PP PG,,Jonathan Herrera - 5,Ignacio Arce,,Liga Profesional,2024,Argentina
+11,River Plate,12,4,5,3,15,10,5,17,1.42,17.7,10.6,7.1,0.59,PG PE PE PE PE,,Miguel Borja - 6,Franco Armani,,Liga Profesional,2024,Argentina
+12,Gimnasia–LP,12,5,2,5,14,13,1,17,1.42,14.6,13.7,0.9,0.08,PP PP PG PE PG,,Rodrigo Castillo - 4,Nelson Insfrán,,Liga Profesional,2024,Argentina
+13,Lanús,12,4,5,3,17,18,-1,17,1.42,12.4,15.9,-3.5,-0.29,PP PG PP PE PE,,Walter Bou - 5,Alan Aguerre,,Liga Profesional,2024,Argentina
+14,Estudiantes,12,4,4,4,14,12,2,16,1.33,13.2,11.8,1.4,0.12,PG PG PP PP PE,,Guido Carrillo - 4,Matías Mansilla,,Liga Profesional,2024,Argentina
+15,Godoy Cruz,11,4,4,3,12,10,2,16,1.45,14.5,11.8,2.7,0.25,PP PG PG PG PE,,"Vicente Poggi, Salomón Rodríguez - 3",Franco Petroli,,Liga Profesional,2024,Argentina
+16,Belgrano,12,4,4,4,14,16,-2,16,1.33,12.1,13.1,-0.9,-0.08,PG PE PE PP PP,,Franco Jara - 5,"Nahuel Losada, Ignacio Chicco",,Liga Profesional,2024,Argentina
+17,Platense,12,4,3,5,10,11,-1,15,1.25,11.9,9.5,2.4,0.2,PG PP PP PE PG,,Mateo Pellegrino - 5,Juan Cozzani,,Liga Profesional,2024,Argentina
+18,Independiente Rivadavia,12,4,3,5,8,9,-1,15,1.25,9.3,10.4,-1.2,-0.1,PG PP PE PP PP,,"Gastón Gil Romero, Sebastián Villa... - 1",Ezequiel Centurión,,Liga Profesional,2024,Argentina
+19,Independiente,12,3,6,3,8,9,-1,15,1.25,7.7,11.5,-3.8,-0.32,PP PE PG PG PE,,Gabriel Ávalos - 3,Rodrigo Rey,,Liga Profesional,2024,Argentina
+20,Arg Juniors,12,4,2,6,8,15,-7,14,1.17,9.7,9.4,0.3,0.02,PG PP PE PP PE,,Alan Lescano - 2,Diego Matías Rodríguez,,Liga Profesional,2024,Argentina
+21,Sarmiento,12,3,4,5,9,11,-2,13,1.08,10.5,13.8,-3.3,-0.27,PP PE PE PE PP,,"Joaquín Gho, Manuel García - 2",Lucas Acosta,,Liga Profesional,2024,Argentina
+22,Tigre,12,3,4,5,15,18,-3,13,1.08,11.5,16.3,-4.8,-0.4,PG PP PP PE PG,,Florián Monzón - 4,Felipe Zenobio,,Liga Profesional,2024,Argentina
+23,Newell's OB,12,3,3,6,6,12,-6,12,1.0,11.2,11.7,-0.5,-0.04,PE PP PP PP PE,,"Juan Ignacio Ramírez, Jerónimo Cacciabue... - 1",Lucas Hoyos,,Liga Profesional,2024,Argentina
+24,Banfield,12,2,5,5,9,15,-6,11,0.92,13.1,17.2,-4.1,-0.34,PP PG PE PP PE,,Milton Giménez - 4,Facundo Sanguinetti,,Liga Profesional,2024,Argentina
+25,San Lorenzo,11,2,4,5,9,11,-2,10,0.91,10.7,8.9,1.8,0.16,PE PE PP PP PG,,Alexis Cuello - 2,Facundo Altamirano,,Liga Profesional,2024,Argentina
+26,Defensa y Just,12,1,5,6,9,21,-12,8,0.67,12.2,16.9,-4.6,-0.39,PP PP PP PG PP,,Aaron Nicolás Molinas - 3,Cristopher Fiermarin,,Liga Profesional,2024,Argentina
+27,Barracas Central,12,1,5,6,5,17,-12,8,0.67,8.1,21.2,-13.2,-1.1,PP PE PE PE PP,,"Jhonatan Candia, Alexis Dominguez... - 1",Sebastián Moyano,,Liga Profesional,2024,Argentina
+28,Cen. Córdoba–SdE,12,1,3,8,10,22,-12,6,0.5,11.2,15.7,-4.4,-0.37,PP PP PG PE PE,,Tomás Molina - 3,Luis Ingolotti,,Liga Profesional,2024,Argentina

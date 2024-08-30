@@ -1,0 +1,33 @@
+name,firstName,lastName,slug,shortName,position,jerseyNumber,userCount,id,averageX,averageY,pointsCount,team,match,league,season
+Lucas Rodríguez,,,lucas-rodriguez,L. Rodríguez,D,18,22,146982,43.289795918367,86.39387755102,49,Instituto De Córdoba,11937238,Argentina Liga Profesional,2024
+Santiago Rodríguez,,,santiago-rodriguez,S. Rodríguez,F,11,207,897000,73.093333333333,35.976666666667,30,Instituto De Córdoba,11937238,Argentina Liga Profesional,2024
+Damián Puebla,Damián Puebla,,damian-puebla,D. Puebla,M,22,151,1466522,61.082222222222,67.504444444444,45,Instituto De Córdoba,11937238,Argentina Liga Profesional,2024
+Ignacio Russo,Ignacio Russo,,ignacio-russo,I. Russo,F,29,118,1087005,67.397368421053,50.713157894737,38,Instituto De Córdoba,11937238,Argentina Liga Profesional,2024
+Facundo Suárez,,,facundo-suarez,F. Suárez,F,9,193,992068,56.808333333333,54.783333333333,12,Instituto De Córdoba,11937238,Argentina Liga Profesional,2024
+Gregorio Rodriguez,,,rodriguez-gregorio,G. Rodríguez,F,7,33,1018414,66.52,33.72,5,Instituto De Córdoba,11937238,Argentina Liga Profesional,2024
+Rodrigo Perez,,,perez-rodrigo,R. Perez,M,13,43,1177546,51.216666666667,30.508333333333,12,Instituto De Córdoba,11937238,Argentina Liga Profesional,2024
+Jonas Acevedo,,,jonas-acevedo,J. Acevedo,M,8,40,875895,65.693333333333,22.006666666667,45,Instituto De Córdoba,11937238,Argentina Liga Profesional,2024
+Stefano Moreyra,Stefano Moreyra,,stefano-moreyra,S. Moreyra,M,34,27,1086973,42.769090909091,46.443636363636,55,Instituto De Córdoba,11937238,Argentina Liga Profesional,2024
+Jonathan Bay,,,jonathan-bay,J. Bay,D,12,31,789358,38.528571428571,95.685714285714,7,Instituto De Córdoba,11937238,Argentina Liga Profesional,2024
+Miguel Brizuela,,,miguel-brizuela,M. M. Brizuela,D,33,42,990283,42.9,96.8,2,Instituto De Córdoba,11937238,Argentina Liga Profesional,2024
+Manuel Roffo,,,manuel-roffo,M. Roffo,G,28,134,881166,12.365217391304,47.20652173913,46,Instituto De Córdoba,11937238,Argentina Liga Profesional,2024
+Fernando Alarcón,,,fernando-alarcon,F. Alarcón,D,6,43,797020,34.76,64.8825,80,Instituto De Córdoba,11937238,Argentina Liga Profesional,2024
+Gonzalo Requena,Gonzalo Requena,,requena-gonzalo,G. Requena,D,31,22,1479428,32.114285714286,29.215476190476,84,Instituto De Córdoba,11937238,Argentina Liga Profesional,2024
+Gastón Lódico,,,gaston-lodico,G. Lódico,M,19,230,922460,52.369072164948,51.162886597938,97,Instituto De Córdoba,11937238,Argentina Liga Profesional,2024
+Juan Franco,,,juan-franco,J. Franco,D,2,50,926812,47.02676056338,15.415492957746,71,Instituto De Córdoba,11937238,Argentina Liga Profesional,2024
+Juan Cozzani,,,juan-cozzani,J. Cozzani,G,31,25,874969,10.19512195122,52.30243902439,41,Platense,11937238,Argentina Liga Profesional,2024
+Sasha Marcich,,,sasha-marcich,S. Marcich,D,18,54,992126,41.612,83.894,50,Platense,11937238,Argentina Liga Profesional,2024
+Gastón Suso,,,gaston-suso,G. Suso,D,6,36,850925,36.651428571429,62.462857142857,35,Platense,11937238,Argentina Liga Profesional,2024
+Carlos Villalba,,,carlos-villalba,C. Villalba,M,5,46,975704,39.707142857143,53.995238095238,42,Platense,11937238,Argentina Liga Profesional,2024
+Bautista Barros Schelotto,Bautista Barros Schelotto,,bautista-barros-schelotto,B. B. Schelotto,D,4,30,1085929,44.277142857143,12.688571428571,35,Platense,11937238,Argentina Liga Profesional,2024
+Franco Minerva,Franco Minerva,,franco-minerva,F. Minerva,M,29,37,1650800,60.270731707317,86.475609756098,41,Platense,11937238,Argentina Liga Profesional,2024
+Fernando Juárez,,,fernando-juarez,F. Juárez,M,8,28,851585,48.231111111111,39.197777777778,45,Platense,11937238,Argentina Liga Profesional,2024
+Ivan Gómez,,,ivan-gomez,I. Gómez,M,21,70,849136,58.348717948718,62.989743589744,39,Platense,11937238,Argentina Liga Profesional,2024
+Augusto Lotti,,,augusto-lotti,A. Lotti,F,33,83,824456,52.918181818182,74.954545454545,11,Platense,11937238,Argentina Liga Profesional,2024
+Braian Rivero,,,braian-rivero,B. Rivero,M,23,27,817519,48.2,40.022222222222,9,Platense,11937238,Argentina Liga Profesional,2024
+Agustín Ocampo,,,agustin-ocampo,A. Ocampo,M,10,94,936244,50.555555555556,75.077777777778,9,Platense,11937238,Argentina Liga Profesional,2024
+Ronaldo Martinez,,,ronaldo-martinez,R. Martinez,F,77,154,874452,69.133333333333,62.6,3,Platense,11937238,Argentina Liga Profesional,2024
+Gabriel Hachen,,,gabriel-hachen,G. Hachen,M,20,28,250015,50.16,32.32,5,Platense,11937238,Argentina Liga Profesional,2024
+Guido Mainero,,,guido-mainero,G. Mainero,M,7,30,895232,59.987804878049,25.770731707317,41,Platense,11937238,Argentina Liga Profesional,2024
+Mateo Pellegrino,,,pellegrino-mateo,M. Pellegrino,F,9,336,1099296,66.26875,50.202083333333,48,Platense,11937238,Argentina Liga Profesional,2024
+Ignacio Vazquez,,,ignacio-vazquez,I. Vazquez,D,13,41,883922,33.266666666667,39.392063492064,63,Platense,11937238,Argentina Liga Profesional,2024

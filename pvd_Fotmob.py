@@ -68,7 +68,7 @@ def get_teams_from_league(league_url, delay=5):
     # Export to CSV
     os.makedirs('data', exist_ok=True)
     teams_df = pd.DataFrame(teams_dic)
-    teams_df.to_csv('fotmob_teams.csv', index=False, encoding='utf-8')
+    teams_df.to_csv('data/fotmob_teams.csv', index=False, encoding='utf-8')
 
     return teams_dic
 
@@ -173,11 +173,15 @@ def get_shotmap_from_players(players, delay=5):
             df['season'] = player['season']
             df['team'] = player['team']
 
+            # Clean DataFrame
+            df.drop(columns=['onGoalShot'], inplace=True)
+            df.drop_duplicates(inplace=True)
+
             # Append DataFrame to the list
             dfs.append(df)
         
-        except Exception as e:
-            print(f"Error processing player {player['link']}: {e}")
+        except:
+            continue
     
     # Export all DataFrames to a CSV file
     os.makedirs('data', exist_ok=True)  # Create the 'data' directory if it doesn't exist
@@ -228,12 +232,9 @@ def get_positions_from_players(players, delay=5):
                         'main': main
                     }
                     dfs.append(position_dict)
-            else:
-                print(f"No positions found for player {player_name} with id {player_id}")
 
-        except Exception as e:
-            print(f"Error processing player {player_link} with id {player_id}: {e}")
-            print(f"Response data: {data}")
+        except:
+            continue
 
     # Export all DataFrames to a CSV file
     os.makedirs('data', exist_ok=True)  # Create the 'data' directory if it doesn't exist

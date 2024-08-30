@@ -6,7 +6,7 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 from datetime import datetime
-
+from io import StringIO
 
 # Main functions
 
@@ -299,7 +299,7 @@ def get_squads_from_teams(teams, delay=10):
             df['Edad'] = pd.to_numeric(df['Edad'], errors='coerce')
 
             # Drop rows with NaN values in the 'Edad' column
-            squad_df = df.dropna(subset=['Edad'])
+            squad_df = df.dropna(subset=['Edad']).copy()
 
             # Extract the last 3 characters from the 'País' column to get the country code
             squad_df['País'] = squad_df['País'].apply(lambda x: str(x)[-3:])
@@ -322,3 +322,67 @@ def get_squads_from_teams(teams, delay=10):
     squads_df.to_csv('data/fbref_squads.csv', index=False, encoding='utf-8')
 
     return squads_df
+
+
+def get_percentile_from_players(players, delay=10, language='ES'):
+    """
+    Retrieves percentile statistics for a list of players and exports the data to a CSV file.
+
+    Args:
+        players (list of dict): A list of dictionaries containing player information with keys such as 'player', 'id', and 'link'.
+        delay (int): The delay in seconds between requests to avoid overloading the server.
+        language (str): The language for the percentile category labels ('ES' for Spanish, English in any other case).
+
+    Returns:
+        pd.DataFrame: A DataFrame containing the combined percentile data for all players.
+    """
+    dfs = []
+
+    for player in players:
+        time.sleep(delay)  # Respect delay between requests
+
+        try:
+            # Retrieve the content of the player's page
+            response = requests.get(player['link'])
+            soup = BeautifulSoup(response.content, 'html.parser')
+
+            # Find the table with an id that starts with 'scout_summary_'
+            table = soup.find('table', id=lambda x: x and x.startswith('scout_summary_'))
+
+            if table:
+                # Read the table into a DataFrame
+                df = pd.read_html(StringIO(str(table)))[0]
+
+                # Determine the bins and labels based on the statistics type
+                if df.loc[0, 'Estadísticas'] == 'PSxG-GA':
+                    bins = [0, 6, 11, 15]
+                    if language == 'ES':
+                        labels = ['Portería', 'Colectiva', 'Defensiva']
+                    else:
+                        labels = ['Keeper', 'Passing', 'Defensive']
+                else:
+                    bins = [0, 7, 15, 21]
+                    if language == 'ES':
+                        labels = ['Ofensiva', 'Colectiva', 'Defensiva']
+                    else:
+                        labels = ['Offensive', 'Passing', 'Defensive']
+
+                # Clean the DataFrame
+                df = df.dropna(how='all')
+                df['player'] = player['player']
+                df['player_id'] = player['id']
+
+                # Create a column with category labels based on the bins
+                df['clase'] = pd.cut(df.index, bins=bins, labels=labels, right=False)
+
+                dfs.append(df)
+            
+        except Exception as e:
+            print(f"Error processing player {player['player']} at {player['link']}: {e}")
+
+    # Export all DataFrames to a CSV file
+    os.makedirs('data', exist_ok=True)  # Create the 'data' directory if it doesn't exist
+    percentiles_df = pd.concat(dfs, ignore_index=True)
+    percentiles_df.to_csv('data/fbref_percentiles.csv', index=False, encoding='utf-8')
+
+    return percentiles_df
