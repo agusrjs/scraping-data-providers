@@ -164,21 +164,24 @@ def get_shotmap_from_players(players, delay=5):
             response.raise_for_status()  # Raise an exception for HTTP errors
             data = response.json()
         
-            # Convert shot map data to DataFrame
-            df = pd.DataFrame(data['shotmap'][0])
-            
-            # Rename columns and add player info
-            df.rename(columns={'playerName': 'player'}, inplace=True)
-            df['league'] = player['league']
-            df['season'] = player['season']
-            df['team'] = player['team']
+            # Convert shot map data to DataFrame           
+            shots = data['shotmap']
 
-            # Clean DataFrame
-            df.drop(columns=['onGoalShot'], inplace=True)
-            df.drop_duplicates(inplace=True)
+            for shot in shots:
+                df = pd.DataFrame(shot)
 
-            # Append DataFrame to the list
-            dfs.append(df)
+                # Rename columns and add player info
+                df.rename(columns={'playerName': 'player'}, inplace=True)
+                df['league'] = player['league']
+                df['season'] = player['season']
+                df['team'] = player['team']
+
+                # Clean DataFrame
+                df.drop(columns=['onGoalShot'], inplace=True)
+                df.drop_duplicates(inplace=True)
+
+                # Append DataFrame to the list
+                dfs.append(df)
         
         except:
             continue
